@@ -100,8 +100,13 @@ def writeGeoJson(entries):
         }
         geoEntries.append(geoEntry)
 
+    geoCollection = {
+        'type': 'FeatureCollection',
+        'features': geoEntries
+    }
+
     outputFile = startFile('local-heroes-leipzig.geojson')
-    json.dump(geoEntries, outputFile)
+    json.dump(geoCollection, outputFile, indent=4)
 
 localHeroes = loadEntriesFromFile('local-heroes.json')
 # localHeroes = loadLocalsFromApi()
