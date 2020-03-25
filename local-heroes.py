@@ -1,6 +1,7 @@
 import urllib.request
 import json
 import time
+import os
 
 GMapsApiKey = ''
 wrapApiKey = ''
@@ -20,7 +21,7 @@ def findLocationGMaps(locationName):
 
             latitute = firstResult['geometry']['location']['lat']
             longitude = firstResult['geometry']['location']['lng']
-            location = [latitute, longitude]
+            location = {'lat': latitute, 'lon': longitude}
 
             print('Found %s.' % location)
 
@@ -44,7 +45,7 @@ def findLocationOSM(locationName):
 
             latitute = firstResult['lat']
             longitude = firstResult['lon']
-            location = [latitute, longitude]
+            location = {'lat': latitute, 'lon': longitude}
 
             print('Found %s.' % location)
 
@@ -54,7 +55,7 @@ def findLocationOSM(locationName):
 
         return location
 
-def loadLocals():
+def loadLocalsFromApi():
     with urllib.request.urlopen(apiUrl) as response:
         content = response.read()
         parsed_json = json.loads(content)
@@ -67,13 +68,44 @@ def loadLocals():
 
             if title not in titles:
                 titles.append(title)
-                entry["cleanTitle"] = title
-                entry["location"] = findLocationGMaps(title + " Leipzig")
+                entry['cleanTitle'] = title
+                entry['location'] = findLocationGMaps(title + ' Leipzig')
                 localHeroes.append(entry)
-                time.sleep(1)
+                # time.sleep(1)
 
-        print(localHeroes)
+        return localHeroes
 
-# loadLocals()
-print(findLocationGMaps('Kleine Leckerei Leipzig'))
-print(findLocationOSM('Kleine Leckerei Leipzig'))
+def loadEntriesFromFile(filePath):
+    fileHandler = open(filePath, "r")
+    return json.load(fileHandler)
+
+def startFile(filePath, binary=False):
+    fileHandler = open(filePath, "wb" if (binary) else "w")
+    return fileHandler
+
+def writeGeoJson(entries):
+    geoEntries = []
+    for entry in entries:
+        location = [entry['location']['lon'], entry['location']['lat']]
+        geoEntry = {
+            'type': 'Feature',
+            'properties': {
+                'name': entry['title'],
+                'url': entry['link']
+            },
+            'geometry': {
+                'type': 'Point',
+                'coordinates': location
+            }
+        }
+        geoEntries.append(geoEntry)
+
+    outputFile = startFile('local-heroes-leipzig.geojson')
+    json.dump(geoEntries, outputFile)
+
+localHeroes = loadEntriesFromFile('local-heroes.json')
+# localHeroes = loadLocalsFromApi()
+writeGeoJson(localHeroes)
+
+# print(findLocationGMaps('Kleine Leckerei Leipzig'))
+# print(findLocationOSM('Kleine Leckerei Leipzig'))
