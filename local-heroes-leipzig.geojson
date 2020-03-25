@@ -5,7 +5,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Altes Papierlager / Seeburgviertel",
-                "url": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/\">http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/</a>",
+                "url": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/",
+                "address": "Goldschmidtstra\u00dfe 31, 04103 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -18,8 +24,40 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Auwaldbar / Zentrum Nord",
+                "description": "<a href=\"https://www.startnext.com/auwaldbar\">https://www.startnext.com/auwaldbar</a>",
+                "url": "https://www.startnext.com/auwaldbar",
+                "address": "Karl-Heine-Stra\u00dfe 87, 04229 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3309559,
+                    51.33045689999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "ANALOG Caf\u00e9 / Volkmarsdorf",
-                "url": "https://www.paypal.com/pools/c/8nBB0NCGhG"
+                "description": "<a href=\"https://www.paypal.com/pools/c/8nBB0NCGhG\">https://www.paypal.com/pools/c/8nBB0NCGhG</a>",
+                "url": "https://www.paypal.com/pools/c/8nBB0NCGhG",
+                "address": "Hedwigstra\u00dfe 20, 04315 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +71,15 @@
             "type": "Feature",
             "properties": {
                 "name": "anja | fe / Connewitz",
-                "url": "http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/\">http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/</a>",
+                "url": "http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/",
+                "address": "Str. am Park 2, 04209 Leipzig, Germany",
+                "tags": [
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +93,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Backstein / Zentrum-S\u00fcd",
-                "url": "http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/\">http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/</a>",
+                "url": "http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/",
+                "address": "Grassistra\u00dfe 4, 04107 Leipzig, Germany",
+                "tags": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +116,17 @@
             "type": "Feature",
             "properties": {
                 "name": "Bazar Manufaktur / Zentrum",
-                "url": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/\">http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/</a>",
+                "url": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/",
+                "address": "Jahnallee 4, 04109 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +140,19 @@
             "type": "Feature",
             "properties": {
                 "name": "Biomare / 3x",
-                "url": "http://local-heroes-leipzig.de/biomare-leipzig/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/biomare-leipzig/\">http://local-heroes-leipzig.de/biomare-leipzig/</a>",
+                "url": "http://local-heroes-leipzig.de/biomare-leipzig/",
+                "address": "Karl-Heine-Stra\u00dfe 43/45, 04229 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "drugstore",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "health",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +166,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Bohemian Kids / Zentrum",
-                "url": "http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/\">http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/</a>",
+                "url": "http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/",
+                "address": "Universit\u00e4tsstra\u00dfe 18, 04109 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +188,13 @@
             "type": "Feature",
             "properties": {
                 "name": "ca\u00e1mate / Alt-West",
-                "url": "https://caamate.de/"
+                "description": "<a href=\"https://caamate.de/\">https://caamate.de/</a>",
+                "url": "https://caamate.de/",
+                "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +208,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Caf\u00e9 Oink / Plagwitz",
-                "url": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/\">http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/</a>",
+                "url": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
+                "address": "Hinterhaus, Lauchst\u00e4dter Str. 15A, 04229 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +231,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Coffee Cloud / Zentrum-Ost",
-                "url": "http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/\">http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/</a>",
+                "url": "http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/",
+                "address": "Sachsenseite 3, 04103 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -144,8 +253,39 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Caf\u00e9 NiMo / Zentrum-S\u00fcd",
+                "description": "<a href=\"https://www.startnext.com/rettet-das-cafe-nimo\">https://www.startnext.com/rettet-das-cafe-nimo</a>",
+                "url": "https://www.startnext.com/rettet-das-cafe-nimo",
+                "address": "August-Bebel-Stra\u00dfe 1, 04275 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3702837,
+                    51.3253297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Einfach Unverpackt / 2x",
-                "url": "http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/\">http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/</a>",
+                "url": "http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/",
+                "address": "Kochstra\u00dfe 6, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +299,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Elsterm\u00fchle / Zentrum-S\u00fcd",
-                "url": "https://www.xn--elstermhle-geb.de/"
+                "description": "<a href=\"https://www.xn--elstermhle-geb.de/\">https://www.xn--elstermhle-geb.de/</a>",
+                "url": "https://www.xn--elstermhle-geb.de/",
+                "address": "K\u00e4the-Kollwitz-Stra\u00dfe 67a, 04109 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +322,17 @@
             "type": "Feature",
             "properties": {
                 "name": "Franz Morish / Zentrum",
-                "url": "https://franzmorish.de/"
+                "description": "<a href=\"https://franzmorish.de/\">https://franzmorish.de/</a>",
+                "url": "https://franzmorish.de/",
+                "address": "Goldschmidtstra\u00dfe 39, 04103 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -187,7 +346,15 @@
             "type": "Feature",
             "properties": {
                 "name": "maza pita / Schleu\u00dfig",
-                "url": "https://mazapita.de/"
+                "description": "<a href=\"https://mazapita.de/\">https://mazapita.de/</a>",
+                "url": "https://mazapita.de/",
+                "address": "K\u00f6nneritzstra\u00dfe 49, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +368,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Nepomuk / Plagwitz",
-                "url": "https://www.paypal.com/pools/c/8ntbE0LPNc"
+                "description": "<a href=\"https://www.paypal.com/pools/c/8ntbE0LPNc\">https://www.paypal.com/pools/c/8ntbE0LPNc</a>",
+                "url": "https://www.paypal.com/pools/c/8ntbE0LPNc",
+                "address": "Zschochersche Str. 57, 04229 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +389,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Oben Auf / Plagwitz",
-                "url": "https://obenauf-kaffee.de/"
+                "description": "<a href=\"https://obenauf-kaffee.de/\">https://obenauf-kaffee.de/</a>",
+                "url": "https://obenauf-kaffee.de/",
+                "address": "Karl-Heine-Stra\u00dfe 57, 04229 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +412,16 @@
             "type": "Feature",
             "properties": {
                 "name": "PEKAR / Lindenau",
-                "url": "http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/\">http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/</a>",
+                "url": "http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/",
+                "address": "Odermannstra\u00dfe 11, 04177 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +435,15 @@
             "type": "Feature",
             "properties": {
                 "name": "#Pfff #Krsch / Lindenau",
-                "url": "https://www.pfff-krsch.de/pfff-krsch-kaufen/"
+                "description": "<a href=\"https://www.pfff-krsch.de/pfff-krsch-kaufen/\">https://www.pfff-krsch.de/pfff-krsch-kaufen/</a>",
+                "url": "https://www.pfff-krsch.de/pfff-krsch-kaufen/",
+                "address": "Wei\u00dfenfelser Str. 63, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "liquor_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +457,18 @@
             "type": "Feature",
             "properties": {
                 "name": "PIVO / Connewitz",
-                "url": "http://local-heroes-leipzig.de/pivo-leipzig-connewitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/pivo-leipzig-connewitz/\">http://local-heroes-leipzig.de/pivo-leipzig-connewitz/</a>",
+                "url": "http://local-heroes-leipzig.de/pivo-leipzig-connewitz/",
+                "address": "Bornaische Str. 11, 04277 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "doctor",
+                    "establishment",
+                    "food",
+                    "health",
+                    "point_of_interest",
+                    "restaurant"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +482,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Renkli / S\u00fcdvorstadt",
-                "url": "https://www.werideleipzig.com/shop"
+                "description": "<a href=\"https://www.werideleipzig.com/shop\">https://www.werideleipzig.com/shop</a>",
+                "url": "https://www.werideleipzig.com/shop",
+                "address": "Karl-Liebknecht-Stra\u00dfe 2, 04107 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +504,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Rimini / Connewitz",
-                "url": "http://local-heroes-leipzig.de/rimini-leipzig-connewitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/rimini-leipzig-connewitz/\">http://local-heroes-leipzig.de/rimini-leipzig-connewitz/</a>",
+                "url": "http://local-heroes-leipzig.de/rimini-leipzig-connewitz/",
+                "address": "Bornaische Str. 13, 04277 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -298,8 +525,61 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "roots Pflanzencaf\u00e9 / Schleu\u00dfig",
+                "description": "<a href=\"https://www.roots-pflanzencafe.de/gutscheine\">https://www.roots-pflanzencafe.de/gutscheine</a>",
+                "url": "https://www.roots-pflanzencafe.de/gutscheine",
+                "address": "K\u00f6nneritzstra\u00dfe 88, 04229 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3416263,
+                    51.3205171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7 shots coffee / Zentrum-S\u00fcd",
+                "description": "<a href=\"http://7shotscoffee.de/\">http://7shotscoffee.de/</a>",
+                "url": "http://7shotscoffee.de/",
+                "address": "Philipp-Rosenthal-Stra\u00dfe 7, 04103 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3839929,
+                    51.3297688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "TONIS / Schleu\u00dfig",
-                "url": "http://local-heroes-leipzig.de/tonis-leipzig/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/tonis-leipzig/\">http://local-heroes-leipzig.de/tonis-leipzig/</a>",
+                "url": "http://local-heroes-leipzig.de/tonis-leipzig/",
+                "address": "Thomaskirchhof 17, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +593,15 @@
             "type": "Feature",
             "properties": {
                 "name": "umaii / Zentrum",
-                "url": "https://www.umaii.de/umaii-corona-service/"
+                "description": "<a href=\"https://www.umaii.de/umaii-corona-service/\">https://www.umaii.de/umaii-corona-service/</a>",
+                "url": "https://www.umaii.de/umaii-corona-service/",
+                "address": "Klostergasse 7-9, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +615,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Vila Hermes / Penig",
-                "url": "https://vilahermes-cafe.jimdofree.com/shop/"
+                "description": "<a href=\"https://vilahermes-cafe.jimdofree.com/shop/\">https://vilahermes-cafe.jimdofree.com/shop/</a>",
+                "url": "https://vilahermes-cafe.jimdofree.com/shop/",
+                "address": "Leipziger Str. 1, 09322 Penig, Germany",
+                "tags": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +638,18 @@
             "type": "Feature",
             "properties": {
                 "name": "Zu Sp\u00e4t / Reudnitz",
-                "url": "http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/\">http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/</a>",
+                "url": "http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/",
+                "address": "Kippenbergstra\u00dfe 28, 04317 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +663,13 @@
             "type": "Feature",
             "properties": {
                 "name": "ALLOY/ Gohlis-S\u00fcd",
-                "url": "http://www.alloy925.de/shop.html"
+                "description": "<a href=\"http://www.alloy925.de/shop.html\">http://www.alloy925.de/shop.html</a>",
+                "url": "http://www.alloy925.de/shop.html",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +683,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Atelier Wolkengold / Mitte",
-                "url": "https://www.atelier-wolkengold.de/"
+                "description": "<a href=\"https://www.atelier-wolkengold.de/\">https://www.atelier-wolkengold.de/</a>",
+                "url": "https://www.atelier-wolkengold.de/",
+                "address": "38, Dufourstra\u00dfe, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +705,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Circuit / Mockau",
-                "url": "https://www.circuit-accessories.de/"
+                "description": "<a href=\"https://www.circuit-accessories.de/\">https://www.circuit-accessories.de/</a>",
+                "url": "https://www.circuit-accessories.de/",
+                "address": "Poststra\u00dfe 7, 04158 Leipzig, Germany",
+                "tags": [
+                    "car_dealer",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +727,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Coqueton / S\u00fcdvorstadt",
-                "url": "https://www.etsy.com/de/shop/Coqueton"
+                "description": "<a href=\"https://www.etsy.com/de/shop/Coqueton\">https://www.etsy.com/de/shop/Coqueton</a>",
+                "url": "https://www.etsy.com/de/shop/Coqueton",
+                "address": "Kochstra\u00dfe 25, 04275 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +750,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Der Hutladen / Zentrum",
-                "url": "http://www.derhutladen.de/"
+                "description": "<a href=\"http://www.derhutladen.de/\">http://www.derhutladen.de/</a>",
+                "url": "http://www.derhutladen.de/",
+                "address": "Nikolaistra\u00dfe 6-10, 04109 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +772,15 @@
             "type": "Feature",
             "properties": {
                 "name": "D\u00f6rte Dietrich / Lindenau",
-                "url": "https://www.doertedietrich.de/shop/"
+                "description": "<a href=\"https://www.doertedietrich.de/shop/\">https://www.doertedietrich.de/shop/</a>",
+                "url": "https://www.doertedietrich.de/shop/",
+                "address": "Karl-Heine-Stra\u00dfe 9, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +794,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Faunauge / S\u00fcdvorstadt",
-                "url": "https://faunauge.de/"
+                "description": "<a href=\"https://faunauge.de/\">https://faunauge.de/</a>",
+                "url": "https://faunauge.de/",
+                "address": "Kurt-Eisner-Stra\u00dfe 11, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +816,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Flossbros / Connewitz",
-                "url": "http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/\">http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/</a>",
+                "url": "http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/",
+                "address": "Bernhard-G\u00f6ring-Stra\u00dfe 155, 04277 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +836,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Franziska Klee / Gohlis",
-                "url": "https://franziskaklee.de/"
+                "description": "<a href=\"https://franziskaklee.de/\">https://franziskaklee.de/</a>",
+                "url": "https://franziskaklee.de/",
+                "address": "Georg-Schumann-Stra\u00dfe 134, 04155 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +857,15 @@
             "type": "Feature",
             "properties": {
                 "name": "FRAU FISCHER/ Schleu\u00dfig",
-                "url": "http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/\">http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/</a>",
+                "url": "http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/",
+                "address": "Industriestra\u00dfe, in der FISCHT\u00dcTE 21, 04229 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +879,15 @@
             "type": "Feature",
             "properties": {
                 "name": "GarderobeWest / Lindenau",
-                "url": "http://local-heroes-leipzig.de/315-2/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/315-2/\">http://local-heroes-leipzig.de/315-2/</a>",
+                "url": "http://local-heroes-leipzig.de/315-2/",
+                "address": "Merseburger Str. 31, 04177 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -509,7 +901,15 @@
             "type": "Feature",
             "properties": {
                 "name": "hej. mom. / Zentrum",
-                "url": "https://hejmom.com/"
+                "description": "<a href=\"https://hejmom.com/\">https://hejmom.com/</a>",
+                "url": "https://hejmom.com/",
+                "address": "Paul-Gruner-Stra\u00dfe 24, 04107 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +923,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Hermoosa/ Leipzig",
-                "url": "http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa"
+                "description": "<a href=\"http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa\">http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa</a>",
+                "url": "http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +943,13 @@
             "type": "Feature",
             "properties": {
                 "name": "HERRR GANZE / Zentrum",
-                "url": "https://herrganze.de/"
+                "description": "<a href=\"https://herrganze.de/\">https://herrganze.de/</a>",
+                "url": "https://herrganze.de/",
+                "address": "Jahnallee 71, 04177 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +963,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Hilde tanzt / Altlindenau",
-                "url": "https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4"
+                "description": "<a href=\"https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4\">https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4</a>",
+                "url": "https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4",
+                "address": "Georg-Schwarz-Stra\u00dfe 20, 04177 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +985,13 @@
             "type": "Feature",
             "properties": {
                 "name": "IKOSAE / Lindenau",
-                "url": "https://ikosae.myshopify.com/"
+                "description": "<a href=\"https://ikosae.myshopify.com/\">https://ikosae.myshopify.com/</a>",
+                "url": "https://ikosae.myshopify.com/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +1005,15 @@
             "type": "Feature",
             "properties": {
                 "name": "ka:put/ Connewitz",
-                "url": "https://www.ka-put.de/"
+                "description": "<a href=\"https://www.ka-put.de/\">https://www.ka-put.de/</a>",
+                "url": "https://www.ka-put.de/",
+                "address": "Wolfgang-Heinze-Stra\u00dfe 10, 04277 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +1027,15 @@
             "type": "Feature",
             "properties": {
                 "name": "KAZIMIR / Plagwitz",
-                "url": "https://www.etsy.com/de/shop/derKazimir"
+                "description": "<a href=\"https://www.etsy.com/de/shop/derKazimir\">https://www.etsy.com/de/shop/derKazimir</a>",
+                "url": "https://www.etsy.com/de/shop/derKazimir",
+                "address": "Merseburger Str. 33, 04177 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +1049,13 @@
             "type": "Feature",
             "properties": {
                 "name": "K\u00f6nigswurzeln / Leipzig",
-                "url": "https://www.etsy.com/de/shop/Koenigswurzeln"
+                "description": "<a href=\"https://www.etsy.com/de/shop/Koenigswurzeln\">https://www.etsy.com/de/shop/Koenigswurzeln</a>",
+                "url": "https://www.etsy.com/de/shop/Koenigswurzeln",
+                "address": "Kn\u00f6flerstra\u00dfe 13, 04157 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -620,8 +1068,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "le.fuxs / Leipzig",
+                "description": "<a href=\"https://www.etsy.com/de/shop/lefuxs\">https://www.etsy.com/de/shop/lefuxs</a>",
+                "url": "https://www.etsy.com/de/shop/lefuxs",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730747,
+                    51.3396955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "LELO karli123 / S\u00fcdvorstadt",
-                "url": "https://www.lelo.bio/"
+                "description": "<a href=\"https://www.lelo.bio/\">https://www.lelo.bio/</a>",
+                "url": "https://www.lelo.bio/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 123, 04275 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +1111,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Luise Neugebauer / S\u00fcdvorstadt",
-                "url": "https://shop.luiseneugebauer.de/"
+                "description": "<a href=\"https://shop.luiseneugebauer.de/\">https://shop.luiseneugebauer.de/</a>",
+                "url": "https://shop.luiseneugebauer.de/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 79, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -648,8 +1132,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "luxaa/ Schleu\u00dfig",
+                "description": "<a href=\"https://www.luxaa.de/de/\">https://www.luxaa.de/de/</a>",
+                "url": "https://www.luxaa.de/de/",
+                "address": "Schuhmacherg\u00e4\u00dfchen 1-3, 04109 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3770964,
+                    51.3406757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Merle Kids / Lindenau",
-                "url": "https://www.merle-kids.com/online-shop"
+                "description": "<a href=\"https://www.merle-kids.com/online-shop\">https://www.merle-kids.com/online-shop</a>",
+                "url": "https://www.merle-kids.com/online-shop",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -662,8 +1174,38 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mrs. Hippie / S\u00fcdvorstadt",
+                "description": "<a href=\"https://www.geh-bunt.de/\">https://www.geh-bunt.de/</a>",
+                "url": "https://www.geh-bunt.de/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 36, 04107 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3734023,
+                    51.3264331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Optikstudio Marion M\u00fcller / S\u00fcdvorstadt",
-                "url": "https://www.optikstudio-mueller.de/aktuelles/news/index.html"
+                "description": "<a href=\"https://www.optikstudio-mueller.de/aktuelles/news/index.html\">https://www.optikstudio-mueller.de/aktuelles/news/index.html</a>",
+                "url": "https://www.optikstudio-mueller.de/aktuelles/news/index.html",
+                "address": "Karl-Liebknecht-Stra\u00dfe 122, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "health",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -677,7 +1219,14 @@
             "type": "Feature",
             "properties": {
                 "name": "panta panta / Plagwitz",
-                "url": "https://www.etsy.com/de/shop/BelleEtBete"
+                "description": "<a href=\"https://www.etsy.com/de/shop/BelleEtBete\">https://www.etsy.com/de/shop/BelleEtBete</a>",
+                "url": "https://www.etsy.com/de/shop/BelleEtBete",
+                "address": "Zschochersche Str. 55, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -691,7 +1240,15 @@
             "type": "Feature",
             "properties": {
                 "name": "pussy GALORE / S\u00fcdvorstadt",
-                "url": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/"
+                "description": "<a href=\"https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/\">https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/</a>",
+                "url": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 52, 04275 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +1262,13 @@
             "type": "Feature",
             "properties": {
                 "name": "R\u00c5VARE / Eutritzsch",
-                "url": "https://ravare.de/shop/"
+                "description": "<a href=\"https://ravare.de/shop/\">https://ravare.de/shop/</a>",
+                "url": "https://ravare.de/shop/",
+                "address": "G\u00f6rlitzer Str. 10, 04129 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +1282,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Rosentreter / Plagwitz",
-                "url": "https://rosentreter-modedesign.de/"
+                "description": "<a href=\"https://rosentreter-modedesign.de/\">https://rosentreter-modedesign.de/</a>",
+                "url": "https://rosentreter-modedesign.de/",
+                "address": "Karl-Heine-Stra\u00dfe 93, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +1302,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Roth\u00f6ll / Alt-Lindenau",
-                "url": "https://www.rothoell.com/shop/"
+                "description": "<a href=\"https://www.rothoell.com/shop/\">https://www.rothoell.com/shop/</a>",
+                "url": "https://www.rothoell.com/shop/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +1322,15 @@
             "type": "Feature",
             "properties": {
                 "name": "ST\u2019ATOUR / Plagwitz",
-                "url": "https://www.statourschmuck.de/shop/"
+                "description": "<a href=\"https://www.statourschmuck.de/shop/\">https://www.statourschmuck.de/shop/</a>",
+                "url": "https://www.statourschmuck.de/shop/",
+                "address": "Zschochersche Str. 79B, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +1344,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Schleifenf\u00e4nger / Reudnitz",
-                "url": "https://schleifenfaenger.de/shop/"
+                "description": "<a href=\"https://schleifenfaenger.de/shop/\">https://schleifenfaenger.de/shop/</a>",
+                "url": "https://schleifenfaenger.de/shop/",
+                "address": "Kippenbergstra\u00dfe 4, 04317 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -775,7 +1366,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Schuhhaus Zimmermann / Zentrum",
-                "url": "https://schuhe-leipzig.de/sortiment/"
+                "description": "<a href=\"https://schuhe-leipzig.de/sortiment/\">https://schuhe-leipzig.de/sortiment/</a>",
+                "url": "https://schuhe-leipzig.de/sortiment/",
+                "address": "Hainstra\u00dfe 12-14, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -789,7 +1388,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Stilkontor / S\u00fcdvorstadt",
-                "url": "http://www.stilkontor.com/"
+                "description": "<a href=\"http://www.stilkontor.com/\">http://www.stilkontor.com/</a>",
+                "url": "http://www.stilkontor.com/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 30, 04107 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -802,8 +1409,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Stoffpost / Zentrum-S\u00fcd",
+                "description": "<a href=\"http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/\">http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/</a>",
+                "url": "http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730747,
+                    51.3396955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Taschenkaufhaus / Plagwitz",
-                "url": "https://www.taschenkaufhaus.de/"
+                "description": "<a href=\"https://www.taschenkaufhaus.de/\">https://www.taschenkaufhaus.de/</a>",
+                "url": "https://www.taschenkaufhaus.de/",
+                "address": "Ritterstra\u00dfe 9-13, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -816,8 +1450,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "The Camelia Bijoux / S\u00fcdvorstadt",
+                "description": "<a href=\"https://thecamelia-bijoux.com/\">https://thecamelia-bijoux.com/</a>",
+                "url": "https://thecamelia-bijoux.com/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730747,
+                    51.3396955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Wunderlichs Brillenschmiede / Leutzsch",
-                "url": "http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/\">http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/</a>",
+                "url": "http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/",
+                "address": "R\u00fcckmarsdorfer Str. 1, 04179 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -831,7 +1492,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Yours Jules / Zentrum",
-                "url": "https://www.yoursjules.com/"
+                "description": "<a href=\"https://www.yoursjules.com/\">https://www.yoursjules.com/</a>",
+                "url": "https://www.yoursjules.com/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -845,7 +1512,16 @@
             "type": "Feature",
             "properties": {
                 "name": "ACHT-ZWEI / Lindenau",
-                "url": "https://www.acht-zwei.de/"
+                "description": "<a href=\"https://www.acht-zwei.de/\">https://www.acht-zwei.de/</a>",
+                "url": "https://www.acht-zwei.de/",
+                "address": "Merseburger Str. 82, 04177 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -859,7 +1535,15 @@
             "type": "Feature",
             "properties": {
                 "name": "balloonfantasy / S\u00fcdvorstadt",
-                "url": "https://balloon-fantasy.de/"
+                "description": "<a href=\"https://balloon-fantasy.de/\">https://balloon-fantasy.de/</a>",
+                "url": "https://balloon-fantasy.de/",
+                "address": "Dufourstra\u00dfe 38, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -873,7 +1557,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Candy Company / Lindenau",
-                "url": "https://www.candy-collection.de/"
+                "description": "<a href=\"https://www.candy-collection.de/\">https://www.candy-collection.de/</a>",
+                "url": "https://www.candy-collection.de/",
+                "address": "L\u00fctzner Str. 85, 04177 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -887,7 +1580,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Dominique / Leipzig",
-                "url": "https://www.etsy.com/de/shop/PrintsByDominique"
+                "description": "<a href=\"https://www.etsy.com/de/shop/PrintsByDominique\">https://www.etsy.com/de/shop/PrintsByDominique</a>",
+                "url": "https://www.etsy.com/de/shop/PrintsByDominique",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +1600,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Ed & Emilia / Leipzig",
-                "url": "https://edundemilia.com/ueber/"
+                "description": "<a href=\"https://edundemilia.com/ueber/\">https://edundemilia.com/ueber/</a>",
+                "url": "https://edundemilia.com/ueber/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -915,7 +1620,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Eisenhauer / Zentrum",
-                "url": "https://www.buero-eisenhauer.de/onlineshop/"
+                "description": "<a href=\"https://www.buero-eisenhauer.de/onlineshop/\">https://www.buero-eisenhauer.de/onlineshop/</a>",
+                "url": "https://www.buero-eisenhauer.de/onlineshop/",
+                "address": "Gr\u00fcnewaldstra\u00dfe 19, 04103 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -928,8 +1640,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Erna Primulla / Reudnitz",
+                "description": "<a href=\"https://www.erna-primula.de/\">https://www.erna-primula.de/</a>",
+                "url": "https://www.erna-primula.de/",
+                "address": "Oststra\u00dfe 115, 04299 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "florist",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4179226,
+                    51.32898789999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Franziska M. K\u00f6llner / Leutzsch",
-                "url": "https://franziskamkoellner.wordpress.com/"
+                "description": "<a href=\"https://franziskamkoellner.wordpress.com/\">https://franziskamkoellner.wordpress.com/</a>",
+                "url": "https://franziskamkoellner.wordpress.com/",
+                "address": "Philipp-Reis-Stra\u00dfe 4, 04179 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -943,7 +1683,14 @@
             "type": "Feature",
             "properties": {
                 "name": "HAFEN / Plagwitz",
-                "url": "https://www.hafen-leipzig.de/shop"
+                "description": "<a href=\"https://www.hafen-leipzig.de/shop\">https://www.hafen-leipzig.de/shop</a>",
+                "url": "https://www.hafen-leipzig.de/shop",
+                "address": "Karl-Heine-Stra\u00dfe 75, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -957,7 +1704,16 @@
             "type": "Feature",
             "properties": {
                 "name": "HILDE BRANDT / Schleu\u00dfig",
-                "url": "https://www.hildes-laden.de/"
+                "description": "<a href=\"https://www.hildes-laden.de/\">https://www.hildes-laden.de/</a>",
+                "url": "https://www.hildes-laden.de/",
+                "address": "K\u00f6nneritzstra\u00dfe 18, 04229 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -971,7 +1727,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Hocuspocus / Lindenau",
-                "url": "http://www.hocuspocus-shop.de/"
+                "description": "<a href=\"http://www.hocuspocus-shop.de/\">http://www.hocuspocus-shop.de/</a>",
+                "url": "http://www.hocuspocus-shop.de/",
+                "address": "Merseburger Str. 68, 04177 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -985,7 +1750,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Hooray Today / Zentrum",
-                "url": "https://shop.hooraytoday.de/"
+                "description": "<a href=\"https://shop.hooraytoday.de/\">https://shop.hooraytoday.de/</a>",
+                "url": "https://shop.hooraytoday.de/",
+                "address": "Gottschedstra\u00dfe 22, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1772,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Jenne Grassmann / Leipzig",
-                "url": "https://www.etsy.com/shop/jennegrassmann"
+                "description": "<a href=\"https://www.etsy.com/shop/jennegrassmann\">https://www.etsy.com/shop/jennegrassmann</a>",
+                "url": "https://www.etsy.com/shop/jennegrassmann",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1013,7 +1792,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Jules Stoffkiste / St\u00f6tteritz",
-                "url": "https://www.julesstoffkiste.de/"
+                "description": "<a href=\"https://www.julesstoffkiste.de/\">https://www.julesstoffkiste.de/</a>",
+                "url": "https://www.julesstoffkiste.de/",
+                "address": "Papierm\u00fchlstra\u00dfe 10a, 04299 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1027,7 +1814,13 @@
             "type": "Feature",
             "properties": {
                 "name": "JustePixx / Leipzig",
-                "url": "https://www.etsy.com/de/shop/JustePixx"
+                "description": "<a href=\"https://www.etsy.com/de/shop/JustePixx\">https://www.etsy.com/de/shop/JustePixx</a>",
+                "url": "https://www.etsy.com/de/shop/JustePixx",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1041,7 +1834,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Katja Rub / Reudnitz",
-                "url": "https://katja-rub.de/shop"
+                "description": "<a href=\"https://katja-rub.de/shop\">https://katja-rub.de/shop</a>",
+                "url": "https://katja-rub.de/shop",
+                "address": "Eilenburger Str. 47, 04317 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1055,7 +1854,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Knallt\u00fcte / Schleu\u00dfig",
-                "url": "http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/\">http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/</a>",
+                "url": "http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/",
+                "address": "Industriestra\u00dfe 21, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1069,7 +1875,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Kulturwarenfabrik / Lindenau",
-                "url": "https://www.kulturwarenfabrik.com/laden"
+                "description": "<a href=\"https://www.kulturwarenfabrik.com/laden\">https://www.kulturwarenfabrik.com/laden</a>",
+                "url": "https://www.kulturwarenfabrik.com/laden",
+                "address": "L\u00fctzner Str. 85, 04177 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1895,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Kumi Mood / Lindenau",
-                "url": "https://kumi-mood.de/shop"
+                "description": "<a href=\"https://kumi-mood.de/shop\">https://kumi-mood.de/shop</a>",
+                "url": "https://kumi-mood.de/shop",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1097,7 +1915,15 @@
             "type": "Feature",
             "properties": {
                 "name": "lawi sportswear / S\u00fcdvorstadt",
-                "url": "https://www.lawi-sport.de/"
+                "description": "<a href=\"https://www.lawi-sport.de/\">https://www.lawi-sport.de/</a>",
+                "url": "https://www.lawi-sport.de/",
+                "address": "Dufourstra\u00dfe 38, 04107 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1937,13 @@
             "type": "Feature",
             "properties": {
                 "name": "MahalyMacrame / Leipzig",
-                "url": "https://www.etsy.com/shop/MahalyMacrame"
+                "description": "<a href=\"https://www.etsy.com/shop/MahalyMacrame\">https://www.etsy.com/shop/MahalyMacrame</a>",
+                "url": "https://www.etsy.com/shop/MahalyMacrame",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1125,7 +1957,16 @@
             "type": "Feature",
             "properties": {
                 "name": "melonie / Zentrum",
-                "url": "https://www.melonie.de/online-shop/"
+                "description": "<a href=\"https://www.melonie.de/online-shop/\">https://www.melonie.de/online-shop/</a>",
+                "url": "https://www.melonie.de/online-shop/",
+                "address": "K\u00e4the-Kollwitz-Stra\u00dfe, Eingang, Gottschedstra\u00dfe 7-9, 04109 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1139,7 +1980,16 @@
             "type": "Feature",
             "properties": {
                 "name": "M\u00f6belkooperative S\u00fcd / Connewitz",
-                "url": "https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI"
+                "description": "<a href=\"https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI\">https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI</a>",
+                "url": "https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI",
+                "address": "Richard-Lehmann-Stra\u00dfe 47a, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1153,7 +2003,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Mona Schaffer / Leipzig",
-                "url": "http://www.monaschaffer.com/portfolio/"
+                "description": "<a href=\"http://www.monaschaffer.com/portfolio/\">http://www.monaschaffer.com/portfolio/</a>",
+                "url": "http://www.monaschaffer.com/portfolio/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1167,7 +2023,16 @@
             "type": "Feature",
             "properties": {
                 "name": "Naturnah M\u00f6bel / Volkmarsdorf",
-                "url": "https://www.naturnah-moebel.de/"
+                "description": "<a href=\"https://www.naturnah-moebel.de/\">https://www.naturnah-moebel.de/</a>",
+                "url": "https://www.naturnah-moebel.de/",
+                "address": "Taubestra\u00dfe 2, 04347 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1181,7 +2046,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Pistrada / Lindenau",
-                "url": "https://www.pistrada.com/"
+                "description": "<a href=\"https://www.pistrada.com/\">https://www.pistrada.com/</a>",
+                "url": "https://www.pistrada.com/",
+                "address": "Merseburger Str. 90, 04177 Leipzig, Germany",
+                "tags": [
+                    "bicycle_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1195,7 +2068,15 @@
             "type": "Feature",
             "properties": {
                 "name": "RUSTY CAT / S\u00fcdvorstadt",
-                "url": "https://rusty-cat.de/shop"
+                "description": "<a href=\"https://rusty-cat.de/shop\">https://rusty-cat.de/shop</a>",
+                "url": "https://rusty-cat.de/shop",
+                "address": "Kochstra\u00dfe 27, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1209,7 +2090,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Sauberkasten / Alt-West",
-                "url": "https://sauberkasten.com/shop/"
+                "description": "<a href=\"https://sauberkasten.com/shop/\">https://sauberkasten.com/shop/</a>",
+                "url": "https://sauberkasten.com/shop/",
+                "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1223,7 +2110,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Schwesterchen & Schwesterchen / Plagwitz",
-                "url": "https://www.schwesterchenundschwesterchen.de/"
+                "description": "<a href=\"https://www.schwesterchenundschwesterchen.de/\">https://www.schwesterchenundschwesterchen.de/</a>",
+                "url": "https://www.schwesterchenundschwesterchen.de/",
+                "address": "Wei\u00dfenfelser Str. 5, 04229 Leipzig, Germany",
+                "tags": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1237,7 +2132,14 @@
             "type": "Feature",
             "properties": {
                 "name": "SIGNUU / Zentrum",
-                "url": "https://www.signuu.com/gravurshop.html"
+                "description": "<a href=\"https://www.signuu.com/gravurshop.html\">https://www.signuu.com/gravurshop.html</a>",
+                "url": "https://www.signuu.com/gravurshop.html",
+                "address": "Br\u00fchl 64-66, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1251,7 +2153,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Slinga Illustration / Abtnaundorf",
-                "url": "https://www.slingashop.de/"
+                "description": "<a href=\"https://www.slingashop.de/\">https://www.slingashop.de/</a>",
+                "url": "https://www.slingashop.de/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +2173,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Sophie Valentin Fotografie / Zentrum",
-                "url": "https://sophievalentin.com/SHOP"
+                "description": "<a href=\"https://sophievalentin.com/SHOP\">https://sophievalentin.com/SHOP</a>",
+                "url": "https://sophievalentin.com/SHOP",
+                "address": "K\u00e4the-Kollwitz-Stra\u00dfe 12, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1279,7 +2193,22 @@
             "type": "Feature",
             "properties": {
                 "name": "STIL concenptstore / Zentrum",
-                "url": "https://www.stilconceptstore.de/shop/"
+                "description": "<a href=\"https://www.stilconceptstore.de/shop/\">https://www.stilconceptstore.de/shop/</a>",
+                "url": "https://www.stilconceptstore.de/shop/",
+                "address": "Nikolaistra\u00dfe 22, 04109 Leipzig, Germany",
+                "tags": [
+                    "cafe",
+                    "clothing_store",
+                    "establishment",
+                    "florist",
+                    "food",
+                    "furniture_store",
+                    "general_contractor",
+                    "grocery_or_supermarket",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1293,7 +2222,13 @@
             "type": "Feature",
             "properties": {
                 "name": "tex \u2013 lock / Alt-West",
-                "url": "https://www.tex-lock.com/"
+                "description": "<a href=\"https://www.tex-lock.com/\">https://www.tex-lock.com/</a>",
+                "url": "https://www.tex-lock.com/",
+                "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1307,7 +2242,14 @@
             "type": "Feature",
             "properties": {
                 "name": "TicToys / Plagwitz",
-                "url": "https://www.tictoys.de/"
+                "description": "<a href=\"https://www.tictoys.de/\">https://www.tictoys.de/</a>",
+                "url": "https://www.tictoys.de/",
+                "address": "Industriestra\u00dfe 11, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1321,7 +2263,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Tschau Tsch\u00fcssi / Zentrum",
-                "url": "https://tschautschuessi.bigcartel.com/"
+                "description": "<a href=\"https://tschautschuessi.bigcartel.com/\">https://tschautschuessi.bigcartel.com/</a>",
+                "url": "https://tschautschuessi.bigcartel.com/",
+                "address": "Karl-Tauchnitz-Stra\u00dfe 9-11, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1335,7 +2284,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Ulrike Sandner / Lindenau",
-                "url": "https://www.ulrike-sandner.de/shop/"
+                "description": "<a href=\"https://www.ulrike-sandner.de/shop/\">https://www.ulrike-sandner.de/shop/</a>",
+                "url": "https://www.ulrike-sandner.de/shop/",
+                "address": "04177, Demmeringstra\u00dfe 54, 04177 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1348,8 +2303,57 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "WAXXi / Leipzig",
+                "description": "<a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\">https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop</a>",
+                "url": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730747,
+                    51.3396955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wohnmacher / Zentrum",
+                "description": "<a href=\"https://www.wohnmacher.de/\">https://www.wohnmacher.de/</a>",
+                "url": "https://www.wohnmacher.de/",
+                "address": "Nikolaistra\u00dfe 36, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37826,
+                    51.34238000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bootsverleih Herold / Markkleeberg",
-                "url": "https://www.bootsbau-herold.de/"
+                "description": "<a href=\"https://www.bootsbau-herold.de/\">https://www.bootsbau-herold.de/</a>",
+                "url": "https://www.bootsbau-herold.de/",
+                "address": "Antonienstra\u00dfe 2, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1363,7 +2367,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Chamundi Yoga / S\u00fcdvorstadt",
-                "url": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/"
+                "description": "<a href=\"https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/\">https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/</a>",
+                "url": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
+                "address": "Kurt-Eisner-Stra\u00dfe 15, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "gym",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1377,7 +2389,15 @@
             "type": "Feature",
             "properties": {
                 "name": "CityBootCamp / Leipzig",
-                "url": "https://www.citybootcamp.de/seminare/"
+                "description": "<a href=\"https://www.citybootcamp.de/seminare/\">https://www.citybootcamp.de/seminare/</a>",
+                "url": "https://www.citybootcamp.de/seminare/",
+                "address": "Leplaystra\u00dfe 3, 04103 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "gym",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1391,7 +2411,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Gl\u00fcckskind Yoga / Zentrum",
-                "url": "https://glueckskind-yoga-leipzig.de/"
+                "description": "<a href=\"https://glueckskind-yoga-leipzig.de/\">https://glueckskind-yoga-leipzig.de/</a>",
+                "url": "https://glueckskind-yoga-leipzig.de/",
+                "address": "Zentralstra\u00dfe 7, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "gym",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1404,8 +2432,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "KAWi-KiDS / S\u00fcdvorstadt",
+                "description": "<a href=\"https://www.kawi-kids.de/?fbclid=IwAR39LBZK9ahU1ZKJtmWhTaGghtE-uRQRvwfiqlYAlW68ikgil75fjVqGgOs\">https://www.kawi-kids.de/?fbclid=IwAR39LBZK9ahU1ZKJtmWhTaGghtE-uRQRvwfiqlYAlW68ikgil75fjVqGgOs</a>",
+                "url": "https://www.kawi-kids.de/?fbclid=IwAR39LBZK9ahU1ZKJtmWhTaGghtE-uRQRvwfiqlYAlW68ikgil75fjVqGgOs",
+                "address": "August-Bebel-Stra\u00dfe 9, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3699846,
+                    51.32464299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kickbox Verein Leipzig / Plagwitz",
-                "url": "http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/\">http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/</a>",
+                "url": "http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/",
+                "address": "Naumburger Str. 44, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1419,7 +2473,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Meine Welt Reisen / Zentrum-S\u00fcd",
-                "url": "https://www.meinewelt-reisen.de/"
+                "description": "<a href=\"https://www.meinewelt-reisen.de/\">https://www.meinewelt-reisen.de/</a>",
+                "url": "https://www.meinewelt-reisen.de/",
+                "address": "Peterssteinweg 14, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1433,7 +2493,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Mindt Studio / Plagwitz",
-                "url": "https://mindtstudio.de/vinyasa-yogakurse"
+                "description": "<a href=\"https://mindtstudio.de/vinyasa-yogakurse\">https://mindtstudio.de/vinyasa-yogakurse</a>",
+                "url": "https://mindtstudio.de/vinyasa-yogakurse",
+                "address": "Zschochersche Str. 86, 04229 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1447,7 +2513,13 @@
             "type": "Feature",
             "properties": {
                 "name": "R\u00fcckenoase / Leipzig",
-                "url": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/"
+                "description": "<a href=\"https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/\">https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/</a>",
+                "url": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/",
+                "address": "Wintergartenstra\u00dfe 2, 04103 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1461,7 +2533,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Stadthafen Leipzig / Leipzig",
-                "url": "https://stadthafen-leipzig.com/index.php/gutscheine"
+                "description": "<a href=\"https://stadthafen-leipzig.com/index.php/gutscheine\">https://stadthafen-leipzig.com/index.php/gutscheine</a>",
+                "url": "https://stadthafen-leipzig.com/index.php/gutscheine",
+                "address": "Stadthafen Leipzig, 04109 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "natural_feature"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1475,7 +2553,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Studio Veda / Zentrum",
-                "url": "http://studioveda.de/"
+                "description": "<a href=\"http://studioveda.de/\">http://studioveda.de/</a>",
+                "url": "http://studioveda.de/",
+                "address": "Dimitroffstra\u00dfe 26, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "gym",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1489,7 +2575,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Team Duell / Mockau-West",
-                "url": "https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge"
+                "description": "<a href=\"https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge\">https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge</a>",
+                "url": "https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge",
+                "address": "Zschortauer Str. 60, 04129 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1503,7 +2595,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Buchhandlung S\u00fcdvorstadt / S\u00fcdvorstadt",
-                "url": "https://www.genialokal.de/?storeID=leipzsv"
+                "description": "<a href=\"https://www.genialokal.de/?storeID=leipzsv\">https://www.genialokal.de/?storeID=leipzsv</a>",
+                "url": "https://www.genialokal.de/?storeID=leipzsv",
+                "address": "Karl-Liebknecht-Stra\u00dfe 126, 04275 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1517,7 +2617,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Connewitzer Verlagsbuchhandlung / Leipzig",
-                "url": "https://www.cvb-leipzig.de/bestellungen-shops/"
+                "description": "<a href=\"https://www.cvb-leipzig.de/bestellungen-shops/\">https://www.cvb-leipzig.de/bestellungen-shops/</a>",
+                "url": "https://www.cvb-leipzig.de/bestellungen-shops/",
+                "address": "Schuhmacherg\u00e4\u00dfchen 4, 04109 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1531,7 +2639,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Distillery / S\u00fcdvorstadt",
-                "url": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster"
+                "description": "<a href=\"https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster\">https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster</a>",
+                "url": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster",
+                "address": "Kurt-Eisner-Stra\u00dfe 108a, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "night_club",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1545,7 +2660,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Drift / Plagwitz",
-                "url": "https://drift-books.buchhandlung.de/shop/"
+                "description": "<a href=\"https://drift-books.buchhandlung.de/shop/\">https://drift-books.buchhandlung.de/shop/</a>",
+                "url": "https://drift-books.buchhandlung.de/shop/",
+                "address": "Karl-Heine-Stra\u00dfe 83, 04229 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1559,7 +2682,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Eva Meitner/ Leipzig",
-                "url": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc"
+                "description": "<a href=\"https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc\">https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc</a>",
+                "url": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1573,7 +2702,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Ilses Erika / Connewitz",
-                "url": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal"
+                "description": "<a href=\"https://www.facebook.com/pg/ilseserika/events/?ref=page_internal\">https://www.facebook.com/pg/ilseserika/events/?ref=page_internal</a>",
+                "url": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal",
+                "address": "Bernhard-G\u00f6ring-Stra\u00dfe 152, 04277 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1587,7 +2723,15 @@
             "type": "Feature",
             "properties": {
                 "name": "MZIN / Zentrum",
-                "url": "https://mzin.de/"
+                "description": "<a href=\"https://mzin.de/\">https://mzin.de/</a>",
+                "url": "https://mzin.de/",
+                "address": "Kolonnadenstra\u00dfe 20, 04109 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1601,7 +2745,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Noch Besser Leben / Plagwitz",
-                "url": "https://www.facebook.com/events/2577127955835651/"
+                "description": "<a href=\"https://www.facebook.com/events/2577127955835651/\">https://www.facebook.com/events/2577127955835651/</a>",
+                "url": "https://www.facebook.com/events/2577127955835651/",
+                "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
+                "tags": [
+                    "bar",
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1615,7 +2767,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Ostblockschlampen / Leipzig",
-                "url": "http://www.ostblockschlampen.com/"
+                "description": "<a href=\"http://www.ostblockschlampen.com/\">http://www.ostblockschlampen.com/</a>",
+                "url": "http://www.ostblockschlampen.com/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +2787,17 @@
             "type": "Feature",
             "properties": {
                 "name": "ROTORBOOKS / Zentrum",
-                "url": "http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/"
+                "description": "<a href=\"http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/\">http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/</a>",
+                "url": "http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/",
+                "address": "Kolonnadenstra\u00dfe 5 - 7, 04109 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1643,7 +2811,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Seitenblick / Lindenau",
-                "url": "http://277780.umbreitwebshop.de/"
+                "description": "<a href=\"http://277780.umbreitwebshop.de/\">http://277780.umbreitwebshop.de/</a>",
+                "url": "http://277780.umbreitwebshop.de/",
+                "address": "Goetzstra\u00dfe 2, 04177 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +2833,15 @@
             "type": "Feature",
             "properties": {
                 "name": "Serifee / S\u00fcdvorstadt",
-                "url": "https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/"
+                "description": "<a href=\"https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/\">https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/</a>",
+                "url": "https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/",
+                "address": "Karl-Liebknecht-Stra\u00dfe 36, 04107 Leipzig, Germany",
+                "tags": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +2855,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Spector Books / Zentrum-S\u00fcd",
-                "url": "http://www.spectorbooks.com/"
+                "description": "<a href=\"http://www.spectorbooks.com/\">http://www.spectorbooks.com/</a>",
+                "url": "http://www.spectorbooks.com/",
+                "address": "Harkortstra\u00dfe 10, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1684,8 +2874,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "calaidoskop Institut & Praxis / Zentrum-S\u00fcd",
-                "url": "https://www.gojo.me/"
+                "name": "calaidoskop Institut & Praxis / Zentrum",
+                "description": "<a href=\"https://www.calaidoskop.de\">https://www.calaidoskop.de</a>",
+                "url": "https://www.calaidoskop.de",
+                "address": "Paartherapie, Sexualberatung, Supervision Oliver Wolf Eheberatung, Partnerberatung, Paarberatung, Braustra\u00dfe 29, 04107 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1699,7 +2896,13 @@
             "type": "Feature",
             "properties": {
                 "name": "GOJO Music / Zentrum-Nord",
-                "url": "https://www.gojo.me/"
+                "description": "<a href=\"https://www.gojo.me/\">https://www.gojo.me/</a>",
+                "url": "https://www.gojo.me/",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1713,7 +2916,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Kini Kana / Leipzig",
-                "url": "https://play.google.com/store/apps/details?id=de.avata.kinikana"
+                "description": "<a href=\"https://play.google.com/store/apps/details?id=de.avata.kinikana\">https://play.google.com/store/apps/details?id=de.avata.kinikana</a>",
+                "url": "https://play.google.com/store/apps/details?id=de.avata.kinikana",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1727,7 +2936,14 @@
             "type": "Feature",
             "properties": {
                 "name": "Lena Staudigl / S\u00fcdvorstadt",
-                "url": "https://www.lenastaudigl.de/onlinesession"
+                "description": "<a href=\"https://www.lenastaudigl.de/onlinesession\">https://www.lenastaudigl.de/onlinesession</a>",
+                "url": "https://www.lenastaudigl.de/onlinesession",
+                "address": "August-Bebel-Stra\u00dfe 73, 04275 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1741,7 +2957,13 @@
             "type": "Feature",
             "properties": {
                 "name": "OUIIUO Studio / Reudnitz",
-                "url": "https://ouiiuo.de/vsvirus"
+                "description": "<a href=\"https://ouiiuo.de/vsvirus\">https://ouiiuo.de/vsvirus</a>",
+                "url": "https://ouiiuo.de/vsvirus",
+                "address": "Volckmarstra\u00dfe 6B, 04317 Leipzig, Germany",
+                "tags": [
+                    "establishment",
+                    "point_of_interest"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1755,7 +2977,13 @@
             "type": "Feature",
             "properties": {
                 "name": "Studio Migotka / Lindenau",
-                "url": "http://www.migotka.de/workshops.html"
+                "description": "<a href=\"http://www.migotka.de/workshops.html\">http://www.migotka.de/workshops.html</a>",
+                "url": "http://www.migotka.de/workshops.html",
+                "address": "Leipzig, Germany",
+                "tags": [
+                    "locality",
+                    "political"
+                ]
             },
             "geometry": {
                 "type": "Point",

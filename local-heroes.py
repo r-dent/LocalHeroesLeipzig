@@ -6,6 +6,7 @@ import os
 GMapsApiKey = ''
 wrapApiKey = ''
 apiUrl = 'https://wrapapi.com/use/r-dent/side-projects/local-hero/latest?wrapAPIKey=' + wrapApiKey
+cacheFileName = 'local-heroes.json'
 
 def findLocationGMaps(locationName):
     geocodeUrl = 'https://maps.googleapis.com/maps/api/geocode/json?key=' + GMapsApiKey + '&address=' + urllib.parse.quote(locationName)
@@ -19,9 +20,12 @@ def findLocationGMaps(locationName):
         if len(results) > 0:
             firstResult = results[0]
 
-            latitute = firstResult['geometry']['location']['lat']
-            longitude = firstResult['geometry']['location']['lng']
-            location = {'lat': latitute, 'lon': longitude}
+            location = {
+                'lat': firstResult['geometry']['location']['lat'], 
+                'lon': firstResult['geometry']['location']['lng'],
+                'address': firstResult['formatted_address'],
+                'tags': firstResult['types']
+            }
 
             print('Found %s.' % location)
 
@@ -79,23 +83,33 @@ def loadEntriesFromFile(filePath):
     fileHandler = open(filePath, "r")
     return json.load(fileHandler)
 
-def startFile(filePath, binary=False):
-    fileHandler = open(filePath, "wb" if (binary) else "w")
-    return fileHandler
+def writeJson(data, filePath):
+    fileHandler = open(filePath, "w")
+    json.dump(data, fileHandler, indent=4)
 
 def writeGeoJson(entries):
     geoEntries = []
+
     for entry in entries:
-        location = [entry['location']['lon'], entry['location']['lat']]
+        location = entry['location']
+
+        if location is None:
+            continue
+        
+        coordinate = [location['lon'], location['lat']]
+
         geoEntry = {
             'type': 'Feature',
             'properties': {
                 'name': entry['title'],
-                'url': entry['link']
+                'description': '<a href="' + entry['link'] + '">' + entry['link'] + '</a>',
+                'url': entry['link'],
+                'address': location.get('address', ''),
+                'tags': location.get('tags', [])
             },
             'geometry': {
                 'type': 'Point',
-                'coordinates': location
+                'coordinates': coordinate
             }
         }
         geoEntries.append(geoEntry)
@@ -105,12 +119,10 @@ def writeGeoJson(entries):
         'features': geoEntries
     }
 
-    outputFile = startFile('local-heroes-leipzig.geojson')
-    json.dump(geoCollection, outputFile, indent=4)
+    writeJson(geoCollection, 'local-heroes-leipzig.geojson')
 
-localHeroes = loadEntriesFromFile('local-heroes.json')
-# localHeroes = loadLocalsFromApi()
-writeGeoJson(localHeroes)
+# Load api date to cache.
+# writeJson(loadLocalsFromApi(), cacheFileName)
 
-# print(findLocationGMaps('Kleine Leckerei Leipzig'))
-# print(findLocationOSM('Kleine Leckerei Leipzig'))
+# Generate geojson from cache.
+writeGeoJson(loadEntriesFromFile(cacheFileName))
