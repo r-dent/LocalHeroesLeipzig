@@ -1,5 +1,26 @@
 [
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/feinkost.svg",
+        "title": "Alte Zuckerfabrik / Zentrum-Nord",
+        "link": "http://local-heroes-leipzig.de/alte-zuckerfabrik-leipzig-zentrum-nord/",
+        "sub-category": "Weinbar & Hofladen (Lieferservice)",
+        "category": "Feinkost",
+        "cleanTitle": "Alte Zuckerfabrik",
+        "location": {
+            "lat": 51.34443419999999,
+            "lon": 12.3612119,
+            "address": "Tschaikowskistra\u00dfe 14, 04105 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "establishment",
+                "food",
+                "liquor_store",
+                "point_of_interest",
+                "store"
+            ]
+        }
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
         "title": "Altes Papierlager / Seeburgviertel",
         "link": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/",
@@ -64,13 +85,11 @@
         "category": "Pizza",
         "cleanTitle": "anja | fe",
         "location": {
-            "lat": 51.31624679999999,
-            "lon": 12.3047271,
-            "address": "Str. am Park 2, 04209 Leipzig, Germany",
+            "lat": 51.30594,
+            "lon": 12.38136,
+            "address": "Bornaische Str. 49, 04277 Leipzig, Germany",
             "tags": [
-                "doctor",
                 "establishment",
-                "health",
                 "point_of_interest"
             ]
         }
@@ -217,6 +236,28 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "title": "Caf\u00e9 Kune / Neustadt-Neusch\u00f6nefeld",
+        "link": "https://www.startnext.com/wirgemeinsam",
+        "sub-category": "Caf\u00e9 (Crowdfunding)",
+        "category": "Caf&#xE9;",
+        "cleanTitle": "Caf\u00e9 Kune",
+        "location": {
+            "lat": 51.3453761,
+            "lon": 12.4108226,
+            "address": "Eisenbahnstra\u00dfe 107, 04315 Leipzig, Germany",
+            "tags": [
+                "bar",
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant",
+                "store"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
         "title": "Caf\u00e9 NiMo / Zentrum-S\u00fcd",
         "link": "https://www.startnext.com/rettet-das-cafe-nimo",
         "sub-category": "Caf\u00e9 (Crowdfunding)",
@@ -235,13 +276,43 @@
         }
     },
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "title": "Caf\u00e9 TRAGO / Sch\u00f6nefeld",
+        "link": "https://www.startnext.com/wirgemeinsam",
+        "sub-category": "Caf\u00e9 (Crowdfunding)",
+        "category": "Caf&#xE9;",
+        "cleanTitle": "Caf\u00e9 TRAGO",
+        "location": {
+            "lat": 51.35154319999999,
+            "lon": 12.4068201,
+            "address": "Paul-Heyse-Stra\u00dfe 1, 04347 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ]
+        }
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
         "title": "Doppelblick / Lindenau",
         "link": "https://shop.doppelblick.org/",
         "sub-category": "Spirituosen (Onlineshop)",
         "category": "Spirituosen und Getr&#xE4;nke",
         "cleanTitle": "Doppelblick",
-        "location": null
+        "location": {
+            "lat": 51.33557560000001,
+            "lon": 12.33485,
+            "address": "Siemeringstra\u00dfe 2, 04177 Leipzig, Germany",
+            "tags": [
+                "art_gallery",
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ]
+        }
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
@@ -301,6 +372,25 @@
                 "point_of_interest",
                 "restaurant",
                 "store"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "title": "GASTGEBER / Neusch\u00f6nefeld",
+        "link": "http://local-heroes-leipzig.de/gastgeber-leipzig-neuschoenefeld/",
+        "sub-category": "Restaurant (Take-Away)",
+        "category": "Pizza",
+        "cleanTitle": "GASTGEBER",
+        "location": {
+            "lat": 51.33952000000001,
+            "lon": 12.4002902,
+            "address": "Dresdner Str. 49, 04317 Leipzig, Germany",
+            "tags": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
             ]
         }
     },
@@ -507,9 +597,9 @@
         "category": "Eis",
         "cleanTitle": "TONIS",
         "location": {
-            "lat": 51.33882269999999,
-            "lon": 12.3721105,
-            "address": "Thomaskirchhof 17, 04109 Leipzig, Germany",
+            "lat": 51.3274649,
+            "lon": 12.3458776,
+            "address": "K\u00f6nneritzstra\u00dfe 21, 04229 Leipzig, Germany",
             "tags": [
                 "establishment",
                 "food",
@@ -587,12 +677,13 @@
         "category": "Schmuck, Accessoires",
         "cleanTitle": "ALLOY",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.36016679999999,
+            "lon": 12.358563,
+            "address": "Gohlis-S\u00fcd, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -700,12 +791,12 @@
         "category": "Hut und Kopfbedeckungen",
         "cleanTitle": "Faunauge",
         "location": {
-            "lat": 51.32110480000001,
-            "lon": 12.3680254,
+            "lat": 51.3210247,
+            "lon": 12.3679813,
             "address": "Kurt-Eisner-Stra\u00dfe 11, 04275 Leipzig, Germany",
             "tags": [
+                "clothing_store",
                 "establishment",
-                "jewelry_store",
                 "point_of_interest",
                 "store"
             ]
@@ -776,6 +867,25 @@
             "lat": 51.3317511,
             "lon": 12.3328267,
             "address": "Merseburger Str. 31, 04177 Leipzig, Germany",
+            "tags": [
+                "clothing_store",
+                "establishment",
+                "point_of_interest",
+                "store"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "title": "Graue Maus / Schleu\u00dfig",
+        "link": "https://www.graue-maus.de/",
+        "sub-category": "Kleidung (Online Bestellungen)",
+        "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "cleanTitle": "Graue Maus",
+        "location": {
+            "lat": 51.32480990000001,
+            "lon": 12.3426026,
+            "address": "Industriestra\u00dfe 19, 04229 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "establishment",
@@ -864,12 +974,13 @@
         "category": "Taschen und Rucks&#xE4;cke",
         "cleanTitle": "IKOSAE",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.33264029999999,
+            "lon": 12.3296974,
+            "address": "Lindenau, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1136,12 +1247,13 @@
         "category": "Taschen und Rucks&#xE4;cke",
         "cleanTitle": "Roth\u00f6ll",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3413425,
+            "lon": 12.3354318,
+            "address": "Altlindenau, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1229,12 +1341,13 @@
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "cleanTitle": "Stoffpost",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3310662,
+            "lon": 12.3693495,
+            "address": "Zentrum-S\u00fcd, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1246,13 +1359,12 @@
         "category": "Taschen und Rucks&#xE4;cke",
         "cleanTitle": "Taschenkaufhaus",
         "location": {
-            "lat": 51.3411699,
-            "lon": 12.3792666,
-            "address": "Ritterstra\u00dfe 9-13, 04109 Leipzig, Germany",
+            "lat": 51.3297768,
+            "lon": 12.3267635,
+            "address": "Karl-Heine-Stra\u00dfe 92-94, 04229 Leipzig, Germany",
             "tags": [
                 "establishment",
-                "point_of_interest",
-                "store"
+                "point_of_interest"
             ]
         }
     },
@@ -1264,12 +1376,13 @@
         "category": "Schmuck, Accessoires",
         "cleanTitle": "The Camelia Bijoux",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3216185,
+            "lon": 12.3706068,
+            "address": "Sudvorstadt, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1375,12 +1488,12 @@
         "category": "Prints und Kunstartikel",
         "cleanTitle": "Dominique",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3525101,
+            "lon": 12.4557133,
+            "address": "G\u00fcnselstra\u00dfe 15, 04329 Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "establishment",
+                "point_of_interest"
             ]
         }
     },
@@ -1645,12 +1758,13 @@
         "category": "Spielwaren, Spielzeug, Spielsachen",
         "cleanTitle": "Kumi Mood",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.33264029999999,
+            "lon": 12.3296974,
+            "address": "Lindenau, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1662,14 +1776,13 @@
         "category": "Fahrrad, Rad, Werkstatt",
         "cleanTitle": "lawi sportswear",
         "location": {
-            "lat": 51.3254269,
-            "lon": 12.3698278,
-            "address": "Dufourstra\u00dfe 38, 04107 Leipzig, Germany",
+            "lat": 51.3216185,
+            "lon": 12.3706068,
+            "address": "Sudvorstadt, Leipzig, Germany",
             "tags": [
-                "clothing_store",
-                "establishment",
-                "point_of_interest",
-                "store"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -1876,12 +1989,13 @@
         "category": "Prints und Kunstartikel",
         "cleanTitle": "Slinga Illustration",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3549122,
+            "lon": 12.4076323,
+            "address": "Abtnaundorf, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -2169,10 +2283,12 @@
         "cleanTitle": "Mindt Studio",
         "location": {
             "lat": 51.322284,
-            "lon": 12.331596,
+            "lon": 12.3315955,
             "address": "Zschochersche Str. 86, 04229 Leipzig, Germany",
             "tags": [
                 "establishment",
+                "gym",
+                "health",
                 "point_of_interest"
             ]
         }
@@ -2227,6 +2343,26 @@
                 "gym",
                 "health",
                 "point_of_interest"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "title": "tapir / Zentrum",
+        "link": "https://www.tapir-store.de/?awc=17390_1585142226_3e093d9039a56b61efb1637ba70aeebf&utm_source=awin&utm_medium=affiliate",
+        "sub-category": "Outdoor-Ausr\u00fcstung (Onlineshop)",
+        "category": "Sport",
+        "cleanTitle": "tapir",
+        "location": {
+            "lat": 51.34077320000001,
+            "lon": 12.3833273,
+            "address": "Georgiring 4-7, 04103 Leipzig, Germany",
+            "tags": [
+                "clothing_store",
+                "establishment",
+                "point_of_interest",
+                "shoe_store",
+                "store"
             ]
         }
     },
@@ -2514,12 +2650,13 @@
         "category": "Coaching und Online-Workshops",
         "cleanTitle": "GOJO Music",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.3542955,
+            "lon": 12.3761242,
+            "address": "Zentrum-Nord, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     },
@@ -2592,12 +2729,13 @@
         "category": "Handarbeiten",
         "cleanTitle": "Studio Migotka",
         "location": {
-            "lat": 51.3396955,
-            "lon": 12.3730747,
-            "address": "Leipzig, Germany",
+            "lat": 51.33264029999999,
+            "lon": 12.3296974,
+            "address": "Lindenau, Leipzig, Germany",
             "tags": [
-                "locality",
-                "political"
+                "political",
+                "sublocality",
+                "sublocality_level_2"
             ]
         }
     }
