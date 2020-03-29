@@ -7,10 +7,12 @@ GMapsApiKey = ''
 wrapApiKey = ''
 apiUrl = 'https://wrapapi.com/use/r-dent/side-projects/local-hero/latest?wrapAPIKey=' + wrapApiKey
 cacheFileName = 'local-heroes.json'
+cityCenter = {'lat': '51.3396955', 'lon': '12.3730747'}
 
 def findLocationGMaps(locationName):
-    geocodeUrl = 'https://maps.googleapis.com/maps/api/geocode/json?key=' + GMapsApiKey + '&address=' + urllib.parse.quote(locationName)
-    
+    # geocodeUrl = 'https://maps.googleapis.com/maps/api/geocode/json?key=' + GMapsApiKey + '&address=' + urllib.parse.quote(locationName)
+    geocodeUrl = 'https://maps.googleapis.com/maps/api/place/textsearch/json?key=' + GMapsApiKey + '&query=' + urllib.parse.quote(locationName) + '&location=' + cityCenter['lat'] + ',' + cityCenter['lon'] + '&radius=5000'
+
     print("Loading Location for %s." % locationName)
 
     with urllib.request.urlopen(geocodeUrl) as response:
