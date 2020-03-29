@@ -97,6 +97,16 @@ def writeGeoJson(entries):
             continue
         
         coordinate = [location['lon'], location['lat']]
+        tags = location.get('tags', [])
+        isLocality = False
+
+        for locationType in tags:
+            if 'locality' in locationType:
+                isLocality = True
+                break
+
+        if isLocality:
+            continue
 
         geoEntry = {
             'type': 'Feature',
@@ -105,7 +115,7 @@ def writeGeoJson(entries):
                 'description': '<a href="' + entry['link'] + '">' + entry['link'] + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
-                'tags': location.get('tags', [])
+                'tags': tags
             },
             'geometry': {
                 'type': 'Point',

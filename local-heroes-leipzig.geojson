@@ -776,27 +776,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ALLOY/ Gohlis-S\u00fcd",
-                "description": "<a href=\"http://www.alloy925.de/shop.html\">http://www.alloy925.de/shop.html</a>",
-                "url": "http://www.alloy925.de/shop.html",
-                "address": "Gohlis-S\u00fcd, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.358563,
-                    51.36016679999999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Atelier Wolkengold / Mitte",
                 "description": "<a href=\"https://www.atelier-wolkengold.de/\">https://www.atelier-wolkengold.de/</a>",
                 "url": "https://www.atelier-wolkengold.de/",
@@ -1059,26 +1038,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hermoosa/ Leipzig",
-                "description": "<a href=\"http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa\">http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa</a>",
-                "url": "http://www.alloy925.de/shop.htmlhttps://www.etsy.com/de/shop/Hermoosa",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "HERRR GANZE / Zentrum",
                 "description": "<a href=\"https://herrganze.de/\">https://herrganze.de/</a>",
                 "url": "https://herrganze.de/",
@@ -1115,27 +1074,6 @@
                 "coordinates": [
                     12.3260847,
                     51.34006979999999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "IKOSAE / Lindenau",
-                "description": "<a href=\"https://ikosae.myshopify.com/\">https://ikosae.myshopify.com/</a>",
-                "url": "https://ikosae.myshopify.com/",
-                "address": "Lindenau, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3296974,
-                    51.33264029999999
                 ]
             }
         },
@@ -1206,26 +1144,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "le.fuxs / Leipzig",
-                "description": "<a href=\"https://www.etsy.com/de/shop/lefuxs\">https://www.etsy.com/de/shop/lefuxs</a>",
-                "url": "https://www.etsy.com/de/shop/lefuxs",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "LELO karli123 / S\u00fcdvorstadt",
                 "description": "<a href=\"https://www.lelo.bio/\">https://www.lelo.bio/</a>",
                 "url": "https://www.lelo.bio/",
@@ -1286,26 +1204,6 @@
                 "coordinates": [
                     12.3770964,
                     51.3406757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Merle Kids / Lindenau",
-                "description": "<a href=\"https://www.merle-kids.com/online-shop\">https://www.merle-kids.com/online-shop</a>",
-                "url": "https://www.merle-kids.com/online-shop",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -1439,27 +1337,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Roth\u00f6ll / Alt-Lindenau",
-                "description": "<a href=\"https://www.rothoell.com/shop/\">https://www.rothoell.com/shop/</a>",
-                "url": "https://www.rothoell.com/shop/",
-                "address": "Altlindenau, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3354318,
-                    51.3413425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "ST\u2019ATOUR / Plagwitz",
                 "description": "<a href=\"https://www.statourschmuck.de/shop/\">https://www.statourschmuck.de/shop/</a>",
                 "url": "https://www.statourschmuck.de/shop/",
@@ -1548,27 +1425,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stoffpost / Zentrum-S\u00fcd",
-                "description": "<a href=\"http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/\">http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/</a>",
-                "url": "http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/",
-                "address": "Zentrum-S\u00fcd, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3693495,
-                    51.3310662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Taschenkaufhaus / Plagwitz",
                 "description": "<a href=\"https://www.taschenkaufhaus.de/\">https://www.taschenkaufhaus.de/</a>",
                 "url": "https://www.taschenkaufhaus.de/",
@@ -1583,27 +1439,6 @@
                 "coordinates": [
                     12.3267635,
                     51.3297768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Camelia Bijoux / S\u00fcdvorstadt",
-                "description": "<a href=\"https://thecamelia-bijoux.com/\">https://thecamelia-bijoux.com/</a>",
-                "url": "https://thecamelia-bijoux.com/",
-                "address": "Sudvorstadt, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3706068,
-                    51.3216185
                 ]
             }
         },
@@ -1625,26 +1460,6 @@
                 "coordinates": [
                     12.313217,
                     51.3476583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Yours Jules / Zentrum",
-                "description": "<a href=\"https://www.yoursjules.com/\">https://www.yoursjules.com/</a>",
-                "url": "https://www.yoursjules.com/",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -1733,26 +1548,6 @@
                 "coordinates": [
                     12.4557133,
                     51.3525101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ed & Emilia / Leipzig",
-                "description": "<a href=\"https://edundemilia.com/ueber/\">https://edundemilia.com/ueber/</a>",
-                "url": "https://edundemilia.com/ueber/",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -1911,26 +1706,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Jenne Grassmann / Leipzig",
-                "description": "<a href=\"https://www.etsy.com/shop/jennegrassmann\">https://www.etsy.com/shop/jennegrassmann</a>",
-                "url": "https://www.etsy.com/shop/jennegrassmann",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Jules Stoffkiste / St\u00f6tteritz",
                 "description": "<a href=\"https://www.julesstoffkiste.de/\">https://www.julesstoffkiste.de/</a>",
                 "url": "https://www.julesstoffkiste.de/",
@@ -1947,26 +1722,6 @@
                 "coordinates": [
                     12.4152778,
                     51.3238434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "JustePixx / Leipzig",
-                "description": "<a href=\"https://www.etsy.com/de/shop/JustePixx\">https://www.etsy.com/de/shop/JustePixx</a>",
-                "url": "https://www.etsy.com/de/shop/JustePixx",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -2034,68 +1789,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kumi Mood / Lindenau",
-                "description": "<a href=\"https://kumi-mood.de/shop\">https://kumi-mood.de/shop</a>",
-                "url": "https://kumi-mood.de/shop",
-                "address": "Lindenau, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3296974,
-                    51.33264029999999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "lawi sportswear / S\u00fcdvorstadt",
-                "description": "<a href=\"https://www.lawi-sport.de/\">https://www.lawi-sport.de/</a>",
-                "url": "https://www.lawi-sport.de/",
-                "address": "Sudvorstadt, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3706068,
-                    51.3216185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "MahalyMacrame / Leipzig",
-                "description": "<a href=\"https://www.etsy.com/shop/MahalyMacrame\">https://www.etsy.com/shop/MahalyMacrame</a>",
-                "url": "https://www.etsy.com/shop/MahalyMacrame",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "melonie / Zentrum",
                 "description": "<a href=\"https://www.melonie.de/online-shop/\">https://www.melonie.de/online-shop/</a>",
                 "url": "https://www.melonie.de/online-shop/",
@@ -2136,26 +1829,6 @@
                 "coordinates": [
                     12.3768214,
                     51.315045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mona Schaffer / Leipzig",
-                "description": "<a href=\"http://www.monaschaffer.com/portfolio/\">http://www.monaschaffer.com/portfolio/</a>",
-                "url": "http://www.monaschaffer.com/portfolio/",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -2292,27 +1965,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Slinga Illustration / Abtnaundorf",
-                "description": "<a href=\"https://www.slingashop.de/\">https://www.slingashop.de/</a>",
-                "url": "https://www.slingashop.de/",
-                "address": "Abtnaundorf, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.4076323,
-                    51.3549122
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Sophie Valentin Fotografie / Zentrum",
                 "description": "<a href=\"https://sophievalentin.com/SHOP\">https://sophievalentin.com/SHOP</a>",
                 "url": "https://sophievalentin.com/SHOP",
@@ -2438,26 +2090,6 @@
                 "coordinates": [
                     12.3293209,
                     51.3371085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WAXXi / Leipzig",
-                "description": "<a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\">https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop</a>",
-                "url": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -2847,26 +2479,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Eva Meitner/ Leipzig",
-                "description": "<a href=\"https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc\">https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc</a>",
-                "url": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ilses Erika / Connewitz",
                 "description": "<a href=\"https://www.facebook.com/pg/ilseserika/events/?ref=page_internal\">https://www.facebook.com/pg/ilseserika/events/?ref=page_internal</a>",
                 "url": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal",
@@ -2926,26 +2538,6 @@
                 "coordinates": [
                     12.3331105,
                     51.3310317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ostblockschlampen / Leipzig",
-                "description": "<a href=\"http://www.ostblockschlampen.com/\">http://www.ostblockschlampen.com/</a>",
-                "url": "http://www.ostblockschlampen.com/",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
                 ]
             }
         },
@@ -3061,47 +2653,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "GOJO Music / Zentrum-Nord",
-                "description": "<a href=\"https://www.gojo.me/\">https://www.gojo.me/</a>",
-                "url": "https://www.gojo.me/",
-                "address": "Zentrum-Nord, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3761242,
-                    51.3542955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kini Kana / Leipzig",
-                "description": "<a href=\"https://play.google.com/store/apps/details?id=de.avata.kinikana\">https://play.google.com/store/apps/details?id=de.avata.kinikana</a>",
-                "url": "https://play.google.com/store/apps/details?id=de.avata.kinikana",
-                "address": "Leipzig, Germany",
-                "tags": [
-                    "locality",
-                    "political"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3730747,
-                    51.3396955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Lena Staudigl / S\u00fcdvorstadt",
                 "description": "<a href=\"https://www.lenastaudigl.de/onlinesession\">https://www.lenastaudigl.de/onlinesession</a>",
                 "url": "https://www.lenastaudigl.de/onlinesession",
@@ -3137,27 +2688,6 @@
                 "coordinates": [
                     12.3974289,
                     51.3320695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Studio Migotka / Lindenau",
-                "description": "<a href=\"http://www.migotka.de/workshops.html\">http://www.migotka.de/workshops.html</a>",
-                "url": "http://www.migotka.de/workshops.html",
-                "address": "Lindenau, Leipzig, Germany",
-                "tags": [
-                    "political",
-                    "sublocality",
-                    "sublocality_level_2"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3296974,
-                    51.33264029999999
                 ]
             }
         }
