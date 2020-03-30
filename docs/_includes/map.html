@@ -1,23 +1,45 @@
-<!DOCTYPE html>
-<html lang="de-DE">
 
-    <head>
-        <meta charset="utf-8">
-        <style type="text/css">
-            #mapid { height: 400px; }
-        </style>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-    crossorigin=""/>
-        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-    crossorigin=""></script>
-    </head>
+<style type="text/css">
+    #mapid { height: 500px; }
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+crossorigin=""></script>
 
-    <body>
-        <div id="mapid"></div>
-        <script>
-            var mymap = L.map('mapid').setView([51.505, -0.09], 13);
-        </script>
-    </body>
-</html>
+<div id="mapid"></div>
+<script>
+    function loadUrl(url, handler){
+        const request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send();
+
+        request.onreadystatechange = (e) => {
+            if (request.readyState == 4 && request.status == 200) {
+                handler(request.responseText)
+            } else {
+                console.log(request.status)
+                console.log(request.readyState)
+            }
+        }        
+    }
+
+    var mymap = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+        foo: 'bar', 
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+        }
+    ).addTo(mymap);
+
+    loadUrl('local-heroes.geojson', function(data){
+        var geoJson = JSON.parse(data);
+        L.geoJSON(geoJson).addTo(mymap);
+    }); 
+
+    // L.marker([51.5, -0.09])
+    //     .addTo(mymap)
+    //     .bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+</script>
