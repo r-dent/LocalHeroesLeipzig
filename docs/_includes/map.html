@@ -34,7 +34,7 @@ crossorigin=""></script>
         }
     ).addTo(mymap);
 
-    loadUrl('local-heroes.geojson', function(data){
+    loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson', function(data){
         var geoJson = JSON.parse(data);
         L.geoJSON(geoJson).addTo(mymap);
     }); 
