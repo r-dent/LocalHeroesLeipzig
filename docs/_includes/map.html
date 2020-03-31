@@ -26,6 +26,18 @@ crossorigin=""></script>
         }        
     }
 
+    function filterMapFeature(feature, layer) {
+        // return feature.properties.tags.includes('cafe');
+        return true
+    }
+
+    function didClickMapFeature(feature, layer) {
+        // does this feature have a property named popupContent?
+        if (feature.properties && feature.properties.name && feature.properties.description) {
+            layer.bindPopup('<p>'+ feature.properties.name +'</p><p>'+ feature.properties.description +'</p>');
+        }
+    }
+
     var mymap = L.map('mapid').setView([51.3396955, 12.3730747], 13);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
@@ -34,9 +46,13 @@ crossorigin=""></script>
         }
     ).addTo(mymap);
 
+
     loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson', function(data){
         var geoJson = JSON.parse(data);
-        L.geoJSON(geoJson).addTo(mymap);
+        L.geoJSON(geoJson, {
+            onEachFeature: didClickMapFeature,
+            filter: filterMapFeature
+        }).addTo(mymap);
     }); 
 
     // L.marker([51.5, -0.09])
