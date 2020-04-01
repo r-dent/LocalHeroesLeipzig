@@ -4,12 +4,16 @@ import time
 import os
 import sys
 import math
+from difflib import SequenceMatcher
 
 GMapsApiKey = ''
 wrapApiKey = ''
 apiUrl = 'https://wrapapi.com/use/r-dent/side-projects/local-hero/latest?wrapAPIKey=' + wrapApiKey
 cacheFileName = 'local-heroes.json'
 cityCenter = (51.3396955, 12.3730747)
+
+def areSimilar(a, b):
+    return SequenceMatcher(None, a, b).ratio() > 0.9
 
 def findLocationGMaps(locationName):
     # geocodeUrl = 'https://maps.googleapis.com/maps/api/geocode/json?key=' + GMapsApiKey + '&address=' + urllib.parse.quote(locationName)
@@ -103,14 +107,24 @@ def locationDistance(coord1, coord2):
 
 def addLocation(entries, updateAll = False):
     for entry in entries:
-        if updateAll or entry['location'] == None:
-            entry['location'] = findLocationGMaps(entry['cleanTitle'])
+        if updateAll or not('location' in entry) or entry['location'] == None:
+            entry['location'] = findLocationGMaps(entry['title'].replace('/', ''))
             # time.sleep(1)
     return entries
 
+def addOrUpdate(entries, updates):
+    newEntries = []
+    for update in updates:
+        for entry in entries:
+            if areSimilar(entry['title'], update['title']) and 'location' in entry and entry['location'] != None:
+                update['location'] = entry['location']
+                break
+        newEntries.append(update)
+    return newEntries
+
 def showStats(entries):
     print(len(entries), 'Entries')
-    print(sum(e['location'] == None for e in entries), 'without location')
+    print(sum(not('location' in e) or e['location'] == None for e in entries), 'without location')
     print(sum(e['category'] == '' for e in entries), 'without category')
     print(sum('>' in e['category'] for e in entries), 'with messy category')
 
@@ -179,6 +193,7 @@ elif 'updateLocations' in sys.argv:
 elif 'loadApi' in sys.argv:
     # Load api data to cache.
     newEntries = loadLocalsFromApi()
+    entries = addOrUpdate(entries, newEntries)
 
 elif 'geocode' in sys.argv and len(sys.argv) == 3:
     findLocationGMaps(sys.argv[2])
