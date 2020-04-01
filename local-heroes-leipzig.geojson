@@ -2348,28 +2348,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ed & Emilia / Leipzig",
-                "description": "<a href=\"https://edundemilia.com/ueber/\">https://edundemilia.com/ueber/</a>",
-                "url": "https://edundemilia.com/ueber/",
-                "address": "Armii Krajowej 13/lok. 207, 59-900 Zgorzelec, Poland",
-                "tags": [
-                    "accounting",
-                    "finance",
-                    "point_of_interest",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.011062,
-                    51.150036
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Eisenhauer / Zentrum",
                 "description": "<a href=\"https://www.buero-eisenhauer.de/onlineshop/\">https://www.buero-eisenhauer.de/onlineshop/</a>",
                 "url": "https://www.buero-eisenhauer.de/onlineshop/",
@@ -4216,28 +4194,6 @@
                 "coordinates": [
                     12.3334043,
                     51.3352146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Kini Kana / Leipzig",
-                "description": "<a href=\"https://play.google.com/store/apps/details?id=de.avata.kinikana\">https://play.google.com/store/apps/details?id=de.avata.kinikana</a>",
-                "url": "https://play.google.com/store/apps/details?id=de.avata.kinikana",
-                "address": "R\u00faa Garza, 18, 27003 Lugo, Spain",
-                "tags": [
-                    "restaurant",
-                    "food",
-                    "point_of_interest",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -7.5497222,
-                    43.0302778
                 ]
             }
         },

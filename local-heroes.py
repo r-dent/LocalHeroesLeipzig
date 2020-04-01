@@ -119,6 +119,12 @@ def addOrUpdate(entries, updates):
             if areSimilar(entry['title'], update['title']) and 'location' in entry and entry['location'] != None:
                 update['location'] = entry['location']
                 break
+        
+        if 'location' in update and update['location'] != None:   
+            dist = locationDistance(cityCenter, (update['location']['lat'], update['location']['lon']))
+            if dist > 20000:
+                continue
+
         newEntries.append(update)
     return newEntries
 
@@ -140,6 +146,9 @@ def writeGeoJson(entries):
     geoEntries = []
 
     for entry in entries:
+        if 'location' not in entry:
+            continue
+
         location = entry['location']
 
         if location is None:
@@ -180,6 +189,11 @@ def writeGeoJson(entries):
 
     writeJson(geoCollection, 'local-heroes-leipzig.geojson')
 
+
+# --------
+# Commands
+# --------
+
 entries = loadEntriesFromFile(cacheFileName)
 
 if 'refreshAllLocations' in sys.argv:
@@ -205,9 +219,10 @@ if 'debug' in sys.argv:
     for e in entries:
         if e['location'] != None:
             dist = locationDistance(cityCenter, (e['location']['lat'], e['location']['lon']))
-            print('dist to', e['cleanTitle'], '-', dist)
-            if dist > 5000:
-                print('HUUUUGE')
+            if dist > 20000:
+                print('dist to', e['cleanTitle'], '-', dist)
+                print('Address:', e['location']['address'])
+                print('is HUUUUGE')
 
 if 'writeGeoJson' in sys.argv:
     writeGeoJson(entries)
