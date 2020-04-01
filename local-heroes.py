@@ -173,6 +173,7 @@ def writeGeoJson(entries):
                 'description': '<a href="' + entry['link'] + '">' + entry['link'] + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
+                'category': entry.get('category', None),
                 'tags': tags
             },
             'geometry': {
