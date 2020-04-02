@@ -15,7 +15,14 @@
         <meta property="og:site_name" content="LocalHeroesLeipzig" />
 
         <style type="text/css">
-            #mapid { height: 500px; }
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+            
+            .full-height {
+                height: 100%;
+            }
         </style>
         
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -26,7 +33,7 @@
         crossorigin=""></script>
     </head>
     <body>
-        <div id="mapid"></div>
+        <div id="mapid" class="full-height"></div>
         <script src="map.js"></script>
     </body>
 </html>
