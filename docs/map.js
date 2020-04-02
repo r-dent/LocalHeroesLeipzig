@@ -21,12 +21,21 @@ function onEachMapFeature(feature, layer) {
     } 
 }
 
+function renderMapMarker(geoJsonPoint, coordinatate) {
+    var icon = L.icon({
+        iconUrl: geoJsonPoint.properties.image,
+        iconSize: [38, 38]
+    });
+    return L.marker(coordinatate, {icon: icon})
+}
+
 function createCategoryLayers(geoJson) {
 
     for (const catId in categories) {
         const category = categories[catId]
         const geoLayer = L.geoJSON(geoJson, {
             onEachFeature: onEachMapFeature,
+            pointToLayer: renderMapMarker,
             filter: function(feature, layer) {
                 return feature.properties.category == category
             }
