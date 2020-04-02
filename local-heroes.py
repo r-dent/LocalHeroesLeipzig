@@ -171,6 +171,9 @@ def writeGeoJson(entries):
         if category == '':
             category = 'Sonstiges'
 
+        if category == 'Pizza':
+            category = 'Essen'
+
         geoEntry = {
             'type': 'Feature',
             'properties': {
