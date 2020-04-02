@@ -24,7 +24,10 @@ function onEachMapFeature(feature, layer) {
 function renderMapMarker(geoJsonPoint, coordinatate) {
     var icon = L.icon({
         iconUrl: geoJsonPoint.properties.image,
-        iconSize: [38, 38]
+        iconSize: [38, 38],
+        shadowUrl: 'shadow.svg',
+        shadowSize: [50, 50],
+        shadowAnchor: [25, 22]
     });
     return L.marker(coordinatate, {icon: icon})
 }
