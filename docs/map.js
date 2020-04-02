@@ -50,13 +50,17 @@ function hideLayer(id) {
 
 function selectCategory(selectedCategory) {
     console.log(selectedCategory)
+    var shownLayers = new Array()
+
     for (const category in categoryLayers) {
         if (category == selectedCategory || selectedCategory == 'all') {
             showLayer(category)
+            shownLayers.push(categoryLayers[category])
         } else {
             hideLayer(category)
         }
     }
+    mymap.fitBounds(L.featureGroup(shownLayers).getBounds())
 }
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
