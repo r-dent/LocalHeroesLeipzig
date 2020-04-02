@@ -11,6 +11,11 @@ crossorigin=""></script>
 
 <div id="mapid"></div>
 <script>
+
+    var mymap = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+    var categories = new Array();
+    var categoryLayers = [];
+
     function loadUrl(url, handler){
         const request = new XMLHttpRequest();
         request.open("GET", url);
@@ -19,26 +24,54 @@ crossorigin=""></script>
         request.onreadystatechange = (e) => {
             if (request.readyState == 4 && request.status == 200) {
                 handler(request.responseText)
-            } else {
-                console.log(request.status)
-                console.log(request.readyState)
             }
         }        
     }
 
-    function filterMapFeature(feature, layer) {
-        // return feature.properties.tags.includes('cafe');
-        return true
-    }
-
-    function didClickMapFeature(feature, layer) {
+    function onEachMapFeature(feature, layer) {
         // does this feature have a property named popupContent?
         if (feature.properties && feature.properties.name && feature.properties.description) {
             layer.bindPopup('<p>'+ feature.properties.name +'</p><p>'+ feature.properties.description +'</p>');
+        } 
+    }
+
+    function createCategoryLayers(geoJson) {
+
+        for (const catId in categories) {
+            const category = categories[catId]
+            const geoLayer = L.geoJSON(geoJson, {
+                onEachFeature: onEachMapFeature,
+                filter: function(feature, layer) {
+                    return feature.properties.category == category
+                }
+            })
+            categoryLayers[category] = geoLayer
+            geoLayer.addTo(mymap)
         }
     }
 
-    var mymap = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+    function showLayer(id) {
+        var group = categoryLayers[id];
+        if (!mymap.hasLayer(group)) {
+            group.addTo(mymap);   
+        }
+    }
+
+    function hideLayer(id) {
+        var lg = categoryLayers[id];
+        mymap.removeLayer(lg);   
+    }
+
+    function selectCategory(selectedCategory) {
+        console.log(selectedCategory)
+        for (const category in categoryLayers) {
+            if (category == selectedCategory) {
+                showLayer(category)
+            } else {
+                hideLayer(category)
+            }
+        }
+    }
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
         foo: 'bar', 
@@ -48,11 +81,43 @@ crossorigin=""></script>
 
 
     loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson', function(data){
-        var geoJson = JSON.parse(data);
-        L.geoJSON(geoJson, {
-            onEachFeature: didClickMapFeature,
-            filter: filterMapFeature
-        }).addTo(mymap);
+        const geoJson = JSON.parse(data);
+        const features = geoJson['features'];
+        var distinctCategories = new Set()
+
+        for (const feature in features) {
+            if (features[feature]['properties'].hasOwnProperty('category')) {
+                const category = features[feature]['properties']['category'];
+                distinctCategories.add(category)
+            }
+        }
+        categories = Array.from(distinctCategories)
+        console.log(categories);
+        
+        // Create category selection control.
+        var control = L.control({position: 'topright'});
+        control.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'command');
+
+            var categorySelection = '<form><select id="category-selection" name="category">'
+            for (const catId in categories) {
+                var category = categories[catId]
+                categorySelection += '<option value="'+ category +'">'+ category +'</option>'
+            }
+            categorySelection += '</select></form>'
+
+            div.innerHTML = categorySelection; 
+            return div;
+        };
+        control.addTo(mymap);
+
+        document
+            .getElementById('category-selection')
+            .addEventListener('change', function() {
+                selectCategory(this.value);
+            }, false);
+
+        createCategoryLayers(geoJson);
     }); 
 
     // L.marker([51.5, -0.09])
