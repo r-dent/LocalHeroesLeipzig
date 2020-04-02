@@ -175,7 +175,7 @@ def writeGeoJson(entries):
             'type': 'Feature',
             'properties': {
                 'name': entry['title'],
-                'description': '<a href="' + entry['link'] + '">' + entry['link'] + '</a>',
+                'description': '<a href="' + entry['link'] + '" target="_blank">' + entry['link'] + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
                 'category': category,

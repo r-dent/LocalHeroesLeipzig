@@ -51,7 +51,7 @@ function hideLayer(id) {
 function selectCategory(selectedCategory) {
     console.log(selectedCategory)
     for (const category in categoryLayers) {
-        if (category == selectedCategory) {
+        if (category == selectedCategory || selectedCategory == 'all') {
             showLayer(category)
         } else {
             hideLayer(category)
@@ -76,7 +76,7 @@ loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/loca
             distinctCategories.add(category)
         }
     }
-    categories = Array.from(distinctCategories)
+    categories = Array.from(distinctCategories).sort()
     console.log(categories);
     
     // Create category selection control.
@@ -85,6 +85,7 @@ loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/loca
         var div = L.DomUtil.create('div', 'command');
 
         var categorySelection = '<form><select id="category-selection" name="category">'
+        categorySelection += '<option value="all">Alle</option>'
         for (const catId in categories) {
             var category = categories[catId]
             categorySelection += '<option value="'+ category +'">'+ category +'</option>'
