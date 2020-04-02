@@ -4,6 +4,7 @@ import time
 import os
 import sys
 import math
+import html
 from difflib import SequenceMatcher
 
 GMapsApiKey = ''
@@ -166,6 +167,10 @@ def writeGeoJson(entries):
         if isLocality:
             continue
 
+        category = html.unescape(entry['category'])
+        if category == '':
+            category = 'Sonstiges'
+
         geoEntry = {
             'type': 'Feature',
             'properties': {
@@ -173,7 +178,7 @@ def writeGeoJson(entries):
                 'description': '<a href="' + entry['link'] + '">' + entry['link'] + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
-                'category': entry.get('category', None),
+                'category': category,
                 'tags': tags
             },
             'geometry': {
