@@ -322,7 +322,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Caf\u00e9 ELLA / Kleinzschocher",
+                "name": "Caf\u00e9 ELLA\u00a0 / Kleinzschocher",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
                 "description": "<a href=\"http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/\" target=\"_blank\">http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/</a>",
                 "url": "http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/",
@@ -545,6 +545,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Eine Welt e.V. / 3x",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+                "description": "<a href=\"http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/\" target=\"_blank\">http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/</a>",
+                "url": "http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/",
+                "address": "Bornaische Str. 18, 04277 Leipzig, Germany",
+                "category": "Einkaufen",
+                "tags": [
+                    "library",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3750913,
+                    51.30856190000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Einfach Unverpackt / 2x",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
                 "description": "<a href=\"http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/\" target=\"_blank\">http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/</a>",
@@ -620,7 +643,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ERNAS/ Zentrum-S\u00fcd",
+                "name": "ERNAS / Zentrum-S\u00fcd",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
                 "description": "<a href=\"http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/\" target=\"_blank\">http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/</a>",
                 "url": "http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/",
@@ -639,6 +662,31 @@
                 "coordinates": [
                     12.367732,
                     51.32538049999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Espresso Zack Zack\u00a0 / Neusch\u00f6nefeld",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+                "description": "<a href=\"https://www.startnext.com/wirgemeinsam\" target=\"_blank\">https://www.startnext.com/wirgemeinsam</a>",
+                "url": "https://www.startnext.com/wirgemeinsam",
+                "address": "Albert-Schweitzer-Stra\u00dfe 2, 04317 Leipzig, Germany",
+                "category": "Caf\u00e9",
+                "tags": [
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4042299,
+                    51.33278
                 ]
             }
         },
@@ -817,6 +865,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "lieber lose / Plagwitz",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+                "description": "<a href=\"https://www.lieberlose.de/\" target=\"_blank\">https://www.lieberlose.de/</a>",
+                "url": "https://www.lieberlose.de/",
+                "address": "\u00fcber, Wei\u00dfenfelser Str. 22 Eingang zum Ladengesch\u00e4ft:, Zschochersche Str., 04229 Leipzig, Germany",
+                "category": "Einkaufen",
+                "tags": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3382197,
+                    51.33119139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "maza pita / Schleu\u00dfig",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
                 "description": "<a href=\"https://mazapita.de/\" target=\"_blank\">https://mazapita.de/</a>",
@@ -835,6 +908,31 @@
                 "coordinates": [
                     12.3441573,
                     51.3242169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michaelis / Leipzig",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+                "description": "<a href=\"https://www.michaelis-leipzig.de/\" target=\"_blank\">https://www.michaelis-leipzig.de/</a>",
+                "url": "https://www.michaelis-leipzig.de/",
+                "address": "Paul-Gruner-Stra\u00dfe 44, 04107 Leipzig, Germany",
+                "category": "Essen",
+                "tags": [
+                    "lodging",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3745189,
+                    51.3284376
                 ]
             }
         },
@@ -1430,6 +1528,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Atelier 3Kleider / Lindenau",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+                "description": "<a href=\"http://local-heroes-leipzig.de/atelier-3kleider/\" target=\"_blank\">http://local-heroes-leipzig.de/atelier-3kleider/</a>",
+                "url": "http://local-heroes-leipzig.de/atelier-3kleider/",
+                "address": "Endersstra\u00dfe 6, 04177 Leipzig, Germany",
+                "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3304538,
+                    51.33502989999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Atelier Wolkengold / Mitte",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
                 "description": "<a href=\"https://www.atelier-wolkengold.de/\" target=\"_blank\">https://www.atelier-wolkengold.de/</a>",
@@ -1881,7 +2003,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ka:put/ Connewitz",
+                "name": "ka:put / Connewitz",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
                 "description": "<a href=\"https://www.ka-put.de/\" target=\"_blank\">https://www.ka-put.de/</a>",
                 "url": "https://www.ka-put.de/",
@@ -1999,7 +2121,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "luxaa/ Schleu\u00dfig",
+                "name": "luxaa / Schleu\u00dfig",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
                 "description": "<a href=\"https://www.luxaa.de/de/\" target=\"_blank\">https://www.luxaa.de/de/</a>",
                 "url": "https://www.luxaa.de/de/",
@@ -2397,6 +2519,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Atelier CALUN\u00c9 / Lindenau",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+                "description": "<a href=\"https://www.facebook.com/ateliercalune\" target=\"_blank\">https://www.facebook.com/ateliercalune</a>",
+                "url": "https://www.facebook.com/ateliercalune",
+                "address": "Merseburger Str. 84, 04177 Leipzig, Germany",
+                "category": "Prints und Kunstartikel",
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3291175,
+                    51.3365158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "balloonfantasy / S\u00fcdvorstadt",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
                 "description": "<a href=\"https://balloon-fantasy.de/\" target=\"_blank\">https://balloon-fantasy.de/</a>",
@@ -2507,6 +2653,30 @@
                 "coordinates": [
                     12.373345,
                     51.3089261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camolita / Lindenthal",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+                "description": "<a href=\"http://www.camolita.de/CAMOLITA-Shop/\" target=\"_blank\">http://www.camolita.de/CAMOLITA-Shop/</a>",
+                "url": "http://www.camolita.de/CAMOLITA-Shop/",
+                "address": "\u00c4u\u00dfere Raustra\u00dfe 22 a, 04158 Leipzig, Germany",
+                "category": "Interior und Dekoartikel",
+                "tags": [
+                    "art_gallery",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3324374,
+                    51.3834809
                 ]
             }
         },
@@ -2680,6 +2850,28 @@
                 "coordinates": [
                     12.3589777,
                     51.36243109999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filzwerkstatt / Gohlis",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+                "description": "<a href=\"https://woll-lust-leipzig.de/\" target=\"_blank\">https://woll-lust-leipzig.de/</a>",
+                "url": "https://woll-lust-leipzig.de/",
+                "address": "Daumierstra\u00dfe 5, 04157 Leipzig, Germany",
+                "category": "Stoffe und N\u00e4hbedarf",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3744823,
+                    51.3654634
                 ]
             }
         },
@@ -3228,7 +3420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rauch/ Zentrum-S\u00fcd",
+                "name": "Rauch / Zentrum-S\u00fcd",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
                 "description": "<a href=\"https://www.rauch-leipzig.de/index.html\" target=\"_blank\">https://www.rauch-leipzig.de/index.html</a>",
                 "url": "https://www.rauch-leipzig.de/index.html",
@@ -3626,11 +3818,11 @@
             "type": "Feature",
             "properties": {
                 "name": "WAXXi / Leipzig",
-                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/putzen.svg",
                 "description": "<a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\" target=\"_blank\">https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop</a>",
                 "url": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
                 "address": "Haferkornstra\u00dfe 15, 04129 Leipzig, Germany",
-                "category": "Stoffe und N\u00e4hbedarf",
+                "category": "Putzen und Haushaltswaren",
                 "tags": [
                     "home_goods_store",
                     "general_contractor",
@@ -3928,7 +4120,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Natur & Psyche/ Alt-Lindenau",
+                "name": "Natur & Psyche / Alt-Lindenau",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
                 "description": "<a href=\"http://heilpraktiker-becher-leipzig.de/\" target=\"_blank\">http://heilpraktiker-becher-leipzig.de/</a>",
                 "url": "http://heilpraktiker-becher-leipzig.de/",
@@ -4172,6 +4364,29 @@
                 "coordinates": [
                     12.3358363,
                     51.3279527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varadanza / Zentrum",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+                "description": "<a href=\"https://www.varadanza.com/\" target=\"_blank\">https://www.varadanza.com/</a>",
+                "url": "https://www.varadanza.com/",
+                "address": "Lagerhofstra\u00dfe 4, 04103 Leipzig, Germany",
+                "category": "Sport",
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3951695,
+                    51.3484091
                 ]
             }
         },
@@ -4512,6 +4727,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Urbanite / S\u00fcdvorstadt",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+                "description": "<a href=\"https://www.gofundme.com/f/your-urbanite-needs-you\" target=\"_blank\">https://www.gofundme.com/f/your-urbanite-needs-you</a>",
+                "url": "https://www.gofundme.com/f/your-urbanite-needs-you",
+                "address": "Kurt-Eisner-Stra\u00dfe 36, 04275 Leipzig, Germany",
+                "category": "B\u00fccher und Magazine",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.367953,
+                    51.3206975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "VARY / Zentrum-Ost",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
                 "description": "<a href=\"http://local-heroes-leipzig.de/vary-leipzig-zentrum-ost/\" target=\"_blank\">http://local-heroes-leipzig.de/vary-leipzig-zentrum-ost/</a>",
@@ -4670,6 +4907,28 @@
                 "coordinates": [
                     12.3319232,
                     51.3376494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trommelschule Yngo Gutmann / Zentrum",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+                "description": "<a href=\"https://www.trommel-kurse.de/\" target=\"_blank\">https://www.trommel-kurse.de/</a>",
+                "url": "https://www.trommel-kurse.de/",
+                "address": "Kregelstra\u00dfe 6, 04317 Leipzig, Germany",
+                "category": "Musik und Live\u00fcbertragungen",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4056566,
+                    51.32131039999999
                 ]
             }
         }

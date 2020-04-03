@@ -254,7 +254,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
-        "title": "Caf\u00e9 ELLA / Kleinzschocher",
+        "title": "Caf\u00e9 ELLA\u00a0 / Kleinzschocher",
         "link": "http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/",
         "sub-category": "Caf\u00e9 (Take Away & Bestellungen)",
         "category": "Caf&#xE9;",
@@ -528,7 +528,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
-        "title": "ERNAS/ Zentrum-S\u00fcd",
+        "title": "ERNAS / Zentrum-S\u00fcd",
         "link": "http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/",
         "sub-category": "Bistro (Lieferservice)",
         "category": "Pizza",
@@ -735,6 +735,26 @@
             "lon": 12.3441573,
             "address": "K\u00f6nneritzstra\u00dfe 49, 04229 Leipzig, Germany",
             "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "title": "Michaelis / Leipzig",
+        "link": "https://www.michaelis-leipzig.de/",
+        "sub-category": "Hotel & Restaurant (Website)",
+        "category": "Pizza",
+        "cleanTitle": "Michaelis",
+        "location": {
+            "lat": 51.3284376,
+            "lon": 12.3745189,
+            "address": "Paul-Gruner-Stra\u00dfe 44, 04107 Leipzig, Germany",
+            "tags": [
+                "lodging",
                 "restaurant",
                 "food",
                 "point_of_interest",
@@ -1544,7 +1564,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
-        "title": "Hermoosa/ Leipzig",
+        "title": "Hermoosa / Leipzig",
         "link": "https://www.etsy.com/de/shop/Hermoosa?ref=shop_sugg",
         "sub-category": "Schmuck (Etsy Shop)",
         "category": "Schmuck, Accessoires",
@@ -1606,7 +1626,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
-        "title": "ka:put/ Connewitz",
+        "title": "ka:put / Connewitz",
         "link": "https://www.ka-put.de/",
         "sub-category": "Bekleidung (Onlineshop)",
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1708,7 +1728,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
-        "title": "luxaa/ Schleu\u00dfig",
+        "title": "luxaa / Schleu\u00dfig",
         "link": "https://www.luxaa.de/de/",
         "sub-category": "Mode (Onlineshop)",
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2875,7 +2895,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
-        "title": "Rauch/ Zentrum-S\u00fcd",
+        "title": "Rauch / Zentrum-S\u00fcd",
         "link": "https://www.rauch-leipzig.de/index.html",
         "sub-category": "Haushaltswaren (Onlinebestellungen)",
         "category": "Interior und Dekoartikel",
@@ -3222,11 +3242,11 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/putzen.svg",
         "title": "WAXXi / Leipzig",
         "link": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
         "sub-category": "Haushaltswaren (Etsy Shop)",
-        "category": "Stoffe und N&#xE4;hbedarf",
+        "category": "Putzen und Haushaltswaren",
         "cleanTitle": "WAXXi",
         "location": {
             "lat": 51.3593416,
@@ -3461,7 +3481,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
-        "title": "Natur & Psyche/ Alt-Lindenau",
+        "title": "Natur & Psyche / Alt-Lindenau",
         "link": "http://heilpraktiker-becher-leipzig.de/",
         "sub-category": "Heilpraktiker (Sprechstunde & Gutscheinverkauf)",
         "category": "Yoga und Bewegung",
@@ -3656,7 +3676,7 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
-        "title": "Varadanza/ Zentrum",
+        "title": "Varadanza / Zentrum",
         "link": "https://www.varadanza.com/",
         "sub-category": "Flamenco Tanzstudio (Onlinekurse)",
         "category": "Sport",
@@ -3948,6 +3968,23 @@
             "lat": 51.331763,
             "lon": 12.3711205,
             "address": "Harkortstra\u00dfe 10, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "title": "Urbanite / S\u00fcdvorstadt",
+        "link": "https://www.gofundme.com/f/your-urbanite-needs-you",
+        "sub-category": "Stadtmagazin (Spendenaktion)",
+        "category": "B&#xFC;cher und Magazine",
+        "cleanTitle": "Urbanite",
+        "location": {
+            "lat": 51.3206975,
+            "lon": 12.367953,
+            "address": "Kurt-Eisner-Stra\u00dfe 36, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
