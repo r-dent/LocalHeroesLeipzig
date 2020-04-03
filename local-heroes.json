@@ -436,7 +436,8 @@
         "link": "https://www.likoerfabrik.com/",
         "sub-category": "Spirituosen (Bestellungen)",
         "category": "Spirituosen und Getr&#xE4;nke",
-        "cleanTitle": "Connewitzer Lik\u00f6rfabrik"
+        "cleanTitle": "Connewitzer Lik\u00f6rfabrik",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
@@ -444,7 +445,8 @@
         "link": "https://shop.doppelblick.org/",
         "sub-category": "Spirituosen (Onlineshop)",
         "category": "Spirituosen und Getr&#xE4;nke",
-        "cleanTitle": "Doppelblick"
+        "cleanTitle": "Doppelblick",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
@@ -1176,7 +1178,8 @@
         "link": "https://buntimo.de/",
         "sub-category": "Kleidung & Accessoires (Onlineshop)",
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "cleanTitle": "buntimo"
+        "cleanTitle": "buntimo",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
@@ -1468,7 +1471,8 @@
         "link": "https://www.etsy.com/de/shop/Hermoosa?ref=shop_sugg",
         "sub-category": "Schmuck (Etsy Shop)",
         "category": "Schmuck, Accessoires",
-        "cleanTitle": "Hermoosa"
+        "cleanTitle": "Hermoosa",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
@@ -1584,7 +1588,8 @@
         "link": "https://www.etsy.com/de/shop/lefuxs",
         "sub-category": "Schmuck (Etsy Shop)",
         "category": "Schmuck, Accessoires",
-        "cleanTitle": "le.fuxs"
+        "cleanTitle": "le.fuxs",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
@@ -1649,7 +1654,8 @@
         "link": "https://www.merle-kids.com/online-shop",
         "sub-category": "Kinderkleidung (Onlineshop)",
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "cleanTitle": "Merle Kids"
+        "cleanTitle": "Merle Kids",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
@@ -1766,7 +1772,8 @@
         "link": "https://www.rothoell.com/shop/",
         "sub-category": "Taschen & Accessoires (Onlineshop)",
         "category": "Taschen und Rucks&#xE4;cke",
-        "cleanTitle": "Roth\u00f6ll"
+        "cleanTitle": "Roth\u00f6ll",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
@@ -1848,7 +1855,8 @@
         "link": "https://www.etsy.com/de/shop/SonnenelchShop",
         "sub-category": "Accessoires (Etsy Shop)",
         "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "cleanTitle": "Sonnenelch"
+        "cleanTitle": "Sonnenelch",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
@@ -1910,7 +1918,8 @@
         "link": "https://thecamelia-bijoux.com/",
         "sub-category": "Schmuck (Onlineshop)",
         "category": "Schmuck, Accessoires",
-        "cleanTitle": "The Camelia Bijoux"
+        "cleanTitle": "The Camelia Bijoux",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
@@ -1972,7 +1981,8 @@
         "link": "https://www.yoursjules.com/",
         "sub-category": "Schmuck (Onlineshop)",
         "category": "Schmuck, Accessoires",
-        "cleanTitle": "Yours Jules"
+        "cleanTitle": "Yours Jules",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
@@ -2000,7 +2010,8 @@
         "link": "https://www.etsy.com/de/shop/AtelierZuendwerk",
         "sub-category": "Illustrationen & Kunstdrucke (Etsy Shop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "Atelier Z\u00fcndwerk"
+        "cleanTitle": "Atelier Z\u00fcndwerk",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
@@ -2119,7 +2130,8 @@
         "link": "https://www.etsy.com/de/shop/danpopillustration?ref=simple-shop-header-name&listing_id=670554244",
         "sub-category": "Illustrationen & Kunstdrucke (Etsy Shop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "DanPop Illustrationen"
+        "cleanTitle": "DanPop Illustrationen",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
@@ -2297,7 +2309,8 @@
         "link": "https://www.facebook.com/HappyPopUpMarket/",
         "sub-category": "Interieur & Sch\u00f6nes (Facebook-Seite)",
         "category": "Interior und Dekoartikel",
-        "cleanTitle": "Happy Pop-Up Market"
+        "cleanTitle": "Happy Pop-Up Market",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
@@ -2477,7 +2490,8 @@
         "link": "https://www.etsy.com/de/shop/JustePixx",
         "sub-category": "Fotoprints (Etsy Shop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "JustePixx"
+        "cleanTitle": "JustePixx",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
@@ -2592,7 +2606,8 @@
         "link": "https://www.etsy.com/shop/MahalyMacrame",
         "sub-category": "Dekoration (Etsy Shop)",
         "category": "Interior und Dekoartikel",
-        "cleanTitle": "MahalyMacrame"
+        "cleanTitle": "MahalyMacrame",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
@@ -2657,7 +2672,8 @@
         "link": "http://www.monaschaffer.com/portfolio/",
         "sub-category": "Kunst (Onlineshop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "Mona Schaffer"
+        "cleanTitle": "Mona Schaffer",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
@@ -2685,7 +2701,8 @@
         "link": "https://www.etsy.com/de/shop/NikitaRoytman",
         "sub-category": "Fotoprints (Etsy Shop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "Nikita Roytman"
+        "cleanTitle": "Nikita Roytman",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
@@ -2693,7 +2710,8 @@
         "link": "https://www.pappnoptikum.de/",
         "sub-category": "Papeterie (Onlineshop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "Pappnoptikum"
+        "cleanTitle": "Pappnoptikum",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
@@ -2739,7 +2757,8 @@
         "link": "https://www.etsy.com/de/shop/Rotberta?ref=search_shop_redirect",
         "sub-category": "Prints & Papeterie (Etsy Shop)",
         "category": "Prints und Kunstartikel",
-        "cleanTitle": "Rotberta"
+        "cleanTitle": "Rotberta",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
@@ -3040,7 +3059,8 @@
         "link": "https://www.etsy.com/de/shop/verknotet?ref=shop_sugg",
         "sub-category": "Makramee (Etsy Shop)",
         "category": "Interior und Dekoartikel",
-        "cleanTitle": "Verknotet"
+        "cleanTitle": "Verknotet",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
@@ -3594,7 +3614,8 @@
         "link": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
         "sub-category": "Musik (Onlinestream)",
         "category": "Musik und Live&#xFC;bertragungen",
-        "cleanTitle": "Eva Meitner"
+        "cleanTitle": "Eva Meitner",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
@@ -3677,7 +3698,8 @@
         "link": "http://www.ostblockschlampen.com/",
         "sub-category": "Musik (Live\u00fcbertragungen)",
         "category": "Musik und Live&#xFC;bertragungen",
-        "cleanTitle": "Ostblockschlampen"
+        "cleanTitle": "Ostblockschlampen",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
@@ -3801,7 +3823,8 @@
         "link": "https://www.gojo.me/",
         "sub-category": "Vocalcoaching (Onlinekurse)",
         "category": "Coaching und Online-Workshops",
-        "cleanTitle": "GOJO Music"
+        "cleanTitle": "GOJO Music",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
@@ -3844,7 +3867,8 @@
         "link": "https://lifestyle-emergency.com/",
         "sub-category": "Stilberatung (Onlinekurse)",
         "category": "Coaching und Online-Workshops",
-        "cleanTitle": "Lifestyle Emergency"
+        "cleanTitle": "Lifestyle Emergency",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",

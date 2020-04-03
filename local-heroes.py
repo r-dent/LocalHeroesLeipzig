@@ -5,6 +5,7 @@ import os
 import sys
 import math
 import html
+import re
 from difflib import SequenceMatcher
 
 GMapsApiKey = ''
@@ -106,9 +107,9 @@ def locationDistance(coord1, coord2):
     
     return 2*R*math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
-def addLocation(entries, updateAll = False):
+def addLocation(entries, updateAll = False, updateNoneEntries = False):
     for entry in entries:
-        if updateAll or not('location' in entry) or entry['location'] == None:
+        if updateAll or not('location' in entry) or (updateNoneEntries and entry['location'] == None):
             entry['location'] = findLocationGMaps(entry['title'].replace('/', ''))
             # time.sleep(1)
     return entries
@@ -130,10 +131,12 @@ def addOrUpdate(entries, updates):
     return newEntries
 
 def showStats(entries):
+    multiLocationRegEx = re.compile('[0-9]x', re.IGNORECASE)
     print(len(entries), 'Entries')
     print(sum(not('location' in e) or e['location'] == None for e in entries), 'without location')
     print(sum(e['category'] == '' for e in entries), 'without category')
     print(sum('>' in e['category'] for e in entries), 'with messy category')
+    print(sum(bool(multiLocationRegEx.search(e['title'])) for e in entries), 'with multiple locations')
 
 def loadEntriesFromFile(filePath):
     fileHandler = open(filePath, "r")
@@ -210,6 +213,10 @@ if 'refreshAllLocations' in sys.argv:
     # Update all location data.
     entries = addLocation(entries, updateAll = True)
 
+elif 'refreshNoneLocations' in sys.argv:
+    # Update location data where its missing or was not found.
+    entries = addLocation(entries, updateNoneEntries = True)
+
 elif 'updateLocations' in sys.argv:
     # Update location data where its missing
     entries = addLocation(entries)
@@ -226,13 +233,10 @@ if 'stats' in sys.argv:
     showStats(entries)
 
 if 'debug' in sys.argv:
+    print('No location founf for:')
     for e in entries:
-        if e['location'] != None:
-            dist = locationDistance(cityCenter, (e['location']['lat'], e['location']['lon']))
-            if dist > 20000:
-                print('dist to', e['cleanTitle'], '-', dist)
-                print('Address:', e['location']['address'])
-                print('is HUUUUGE')
+        if 'location' not in e or e['location'] == None:
+            print(e['title'], 'https://www.google.com/maps/search/' + e['title'].replace('/','').replace(' ','+'))
 
 if 'writeGeoJson' in sys.argv:
     writeGeoJson(entries)
