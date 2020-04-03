@@ -1,0 +1,89 @@
+/* Basics */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.full-height {
+    height: 100%;
+}
+
+/* Select */
+
+form {
+    padding-left: 43pt;
+}
+
+.select-wrapper {
+    position: relative;
+    /* width: 200px; */
+}
+
+.select-wrapper::before {
+    color: #000;
+    font-size: 20px;
+    pointer-events: none;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #fff;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px 1px rgba(0,0,0,.3);
+    color: #000;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    height: 40px;
+    outline: none;
+    padding-left: 10px;
+    width: 100%;
+}
+
+select option {
+    color: #666;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+select:focus::-ms-value {
+    background-color: transparent;
+}
+
+/* Loading */
+
+#loading {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.534);
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+.inner-circle {
+    fill: rgba(0, 0, 0, 0);
+    stroke: #fff;
+    stroke-width: 5;
+    stroke-dasharray: 150;
+    stroke-dashoffset: 50;
+}
+.spinner {
+    position: relative;
+    top: 40%;
+    -webkit-animation:spin 1s linear infinite;
+    -moz-animation:spin 1s linear infinite;
+    animation:spin 1s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }

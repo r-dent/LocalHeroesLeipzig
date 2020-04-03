@@ -14,7 +14,8 @@ function createMap() {
     //     }
     // ).addTo(map);
 
-    const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a>. Support your local heroes! ❤️' +
+    const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a> | ' +
+    '<a href="https://github.com/r-dent/LocalHeroesLeipzig" target="_blank">Code</a> on GitHub' +
     '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
     '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
     'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
@@ -48,7 +49,7 @@ function loadUrl(url, handler){
 function onEachMapFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties && feature.properties.name && feature.properties.description) {
-        layer.bindPopup('<p>'+ feature.properties.name +'</p><p>'+ feature.properties.description +'</p>');
+        layer.bindPopup('<h3>'+ feature.properties.name +'</h3><p>Kategorie: '+ feature.properties.category +'<br>'+ feature.properties.description +'</p>');
     } 
 }
 
@@ -126,13 +127,13 @@ function applyGeoData(data) {
     control.onAdd = function (map) {
         var div = L.DomUtil.create('div', 'command');
 
-        var categorySelection = '<form><select id="category-selection" name="category">'
+        var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
         categorySelection += '<option value="all">Alle</option>'
         for (const catId in categories) {
             var category = categories[catId]
             categorySelection += '<option value="'+ category +'">'+ category +'</option>'
         }
-        categorySelection += '</select></form>'
+        categorySelection += '</select></div></form>'
 
         div.innerHTML = categorySelection; 
         return div;
