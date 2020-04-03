@@ -1,6 +1,37 @@
-var mymap = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+const dataUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson';
 var categories = new Array();
 var categoryLayers = [];
+
+const map = createMap();
+loadUrl(dataUrl, applyGeoData); 
+
+function createMap() {
+    const map = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+
+    // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+    //     foo: 'bar', 
+    //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+    //     }
+    // ).addTo(map);
+
+    const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a>. Support your local heroes! ❤️' +
+    '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
+    '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
+    'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
+    const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
+
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
+        attribution: mapboxAttribution,
+        maxZoom: 18,
+        // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
+        id: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg'
+    }).addTo(map);
+
+    return map
+}
 
 function loadUrl(url, handler){
     const request = new XMLHttpRequest();
@@ -44,20 +75,20 @@ function createCategoryLayers(geoJson) {
             }
         })
         categoryLayers[category] = geoLayer
-        geoLayer.addTo(mymap)
+        geoLayer.addTo(map)
     }
 }
 
 function showLayer(id) {
     var group = categoryLayers[id];
-    if (!mymap.hasLayer(group)) {
-        group.addTo(mymap);   
+    if (!map.hasLayer(group)) {
+        group.addTo(map);   
     }
 }
 
 function hideLayer(id) {
     var lg = categoryLayers[id];
-    mymap.removeLayer(lg);   
+    map.removeLayer(lg);   
 }
 
 function selectCategory(selectedCategory) {
@@ -72,37 +103,14 @@ function selectCategory(selectedCategory) {
             hideLayer(category)
         }
     }
-    mymap.fitBounds(L.featureGroup(shownLayers).getBounds())
+    map.fitBounds(L.featureGroup(shownLayers).getBounds())
 }
 
+function applyGeoData(data) {
 
-// L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
-//     foo: 'bar', 
-//     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
-//     }
-// ).addTo(mymap);
-
-const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a>. Support your local heroes! ❤️' +
-    '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
-    '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
-    'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
-const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
-
-L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
-    attribution: mapboxAttribution,
-    maxZoom: 18,
-    // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
-    id: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
-    tileSize: 512,
-    zoomOffset: -1,
-    accessToken: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg'
-}).addTo(mymap);
-
-loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson', function(data){
     const geoJson = JSON.parse(data);
     const features = geoJson['features'];
     var distinctCategories = new Set()
-    document.getElementById('loading').remove()
 
     for (const feature in features) {
         if (features[feature]['properties'].hasOwnProperty('category')) {
@@ -129,7 +137,7 @@ loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/loca
         div.innerHTML = categorySelection; 
         return div;
     };
-    control.addTo(mymap);
+    control.addTo(map);
 
     document
         .getElementById('category-selection')
@@ -138,4 +146,5 @@ loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/loca
         }, false);
 
     createCategoryLayers(geoJson);
-}); 
+    document.getElementById('loading').remove()
+}
