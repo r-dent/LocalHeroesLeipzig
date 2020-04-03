@@ -23,6 +23,35 @@
             .full-height {
                 height: 100%;
             }
+
+            #loading {
+                position: absolute;
+                background: rgba(0, 0, 0, 0.534);
+                text-align: center;
+                height: 100%;
+                width: 100%;
+                top: 0;
+                left: 0;
+                z-index: 1000;
+            }
+
+            .inner-circle {
+                fill: rgba(0, 0, 0, 0);
+                stroke: #fff;
+                stroke-width: 5;
+                stroke-dasharray: 150;
+                stroke-dashoffset: 50;
+            }
+            .spinner {
+                position: relative;
+                top: 40%;
+                -webkit-animation:spin 1s linear infinite;
+                -moz-animation:spin 1s linear infinite;
+                animation:spin 1s linear infinite;
+            }
+            @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+            @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+            @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
         </style>
         
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -35,5 +64,10 @@
     <body>
         <div id="mapid" class="full-height"></div>
         <script src="map.js"></script>
+        <div id="loading">
+            <svg height="100" width="100" class="spinner">
+                <circle cx="50" cy="50" r="20" class="inner-circle" />
+            </svg>
+        </div>
     </body>
 </html>

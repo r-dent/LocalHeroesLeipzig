@@ -86,8 +86,9 @@ const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" tar
     '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
     '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
     'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
+const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
 
-L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}', {
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
     attribution: mapboxAttribution,
     maxZoom: 18,
     // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
@@ -101,6 +102,7 @@ loadUrl('https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/loca
     const geoJson = JSON.parse(data);
     const features = geoJson['features'];
     var distinctCategories = new Set()
+    document.getElementById('loading').remove()
 
     for (const feature in features) {
         if (features[feature]['properties'].hasOwnProperty('category')) {
