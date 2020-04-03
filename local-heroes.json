@@ -450,6 +450,24 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "title": "Eine Welt e.V. / 3x",
+        "link": "http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/",
+        "sub-category": "Fairtrade (Sonder\u00f6ffnungszeiten & Onlineshop)",
+        "category": "Einkaufen",
+        "cleanTitle": "Eine Welt e.V.",
+        "location": {
+            "lat": 51.30856190000001,
+            "lon": 12.3750913,
+            "address": "Bornaische Str. 18, 04277 Leipzig, Germany",
+            "tags": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
         "title": "Einfach Unverpackt / 2x",
         "link": "http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/",
         "sub-category": "Unverpacktladen (Sonder\u00f6ffnungszeiten)",
@@ -524,6 +542,26 @@
                 "restaurant",
                 "food",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "title": "Espresso Zack Zack\u00a0 / Neusch\u00f6nefeld",
+        "link": "https://www.startnext.com/wirgemeinsam",
+        "sub-category": "Caf\u00e9 (Crowdfunding)",
+        "category": "Caf&#xE9;",
+        "cleanTitle": "Espresso Zack Zack",
+        "location": {
+            "lat": 51.33278,
+            "lon": 12.4042299,
+            "address": "Albert-Schweitzer-Stra\u00dfe 2, 04317 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -661,6 +699,26 @@
                 "restaurant",
                 "food",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "title": "lieber lose / Plagwitz",
+        "link": "https://www.lieberlose.de/",
+        "sub-category": "Unverpacktladen (Sonder\u00f6ffnungszeiten)",
+        "category": "Einkaufen",
+        "cleanTitle": "lieber lose",
+        "location": {
+            "lat": 51.33119139999999,
+            "lon": 12.3382197,
+            "address": "\u00fcber, Wei\u00dfenfelser Str. 22 Eingang zum Ladengesch\u00e4ft:, Zschochersche Str., 04229 Leipzig, Germany",
+            "tags": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -1149,6 +1207,25 @@
             "address": "Gerhard-Ellrodt-Stra\u00dfe 24, 04249 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "title": "Atelier 3Kleider / Lindenau",
+        "link": "http://local-heroes-leipzig.de/atelier-3kleider/",
+        "sub-category": "Brautmode (Auftr\u00e4ge)",
+        "category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "cleanTitle": "Atelier 3Kleider",
+        "location": {
+            "lat": 51.33502989999999,
+            "lon": 12.3304538,
+            "address": "Endersstra\u00dfe 6, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
                 "establishment"
             ]
         }
@@ -2014,6 +2091,25 @@
         "location": null
     },
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "title": "Atelier CALUN\u00c9 / Lindenau",
+        "link": "https://www.facebook.com/ateliercalune",
+        "sub-category": "Tattoo Studio (Gutscheinverkauf)",
+        "category": "Prints und Kunstartikel",
+        "cleanTitle": "Atelier CALUN\u00c9",
+        "location": {
+            "lat": 51.3365158,
+            "lon": 12.3291175,
+            "address": "Merseburger Str. 84, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
         "title": "balloonfantasy / S\u00fcdvorstadt",
         "link": "https://balloon-fantasy.de/",
@@ -2105,6 +2201,25 @@
         }
     },
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "title": "Camolita / Lindenthal",
+        "link": "http://www.camolita.de/CAMOLITA-Shop/",
+        "sub-category": "Keramik (Onlineshop)",
+        "category": "Interior und Dekoartikel",
+        "cleanTitle": "Camolita",
+        "location": {
+            "lat": 51.3834809,
+            "lon": 12.3324374,
+            "address": "\u00c4u\u00dfere Raustra\u00dfe 22 a, 04158 Leipzig, Germany",
+            "tags": [
+                "art_gallery",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
         "title": "Candy Company / Lindenau",
         "link": "https://www.candy-collection.de/",
@@ -2149,6 +2264,15 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "title": "Ed & Emilia / Leipzig",
+        "link": "https://edundemilia.com/ueber/",
+        "sub-category": "Keramik (Website)",
+        "category": "Interior und Dekoartikel",
+        "cleanTitle": "Ed & Emilia",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schreibwaren.svg",
@@ -2247,6 +2371,23 @@
                 "home_goods_store",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "title": "Filzwerkstatt / Gohlis",
+        "link": "https://woll-lust-leipzig.de/",
+        "sub-category": "Handarbeiten (Bestellungen)",
+        "category": "Stoffe und N&#xE4;hbedarf",
+        "cleanTitle": "Filzwerkstatt",
+        "location": {
+            "lat": 51.3654634,
+            "lon": 12.3744823,
+            "address": "Daumierstra\u00dfe 5, 04157 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -2853,6 +2994,15 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "title": "Sina Villinger / St\u00f6tteritz",
+        "link": "https://sinavillinger.com/",
+        "sub-category": "Familienfotografie (Gutscheinverkauf)",
+        "category": "Prints und Kunstartikel",
+        "cleanTitle": "Sina Villinger",
+        "location": null
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
         "title": "Slinga Illustration / Abtnaundorf",
         "link": "https://www.slingashop.de/",
         "sub-category": "Illustrationen (Onlineshop)",
@@ -2930,6 +3080,15 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "title": "SusaMi / Leipzig",
+        "link": "http://local-heroes-leipzig.de/susami-leipzig/",
+        "sub-category": "Handgemachtes (Bestellungen)",
+        "category": "Stoffe und N&#xE4;hbedarf",
+        "cleanTitle": "SusaMi",
+        "location": null
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
@@ -3496,6 +3655,24 @@
         }
     },
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "title": "Varadanza/ Zentrum",
+        "link": "https://www.varadanza.com/",
+        "sub-category": "Flamenco Tanzstudio (Onlinekurse)",
+        "category": "Sport",
+        "cleanTitle": "Varadanza",
+        "location": {
+            "lat": 51.3484091,
+            "lon": 12.3951695,
+            "address": "Lagerhofstra\u00dfe 4, 04103 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
         "title": "Buchhandlung Gr\u00fcmmer / Plagwitz",
         "link": "https://www.buchhandlung-gruemmer.de/",
@@ -3845,6 +4022,15 @@
     },
     {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "title": "Kini Kana / Leipzig",
+        "link": "https://play.google.com/store/apps/details?id=de.avata.kinikana",
+        "sub-category": "Live-Coaching (App)",
+        "category": "Coaching und Online-Workshops",
+        "cleanTitle": "Kini Kana",
+        "location": null
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
         "title": "Lena Staudigl / S\u00fcdvorstadt",
         "link": "https://www.lenastaudigl.de/onlinesession",
         "sub-category": "Coaching & Beratung (Online Sessions)",
@@ -3919,6 +4105,23 @@
                 "school",
                 "gym",
                 "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "title": "Trommelschule Yngo Gutmann / Zentrum",
+        "link": "https://www.trommel-kurse.de/",
+        "sub-category": "Musik (Onlinekurse)",
+        "category": "Musik und Live&#xFC;bertragungen",
+        "cleanTitle": "Trommelschule Yngo Gutmann",
+        "location": {
+            "lat": 51.32131039999999,
+            "lon": 12.4056566,
+            "address": "Kregelstra\u00dfe 6, 04317 Leipzig, Germany",
+            "tags": [
                 "point_of_interest",
                 "establishment"
             ]

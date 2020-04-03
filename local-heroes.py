@@ -118,7 +118,7 @@ def addOrUpdate(entries, updates):
     newEntries = []
     for update in updates:
         for entry in entries:
-            if areSimilar(entry['title'], update['title']) and 'location' in entry and entry['location'] != None:
+            if areSimilar(entry['title'], update['title']) and 'location' in entry:
                 update['location'] = entry['location']
                 break
         
@@ -209,6 +209,11 @@ def writeGeoJson(entries):
 
 entries = loadEntriesFromFile(cacheFileName)
 
+if 'loadApi' in sys.argv:
+    # Load api data to cache.
+    newEntries = loadLocalsFromApi()
+    entries = addOrUpdate(entries, newEntries)
+
 if 'refreshAllLocations' in sys.argv:
     # Update all location data.
     entries = addLocation(entries, updateAll = True)
@@ -220,11 +225,6 @@ elif 'refreshNoneLocations' in sys.argv:
 elif 'updateLocations' in sys.argv:
     # Update location data where its missing
     entries = addLocation(entries)
-
-elif 'loadApi' in sys.argv:
-    # Load api data to cache.
-    newEntries = loadLocalsFromApi()
-    entries = addOrUpdate(entries, newEntries)
 
 elif 'geocode' in sys.argv and len(sys.argv) == 3:
     findLocationGMaps(sys.argv[2])
