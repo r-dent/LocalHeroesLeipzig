@@ -11,7 +11,7 @@ class LocalHeroesMap {
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
 
-        const repositoryBaseUrl = 'https://rawcdn.githack.com/r-dent/LocalHeroesLeipzig/d68047bb177864cf1a153a0c5b742bcf21f6bc3a/'
+        const repositoryBaseUrl = 'https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/'
         const dataUrl = repositoryBaseUrl +'local-heroes-leipzig.geojson';
         const cssUrl = (this.isLocal ? '' : repositoryBaseUrl +'docs/') +'map-style.css'
 
@@ -65,7 +65,7 @@ class LocalHeroesMap {
         var icon = L.icon({
             iconUrl: geoJsonPoint.properties.image,
             iconSize: [38, 38],
-            shadowUrl: (this.isLocal ? '' : repositoryBaseUrl +'docs/') +'shadow.svg',
+            shadowUrl: (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'shadow.svg',
             shadowSize: [50, 50],
             shadowAnchor: [25, 22]
         });
