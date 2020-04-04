@@ -1,14 +1,27 @@
 class LocalHeroesMap {
 
-    categories = new Array();
-    categoryLayers = [];
-    map
-
     constructor(mapElementId) {
+        this.categories = new Array();
+        this.categoryLayers = [];
+        this.map = undefined
 
-        const dataUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson';
-        this.map = this.createMap(mapElementId);
-        this.loadUrl(dataUrl, (data) => this.applyGeoData(data)); 
+        // Add loading layer DOM.
+        var mapContainer = document.getElementById(mapElementId)
+        mapContainer.classList.add('lh-mp-ctnr')
+        mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
+
+        const repositoryBaseUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/'
+        const dataUrl = repositoryBaseUrl +'local-heroes-leipzig.geojson';
+        const cssUrl = repositoryBaseUrl +'docs/map-style.css'
+
+        LocalHeroesHelper.loadCss(cssUrl)
+        LocalHeroesHelper.loadCss('https://use.fontawesome.com/releases/v5.8.1/css/all.css')
+        LocalHeroesHelper.loadCss('https://unpkg.com/leaflet@1.6.0/dist/leaflet.css')
+        LocalHeroesHelper.loadScript('https://unpkg.com/leaflet@1.6.0/dist/leaflet.js', () => {
+            this.map = this.createMap(mapElementId);
+            LocalHeroesHelper.loadUrl(dataUrl, (data) => this.applyGeoData(data)); 
+        })
+
     }
 
     createMap(mapElementId) {
@@ -38,18 +51,6 @@ class LocalHeroesMap {
         }).addTo(map);
 
         return map
-    }
-
-    loadUrl(url, handler){
-        const request = new XMLHttpRequest();
-        request.open("GET", url);
-        request.send();
-
-        request.onreadystatechange = (e) => {
-            if (request.readyState == 4 && request.status == 200) {
-                handler(request.responseText)
-            }
-        }        
     }
 
     onEachMapFeature(feature, layer) {
@@ -153,5 +154,38 @@ class LocalHeroesMap {
 
         this.createCategoryLayers(geoJson);
         document.getElementById('loading').remove()
+    }
+}
+
+class LocalHeroesHelper {
+
+    static loadScript(url, callback) {
+        var scriptNode = document.createElement("script"); 
+        scriptNode.type = 'text/javascript';
+        scriptNode.src = url;
+        scriptNode.onreadystatechange = callback
+        scriptNode.onload = callback
+    
+        document.head.appendChild(scriptNode);
+    }
+
+    static loadCss(url) {
+        var cssNode = document.createElement("link"); 
+        cssNode.rel = 'stylesheet';
+        cssNode.href = url
+    
+        document.head.appendChild(cssNode);
+    }
+
+    static loadUrl(url, handler){
+        const request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send();
+
+        request.onreadystatechange = (e) => {
+            if (request.readyState == 4 && request.status == 200) {
+                handler(request.responseText)
+            }
+        }        
     }
 }

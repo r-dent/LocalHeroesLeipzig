@@ -1,25 +1,15 @@
-/* Basics */
-
-html, body {
-    height: 100%;
-    margin: 0;
-}
-.full-height {
-    height: 100%;
-}
-
 /* Select */
 
-form {
+.lh-mp-ctnr form {
     padding-left: 43pt;
 }
 
-.select-wrapper {
+.lh-mp-ctnr .select-wrapper {
     position: relative;
     /* width: 200px; */
 }
 
-.select-wrapper::before {
+.lh-mp-ctnr .select-wrapper::before {
     color: #000;
     font-size: 20px;
     pointer-events: none;
@@ -28,7 +18,7 @@ form {
     top: 10px;
 }
 
-select {
+.lh-mp-ctnr select {
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
@@ -46,21 +36,21 @@ select {
     width: 100%;
 }
 
-select option {
+.lh-mp-ctnr select option {
     color: #666;
 }
 
-select::-ms-expand {
+.lh-mp-ctnr select::-ms-expand {
     display: none;
 }
 
-select:focus::-ms-value {
+.lh-mp-ctnr select:focus::-ms-value {
     background-color: transparent;
 }
 
 /* Loading */
 
-#loading {
+.lh-mp-ctnr #loading {
     position: absolute;
     background: rgba(0, 0, 0, 0.534);
     text-align: center;
@@ -70,20 +60,20 @@ select:focus::-ms-value {
     left: 0;
     z-index: 1000;
 }
-.inner-circle {
+.lh-mp-ctnr .inner-circle {
     fill: rgba(0, 0, 0, 0);
     stroke: #fff;
     stroke-width: 5;
     stroke-dasharray: 150;
     stroke-dashoffset: 50;
 }
-.spinner {
+.lh-mp-ctnr .spinner {
     position: relative;
     top: 40%;
-    -webkit-animation:spin 1s linear infinite;
-    -moz-animation:spin 1s linear infinite;
-    animation:spin 1s linear infinite;
+    -webkit-animation:lh-mp-ctnr-spin 1s linear infinite;
+    -moz-animation:lh-mp-ctnr-spin 1s linear infinite;
+    animation:lh-mp-ctnr-spin 1s linear infinite;
 }
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+@-moz-keyframes lh-mp-ctnr-spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes lh-mp-ctnr-spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes lh-mp-ctnr-spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
