@@ -4,15 +4,16 @@ class LocalHeroesMap {
         this.categories = new Array();
         this.categoryLayers = [];
         this.map = undefined
+        this.isLocal = location.hostname == 'localhost'
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
 
-        const repositoryBaseUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/'
+        const repositoryBaseUrl = 'https://rawcdn.githack.com/r-dent/LocalHeroesLeipzig/d68047bb177864cf1a153a0c5b742bcf21f6bc3a/'
         const dataUrl = repositoryBaseUrl +'local-heroes-leipzig.geojson';
-        const cssUrl = repositoryBaseUrl +'docs/map-style.css'
+        const cssUrl = (this.isLocal ? '' : repositoryBaseUrl +'docs/') +'map-style.css'
 
         LocalHeroesHelper.loadCss(cssUrl)
         LocalHeroesHelper.loadCss('https://use.fontawesome.com/releases/v5.8.1/css/all.css')
@@ -64,7 +65,7 @@ class LocalHeroesMap {
         var icon = L.icon({
             iconUrl: geoJsonPoint.properties.image,
             iconSize: [38, 38],
-            shadowUrl: 'shadow.svg',
+            shadowUrl: (this.isLocal ? '' : repositoryBaseUrl +'docs/') +'shadow.svg',
             shadowSize: [50, 50],
             shadowAnchor: [25, 22]
         });
@@ -77,7 +78,7 @@ class LocalHeroesMap {
             const category = this.categories[catId]
             const geoLayer = L.geoJSON(geoJson, {
                 onEachFeature: this.onEachMapFeature,
-                pointToLayer: this.renderMapMarker,
+                pointToLayer: (point, coord) => this.renderMapMarker(point, coord),
                 filter: function(feature, layer) {
                     return feature.properties.category == category
                 }
