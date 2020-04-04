@@ -1,6 +1,6 @@
 class LocalHeroesMap {
 
-    constructor(mapElementId) {
+    constructor(mapElementId, options) {
         this.categories = new Array();
         this.categoryLayers = [];
         this.map = undefined
@@ -19,37 +19,39 @@ class LocalHeroesMap {
         LocalHeroesHelper.loadCss('https://use.fontawesome.com/releases/v5.8.1/css/all.css')
         LocalHeroesHelper.loadCss('https://unpkg.com/leaflet@1.6.0/dist/leaflet.css')
         LocalHeroesHelper.loadScript('https://unpkg.com/leaflet@1.6.0/dist/leaflet.js', () => {
-            this.map = this.createMap(mapElementId);
+            this.map = this.createMap(mapElementId, options);
             LocalHeroesHelper.loadUrl(dataUrl, (data) => this.applyGeoData(data)); 
         })
-
     }
 
-    createMap(mapElementId) {
+    createMap(mapElementId, {mapBoxKey, mapBoxStyle}) {
         const map = L.map(mapElementId).setView([51.3396955, 12.3730747], 13);
 
-        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
-        //     foo: 'bar', 
-        //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
-        //     }
-        // ).addTo(map);
-
-        const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a> | ' +
-        '<a href="https://github.com/r-dent/LocalHeroesLeipzig" target="_blank">Code</a> on GitHub' +
-        '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
-        '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
-        'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
-        const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
-
-        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
-            attribution: mapboxAttribution,
-            maxZoom: 18,
-            // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
-            id: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
-            tileSize: 512,
-            zoomOffset: -1,
-            accessToken: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg'
-        }).addTo(map);
+        if (mapBoxKey !== undefined && typeof(mapBoxKey) == 'string' && mapBoxKey.length > 0) {
+            // Use Mapbox if key is provided.
+            const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a> | ' +
+            '<a href="https://github.com/r-dent/LocalHeroesLeipzig" target="_blank">Code</a> on GitHub' +
+            '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
+            '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
+            'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
+            const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
+            const useCustomStyle = (mapBoxStyle !== undefined && typeof(mapBoxStyle) == 'string' && mapBoxStyle.length > 0)
+    
+            L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
+                attribution: mapboxAttribution,
+                maxZoom: 18,
+                id: (useCustomStyle ? mapBoxStyle : 'mapbox/streets-v11'),
+                tileSize: 512,
+                zoomOffset: -1,
+                accessToken: mapBoxKey,
+            }).addTo(map);
+        } else {
+            // Use OpenStreetMap as fallback.
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+                foo: 'bar', 
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+            }).addTo(map);
+        }
 
         return map
     }
@@ -112,7 +114,6 @@ class LocalHeroesMap {
                 this.hideLayer(category)
             }
         }
-        console.log(shownLayers)
         this.map.fitBounds(L.featureGroup(shownLayers).getBounds())
     }
 
