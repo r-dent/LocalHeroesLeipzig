@@ -1,151 +1,157 @@
-const dataUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson';
-var categories = new Array();
-var categoryLayers = [];
+class LocalHeroesMap {
 
-const map = createMap();
-loadUrl(dataUrl, applyGeoData); 
+    categories = new Array();
+    categoryLayers = [];
+    map
 
-function createMap() {
-    const map = L.map('mapid').setView([51.3396955, 12.3730747], 13);
+    constructor(mapElementId) {
 
-    // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
-    //     foo: 'bar', 
-    //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
-    //     }
-    // ).addTo(map);
+        const dataUrl = 'https://raw.githubusercontent.com/r-dent/LocalHeroesLeipzig/master/local-heroes-leipzig.geojson';
+        this.map = this.createMap(mapElementId);
+        this.loadUrl(dataUrl, (data) => this.applyGeoData(data)); 
+    }
 
-    const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a> | ' +
-    '<a href="https://github.com/r-dent/LocalHeroesLeipzig" target="_blank">Code</a> on GitHub' +
-    '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
-    '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
-    'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
-    const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
+    createMap(mapElementId) {
+        const map = L.map(mapElementId).setView([51.3396955, 12.3730747], 13);
 
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
-        attribution: mapboxAttribution,
-        maxZoom: 18,
-        // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
-        id: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
-        tileSize: 512,
-        zoomOffset: -1,
-        accessToken: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg'
-    }).addTo(map);
+        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+        //     foo: 'bar', 
+        //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+        //     }
+        // ).addTo(map);
 
-    return map
-}
+        const mapboxAttribution = 'Data by <a href="http://local-heroes-leipzig.de/" target="_blank">Local Heroes Leipzig</a> | ' +
+        '<a href="https://github.com/r-dent/LocalHeroesLeipzig" target="_blank">Code</a> on GitHub' +
+        '<br>Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, ' +
+        '<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, ' + 
+        'Imagery © <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>'
+        const retinaPart = (window.devicePixelRatio > 1) ? '@2x' : ''
 
-function loadUrl(url, handler){
-    const request = new XMLHttpRequest();
-    request.open("GET", url);
-    request.send();
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}'+ retinaPart +'?access_token={accessToken}', {
+            attribution: mapboxAttribution,
+            maxZoom: 18,
+            // id: 'romangille/ck8g1ibs03ova1invnww8pjje',
+            id: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg'
+        }).addTo(map);
 
-    request.onreadystatechange = (e) => {
-        if (request.readyState == 4 && request.status == 200) {
-            handler(request.responseText)
-        }
-    }        
-}
+        return map
+    }
 
-function onEachMapFeature(feature, layer) {
-    // does this feature have a property named popupContent?
-    if (feature.properties && feature.properties.name && feature.properties.description) {
-        layer.bindPopup('<h3>'+ feature.properties.name +'</h3><p>Kategorie: '+ feature.properties.category +'<br>'+ feature.properties.description +'</p>');
-    } 
-}
+    loadUrl(url, handler){
+        const request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send();
 
-function renderMapMarker(geoJsonPoint, coordinatate) {
-    var icon = L.icon({
-        iconUrl: geoJsonPoint.properties.image,
-        iconSize: [38, 38],
-        shadowUrl: 'shadow.svg',
-        shadowSize: [50, 50],
-        shadowAnchor: [25, 22]
-    });
-    return L.marker(coordinatate, {icon: icon})
-}
-
-function createCategoryLayers(geoJson) {
-
-    for (const catId in categories) {
-        const category = categories[catId]
-        const geoLayer = L.geoJSON(geoJson, {
-            onEachFeature: onEachMapFeature,
-            pointToLayer: renderMapMarker,
-            filter: function(feature, layer) {
-                return feature.properties.category == category
+        request.onreadystatechange = (e) => {
+            if (request.readyState == 4 && request.status == 200) {
+                handler(request.responseText)
             }
-        })
-        categoryLayers[category] = geoLayer
-        geoLayer.addTo(map)
+        }        
     }
-}
 
-function showLayer(id) {
-    var group = categoryLayers[id];
-    if (!map.hasLayer(group)) {
-        group.addTo(map);   
+    onEachMapFeature(feature, layer) {
+        // does this feature have a property named popupContent?
+        if (feature.properties && feature.properties.name && feature.properties.description) {
+            layer.bindPopup('<h3>'+ feature.properties.name +'</h3><p>Kategorie: '+ feature.properties.category +'<br>'+ feature.properties.description +'</p>');
+        } 
     }
-}
 
-function hideLayer(id) {
-    var lg = categoryLayers[id];
-    map.removeLayer(lg);   
-}
+    renderMapMarker(geoJsonPoint, coordinatate) {
+        var icon = L.icon({
+            iconUrl: geoJsonPoint.properties.image,
+            iconSize: [38, 38],
+            shadowUrl: 'shadow.svg',
+            shadowSize: [50, 50],
+            shadowAnchor: [25, 22]
+        });
+        return L.marker(coordinatate, {icon: icon})
+    }
 
-function selectCategory(selectedCategory) {
-    console.log(selectedCategory)
-    var shownLayers = new Array()
+    createCategoryLayers(geoJson) {
 
-    for (const category in categoryLayers) {
-        if (category == selectedCategory || selectedCategory == 'all') {
-            showLayer(category)
-            shownLayers.push(categoryLayers[category])
-        } else {
-            hideLayer(category)
+        for (const catId in this.categories) {
+            const category = this.categories[catId]
+            const geoLayer = L.geoJSON(geoJson, {
+                onEachFeature: this.onEachMapFeature,
+                pointToLayer: this.renderMapMarker,
+                filter: function(feature, layer) {
+                    return feature.properties.category == category
+                }
+            })
+            this.categoryLayers[category] = geoLayer
+            geoLayer.addTo(this.map)
         }
     }
-    map.fitBounds(L.featureGroup(shownLayers).getBounds())
-}
 
-function applyGeoData(data) {
-
-    const geoJson = JSON.parse(data);
-    const features = geoJson['features'];
-    var distinctCategories = new Set()
-
-    for (const feature in features) {
-        if (features[feature]['properties'].hasOwnProperty('category')) {
-            const category = features[feature]['properties']['category'];
-            distinctCategories.add(category)
+    showLayer(id) {
+        var group = this.categoryLayers[id];
+        if (!this.map.hasLayer(group)) {
+            group.addTo(this.map);   
         }
     }
-    categories = Array.from(distinctCategories).sort()
-    console.log(categories);
-    
-    // Create category selection control.
-    var control = L.control({position: 'topright'});
-    control.onAdd = function (map) {
-        var div = L.DomUtil.create('div', 'command');
 
-        var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
-        categorySelection += '<option value="all">Alle</option>'
-        for (const catId in categories) {
-            var category = categories[catId]
-            categorySelection += '<option value="'+ category +'">'+ category +'</option>'
+    hideLayer(id) {
+        var lg = this.categoryLayers[id];
+        this.map.removeLayer(lg);   
+    }
+
+    selectCategory(selectedCategory) {
+        console.log(selectedCategory)
+        var shownLayers = new Array()
+
+        for (const category in this.categoryLayers) {
+            if (category == selectedCategory || selectedCategory == 'all') {
+                this.showLayer(category)
+                shownLayers.push(this.categoryLayers[category])
+            } else {
+                this.hideLayer(category)
+            }
         }
-        categorySelection += '</select></div></form>'
+        console.log(shownLayers)
+        this.map.fitBounds(L.featureGroup(shownLayers).getBounds())
+    }
 
-        div.innerHTML = categorySelection; 
-        return div;
-    };
-    control.addTo(map);
+    applyGeoData(data) {
 
-    document
-        .getElementById('category-selection')
-        .addEventListener('change', function() {
-            selectCategory(this.value);
-        }, false);
+        const geoJson = JSON.parse(data);
+        const features = geoJson['features'];
+        var distinctCategories = new Set()
 
-    createCategoryLayers(geoJson);
-    document.getElementById('loading').remove()
+        for (const feature in features) {
+            if (features[feature]['properties'].hasOwnProperty('category')) {
+                const category = features[feature]['properties']['category'];
+                distinctCategories.add(category)
+            }
+        }
+        this.categories = Array.from(distinctCategories).sort()
+        console.log(this.categories);
+        
+        // Create category selection control.
+        var control = L.control({position: 'topright'});
+        control.onAdd = (map) => {
+            var div = L.DomUtil.create('div', 'command');
+
+            var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
+            categorySelection += '<option value="all">Alle</option>'
+            for (const catId in this.categories) {
+                var category = this.categories[catId]
+                categorySelection += '<option value="'+ category +'">'+ category +'</option>'
+            }
+            categorySelection += '</select></div></form>'
+
+            div.innerHTML = categorySelection; 
+            return div;
+        };
+        control.addTo(this.map);
+
+        document
+            .getElementById('category-selection')
+            .addEventListener('change', (event) => this.selectCategory(event.target.value), false);
+
+        this.createCategoryLayers(geoJson);
+        document.getElementById('loading').remove()
+    }
 }
