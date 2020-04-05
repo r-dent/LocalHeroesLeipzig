@@ -1036,6 +1036,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "PAN / Lindenau",
+                "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+                "description": "<a href=\"http://local-heroes-leipzig.de/pan-leipzig-lindenau/\" target=\"_blank\">http://local-heroes-leipzig.de/pan-leipzig-lindenau/</a>",
+                "url": "http://local-heroes-leipzig.de/pan-leipzig-lindenau/",
+                "address": "Lindenauer Markt 21, 04177 Leipzig, Germany",
+                "category": "Essen",
+                "tags": [
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3333883,
+                    51.3377971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "PEKAR / Lindenau",
                 "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
                 "description": "<a href=\"http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/\" target=\"_blank\">http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/</a>",

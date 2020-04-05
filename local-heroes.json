@@ -155,6 +155,15 @@
         }
     },
     {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "title": "BERT & BERGER / Lindenau",
+        "link": "http://local-heroes-leipzig.de/bert-berger-leipzig-lindenau/",
+        "sub-category": "Konditorei (Samstagsmarkt)",
+        "category": "Caf&#xE9;",
+        "cleanTitle": "BERT & BERGER",
+        "location": null
+    },
+    {
         "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
         "title": "Biomare / 3x",
         "link": "http://local-heroes-leipzig.de/biomare-leipzig/",
@@ -833,6 +842,25 @@
                 "park",
                 "bar",
                 "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "title": "PAN / Lindenau",
+        "link": "http://local-heroes-leipzig.de/pan-leipzig-lindenau/",
+        "sub-category": "Mittagstisch (Lieferservice & Take Away)",
+        "category": "Pizza",
+        "cleanTitle": "PAN",
+        "location": {
+            "lat": 51.3377971,
+            "lon": 12.3333883,
+            "address": "Lindenauer Markt 21, 04177 Leipzig, Germany",
+            "tags": [
+                "cafe",
                 "food",
                 "point_of_interest",
                 "establishment"
