@@ -1,6 +1,6 @@
 class LocalHeroesMap {
 
-    constructor(mapElementId, options) {
+    constructor(mapElementId, options = {}) {
         this.categories = new Array();
         this.categoryLayers = [];
         this.map = undefined
