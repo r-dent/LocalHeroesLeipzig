@@ -6,6 +6,7 @@ class LocalHeroesMap {
         this.map = undefined
         this.isLocal = location.hostname == 'localhost'
         this.repositoryBaseUrl = 'https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/'
+        this.clusterZoom = options.clusterBelowZoom 
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
@@ -22,6 +23,11 @@ class LocalHeroesMap {
             this.map = this.createMap(mapElementId, options);
             LocalHeroesHelper.loadUrl(dataUrl, (data) => this.applyGeoData(data)); 
         })
+        // Add cluster css when clustering is enabled.
+        if (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number') {
+            LocalHeroesHelper.loadCss('https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css')
+            LocalHeroesHelper.loadCss('https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css')
+        }
     }
 
     createMap(mapElementId, {mapBoxKey, mapBoxStyle}) {
@@ -76,6 +82,8 @@ class LocalHeroesMap {
 
     createCategoryLayers(geoJson) {
 
+        const useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
+
         for (const catId in this.categories) {
             const category = this.categories[catId]
             const geoLayer = L.geoJSON(geoJson, {
@@ -86,7 +94,21 @@ class LocalHeroesMap {
                 }
             })
             this.categoryLayers[category] = geoLayer
-            geoLayer.addTo(this.map)
+            if (!useClustering) {
+                geoLayer.addTo(this.map)
+            }
+        }
+
+        if (useClustering) {
+            LocalHeroesHelper.loadScript('https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js', () => {
+                var markers = L.markerClusterGroup({
+                    disableClusteringAtZoom: 15
+                });
+                for (const id in this.categoryLayers) {
+                    markers.addLayer(this.categoryLayers[id])
+                }
+                this.map.addLayer(markers)
+            })
         }
     }
 
@@ -161,7 +183,7 @@ class LocalHeroesMap {
 
 class LocalHeroesHelper {
 
-    static loadScript(url, callback) {
+    static loadScript(url, callback = () => {}) {
         var scriptNode = document.createElement("script"); 
         scriptNode.type = 'text/javascript';
         scriptNode.src = url;
