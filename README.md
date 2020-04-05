@@ -2,8 +2,8 @@
 
 This repository consists of 2 parts:
 
-    1. A python script that parses data from the website and adds location data to it.
-    2. A JavaScript class that renders an HTML map that displays the data
+1. A python script that parses data from the website and adds location data to it.
+2. A JavaScript class that renders an HTML map that displays the data
 
 You can embed the map on your own website by adding the following code:
 
