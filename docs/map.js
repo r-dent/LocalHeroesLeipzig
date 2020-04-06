@@ -31,6 +31,7 @@ class LocalHeroesMap {
         this.clusterZoom = options.clusterBelowZoom 
         this.clusterLayer = undefined
         this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
+        this.showLocateButton = (options.showLocateButton !== undefined)
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
@@ -51,6 +52,9 @@ class LocalHeroesMap {
         if (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number') {
             LocalHeroesHelper.loadCss('https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css')
             LocalHeroesHelper.loadCss('https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css')
+        }
+        if (this.showLocateButton) {
+            LocalHeroesHelper.loadCss('https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.71.1/dist/L.Control.Locate.min.css')
         }
     }
 
@@ -82,6 +86,12 @@ class LocalHeroesMap {
                 foo: 'bar', 
                 attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
             }).addTo(map);
+        }
+
+        if (this.showLocateButton) {
+            LocalHeroesHelper.loadScript('https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.71.1/dist/L.Control.Locate.min.js', () => {
+                L.control.locate({position: 'bottomleft'}).addTo(map);
+            })
         }
 
         return map

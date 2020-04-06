@@ -36,4 +36,13 @@ new LocalHeroesMap('mapid', {
 })
 ```
 
+If you want to show a botton that let´s the user zoom to his/her own location. Use the `showLocateButton` option.
+
+```javascript
+new LocalHeroesMap('mapid', {
+    ...
+    showLocateButton: true
+})
+```
+
 Please [file an issue](https://github.com/r-dent/LocalHeroesLeipzig/issues/new) or [contact me](https://romangille.com/#contact) if you have feedback.
