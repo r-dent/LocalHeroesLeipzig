@@ -1,3 +1,6 @@
+// This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+// http://creativecommons.org/licenses/by-sa/4.0/
+
 class LocalHeroesMap {
 
     constructor(mapElementId, options = {}) {
@@ -7,6 +10,8 @@ class LocalHeroesMap {
         this.isLocal = location.hostname == 'localhost'
         this.repositoryBaseUrl = 'https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/'
         this.clusterZoom = options.clusterBelowZoom 
+        this.clusterLayer = undefined
+        this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
@@ -80,9 +85,36 @@ class LocalHeroesMap {
         return L.marker(coordinatate, {icon: icon})
     }
 
-    createCategoryLayers(geoJson) {
+    addLayersToMap(layers, map) {
 
-        const useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
+        if (this.useClustering) {
+
+            const addClusterLayer = (layers, map) => {
+                var markers = L.markerClusterGroup({
+                    disableClusteringAtZoom: 15
+                });
+                for (const id in layers) {
+                    markers.addLayer(layers[id])
+                }
+                this.clusterLayer = markers
+                map.addLayer(markers)
+            }
+
+            if (L.markerClusterGroup === undefined) {
+                LocalHeroesHelper.loadScript('https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js', () => {
+                    addClusterLayer(layers, map)
+                })
+            } else {
+                addClusterLayer(layers, map)
+            }
+        } else {
+            for (const id in layers) {
+                layers[id].addTo(map)
+            }
+        }
+    }
+
+    createCategoryLayers(geoJson) {
 
         for (const catId in this.categories) {
             const category = this.categories[catId]
@@ -94,22 +126,8 @@ class LocalHeroesMap {
                 }
             })
             this.categoryLayers[category] = geoLayer
-            if (!useClustering) {
-                geoLayer.addTo(this.map)
-            }
         }
-
-        if (useClustering) {
-            LocalHeroesHelper.loadScript('https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js', () => {
-                var markers = L.markerClusterGroup({
-                    disableClusteringAtZoom: 15
-                });
-                for (const id in this.categoryLayers) {
-                    markers.addLayer(this.categoryLayers[id])
-                }
-                this.map.addLayer(markers)
-            })
-        }
+        this.addLayersToMap(this.categoryLayers, this.map)
     }
 
     showLayer(id) {
@@ -129,13 +147,16 @@ class LocalHeroesMap {
         var shownLayers = new Array()
 
         for (const category in this.categoryLayers) {
+            const layer = this.categoryLayers[category]
+            this.map.removeLayer(layer)
             if (category == selectedCategory || selectedCategory == 'all') {
-                this.showLayer(category)
-                shownLayers.push(this.categoryLayers[category])
-            } else {
-                this.hideLayer(category)
+                shownLayers.push(layer)
             }
         }
+        if (this.useClustering) {
+            this.map.removeLayer(this.clusterLayer)
+        }
+        this.addLayersToMap(shownLayers, this.map)
         this.map.fitBounds(L.featureGroup(shownLayers).getBounds())
     }
 

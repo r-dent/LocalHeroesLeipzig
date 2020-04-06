@@ -1,5 +1,7 @@
 ## Local Heroes Leipzig - Map
 
+This project is taking data from the [Local Heroes Leipzig](http://local-heroes-leipzig.de/) project and tries to find geo location info for each entry. The resulting data is displayed in a customizable map that can be embedded on a website.
+
 This repository consists of 2 parts:
 
 1. A python script that parses data from the website and adds location data to it.
@@ -26,3 +28,5 @@ If you have customized your own map style with [Mapbox](https://www.mapbox.com/)
 ```
 
 Please [file an issue](https://github.com/r-dent/LocalHeroesLeipzig/issues/new) or [contact me](https://romangille.com/#contact) if you have feedback.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
