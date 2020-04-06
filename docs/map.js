@@ -55,7 +55,8 @@ class LocalHeroesMap {
     }
 
     createMap(mapElementId, {mapBoxKey, mapBoxStyle}) {
-        const map = L.map(mapElementId).setView([51.3396955, 12.3730747], 13);
+        const map = L.map(mapElementId, {zoomControl: false}).setView([51.3396955, 12.3730747], 13);
+        L.control.zoom({position: 'bottomleft'}).addTo(map)
 
         if (mapBoxKey !== undefined && typeof(mapBoxKey) == 'string' && mapBoxKey.length > 0) {
             // Use Mapbox if key is provided.
@@ -89,7 +90,8 @@ class LocalHeroesMap {
     onEachMapFeature(feature, layer) {
         // does this feature have a property named popupContent?
         if (feature.properties && feature.properties.name && feature.properties.description) {
-            layer.bindPopup('<h3>'+ feature.properties.name +'</h3><p>Kategorie: '+ feature.properties.category +'<br>'+ feature.properties.description +'</p>');
+            layer.bindPopup(
+                '<h3>'+ feature.properties.name +'</h3><p>'+ feature.properties.description +'</p>');
         } 
     }
 

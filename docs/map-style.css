@@ -4,6 +4,10 @@
     padding-left: 43pt;
 }
 
+.lh-mp-ctnr .leaflet-control-container .leaflet-bottom.leaflet-right {
+    margin-left: 56px;
+}
+
 .lh-mp-ctnr .select-wrapper {
     position: relative;
     /* width: 200px; */
