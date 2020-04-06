@@ -26,13 +26,12 @@ import time
 import os
 import sys
 import math
-import html
 import re
+import webscraping
 from difflib import SequenceMatcher
 
 GMapsApiKey = ''
-wrapApiKey = ''
-apiUrl = 'https://wrapapi.com/use/r-dent/side-projects/local-hero/latest?wrapAPIKey=' + wrapApiKey
+websiteUrl = 'http://local-heroes-leipzig.de/look-and-support/'
 cacheFileName = 'local-heroes.json'
 cityCenter = (51.3396955, 12.3730747)
 
@@ -96,24 +95,6 @@ def findLocationOSM(locationName):
             print('NOT FOUND')
 
         return location
-
-def loadLocalsFromApi():
-    with urllib.request.urlopen(apiUrl) as response:
-        content = response.read()
-        parsed_json = json.loads(content)
-        entries = parsed_json['data']['output']
-        titles = []
-        localHeroes = []
-
-        for entry in entries:
-            title = entry['title'].split('/ ')[0].strip()
-
-            if title not in titles:
-                titles.append(title)
-                entry['cleanTitle'] = title
-                localHeroes.append(entry)
-
-        return localHeroes
 
 def locationDistance(coord1, coord2):
     R = 6372800  # Earth radius in meters
@@ -192,13 +173,6 @@ def writeGeoJson(entries):
         if isLocality:
             continue
 
-        category = html.unescape(entry['category'])
-        if category == '':
-            category = 'Sonstiges'
-
-        if category == 'Pizza':
-            category = 'Essen'
-
         geoEntry = {
             'type': 'Feature',
             'properties': {
@@ -207,7 +181,7 @@ def writeGeoJson(entries):
                 'description': '<a href="' + entry['link'] + '" target="_blank">' + entry['link'] + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
-                'category': category,
+                'category': entry['category'],
                 'tags': tags
             },
             'geometry': {
@@ -233,7 +207,7 @@ entries = loadEntriesFromFile(cacheFileName)
 
 if 'loadApi' in sys.argv:
     # Load api data to cache.
-    newEntries = loadLocalsFromApi()
+    newEntries = webscraping.loadLocalsFromWebsite(websiteUrl)
     entries = addOrUpdate(entries, newEntries)
 
 if 'refreshAllLocations' in sys.argv:
