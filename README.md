@@ -27,4 +27,13 @@ If you have customized your own map style with [Mapbox](https://www.mapbox.com/)
 </script>
 ```
 
+You can also use clustering. To do that just provide a zoom level below which items will get clustered.
+
+```javascript
+new LocalHeroesMap('mapid', {
+    ...
+    clusterBelowZoom: 15
+})
+```
+
 Please [file an issue](https://github.com/r-dent/LocalHeroesLeipzig/issues/new) or [contact me](https://romangille.com/#contact) if you have feedback.
