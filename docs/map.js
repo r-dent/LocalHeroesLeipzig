@@ -38,7 +38,7 @@ class LocalHeroesMap {
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
 
-        const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'local-heroes-leipzig.geojson';
+        const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson';
         const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css'
 
         LocalHeroesHelper.loadCss(cssUrl)

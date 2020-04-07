@@ -32,7 +32,7 @@ from difflib import SequenceMatcher
 
 GMapsApiKey = ''
 websiteUrl = 'http://local-heroes-leipzig.de/look-and-support/'
-cacheFileName = 'local-heroes.json'
+cacheFileName = 'data/local-heroes.json'
 cityCenter = (51.3396955, 12.3730747)
 
 def areSimilar(a, b):
@@ -196,7 +196,7 @@ def writeGeoJson(entries):
         'features': geoEntries
     }
 
-    writeJson(geoCollection, 'local-heroes-leipzig.geojson')
+    writeJson(geoCollection, 'data/local-heroes-leipzig.geojson')
 
 
 # --------
