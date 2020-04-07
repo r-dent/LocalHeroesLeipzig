@@ -107,7 +107,7 @@ class LocalHeroesMap {
 
     renderMapMarker(geoJsonPoint, coordinatate) {
         var icon = L.icon({
-            iconUrl: geoJsonPoint.properties.image,
+            iconUrl: (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/imagecache/'+ geoJsonPoint.properties.image,
             iconSize: [38, 38],
             shadowUrl: (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'shadow.svg',
             shadowSize: [50, 50],

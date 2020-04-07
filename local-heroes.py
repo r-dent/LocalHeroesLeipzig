@@ -136,9 +136,8 @@ def addOrUpdate(entries, updates):
 def showStats(entries):
     multiLocationRegEx = re.compile('[0-9]x', re.IGNORECASE)
     print(len(entries), 'Entries')
-    print(sum(not('location' in e) or e['location'] == None for e in entries), 'without location')
-    print(sum(e['category'] == '' for e in entries), 'without category')
-    print(sum('>' in e['category'] for e in entries), 'with messy category')
+    print(sum('location' in e and e['location'] == None for e in entries), 'without location')
+    print(sum(not('location' in e) for e in entries), 'with unchecked location')
     print(sum(bool(multiLocationRegEx.search(e['title'])) for e in entries), 'with multiple locations')
 
 def loadEntriesFromFile(filePath):

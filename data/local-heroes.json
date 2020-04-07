@@ -1,6 +1,6 @@
 [
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Achilles / Paunsdorf",
         "link": "https://restaurant-achilles.de/",
         "sub-category": "Essen & Trinken",
@@ -20,7 +20,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/feinkost.svg",
+        "image": "feinkost.svg",
         "title": "Alte Zuckerfabrik / Zentrum-Nord",
         "link": "http://local-heroes-leipzig.de/alte-zuckerfabrik-leipzig-zentrum-nord/",
         "sub-category": "Feinkost",
@@ -42,7 +42,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "Altes Papierlager / Seeburgviertel",
         "link": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "Auwaldbar / Zentrum Nord",
         "link": "https://www.startnext.com/auwaldbar",
         "sub-category": "Cocktail",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "ANALOG Caf\u00e9 / Volkmarsdorf",
         "link": "https://www.paypal.com/pools/c/8nBB0NCGhG",
         "sub-category": "Caf\u00e9",
@@ -102,7 +102,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "anja | fe / Connewitz",
         "link": "http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/",
         "sub-category": "Essen & Trinken",
@@ -120,7 +120,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Backstein / Zentrum-S\u00fcd",
         "link": "http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/",
         "sub-category": "Essen & Trinken",
@@ -141,7 +141,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/feinkost.svg",
+        "image": "feinkost.svg",
         "title": "Bazar Manufaktur / Zentrum",
         "link": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/",
         "sub-category": "Feinkost",
@@ -163,7 +163,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "BERT & BERGER / Lindenau",
         "link": "http://local-heroes-leipzig.de/bert-berger-leipzig-lindenau/",
         "sub-category": "Caf\u00e9",
@@ -173,7 +173,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "image": "einkaufen-1.svg",
         "title": "Biomare / 3x",
         "link": "http://local-heroes-leipzig.de/biomare-leipzig/",
         "sub-category": "Einkaufen",
@@ -197,7 +197,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "Bierothek / Zentrum",
         "link": "https://bierothek.de/stores/leipzig",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -217,7 +217,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Bohemian Kids / Zentrum",
         "link": "http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/",
         "sub-category": "Caf\u00e9",
@@ -237,7 +237,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/eis.svg",
+        "image": "eis.svg",
         "title": "Brakers / Connewitz",
         "link": "http://local-heroes-leipzig.de/brakers-leipzig-connewitz/",
         "sub-category": "Eis",
@@ -258,7 +258,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "ca\u00e1mate / Alt-West",
         "link": "https://caamate.de/",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -276,7 +276,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 ELLA\u00a0 / Kleinzschocher",
         "link": "http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/",
         "sub-category": "Caf\u00e9",
@@ -297,16 +297,28 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 Liese / Connewitz",
         "link": "http://local-heroes-leipzig.de/cafe-liese-leipzig-connewitz/",
         "sub-category": "Caf\u00e9",
         "category": "Essen & Trinken",
         "cleanTitle": "Caf\u00e9 Liese",
-        "description": "Caf\u00e9 (Bestellungen & Take Away)"
+        "description": "Caf\u00e9 (Bestellungen & Take Away)",
+        "location": {
+            "lat": 51.3117159,
+            "lon": 12.3722737,
+            "address": "Scheffelstra\u00dfe 35, 04277 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 Kune / Neustadt-Neusch\u00f6nefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
         "sub-category": "Caf\u00e9",
@@ -329,7 +341,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 NiMo / Zentrum-S\u00fcd",
         "link": "https://www.startnext.com/rettet-das-cafe-nimo",
         "sub-category": "Caf\u00e9",
@@ -349,7 +361,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 Oink / Plagwitz",
         "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
         "sub-category": "Caf\u00e9",
@@ -370,16 +382,27 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 Pastel / Lindenau",
         "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
         "sub-category": "Caf\u00e9",
         "category": "Essen & Trinken",
         "cleanTitle": "Caf\u00e9 Pastel",
-        "description": "Caf\u00e9 (Bestellungen & Take Away)"
+        "description": "Caf\u00e9 (Bestellungen & Take Away)",
+        "location": {
+            "lat": 51.34023450000001,
+            "lon": 12.3259354,
+            "address": "Georg-Schwarz-Stra\u00dfe 22, 04177 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 TRAGO / Sch\u00f6nefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
         "sub-category": "Caf\u00e9",
@@ -400,7 +423,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Caf\u00e9 Yellow / S\u00fcdvorstadt",
         "link": "http://local-heroes-leipzig.de/cafe-yellow-leipzig-suedvorstadt/",
         "sub-category": "Caf\u00e9",
@@ -418,7 +441,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Campus Caf\u00e9 Salomon / Zentrum",
         "link": "http://local-heroes-leipzig.de/campus-cafe-salomon-leipzig-zentrum/",
         "sub-category": "Caf\u00e9",
@@ -439,7 +462,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Carls Laden / S\u00fcdvorstadt",
         "link": "http://local-heroes-leipzig.de/carls-laden-leipzig-suedvorstadt/",
         "sub-category": "Caf\u00e9",
@@ -460,7 +483,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Coffee Cloud / Zentrum-Ost",
         "link": "http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/",
         "sub-category": "Caf\u00e9",
@@ -481,7 +504,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "Connewitzer Lik\u00f6rfabrik / Connewitz",
         "link": "https://www.likoerfabrik.com/",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -491,7 +514,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "Doppelblick / Lindenau",
         "link": "https://shop.doppelblick.org/",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -501,7 +524,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "image": "einkaufen-1.svg",
         "title": "Eine Welt e.V. / 3x",
         "link": "http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/",
         "sub-category": "Einkaufen",
@@ -520,7 +543,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "image": "einkaufen-1.svg",
         "title": "Einfach Unverpackt / 2x",
         "link": "http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/",
         "sub-category": "Einkaufen",
@@ -541,7 +564,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/eis.svg",
+        "image": "eis.svg",
         "title": "Eistr\u00e4umerei / Reudnitz",
         "link": "http://www.eistraeumerei.de/eiscafe/",
         "sub-category": "Eis",
@@ -562,7 +585,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffeebohne.svg",
+        "image": "kaffeebohne.svg",
         "title": "Elsterm\u00fchle / Zentrum-S\u00fcd",
         "link": "https://www.xn--elstermhle-geb.de/",
         "sub-category": "Kaffeebohne und R\u00f6sterei",
@@ -583,7 +606,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "ERNAS / Zentrum-S\u00fcd",
         "link": "http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/",
         "sub-category": "Essen & Trinken",
@@ -604,7 +627,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "Espresso Zack Zack\u00a0 / Neusch\u00f6nefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
         "sub-category": "Caf\u00e9",
@@ -625,7 +648,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffeebohne.svg",
+        "image": "kaffeebohne.svg",
         "title": "Franz Morish / Zentrum",
         "link": "https://franzmorish.de/",
         "sub-category": "Kaffeebohne und R\u00f6sterei",
@@ -647,7 +670,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "GASTGEBER / Neusch\u00f6nefeld",
         "link": "http://local-heroes-leipzig.de/gastgeber-leipzig-neuschoenefeld/",
         "sub-category": "Essen & Trinken",
@@ -667,7 +690,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Globus D\u00f6ner / Leipzig",
         "link": "https://www.globusdoener.de/",
         "sub-category": "Essen & Trinken",
@@ -688,7 +711,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "HeLo / Plagwitz",
         "link": "http://helchslorenzo.de/aktuelles/",
         "sub-category": "Caf\u00e9",
@@ -708,7 +731,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Hercules / Alt-Lindenau",
         "link": "https://herkules.eatbu.com/?lang=de#foodOrdering",
         "sub-category": "Essen & Trinken",
@@ -728,7 +751,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "INO / Lindenau",
         "link": "http://www.startnext.com/ino-cafe",
         "sub-category": "Caf\u00e9",
@@ -749,16 +772,30 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Kleine Leckerei / Schleu\u00dfig",
         "link": "https://www.kleineleckerei.de/lieferservice/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Kleine Leckerei",
-        "description": "Caf\u00e9 & Bistro (Lieferservice & Take Away)"
+        "description": "Caf\u00e9 & Bistro (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.3222169,
+            "lon": 12.3404323,
+            "address": "Schnorrstra\u00dfe 38, 04229 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "lodging",
+                "bar",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "kuultivo / Schleu\u00dfig",
         "link": "https://kuultivo-shop.company.site/",
         "sub-category": "Essen & Trinken",
@@ -778,16 +815,28 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "Letterman / Zentrum",
         "link": "http://local-heroes-leipzig.de/letterman-leipzig-zentrum/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "Letterman",
-        "description": "Bar & Grill (Lieferservice & Take Away)"
+        "description": "Bar & Grill (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.34010989999999,
+            "lon": 12.3703432,
+            "address": "Gottschedstra\u00dfe 4, 04109 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/einkaufen-1.svg",
+        "image": "einkaufen-1.svg",
         "title": "lieber lose / Plagwitz",
         "link": "https://www.lieberlose.de/",
         "sub-category": "Einkaufen",
@@ -808,7 +857,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "maza pita / Schleu\u00dfig",
         "link": "https://mazapita.de/",
         "sub-category": "Essen & Trinken",
@@ -828,7 +877,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Michaelis / Leipzig",
         "link": "https://www.michaelis-leipzig.de/",
         "sub-category": "Essen & Trinken",
@@ -849,7 +898,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "Nepomuk / Plagwitz",
         "link": "https://www.paypal.com/pools/c/8ntbE0LPNc",
         "sub-category": "Cocktail",
@@ -868,7 +917,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffeebohne.svg",
+        "image": "kaffeebohne.svg",
         "title": "Oben Auf / Plagwitz",
         "link": "https://obenauf-kaffee.de/",
         "sub-category": "Kaffeebohne und R\u00f6sterei",
@@ -889,7 +938,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Opitz Catering / Knauthain",
         "link": "https://catering-leipzig.de/",
         "sub-category": "Essen & Trinken",
@@ -908,7 +957,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "OSKAR / S\u00fcdvorstadt",
         "link": "https://oskar-leipzig.de/gutschein/",
         "sub-category": "Cocktail",
@@ -930,7 +979,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "PAN / Lindenau",
         "link": "http://local-heroes-leipzig.de/pan-leipzig-lindenau/",
         "sub-category": "Essen & Trinken",
@@ -950,7 +999,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "PEKAR / Lindenau",
         "link": "http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/",
         "sub-category": "Essen & Trinken",
@@ -971,7 +1020,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spirituosen.svg",
+        "image": "spirituosen.svg",
         "title": "#Pfff #Krsch / Lindenau",
         "link": "https://www.pfff-krsch.de/pfff-krsch-kaufen/",
         "sub-category": "Spirituosen und Getr\u00e4nke",
@@ -991,7 +1040,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "PIVO / Connewitz",
         "link": "http://local-heroes-leipzig.de/pivo-leipzig-connewitz/",
         "sub-category": "Cocktail",
@@ -1014,7 +1063,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "Platzhirsch / S\u00fcdvorstadt",
         "link": "https://www.startnext.com/platzhirsch-bar",
         "sub-category": "Cocktail",
@@ -1035,7 +1084,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Renkli / S\u00fcdvorstadt",
         "link": "https://www.werideleipzig.com/shop",
         "sub-category": "Essen & Trinken",
@@ -1055,7 +1104,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Rimini / Connewitz",
         "link": "http://local-heroes-leipzig.de/rimini-leipzig-connewitz/",
         "sub-category": "Essen & Trinken",
@@ -1075,7 +1124,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "roots Pflanzencaf\u00e9 / Schleu\u00dfig",
         "link": "https://www.roots-pflanzencafe.de/gutscheine",
         "sub-category": "Caf\u00e9",
@@ -1095,7 +1144,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/feinkost.svg",
+        "image": "feinkost.svg",
         "title": "Salumeria / Gohlis",
         "link": "http://local-heroes-leipzig.de/salumeria-leipzig-gohlis/",
         "sub-category": "Feinkost",
@@ -1117,16 +1166,30 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffeebohne.svg",
+        "image": "kaffeebohne.svg",
         "title": "S1 Vinyl & Kaffee/ Zentrum-S\u00fcd",
         "link": "https://www.startnext.com/wirgemeinsam",
         "sub-category": "Kaffeebohne und R\u00f6sterei",
         "category": "Essen & Trinken",
         "cleanTitle": "S1 Vinyl & Kaffee",
-        "description": "Caf\u00e9 (Crowdfunding)"
+        "description": "Caf\u00e9 (Crowdfunding)",
+        "location": {
+            "lat": 51.3471251,
+            "lon": 12.3147613,
+            "address": "Sattelhofstra\u00dfe 1, 04179 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "electronics_store",
+                "home_goods_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffeebohne.svg",
+        "image": "kaffeebohne.svg",
         "title": "7 shots coffee / Zentrum-S\u00fcd",
         "link": "http://7shotscoffee.de/",
         "sub-category": "Kaffeebohne und R\u00f6sterei",
@@ -1147,7 +1210,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Shady / S\u00fcdvorstadt",
         "link": "http://local-heroes-leipzig.de/shady-leipzig-suedvorstadt/",
         "sub-category": "Essen & Trinken",
@@ -1168,7 +1231,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/kaffee.svg",
+        "image": "kaffee.svg",
         "title": "S\u00fc\u00dfw\u00e4rts / Lindenau",
         "link": "https://suesswaerts.chayns.net/",
         "sub-category": "Caf\u00e9",
@@ -1189,7 +1252,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/cocktail-1.svg",
+        "image": "cocktail-1.svg",
         "title": "Superfoodz / Zentrum",
         "link": "https://superfoodz-store-leipzig.com/",
         "sub-category": "Cocktail",
@@ -1209,7 +1272,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/eis.svg",
+        "image": "eis.svg",
         "title": "Thommys Eismanufaktur / Mockau",
         "link": "http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/",
         "sub-category": "Eis",
@@ -1229,7 +1292,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/eis.svg",
+        "image": "eis.svg",
         "title": "TONIS / Schleu\u00dfig",
         "link": "http://local-heroes-leipzig.de/tonis-leipzig/",
         "sub-category": "Eis",
@@ -1249,7 +1312,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Trattoria Aurelia / Zentrum-Nord",
         "link": "http://www.trattoria-aurelia.de/abholung.html",
         "sub-category": "Essen & Trinken",
@@ -1270,7 +1333,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "umaii / Zentrum",
         "link": "https://www.umaii.de/umaii-corona-service/",
         "sub-category": "Essen & Trinken",
@@ -1290,7 +1353,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/eis.svg",
+        "image": "eis.svg",
         "title": "Vanille & Zimt / Connewitz",
         "link": "http://local-heroes-leipzig.de/vanille-zimt-leipzig-connewitz/",
         "sub-category": "Eis",
@@ -1310,7 +1373,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Zest / Connewitz",
         "link": "http://www.zest-leipzig.de/",
         "sub-category": "Essen & Trinken",
@@ -1330,7 +1393,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/pizza.svg",
+        "image": "pizza.svg",
         "title": "Zu Sp\u00e4t / Reudnitz",
         "link": "http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/",
         "sub-category": "Essen & Trinken",
@@ -1353,7 +1416,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "ALLOY / Gohlis-S\u00fcd",
         "link": "http://www.alloy925.de/shop.html",
         "sub-category": "Schmuck, Accessoires",
@@ -1371,16 +1434,17 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Amelie Schleifenheimer / Lindenau",
         "link": "https://selekkt.com/brands/amelieschleifenheimer",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Amelie Schleifenheimer",
-        "description": "Schmuck (Onlineshop)"
+        "description": "Schmuck (Onlineshop)",
+        "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Atelier 3Kleider / Lindenau",
         "link": "http://local-heroes-leipzig.de/atelier-3kleider/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1400,7 +1464,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Atelier Wolkengold / Mitte",
         "link": "https://www.atelier-wolkengold.de/",
         "sub-category": "Schmuck, Accessoires",
@@ -1420,7 +1484,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "buntimo / Pegau",
         "link": "https://buntimo.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1430,7 +1494,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Circuit / Mockau",
         "link": "https://www.circuit-accessories.de/",
         "sub-category": "Schmuck, Accessoires",
@@ -1448,7 +1512,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Coqueton / S\u00fcdvorstadt",
         "link": "https://www.etsy.com/de/shop/Coqueton",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1469,7 +1533,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/hut.svg",
+        "image": "hut.svg",
         "title": "Der Hutladen / Zentrum",
         "link": "http://www.derhutladen.de/",
         "sub-category": "Hut und Kopfbedeckungen",
@@ -1489,7 +1553,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "D\u00f6rte Dietrich / Lindenau",
         "link": "https://www.doertedietrich.de/shop/",
         "sub-category": "Schmuck, Accessoires",
@@ -1509,7 +1573,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/hut.svg",
+        "image": "hut.svg",
         "title": "Faunauge / S\u00fcdvorstadt",
         "link": "https://faunauge.de/",
         "sub-category": "Hut und Kopfbedeckungen",
@@ -1529,7 +1593,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Flamingocat / S\u00fcdvorstadt",
         "link": "https://flamingocat.de/",
         "sub-category": "Schmuck, Accessoires",
@@ -1548,7 +1612,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
+        "image": "party.svg",
         "title": "Flossbros / Connewitz",
         "link": "http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/",
         "sub-category": "Party",
@@ -1566,7 +1630,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/taschen-rucksaecke.svg",
+        "image": "taschen-rucksaecke.svg",
         "title": "Franziska Klee / Gohlis",
         "link": "https://franziskaklee.de/",
         "sub-category": "Taschen und Rucks\u00e4cke",
@@ -1585,7 +1649,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "FRAU FISCHER/ Schleu\u00dfig",
         "link": "http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1605,7 +1669,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Gabriele Mahler / Zentrum",
         "link": "https://www.dessous-le.de/geschenkgutschein",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1625,7 +1689,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "GarderobeWest / Lindenau",
         "link": "http://local-heroes-leipzig.de/315-2/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1645,7 +1709,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/optiker.svg",
+        "image": "optiker.svg",
         "title": "Glas & Bohne / Lindenau",
         "link": "http://local-heroes-leipzig.de/glas-bohne-leipzig-lindenau/",
         "sub-category": "Sonstiges",
@@ -1669,7 +1733,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Graue Maus / Schleu\u00dfig",
         "link": "https://www.graue-maus.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1689,7 +1753,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Gr\u00fcnschnabel / Zentrum",
         "link": "https://www.gruenschnabel-shop.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1709,7 +1773,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "hej. mom. / Zentrum",
         "link": "https://hejmom.com/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1729,7 +1793,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Hermoosa / Leipzig",
         "link": "https://www.etsy.com/de/shop/Hermoosa?ref=shop_sugg",
         "sub-category": "Schmuck, Accessoires",
@@ -1739,7 +1803,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "HERRR GANZE / Zentrum",
         "link": "https://herrganze.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1757,7 +1821,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Hilde tanzt / Altlindenau",
         "link": "https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1777,7 +1841,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/taschen-rucksaecke.svg",
+        "image": "taschen-rucksaecke.svg",
         "title": "IKOSAE / Lindenau",
         "link": "https://ikosae.myshopify.com/",
         "sub-category": "Taschen und Rucks\u00e4cke",
@@ -1795,7 +1859,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "ka:put / Connewitz",
         "link": "https://www.ka-put.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1815,7 +1879,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "KAZIMIR / Plagwitz",
         "link": "https://www.etsy.com/de/shop/derKazimir",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1835,7 +1899,27 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "mode.svg",
+        "title": "KlimBim / Schleu\u00dfig",
+        "link": "https://www.etsy.com/de/shop/derKazimir",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "KlimBim",
+        "description": "Kindermode (Onlineshop)",
+        "location": {
+            "lat": 51.322647,
+            "lon": 12.3429432,
+            "address": "K\u00f6nneritzstra\u00dfe 60, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "schmuck.svg",
         "title": "K\u00f6nigswurzeln / Leipzig",
         "link": "https://www.etsy.com/de/shop/Koenigswurzeln",
         "sub-category": "Schmuck, Accessoires",
@@ -1853,7 +1937,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "le.fuxs / Leipzig",
         "link": "https://www.etsy.com/de/shop/lefuxs",
         "sub-category": "Schmuck, Accessoires",
@@ -1863,7 +1947,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "LELO karli123 / S\u00fcdvorstadt",
         "link": "https://www.lelo.bio/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1883,7 +1967,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Luise Neugebauer / S\u00fcdvorstadt",
         "link": "https://shop.luiseneugebauer.de/",
         "sub-category": "Schmuck, Accessoires",
@@ -1903,7 +1987,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "luxaa / Schleu\u00dfig",
         "link": "https://www.luxaa.de/de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1923,7 +2007,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Merle Kids / Lindenau",
         "link": "https://www.merle-kids.com/online-shop",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1933,7 +2017,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Mrs. Hippie / S\u00fcdvorstadt",
         "link": "https://www.geh-bunt.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1953,7 +2037,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/optiker.svg",
+        "image": "optiker.svg",
         "title": "Optikstudio Marion M\u00fcller / S\u00fcdvorstadt",
         "link": "https://www.optikstudio-mueller.de/aktuelles/news/index.html",
         "sub-category": "Sonstiges",
@@ -1973,7 +2057,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "panta panta / Plagwitz",
         "link": "https://www.etsy.com/de/shop/BelleEtBete",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1992,7 +2076,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "pussy GALORE / S\u00fcdvorstadt",
         "link": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2012,7 +2096,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/taschen-rucksaecke.svg",
+        "image": "taschen-rucksaecke.svg",
         "title": "R\u00c5VARE / Eutritzsch",
         "link": "https://ravare.de/shop/",
         "sub-category": "Taschen und Rucks\u00e4cke",
@@ -2030,7 +2114,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Rosentreter / Plagwitz",
         "link": "https://rosentreter-modedesign.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2048,7 +2132,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/taschen-rucksaecke.svg",
+        "image": "taschen-rucksaecke.svg",
         "title": "Roth\u00f6ll / Alt-Lindenau",
         "link": "https://www.rothoell.com/shop/",
         "sub-category": "Taschen und Rucks\u00e4cke",
@@ -2058,16 +2142,27 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Rotznasen / Schleu\u00dfig",
         "link": "https://www.rotznasen-leipzig.de/shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Rotznasen",
-        "description": "Kindermode (Onlineshop)"
+        "description": "Kindermode (Onlineshop)",
+        "location": {
+            "lat": 51.3223049,
+            "lon": 12.3431162,
+            "address": "K\u00f6nneritzstra\u00dfe 63, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Sankt.K / Leipzig",
         "link": "https://www.etsy.com/de/shop/SanktK",
         "sub-category": "Schmuck, Accessoires",
@@ -2085,7 +2180,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "ST\u2019ATOUR / Plagwitz",
         "link": "https://www.statourschmuck.de/shop/",
         "sub-category": "Schmuck, Accessoires",
@@ -2105,7 +2200,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Schleifenf\u00e4nger / Reudnitz",
         "link": "https://schleifenfaenger.de/shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2125,7 +2220,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Schuhhaus Zimmermann / Zentrum",
         "link": "https://schuhe-leipzig.de/sortiment/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2145,7 +2240,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Sonnenelch / S\u00fcdvorstadt",
         "link": "https://www.etsy.com/de/shop/SonnenelchShop",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2155,7 +2250,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Stilkontor / S\u00fcdvorstadt",
         "link": "http://www.stilkontor.com/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2175,7 +2270,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "Stoffpost / Zentrum-S\u00fcd",
         "link": "http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2193,7 +2288,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/taschen-rucksaecke.svg",
+        "image": "taschen-rucksaecke.svg",
         "title": "Taschenkaufhaus / Plagwitz",
         "link": "https://www.taschenkaufhaus.de/",
         "sub-category": "Taschen und Rucks\u00e4cke",
@@ -2212,7 +2307,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "The Camelia Bijoux / S\u00fcdvorstadt",
         "link": "https://thecamelia-bijoux.com/",
         "sub-category": "Schmuck, Accessoires",
@@ -2222,7 +2317,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mode.svg",
+        "image": "mode.svg",
         "title": "TIPUNEN / Lindeanu",
         "link": "https://www.tipunen.com/online-shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2242,7 +2337,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/optiker.svg",
+        "image": "optiker.svg",
         "title": "Wunderlichs Brillenschmiede / Leutzsch",
         "link": "http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/",
         "sub-category": "Sonstiges",
@@ -2261,7 +2356,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Uhrmacher Hofmann/ Mockau",
         "link": "https://www.uhrmacher-leipzig.de/",
         "sub-category": "Schmuck, Accessoires",
@@ -2279,7 +2374,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schmuck.svg",
+        "image": "schmuck.svg",
         "title": "Yours Jules / Zentrum",
         "link": "https://www.yoursjules.com/",
         "sub-category": "Schmuck, Accessoires",
@@ -2289,7 +2384,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "ACHT-ZWEI / Lindenau",
         "link": "https://www.acht-zwei.de/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -2310,25 +2405,44 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Antje Braga / Gohlis",
         "link": "https://www.etsy.com/de/shop/AntjeBraga",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Antje Braga",
-        "description": "Fotografie (Etsy Shop)"
+        "description": "Fotografie (Etsy Shop)",
+        "location": {
+            "lat": 51.3638915,
+            "lon": 12.3770042,
+            "address": "R\u00fcckertstra\u00dfe 11a, 04157 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Amorph Studio / Connewitz",
         "link": "https://www.instagram.com/amorph_richardpaulmeszaros/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Amorph Studio",
-        "description": "Tattoo (Gutscheinverkauf)"
+        "description": "Tattoo (Gutscheinverkauf)",
+        "location": {
+            "lat": 51.3083494,
+            "lon": 12.3714629,
+            "address": "Simildenstra\u00dfe 20, 04277 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Atelier Z\u00fcndwerk / Leipzig",
         "link": "https://www.etsy.com/de/shop/AtelierZuendwerk",
         "sub-category": "Prints und Kunstartikel",
@@ -2338,7 +2452,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Atelier CALUN\u00c9 / Lindenau",
         "link": "https://www.facebook.com/ateliercalune",
         "sub-category": "Prints und Kunstartikel",
@@ -2358,7 +2472,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
+        "image": "party.svg",
         "title": "balloonfantasy / S\u00fcdvorstadt",
         "link": "https://balloon-fantasy.de/",
         "sub-category": "Party",
@@ -2378,7 +2492,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/blumenstrauss.svg",
+        "image": "blumenstrauss.svg",
         "title": "Beetliebe / Leipzig",
         "link": "https://www.beetliebe.de/c/saatgut-and-samen-shop",
         "sub-category": "Sonstiges",
@@ -2397,7 +2511,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
+        "image": "rad.svg",
         "title": "Bike Department Ost / S\u00fcdvorstadt",
         "link": "http://www.bdoleipzig.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
@@ -2417,7 +2531,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schreibwaren.svg",
+        "image": "schreibwaren.svg",
         "title": "Blaupause / Connewitz",
         "link": "http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
         "sub-category": "Schreibwaren, Stifte und Bl\u00f6cke",
@@ -2436,7 +2550,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "Buntgarn / Connewitz",
         "link": "http://local-heroes-leipzig.de/buntgarn-leipzig-connewitz/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -2454,7 +2568,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Camolita / Lindenthal",
         "link": "http://www.camolita.de/CAMOLITA-Shop/",
         "sub-category": "Interior und Dekoartikel",
@@ -2474,7 +2588,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "Candy Company / Lindenau",
         "link": "https://www.candy-collection.de/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -2495,7 +2609,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "DanPop Illustrationen / Leipzig",
         "link": "https://www.etsy.com/de/shop/danpopillustration?ref=simple-shop-header-name&listing_id=670554244",
         "sub-category": "Prints und Kunstartikel",
@@ -2505,7 +2619,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Dominique / Leipzig",
         "link": "https://www.etsy.com/de/shop/PrintsByDominique",
         "sub-category": "Prints und Kunstartikel",
@@ -2523,7 +2637,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Ed & Emilia / Leipzig",
         "link": "https://edundemilia.com/ueber/",
         "sub-category": "Interior und Dekoartikel",
@@ -2533,7 +2647,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/schreibwaren.svg",
+        "image": "schreibwaren.svg",
         "title": "Eisenhauer / Zentrum",
         "link": "https://www.buero-eisenhauer.de/onlineshop/",
         "sub-category": "Schreibwaren, Stifte und Bl\u00f6cke",
@@ -2552,7 +2666,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/blumenstrauss.svg",
+        "image": "blumenstrauss.svg",
         "title": "Erna Primulla / Reudnitz",
         "link": "https://www.erna-primula.de/",
         "sub-category": "Sonstiges",
@@ -2572,7 +2686,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/blumenstrauss.svg",
+        "image": "blumenstrauss.svg",
         "title": "Ernte mich / 3x",
         "link": "https://www.erntemich.de/",
         "sub-category": "Sonstiges",
@@ -2595,7 +2709,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "FANG Studio / Reudnitz",
         "link": "https://fang-studio.de/",
         "sub-category": "Prints und Kunstartikel",
@@ -2618,7 +2732,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "Feinschliff / Gohlis",
         "link": "http://www.feinschliff-leipzig.de/home.html",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -2639,7 +2753,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "Filzwerkstatt / Gohlis",
         "link": "https://woll-lust-leipzig.de/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -2657,7 +2771,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Franziska M. K\u00f6llner / Leutzsch",
         "link": "https://franziskamkoellner.wordpress.com/",
         "sub-category": "Interior und Dekoartikel",
@@ -2675,7 +2789,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Fraudi / Leipzig",
         "link": "https://www.instagram.com/_fraudi_/",
         "sub-category": "Prints und Kunstartikel",
@@ -2693,7 +2807,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "HAFEN / Plagwitz",
         "link": "https://www.hafen-leipzig.de/shop",
         "sub-category": "Interior und Dekoartikel",
@@ -2712,7 +2826,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Happy Pop-Up Market / Plagwitz",
         "link": "https://www.facebook.com/HappyPopUpMarket/",
         "sub-category": "Interior und Dekoartikel",
@@ -2722,7 +2836,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "HILDE BRANDT / Schleu\u00dfig",
         "link": "https://www.hildes-laden.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -2743,7 +2857,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "Hocuspocus / Lindenau",
         "link": "http://www.hocuspocus-shop.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -2764,7 +2878,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "holzART / Plagwitz",
         "link": "https://www.holzart-leipzig.de/pages/holzspiele.php",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -2782,7 +2896,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
+        "image": "party.svg",
         "title": "Hooray Today / Zentrum",
         "link": "https://shop.hooraytoday.de/",
         "sub-category": "Party",
@@ -2802,7 +2916,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
+        "image": "party.svg",
         "title": "H\u00fcpfburgen Verleih / Lindenau",
         "link": "https://huepfburgen-verleih-leipzig.de/",
         "sub-category": "Party",
@@ -2821,7 +2935,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/blumenstrauss.svg",
+        "image": "blumenstrauss.svg",
         "title": "Intaeger / S\u00fcdvorstadt",
         "link": "https://blumen.intaeger.de/shop/",
         "sub-category": "Sonstiges",
@@ -2841,16 +2955,28 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "JANIK / Lindenau",
         "link": "https://www.janik-leipzig.de/shop.php",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "JANIK",
-        "description": "B\u00fcroausstattungen (Onlineshop)"
+        "description": "B\u00fcroausstattungen (Onlineshop)",
+        "location": {
+            "lat": 51.3345422,
+            "lon": 12.3392427,
+            "address": "Felsenkellerstra\u00dfe 1, 04177 Leipzig, Germany",
+            "tags": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Janina / Alt-West",
         "link": "https://www.janinatheiss.de/shop/",
         "sub-category": "Interior und Dekoartikel",
@@ -2869,7 +2995,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Jenne Grassmann / Leipzig",
         "link": "https://www.etsy.com/shop/jennegrassmann",
         "sub-category": "Prints und Kunstartikel",
@@ -2892,7 +3018,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "Jules Stoffkiste / St\u00f6tteritz",
         "link": "https://www.julesstoffkiste.de/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -2912,7 +3038,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "JustePixx / Leipzig",
         "link": "https://www.etsy.com/de/shop/JustePixx",
         "sub-category": "Prints und Kunstartikel",
@@ -2922,7 +3048,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Katja Rub / Reudnitz",
         "link": "https://katja-rub.de/shop",
         "sub-category": "Prints und Kunstartikel",
@@ -2940,7 +3066,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Knallt\u00fcte / Schleu\u00dfig",
         "link": "http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/",
         "sub-category": "Prints und Kunstartikel",
@@ -2959,7 +3085,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "Kulturwarenfabrik / Lindenau",
         "link": "https://www.kulturwarenfabrik.com/laden",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -2977,7 +3103,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "Kumi Mood / Lindenau",
         "link": "https://kumi-mood.de/shop",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -2995,7 +3121,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
+        "image": "rad.svg",
         "title": "lawi sportswear / S\u00fcdvorstadt",
         "link": "https://www.lawi-sport.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
@@ -3015,7 +3141,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/blumenstrauss.svg",
+        "image": "blumenstrauss.svg",
         "title": "Lust auf Blumen / Connewitz",
         "link": "https://www.lust-auf-blumen.de/",
         "sub-category": "Sonstiges",
@@ -3035,7 +3161,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "MahalyMacrame / Leipzig",
         "link": "https://www.etsy.com/shop/MahalyMacrame",
         "sub-category": "Interior und Dekoartikel",
@@ -3045,7 +3171,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "melonie / Zentrum",
         "link": "https://www.melonie.de/online-shop/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -3066,7 +3192,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "M\u00f6belkooperative S\u00fcd / Connewitz",
         "link": "https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -3087,7 +3213,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "mayfilm / Markkleeberg",
         "link": "https://www.mayfilm.de/",
         "sub-category": "Prints und Kunstartikel",
@@ -3105,16 +3231,28 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "M\u00f6belwerkstatt / Kleinzschocher",
         "link": "http://www.moebelwerkstatt.net/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "M\u00f6belwerkstatt",
-        "description": "Polsterm\u00f6bel (Terminvereinbarung)"
+        "description": "Polsterm\u00f6bel (Terminvereinbarung)",
+        "location": {
+            "lat": 51.3204171,
+            "lon": 12.3285392,
+            "address": "Antonienstra\u00dfe 26, 04229 Leipzig, Germany",
+            "tags": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Mona Schaffer / Leipzig",
         "link": "http://www.monaschaffer.com/portfolio/",
         "sub-category": "Prints und Kunstartikel",
@@ -3124,7 +3262,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "Naturnah M\u00f6bel / Volkmarsdorf",
         "link": "https://www.naturnah-moebel.de/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -3145,7 +3283,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Nikita Roytman / Volkmarsdorf",
         "link": "https://www.etsy.com/de/shop/NikitaRoytman",
         "sub-category": "Prints und Kunstartikel",
@@ -3155,7 +3293,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Pappnoptikum / Leipzig",
         "link": "https://www.pappnoptikum.de/",
         "sub-category": "Prints und Kunstartikel",
@@ -3165,13 +3303,13 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
+        "image": "rad.svg",
         "title": "Pistrada / Lindenau",
         "link": "https://www.pistrada.com/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Pistrada",
-        "description": "Fahrradladen (Onlineshop)",
+        "description": "Fahrradladen (Onlineshop & Werkstatt)",
         "location": {
             "lat": 51.33739079999999,
             "lon": 12.3277711,
@@ -3185,7 +3323,27 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "rad.svg",
+        "title": "rad3 / Alt-Lindenau",
+        "link": "https://rad3.de/",
+        "sub-category": "Fahrrad, Rad, Werkstatt",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "rad3",
+        "description": "Fahrradladen (Beratung & Werkstatt)",
+        "location": {
+            "lat": 51.339107,
+            "lon": 12.3273764,
+            "address": "Erich-K\u00f6hn-Stra\u00dfe 63B, 04177 Leipzig, Germany",
+            "tags": [
+                "bicycle_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "interior.svg",
         "title": "Rauch / Zentrum-S\u00fcd",
         "link": "https://www.rauch-leipzig.de/index.html",
         "sub-category": "Interior und Dekoartikel",
@@ -3205,7 +3363,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Rotberta / Leipzig",
         "link": "https://www.etsy.com/de/shop/Rotberta?ref=search_shop_redirect",
         "sub-category": "Prints und Kunstartikel",
@@ -3215,7 +3373,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "RUSTY CAT / S\u00fcdvorstadt",
         "link": "https://rusty-cat.de/shop",
         "sub-category": "Interior und Dekoartikel",
@@ -3235,7 +3393,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/putzen.svg",
+        "image": "putzen.svg",
         "title": "Sauberkasten / Alt-West",
         "link": "https://sauberkasten.com/shop/",
         "sub-category": "Putzen und Haushaltswaren",
@@ -3253,7 +3411,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/party.svg",
+        "image": "party.svg",
         "title": "sch\u00f6nherum / Zentrum",
         "link": "https://schoenherum.de/",
         "sub-category": "Party",
@@ -3272,7 +3430,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "Schwesterchen & Schwesterchen / Plagwitz",
         "link": "https://www.schwesterchenundschwesterchen.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -3292,7 +3450,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "SIGNUU / Zentrum",
         "link": "https://www.signuu.com/gravurshop.html",
         "sub-category": "Interior und Dekoartikel",
@@ -3311,7 +3469,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Sina Villinger / St\u00f6tteritz",
         "link": "https://sinavillinger.com/",
         "sub-category": "Prints und Kunstartikel",
@@ -3321,7 +3479,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Slinga Illustration / Abtnaundorf",
         "link": "https://www.slingashop.de/",
         "sub-category": "Prints und Kunstartikel",
@@ -3340,7 +3498,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Sophie Valentin Fotografie / Zentrum",
         "link": "https://sophievalentin.com/SHOP",
         "sub-category": "Prints und Kunstartikel",
@@ -3358,7 +3516,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "STIL concenptstore / Zentrum",
         "link": "https://www.stilconceptstore.de/shop/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -3385,7 +3543,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "Stoff -Kreationen / Altlindenau",
         "link": "https://www.stoff-kreationen.com/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -3405,7 +3563,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/naehbedarf.svg",
+        "image": "naehbedarf.svg",
         "title": "SusaMi / Leipzig",
         "link": "http://local-heroes-leipzig.de/susami-leipzig/",
         "sub-category": "Stoffe und N\u00e4hbedarf",
@@ -3415,7 +3573,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/rad.svg",
+        "image": "rad.svg",
         "title": "tex \u2013 lock / Alt-West",
         "link": "https://www.tex-lock.com/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
@@ -3433,7 +3591,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "TicToys / Plagwitz",
         "link": "https://www.tictoys.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -3452,7 +3610,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/prints.svg",
+        "image": "prints.svg",
         "title": "Tom Thiele / Leipzig",
         "link": "https://tomthiele.com/",
         "sub-category": "Prints und Kunstartikel",
@@ -3470,7 +3628,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "T\u00f6pferei Tischkultur / Leipzig",
         "link": "http://local-heroes-leipzig.de/toepferei-tischkultur-leipzig-suedvorstadt/",
         "sub-category": "Interior und Dekoartikel",
@@ -3488,7 +3646,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "T\u00f6pferhof Rost / Markranst\u00e4dt",
         "link": "http://local-heroes-leipzig.de/toepferhof-rost-leipzig-markranstaedt/",
         "sub-category": "Interior und Dekoartikel",
@@ -3507,7 +3665,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Tschau Tsch\u00fcssi / Zentrum",
         "link": "https://tschautschuessi.bigcartel.com/",
         "sub-category": "Interior und Dekoartikel",
@@ -3526,7 +3684,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Ulrike Sandner / Lindenau",
         "link": "https://www.ulrike-sandner.de/shop/",
         "sub-category": "Interior und Dekoartikel",
@@ -3544,7 +3702,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/interior.svg",
+        "image": "interior.svg",
         "title": "Verknotet / Leipzig",
         "link": "https://www.etsy.com/de/shop/verknotet?ref=shop_sugg",
         "sub-category": "Interior und Dekoartikel",
@@ -3554,7 +3712,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/putzen.svg",
+        "image": "putzen.svg",
         "title": "WAXXi / Leipzig",
         "link": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
         "sub-category": "Putzen und Haushaltswaren",
@@ -3575,7 +3733,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/mo\u0308bel.svg",
+        "image": "mo\u0308bel.svg",
         "title": "Wohnmacher / Zentrum",
         "link": "https://www.wohnmacher.de/",
         "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
@@ -3596,7 +3754,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/spiel.svg",
+        "image": "spiel.svg",
         "title": "Wonnecitz / S\u00fcdvorstadt",
         "link": "http://www.wonnecitz.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
@@ -3615,7 +3773,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Ashtange Yoga Loft / Plagwitz",
         "link": "https://www.ashtangaleipzig.de/deutsch/aktuelles/",
         "sub-category": "Yoga und Bewegung",
@@ -3635,7 +3793,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Bootsverleih Herold / Markkleeberg",
         "link": "https://www.bootsbau-herold.de/",
         "sub-category": "Sport",
@@ -3653,7 +3811,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Chamundi Yoga / S\u00fcdvorstadt",
         "link": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
         "sub-category": "Yoga und Bewegung",
@@ -3673,7 +3831,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "CityBootCamp / Leipzig",
         "link": "https://www.citybootcamp.de/seminare/",
         "sub-category": "Sport",
@@ -3693,7 +3851,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "GESPRO / Miltitz",
         "link": "https://www.ges-pro.de/",
         "sub-category": "Sport",
@@ -3712,7 +3870,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Gl\u00fcckskind Yoga / Zentrum",
         "link": "https://glueckskind-yoga-leipzig.de/",
         "sub-category": "Yoga und Bewegung",
@@ -3732,7 +3890,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Guter Griff / Lindenau",
         "link": "https://www.gutergriff.de/",
         "sub-category": "Sport",
@@ -3751,7 +3909,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "KAWi-KiDS / S\u00fcdvorstadt",
         "link": "http://local-heroes-leipzig.de/kawi-kids/",
         "sub-category": "Sport",
@@ -3769,7 +3927,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Kickbox Verein Leipzig / Plagwitz",
         "link": "http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/",
         "sub-category": "Sport",
@@ -3787,7 +3945,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/reisen.svg",
+        "image": "reisen.svg",
         "title": "Madiba / Gohlis-S\u00fcd",
         "link": "https://www.madiba.de/",
         "sub-category": "Reisen",
@@ -3805,7 +3963,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Natur & Psyche / Alt-Lindenau",
         "link": "http://heilpraktiker-becher-leipzig.de/",
         "sub-category": "Yoga und Bewegung",
@@ -3824,7 +3982,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/reisen.svg",
+        "image": "reisen.svg",
         "title": "Meine Welt Reisen / Zentrum-S\u00fcd",
         "link": "https://www.meinewelt-reisen.de/",
         "sub-category": "Reisen",
@@ -3842,7 +4000,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Mindt Studio / Plagwitz",
         "link": "https://mindtstudio.de/vinyasa-yogakurse",
         "sub-category": "Yoga und Bewegung",
@@ -3860,7 +4018,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "R\u00fcckenoase / Leipzig",
         "link": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/",
         "sub-category": "Sport",
@@ -3878,7 +4036,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Spannkraft / Zentrum",
         "link": "http://local-heroes-leipzig.de/spannkraft-leipzig-zentrum/",
         "sub-category": "Yoga und Bewegung",
@@ -3898,7 +4056,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Stadthafen Leipzig / Leipzig",
         "link": "https://stadthafen-leipzig.com/index.php/gutscheine",
         "sub-category": "Sport",
@@ -3916,7 +4074,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Stahlakademie / Lindenau",
         "link": "http://www.stahlakademie.net/",
         "sub-category": "Sport",
@@ -3934,7 +4092,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Studio Veda / Zentrum",
         "link": "http://studioveda.de/",
         "sub-category": "Yoga und Bewegung",
@@ -3954,7 +4112,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "tapir / Zentrum",
         "link": "https://www.tapir-store.de/?awc=17390_1585142226_3e093d9039a56b61efb1637ba70aeebf&utm_source=awin&utm_medium=affiliate",
         "sub-category": "Sport",
@@ -3975,7 +4133,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Team Duell / Mockau-West",
         "link": "https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge",
         "sub-category": "Sport",
@@ -3993,7 +4151,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Ute Stephan / Plagwitz",
         "link": "https://www.ute-stephan.de/",
         "sub-category": "Yoga und Bewegung",
@@ -4011,7 +4169,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/sport-1.svg",
+        "image": "sport-1.svg",
         "title": "Varadanza / Zentrum",
         "link": "https://www.varadanza.com/",
         "sub-category": "Sport",
@@ -4030,16 +4188,26 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/yoga.svg",
+        "image": "yoga.svg",
         "title": "Wohltat / Lindenau",
         "link": "https://www.wohltat-leipzig.com/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Wohltat",
-        "description": "Personal Training & Fitness (Onlinekurse)"
+        "description": "Personal Training & Fitness (Onlinekurse)",
+        "location": {
+            "lat": 51.3308092,
+            "lon": 12.3437688,
+            "address": "Forststra\u00dfe 9, 04229 Leipzig, Germany",
+            "tags": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Buchhandlung Gr\u00fcmmer / Plagwitz",
         "link": "https://www.buchhandlung-gruemmer.de/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4059,7 +4227,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Buchhandlung S\u00fcdvorstadt / S\u00fcdvorstadt",
         "link": "https://www.genialokal.de/?storeID=leipzsv",
         "sub-category": "B\u00fccher und Magazine",
@@ -4079,16 +4247,25 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Buchkinder Leipzig e.V. / Lindenau",
         "link": "https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg",
         "sub-category": "B\u00fccher und Magazine",
         "category": "H\u00f6ren & Lesen",
         "cleanTitle": "Buchkinder Leipzig e.V.",
-        "description": "Verein (Onlinelesungen)"
+        "description": "Verein (Onlinelesungen)",
+        "location": {
+            "lat": 51.3355507,
+            "lon": 12.3318747,
+            "address": "Endersstra\u00dfe 3, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Connewitzer Verlagsbuchhandlung / Leipzig",
         "link": "https://www.cvb-leipzig.de/bestellungen-shops/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4108,7 +4285,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Distillery / S\u00fcdvorstadt",
         "link": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4127,7 +4304,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Drift / Plagwitz",
         "link": "https://drift-books.buchhandlung.de/shop/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4147,7 +4324,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "el libro / Connewitz",
         "link": "https://www.genialokal.de/?storeID=ellibro",
         "sub-category": "B\u00fccher und Magazine",
@@ -4167,7 +4344,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Eva Meitner/ Leipzig",
         "link": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4177,7 +4354,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Ilses Erika / Connewitz",
         "link": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4196,7 +4373,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Laura Liebeskind / Leipzig",
         "link": "https://www.youtube.com/channel/UCNZRAJLAjLDbnN_l1oAjcmw",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4216,7 +4393,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "MZIN / Zentrum",
         "link": "https://mzin.de/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4236,7 +4413,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Noch Besser Leben / Plagwitz",
         "link": "https://www.facebook.com/events/2577127955835651/",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4256,7 +4433,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Ostblockschlampen / Leipzig",
         "link": "http://www.ostblockschlampen.com/",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4266,7 +4443,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "ROTORBOOKS / Zentrum",
         "link": "http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4288,7 +4465,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Seitenblick / Lindenau",
         "link": "http://277780.umbreitwebshop.de/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4308,7 +4485,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Serifee / S\u00fcdvorstadt",
         "link": "https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4328,7 +4505,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Spector Books / Zentrum-S\u00fcd",
         "link": "http://www.spectorbooks.com/",
         "sub-category": "B\u00fccher und Magazine",
@@ -4346,7 +4523,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/buecher-magazine-1.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Urbanite / S\u00fcdvorstadt",
         "link": "https://www.gofundme.com/f/your-urbanite-needs-you",
         "sub-category": "B\u00fccher und Magazine",
@@ -4364,7 +4541,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "VARY / Zentrum-Ost",
         "link": "http://local-heroes-leipzig.de/vary-leipzig-zentrum-ost/",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4387,7 +4564,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "calaidoskop Institut & Praxis / Zentrum",
         "link": "https://www.calaidoskop.de",
         "sub-category": "Coaching und Online-Workshops",
@@ -4406,7 +4583,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "GOJO Music / Zentrum-Nord",
         "link": "https://www.gojo.me/",
         "sub-category": "Coaching und Online-Workshops",
@@ -4416,7 +4593,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "Gestalt in Leipzig/ Leipzig",
         "link": "https://gestalt-in-leipzig.de/online-sitzungen/",
         "sub-category": "Coaching und Online-Workshops",
@@ -4434,17 +4611,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
-        "title": "Kini Kana / Leipzig",
-        "link": "https://play.google.com/store/apps/details?id=de.avata.kinikana",
-        "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
-        "cleanTitle": "Kini Kana",
-        "description": "Live-Coaching (App)",
-        "location": null
-    },
-    {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "Lena Staudigl / S\u00fcdvorstadt",
         "link": "https://www.lenastaudigl.de/onlinesession",
         "sub-category": "Coaching und Online-Workshops",
@@ -4463,7 +4630,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "Lifestyle Emergency / Leipzig",
         "link": "https://lifestyle-emergency.com/",
         "sub-category": "Coaching und Online-Workshops",
@@ -4473,7 +4640,7 @@
         "location": null
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Musikzimmer / Plagwitz",
         "link": "http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/",
         "sub-category": "Musik und Live\u00fcbertragungen",
@@ -4491,9 +4658,9 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/coaching.svg",
+        "image": "coaching.svg",
         "title": "OUIIUO Studio / Reudnitz",
-        "link": "https://ouiiuo.de/vsvirus",
+        "link": "https://ouiiuo.de/portfolio",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops & Weiterbildung",
         "cleanTitle": "OUIIUO Studio",
@@ -4509,7 +4676,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/handarbeit.svg",
+        "image": "handarbeit.svg",
         "title": "Studio Migotka / Lindenau",
         "link": "http://www.migotka.de/workshops.html",
         "sub-category": "Handarbeiten",
@@ -4530,7 +4697,7 @@
         }
     },
     {
-        "image": "http://local-heroes-leipzig.de/wp-content/uploads/2020/03/musik.svg",
+        "image": "musik.svg",
         "title": "Trommelschule Yngo Gutmann / Zentrum",
         "link": "https://www.trommel-kurse.de/",
         "sub-category": "Musik und Live\u00fcbertragungen",
