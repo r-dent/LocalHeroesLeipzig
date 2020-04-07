@@ -146,7 +146,7 @@ def loadEntriesFromFile(filePath):
 
 def writeJson(data, filePath):
     fileHandler = open(filePath, "w")
-    json.dump(data, fileHandler, indent=4)
+    json.dump(data, fileHandler, indent=4, ensure_ascii=False)
 
 def writeGeoJson(entries):
     geoEntries = []
