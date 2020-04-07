@@ -36,6 +36,10 @@ def loadLocalsFromWebsite(url):
                 image = d('img', element)
                 imagePath = image.attr('src')
                 imageFilename = ntpath.basename(imagePath)
+
+                # Fix for multi-char umlaut.
+                imageFilename = imageFilename.replace('ö', 'oe')
+
                 if imageFilename not in imagesCached:
                     saveImage(imagePath, imageFilename)
                     imagesCached.append(imageFilename)

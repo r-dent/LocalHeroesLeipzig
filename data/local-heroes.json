@@ -10,7 +10,7 @@
         "location": {
             "lat": 51.345684,
             "lon": 12.4533062,
-            "address": "B\u00f6ttgerstra\u00dfe 2, 04328 Leipzig, Germany",
+            "address": "Böttgerstraße 2, 04328 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -30,7 +30,7 @@
         "location": {
             "lat": 51.34443419999999,
             "lon": 12.3612119,
-            "address": "Tschaikowskistra\u00dfe 14, 04105 Leipzig, Germany",
+            "address": "Tschaikowskistraße 14, 04105 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "liquor_store",
@@ -45,14 +45,14 @@
         "image": "spirituosen.svg",
         "title": "Altes Papierlager / Seeburgviertel",
         "link": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Altes Papierlager",
         "description": "Wein & Spirituosen (Lieferservice)",
         "location": {
             "lat": 51.336165,
             "lon": 12.3866006,
-            "address": "Goldschmidtstra\u00dfe 31, 04103 Leipzig, Germany",
+            "address": "Goldschmidtstraße 31, 04103 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -70,7 +70,7 @@
         "location": {
             "lat": 51.33045689999999,
             "lon": 12.3309559,
-            "address": "Karl-Heine-Stra\u00dfe 87, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 87, 04229 Leipzig, Germany",
             "tags": [
                 "bar",
                 "restaurant",
@@ -82,16 +82,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "ANALOG Caf\u00e9 / Volkmarsdorf",
+        "title": "ANALOG Café / Volkmarsdorf",
         "link": "https://www.paypal.com/pools/c/8nBB0NCGhG",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "ANALOG Caf\u00e9",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "cleanTitle": "ANALOG Café",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3474203,
             "lon": 12.4034796,
-            "address": "Hedwigstra\u00dfe 20, 04315 Leipzig, Germany",
+            "address": "Hedwigstraße 20, 04315 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -121,16 +121,16 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Backstein / Zentrum-S\u00fcd",
+        "title": "Backstein / Zentrum-Süd",
         "link": "http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Backstein",
-        "description": "B\u00e4ckerei (to go)",
+        "description": "Bäckerei (to go)",
         "location": {
             "lat": 51.33371,
             "lon": 12.36589,
-            "address": "Grassistra\u00dfe 4, 04107 Leipzig, Germany",
+            "address": "Grassistraße 4, 04107 Leipzig, Germany",
             "tags": [
                 "bakery",
                 "food",
@@ -166,7 +166,7 @@
         "image": "kaffee.svg",
         "title": "BERT & BERGER / Lindenau",
         "link": "http://local-heroes-leipzig.de/bert-berger-leipzig-lindenau/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "BERT & BERGER",
         "description": "Konditorei (Samstagsmarkt)",
@@ -179,11 +179,11 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Biomare",
-        "description": "Bio-Supermarkt (Sonder\u00f6ffnungszeiten)",
+        "description": "Bio-Supermarkt (Sonderöffnungszeiten)",
         "location": {
             "lat": 51.3320972,
             "lon": 12.3370508,
-            "address": "Karl-Heine-Stra\u00dfe 43/45, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 43/45, 04229 Leipzig, Germany",
             "tags": [
                 "drugstore",
                 "grocery_or_supermarket",
@@ -200,14 +200,14 @@
         "image": "spirituosen.svg",
         "title": "Bierothek / Zentrum",
         "link": "https://bierothek.de/stores/leipzig",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Bierothek",
         "description": "Bier (Onlineshop)",
         "location": {
             "lat": 51.3420145,
             "lon": 12.3748949,
-            "address": "Katharinenstra\u00dfe 11, 04109 Leipzig, Germany",
+            "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
             "tags": [
                 "liquor_store",
                 "point_of_interest",
@@ -220,14 +220,14 @@
         "image": "kaffee.svg",
         "title": "Bohemian Kids / Zentrum",
         "link": "http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Bohemian Kids",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3377309,
             "lon": 12.3775947,
-            "address": "Universit\u00e4tsstra\u00dfe 18, 04109 Leipzig, Germany",
+            "address": "Universitätsstraße 18, 04109 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -259,16 +259,16 @@
     },
     {
         "image": "spirituosen.svg",
-        "title": "ca\u00e1mate / Alt-West",
+        "title": "caámate / Alt-West",
         "link": "https://caamate.de/",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
-        "cleanTitle": "ca\u00e1mate",
+        "cleanTitle": "caámate",
         "description": "Mate (Onlineshop)",
         "location": {
             "lat": 51.3482269,
             "lon": 12.3008795,
-            "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+            "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -277,16 +277,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 ELLA\u00a0 / Kleinzschocher",
+        "title": "Café ELLA  / Kleinzschocher",
         "link": "http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 ELLA",
-        "description": "Caf\u00e9 (Take Away & Bestellungen)",
+        "cleanTitle": "Café ELLA",
+        "description": "Café (Take Away & Bestellungen)",
         "location": {
             "lat": 51.3187471,
             "lon": 12.323602,
-            "address": "Hirzelstra\u00dfe 34, 04229 Leipzig, Germany",
+            "address": "Hirzelstraße 34, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -298,16 +298,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 Liese / Connewitz",
+        "title": "Café Liese / Connewitz",
         "link": "http://local-heroes-leipzig.de/cafe-liese-leipzig-connewitz/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 Liese",
-        "description": "Caf\u00e9 (Bestellungen & Take Away)",
+        "cleanTitle": "Café Liese",
+        "description": "Café (Bestellungen & Take Away)",
         "location": {
             "lat": 51.3117159,
             "lon": 12.3722737,
-            "address": "Scheffelstra\u00dfe 35, 04277 Leipzig, Germany",
+            "address": "Scheffelstraße 35, 04277 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -319,16 +319,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 Kune / Neustadt-Neusch\u00f6nefeld",
+        "title": "Café Kune / Neustadt-Neuschönefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 Kune",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "cleanTitle": "Café Kune",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3453761,
             "lon": 12.4108226,
-            "address": "Eisenbahnstra\u00dfe 107, 04315 Leipzig, Germany",
+            "address": "Eisenbahnstraße 107, 04315 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "bar",
@@ -342,16 +342,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 NiMo / Zentrum-S\u00fcd",
+        "title": "Café NiMo / Zentrum-Süd",
         "link": "https://www.startnext.com/rettet-das-cafe-nimo",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 NiMo",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "cleanTitle": "Café NiMo",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3253297,
             "lon": 12.3702837,
-            "address": "August-Bebel-Stra\u00dfe 1, 04275 Leipzig, Germany",
+            "address": "August-Bebel-Straße 1, 04275 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -362,16 +362,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 Oink / Plagwitz",
+        "title": "Café Oink / Plagwitz",
         "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 Oink",
-        "description": "Caf\u00e9 (Gutschein)",
+        "cleanTitle": "Café Oink",
+        "description": "Café (Gutschein)",
         "location": {
             "lat": 51.3283386,
             "lon": 12.3369004,
-            "address": "Hinterhaus, Lauchst\u00e4dter Str. 15A, 04229 Leipzig, Germany",
+            "address": "Hinterhaus, Lauchstädter Str. 15A, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -383,16 +383,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 Pastel / Lindenau",
+        "title": "Café Pastel / Lindenau",
         "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 Pastel",
-        "description": "Caf\u00e9 (Bestellungen & Take Away)",
+        "cleanTitle": "Café Pastel",
+        "description": "Café (Bestellungen & Take Away)",
         "location": {
             "lat": 51.34023450000001,
             "lon": 12.3259354,
-            "address": "Georg-Schwarz-Stra\u00dfe 22, 04177 Leipzig, Germany",
+            "address": "Georg-Schwarz-Straße 22, 04177 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -403,16 +403,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 TRAGO / Sch\u00f6nefeld",
+        "title": "Café TRAGO / Schönefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 TRAGO",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "cleanTitle": "Café TRAGO",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.35154319999999,
             "lon": 12.4068201,
-            "address": "Paul-Heyse-Stra\u00dfe 1, 04347 Leipzig, Germany",
+            "address": "Paul-Heyse-Straße 1, 04347 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -424,16 +424,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Caf\u00e9 Yellow / S\u00fcdvorstadt",
+        "title": "Café Yellow / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/cafe-yellow-leipzig-suedvorstadt/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Caf\u00e9 Yellow",
-        "description": "Caf\u00e9 (Gutscheinverkauf)",
+        "cleanTitle": "Café Yellow",
+        "description": "Café (Gutscheinverkauf)",
         "location": {
             "lat": 51.3176564,
             "lon": 12.370602,
-            "address": "Steinstra\u00dfe 18, 04275 Leipzig, Germany",
+            "address": "Steinstraße 18, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -442,16 +442,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Campus Caf\u00e9 Salomon / Zentrum",
+        "title": "Campus Café Salomon / Zentrum",
         "link": "http://local-heroes-leipzig.de/campus-cafe-salomon-leipzig-zentrum/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Campus Caf\u00e9 Salomon",
-        "description": "Caf\u00e9 (Lieferservice & Take Away)",
+        "cleanTitle": "Campus Café Salomon",
+        "description": "Café (Lieferservice & Take Away)",
         "location": {
             "lat": 51.3395333,
             "lon": 12.3884868,
-            "address": "Salomonstra\u00dfe 8, 04103 Leipzig, Germany",
+            "address": "Salomonstraße 8, 04103 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -463,16 +463,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Carls Laden / S\u00fcdvorstadt",
+        "title": "Carls Laden / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/carls-laden-leipzig-suedvorstadt/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Carls Laden",
-        "description": "Caf\u00e9 (Bestellungen)",
+        "description": "Café (Bestellungen)",
         "location": {
             "lat": 51.3227392,
             "lon": 12.3738535,
-            "address": "Karl-Liebknecht-Stra\u00dfe 83, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 83, 04275 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -486,10 +486,10 @@
         "image": "kaffee.svg",
         "title": "Coffee Cloud / Zentrum-Ost",
         "link": "http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Coffee Cloud",
-        "description": "Caf\u00e9 (Lieferservice)",
+        "description": "Café (Lieferservice)",
         "location": {
             "lat": 51.3450193,
             "lon": 12.3845451,
@@ -505,11 +505,11 @@
     },
     {
         "image": "spirituosen.svg",
-        "title": "Connewitzer Lik\u00f6rfabrik / Connewitz",
+        "title": "Connewitzer Likörfabrik / Connewitz",
         "link": "https://www.likoerfabrik.com/",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
-        "cleanTitle": "Connewitzer Lik\u00f6rfabrik",
+        "cleanTitle": "Connewitzer Likörfabrik",
         "description": "Spirituosen (Bestellungen)",
         "location": null
     },
@@ -517,7 +517,7 @@
         "image": "spirituosen.svg",
         "title": "Doppelblick / Lindenau",
         "link": "https://shop.doppelblick.org/",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Doppelblick",
         "description": "Spirituosen (Onlineshop)",
@@ -530,7 +530,7 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Eine Welt e.V.",
-        "description": "Fairtrade (Sonder\u00f6ffnungszeiten & Onlineshop)",
+        "description": "Fairtrade (Sonderöffnungszeiten & Onlineshop)",
         "location": {
             "lat": 51.30856190000001,
             "lon": 12.3750913,
@@ -549,11 +549,11 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Einfach Unverpackt",
-        "description": "Unverpacktladen (Sonder\u00f6ffnungszeiten)",
+        "description": "Unverpacktladen (Sonderöffnungszeiten)",
         "location": {
             "lat": 51.32387960000001,
             "lon": 12.3727537,
-            "address": "Kochstra\u00dfe 6, 04275 Leipzig, Germany",
+            "address": "Kochstraße 6, 04275 Leipzig, Germany",
             "tags": [
                 "grocery_or_supermarket",
                 "food",
@@ -565,16 +565,16 @@
     },
     {
         "image": "eis.svg",
-        "title": "Eistr\u00e4umerei / Reudnitz",
+        "title": "Eisträumerei / Reudnitz",
         "link": "http://www.eistraeumerei.de/eiscafe/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
-        "cleanTitle": "Eistr\u00e4umerei",
+        "cleanTitle": "Eisträumerei",
         "description": "Eis (Bestellungen & Take Away)",
         "location": {
             "lat": 51.3287195,
             "lon": 12.403948,
-            "address": "Riebeckstra\u00dfe 32, 04317 Leipzig, Germany",
+            "address": "Riebeckstraße 32, 04317 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -586,16 +586,16 @@
     },
     {
         "image": "kaffeebohne.svg",
-        "title": "Elsterm\u00fchle / Zentrum-S\u00fcd",
+        "title": "Elstermühle / Zentrum-Süd",
         "link": "https://www.xn--elstermhle-geb.de/",
-        "sub-category": "Kaffeebohne und R\u00f6sterei",
+        "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
-        "cleanTitle": "Elsterm\u00fchle",
-        "description": "Kaffeer\u00f6sterei (Onlineshop)",
+        "cleanTitle": "Elstermühle",
+        "description": "Kaffeerösterei (Onlineshop)",
         "location": {
             "lat": 51.33819339999999,
             "lon": 12.3610483,
-            "address": "K\u00e4the-Kollwitz-Stra\u00dfe 67a, 04109 Leipzig, Germany",
+            "address": "Käthe-Kollwitz-Straße 67a, 04109 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -607,7 +607,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "ERNAS / Zentrum-S\u00fcd",
+        "title": "ERNAS / Zentrum-Süd",
         "link": "http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -616,7 +616,7 @@
         "location": {
             "lat": 51.32538049999999,
             "lon": 12.367732,
-            "address": "Mahlmannstra\u00dfe 1, 04107 Leipzig, Germany",
+            "address": "Mahlmannstraße 1, 04107 Leipzig, Germany",
             "tags": [
                 "meal_takeaway",
                 "restaurant",
@@ -628,16 +628,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Espresso Zack Zack\u00a0 / Neusch\u00f6nefeld",
+        "title": "Espresso Zack Zack  / Neuschönefeld",
         "link": "https://www.startnext.com/wirgemeinsam",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Espresso Zack Zack",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.33278,
             "lon": 12.4042299,
-            "address": "Albert-Schweitzer-Stra\u00dfe 2, 04317 Leipzig, Germany",
+            "address": "Albert-Schweitzer-Straße 2, 04317 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -651,14 +651,14 @@
         "image": "kaffeebohne.svg",
         "title": "Franz Morish / Zentrum",
         "link": "https://franzmorish.de/",
-        "sub-category": "Kaffeebohne und R\u00f6sterei",
+        "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "Franz Morish",
-        "description": "Kaffeer\u00f6sterei (Onlineshop & Lieferservice)",
+        "description": "Kaffeerösterei (Onlineshop & Lieferservice)",
         "location": {
             "lat": 51.335276,
             "lon": 12.38892,
-            "address": "Goldschmidtstra\u00dfe 39, 04103 Leipzig, Germany",
+            "address": "Goldschmidtstraße 39, 04103 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "restaurant",
@@ -671,7 +671,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "GASTGEBER / Neusch\u00f6nefeld",
+        "title": "GASTGEBER / Neuschönefeld",
         "link": "http://local-heroes-leipzig.de/gastgeber-leipzig-neuschoenefeld/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -691,16 +691,16 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Globus D\u00f6ner / Leipzig",
+        "title": "Globus Döner / Leipzig",
         "link": "https://www.globusdoener.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
-        "cleanTitle": "Globus D\u00f6ner",
-        "description": "D\u00f6ner (Take-Away)",
+        "cleanTitle": "Globus Döner",
+        "description": "Döner (Take-Away)",
         "location": {
             "lat": 51.3316974,
             "lon": 12.4055788,
-            "address": "Oststra\u00dfe 56, 04317 Leipzig, Germany",
+            "address": "Oststraße 56, 04317 Leipzig, Germany",
             "tags": [
                 "meal_takeaway",
                 "restaurant",
@@ -714,10 +714,10 @@
         "image": "kaffee.svg",
         "title": "HeLo / Plagwitz",
         "link": "http://helchslorenzo.de/aktuelles/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "HeLo",
-        "description": "Caf\u00e9 (Gutscheine & Spendenaktion)",
+        "description": "Café (Gutscheine & Spendenaktion)",
         "location": {
             "lat": 51.3329105,
             "lon": 12.3358172,
@@ -741,7 +741,7 @@
         "location": {
             "lat": 51.340742,
             "lon": 12.3330701,
-            "address": "Erich-K\u00f6hn-Stra\u00dfe 24, 04177 Leipzig, Germany",
+            "address": "Erich-Köhn-Straße 24, 04177 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -754,14 +754,14 @@
         "image": "kaffee.svg",
         "title": "INO / Lindenau",
         "link": "http://www.startnext.com/ino-cafe",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "INO",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3335002,
             "lon": 12.3243148,
-            "address": "L\u00fctzner Str. 103, 04177 Leipzig, Germany",
+            "address": "Lützner Str. 103, 04177 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -773,16 +773,16 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Kleine Leckerei / Schleu\u00dfig",
+        "title": "Kleine Leckerei / Schleußig",
         "link": "https://www.kleineleckerei.de/lieferservice/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Kleine Leckerei",
-        "description": "Caf\u00e9 & Bistro (Lieferservice & Take Away)",
+        "description": "Café & Bistro (Lieferservice & Take Away)",
         "location": {
             "lat": 51.3222169,
             "lon": 12.3404323,
-            "address": "Schnorrstra\u00dfe 38, 04229 Leipzig, Germany",
+            "address": "Schnorrstraße 38, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "lodging",
@@ -796,7 +796,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "kuultivo / Schleu\u00dfig",
+        "title": "kuultivo / Schleußig",
         "link": "https://kuultivo-shop.company.site/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -805,7 +805,7 @@
         "location": {
             "lat": 51.3264888,
             "lon": 12.344878,
-            "address": "K\u00f6nneritzstra\u00dfe 24, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -825,7 +825,7 @@
         "location": {
             "lat": 51.34010989999999,
             "lon": 12.3703432,
-            "address": "Gottschedstra\u00dfe 4, 04109 Leipzig, Germany",
+            "address": "Gottschedstraße 4, 04109 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "bar",
@@ -842,11 +842,11 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "lieber lose",
-        "description": "Unverpacktladen (Sonder\u00f6ffnungszeiten)",
+        "description": "Unverpacktladen (Sonderöffnungszeiten)",
         "location": {
             "lat": 51.33119139999999,
             "lon": 12.3382197,
-            "address": "\u00fcber, Wei\u00dfenfelser Str. 22 Eingang zum Ladengesch\u00e4ft:, Zschochersche Str., 04229 Leipzig, Germany",
+            "address": "über, Weißenfelser Str. 22 Eingang zum Ladengeschäft:, Zschochersche Str., 04229 Leipzig, Germany",
             "tags": [
                 "grocery_or_supermarket",
                 "food",
@@ -858,7 +858,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "maza pita / Schleu\u00dfig",
+        "title": "maza pita / Schleußig",
         "link": "https://mazapita.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -867,7 +867,7 @@
         "location": {
             "lat": 51.3242169,
             "lon": 12.3441573,
-            "address": "K\u00f6nneritzstra\u00dfe 49, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 49, 04229 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -887,7 +887,7 @@
         "location": {
             "lat": 51.3284376,
             "lon": 12.3745189,
-            "address": "Paul-Gruner-Stra\u00dfe 44, 04107 Leipzig, Germany",
+            "address": "Paul-Gruner-Straße 44, 04107 Leipzig, Germany",
             "tags": [
                 "lodging",
                 "restaurant",
@@ -920,14 +920,14 @@
         "image": "kaffeebohne.svg",
         "title": "Oben Auf / Plagwitz",
         "link": "https://obenauf-kaffee.de/",
-        "sub-category": "Kaffeebohne und R\u00f6sterei",
+        "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "Oben Auf",
-        "description": "Kaffeer\u00f6sterei (Onlineshop)",
+        "description": "Kaffeerösterei (Onlineshop)",
         "location": {
             "lat": 51.33154159999999,
             "lon": 12.3350365,
-            "address": "Karl-Heine-Stra\u00dfe 57, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 57, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -948,7 +948,7 @@
         "location": {
             "lat": 51.2735456,
             "lon": 12.3133099,
-            "address": "Knuthstra\u00dfe 6, 04249 Leipzig, Germany",
+            "address": "Knuthstraße 6, 04249 Leipzig, Germany",
             "tags": [
                 "food",
                 "point_of_interest",
@@ -958,7 +958,7 @@
     },
     {
         "image": "cocktail-1.svg",
-        "title": "OSKAR / S\u00fcdvorstadt",
+        "title": "OSKAR / Südvorstadt",
         "link": "https://oskar-leipzig.de/gutschein/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
@@ -967,7 +967,7 @@
         "location": {
             "lat": 51.331654,
             "lon": 12.3718221,
-            "address": "Harkortstra\u00dfe 21, 04107 Leipzig, Germany",
+            "address": "Harkortstraße 21, 04107 Leipzig, Germany",
             "tags": [
                 "park",
                 "bar",
@@ -1009,7 +1009,7 @@
         "location": {
             "lat": 51.3369998,
             "lon": 12.3327859,
-            "address": "Odermannstra\u00dfe 11, 04177 Leipzig, Germany",
+            "address": "Odermannstraße 11, 04177 Leipzig, Germany",
             "tags": [
                 "bar",
                 "restaurant",
@@ -1023,14 +1023,14 @@
         "image": "spirituosen.svg",
         "title": "#Pfff #Krsch / Lindenau",
         "link": "https://www.pfff-krsch.de/pfff-krsch-kaufen/",
-        "sub-category": "Spirituosen und Getr\u00e4nke",
+        "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "#Pfff #Krsch",
         "description": "Spirituosen (Onlineshop)",
         "location": {
             "lat": 51.3295922,
             "lon": 12.3312243,
-            "address": "Wei\u00dfenfelser Str. 63, 04229 Leipzig, Germany",
+            "address": "Weißenfelser Str. 63, 04229 Leipzig, Germany",
             "tags": [
                 "liquor_store",
                 "point_of_interest",
@@ -1064,7 +1064,7 @@
     },
     {
         "image": "cocktail-1.svg",
-        "title": "Platzhirsch / S\u00fcdvorstadt",
+        "title": "Platzhirsch / Südvorstadt",
         "link": "https://www.startnext.com/platzhirsch-bar",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
@@ -1073,7 +1073,7 @@
         "location": {
             "lat": 51.3253297,
             "lon": 12.3702837,
-            "address": "August-Bebel-Stra\u00dfe 1, 04275 Leipzig, Germany",
+            "address": "August-Bebel-Straße 1, 04275 Leipzig, Germany",
             "tags": [
                 "bar",
                 "restaurant",
@@ -1085,7 +1085,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Renkli / S\u00fcdvorstadt",
+        "title": "Renkli / Südvorstadt",
         "link": "https://www.werideleipzig.com/shop",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -1094,7 +1094,7 @@
         "location": {
             "lat": 51.3316723,
             "lon": 12.3735803,
-            "address": "Karl-Liebknecht-Stra\u00dfe 2, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 2, 04107 Leipzig, Germany",
             "tags": [
                 "bar",
                 "food",
@@ -1125,16 +1125,16 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "roots Pflanzencaf\u00e9 / Schleu\u00dfig",
+        "title": "roots Pflanzencafé / Schleußig",
         "link": "https://www.roots-pflanzencafe.de/gutscheine",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "roots Pflanzencaf\u00e9",
-        "description": "Caf\u00e9 (Gutscheinverkauf)",
+        "cleanTitle": "roots Pflanzencafé",
+        "description": "Café (Gutscheinverkauf)",
         "location": {
             "lat": 51.3205171,
             "lon": 12.3416263,
-            "address": "K\u00f6nneritzstra\u00dfe 88, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 88, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -1154,7 +1154,7 @@
         "location": {
             "lat": 51.360481,
             "lon": 12.362131,
-            "address": "Stockstra\u00dfe 2, 04155 Leipzig, Germany",
+            "address": "Stockstraße 2, 04155 Leipzig, Germany",
             "tags": [
                 "grocery_or_supermarket",
                 "restaurant",
@@ -1167,16 +1167,16 @@
     },
     {
         "image": "kaffeebohne.svg",
-        "title": "S1 Vinyl & Kaffee/ Zentrum-S\u00fcd",
+        "title": "S1 Vinyl & Kaffee/ Zentrum-Süd",
         "link": "https://www.startnext.com/wirgemeinsam",
-        "sub-category": "Kaffeebohne und R\u00f6sterei",
+        "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "S1 Vinyl & Kaffee",
-        "description": "Caf\u00e9 (Crowdfunding)",
+        "description": "Café (Crowdfunding)",
         "location": {
             "lat": 51.3471251,
             "lon": 12.3147613,
-            "address": "Sattelhofstra\u00dfe 1, 04179 Leipzig, Germany",
+            "address": "Sattelhofstraße 1, 04179 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "electronics_store",
@@ -1190,16 +1190,16 @@
     },
     {
         "image": "kaffeebohne.svg",
-        "title": "7 shots coffee / Zentrum-S\u00fcd",
+        "title": "7 shots coffee / Zentrum-Süd",
         "link": "http://7shotscoffee.de/",
-        "sub-category": "Kaffeebohne und R\u00f6sterei",
+        "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "7 shots coffee",
-        "description": "Kaffeer\u00f6sterei (Bestellung)",
+        "description": "Kaffeerösterei (Bestellung)",
         "location": {
             "lat": 51.3297688,
             "lon": 12.3839929,
-            "address": "Philipp-Rosenthal-Stra\u00dfe 7, 04103 Leipzig, Germany",
+            "address": "Philipp-Rosenthal-Straße 7, 04103 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "food",
@@ -1211,7 +1211,7 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Shady / S\u00fcdvorstadt",
+        "title": "Shady / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/shady-leipzig-suedvorstadt/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
@@ -1220,7 +1220,7 @@
         "location": {
             "lat": 51.32532089999999,
             "lon": 12.3704379,
-            "address": "K\u00f6rnerstra\u00dfe 2, 04107 Leipzig, Germany",
+            "address": "Körnerstraße 2, 04107 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "bar",
@@ -1232,12 +1232,12 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "S\u00fc\u00dfw\u00e4rts / Lindenau",
+        "title": "Süßwärts / Lindenau",
         "link": "https://suesswaerts.chayns.net/",
-        "sub-category": "Caf\u00e9",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "S\u00fc\u00dfw\u00e4rts",
-        "description": "Caf\u00e9 (Onlinebestellungen)",
+        "cleanTitle": "Süßwärts",
+        "description": "Café (Onlinebestellungen)",
         "location": {
             "lat": 51.3302854,
             "lon": 12.3372675,
@@ -1262,7 +1262,7 @@
         "location": {
             "lat": 51.3403072,
             "lon": 12.3697275,
-            "address": "Gottschedstra\u00dfe 6, 04109 Leipzig, Germany",
+            "address": "Gottschedstraße 6, 04109 Leipzig, Germany",
             "tags": [
                 "restaurant",
                 "food",
@@ -1282,7 +1282,7 @@
         "location": {
             "lat": 51.37238070000001,
             "lon": 12.4102929,
-            "address": "Leonhardtstra\u00dfe 2A, 04357 Leipzig, Germany",
+            "address": "Leonhardtstraße 2A, 04357 Leipzig, Germany",
             "tags": [
                 "food",
                 "point_of_interest",
@@ -1293,7 +1293,7 @@
     },
     {
         "image": "eis.svg",
-        "title": "TONIS / Schleu\u00dfig",
+        "title": "TONIS / Schleußig",
         "link": "http://local-heroes-leipzig.de/tonis-leipzig/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
@@ -1302,7 +1302,7 @@
         "location": {
             "lat": 51.3274649,
             "lon": 12.3458776,
-            "address": "K\u00f6nneritzstra\u00dfe 21, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 21, 04229 Leipzig, Germany",
             "tags": [
                 "food",
                 "point_of_interest",
@@ -1394,16 +1394,16 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Zu Sp\u00e4t / Reudnitz",
+        "title": "Zu Spät / Reudnitz",
         "link": "http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
-        "cleanTitle": "Zu Sp\u00e4t",
+        "cleanTitle": "Zu Spät",
         "description": "Bistro (Vorbestellung & to go)",
         "location": {
             "lat": 51.33669,
             "lon": 12.40631,
-            "address": "Kippenbergstra\u00dfe 28, 04317 Leipzig, Germany",
+            "address": "Kippenbergstraße 28, 04317 Leipzig, Germany",
             "tags": [
                 "meal_takeaway",
                 "bar",
@@ -1417,7 +1417,7 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "ALLOY / Gohlis-S\u00fcd",
+        "title": "ALLOY / Gohlis-Süd",
         "link": "http://www.alloy925.de/shop.html",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
@@ -1426,7 +1426,7 @@
         "location": {
             "lat": 51.3006446,
             "lon": 12.3190432,
-            "address": "Gerhard-Ellrodt-Stra\u00dfe 24, 04249 Leipzig, Germany",
+            "address": "Gerhard-Ellrodt-Straße 24, 04249 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -1450,11 +1450,11 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Atelier 3Kleider",
-        "description": "Brautmode (Auftr\u00e4ge)",
+        "description": "Brautmode (Aufträge)",
         "location": {
             "lat": 51.33502989999999,
             "lon": 12.3304538,
-            "address": "Endersstra\u00dfe 6, 04177 Leipzig, Germany",
+            "address": "Endersstraße 6, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1474,7 +1474,7 @@
         "location": {
             "lat": 51.3254269,
             "lon": 12.3698278,
-            "address": "38, Dufourstra\u00dfe, 04107 Leipzig, Germany",
+            "address": "38, Dufourstraße, 04107 Leipzig, Germany",
             "tags": [
                 "jewelry_store",
                 "point_of_interest",
@@ -1504,7 +1504,7 @@
         "location": {
             "lat": 51.3798783,
             "lon": 12.4187184,
-            "address": "Otto-Heinze-Stra\u00dfe 28, 04357 Leipzig, Germany",
+            "address": "Otto-Heinze-Straße 28, 04357 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -1513,7 +1513,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Coqueton / S\u00fcdvorstadt",
+        "title": "Coqueton / Südvorstadt",
         "link": "https://www.etsy.com/de/shop/Coqueton",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1522,7 +1522,7 @@
         "location": {
             "lat": 51.3215279,
             "lon": 12.3718855,
-            "address": "Kochstra\u00dfe 25, 04275 Leipzig, Germany",
+            "address": "Kochstraße 25, 04275 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -1539,11 +1539,11 @@
         "sub-category": "Hut und Kopfbedeckungen",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Der Hutladen",
-        "description": "H\u00fcte (Online Anfragen)",
+        "description": "Hüte (Online Anfragen)",
         "location": {
             "lat": 51.3410447,
             "lon": 12.3785448,
-            "address": "Nikolaistra\u00dfe 6-10, 04109 Leipzig, Germany",
+            "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1554,16 +1554,16 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "D\u00f6rte Dietrich / Lindenau",
+        "title": "Dörte Dietrich / Lindenau",
         "link": "https://www.doertedietrich.de/shop/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "D\u00f6rte Dietrich",
+        "cleanTitle": "Dörte Dietrich",
         "description": "Schmuck (Onlineshop)",
         "location": {
             "lat": 51.3320151,
             "lon": 12.3464326,
-            "address": "Karl-Heine-Stra\u00dfe 9, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 9, 04229 Leipzig, Germany",
             "tags": [
                 "jewelry_store",
                 "point_of_interest",
@@ -1574,7 +1574,7 @@
     },
     {
         "image": "hut.svg",
-        "title": "Faunauge / S\u00fcdvorstadt",
+        "title": "Faunauge / Südvorstadt",
         "link": "https://faunauge.de/",
         "sub-category": "Hut und Kopfbedeckungen",
         "category": "Kleidung & Accessoires",
@@ -1583,7 +1583,7 @@
         "location": {
             "lat": 51.32110480000001,
             "lon": 12.3680254,
-            "address": "Kurt-Eisner-Stra\u00dfe 11, 04275 Leipzig, Germany",
+            "address": "Kurt-Eisner-Straße 11, 04275 Leipzig, Germany",
             "tags": [
                 "jewelry_store",
                 "point_of_interest",
@@ -1594,7 +1594,7 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "Flamingocat / S\u00fcdvorstadt",
+        "title": "Flamingocat / Südvorstadt",
         "link": "https://flamingocat.de/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
@@ -1603,7 +1603,7 @@
         "location": {
             "lat": 51.3299617,
             "lon": 12.3738421,
-            "address": "Karl-Liebknecht-Stra\u00dfe 13, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -1622,7 +1622,7 @@
         "location": {
             "lat": 51.3121365,
             "lon": 12.3767341,
-            "address": "Bernhard-G\u00f6ring-Stra\u00dfe 155, 04277 Leipzig, Germany",
+            "address": "Bernhard-Göring-Straße 155, 04277 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -1633,14 +1633,14 @@
         "image": "taschen-rucksaecke.svg",
         "title": "Franziska Klee / Gohlis",
         "link": "https://franziskaklee.de/",
-        "sub-category": "Taschen und Rucks\u00e4cke",
+        "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Franziska Klee",
         "description": "Taschen & Accessoires (Onlineshop)",
         "location": {
             "lat": 51.36479790000001,
             "lon": 12.3558991,
-            "address": "Georg-Schumann-Stra\u00dfe 134, 04155 Leipzig, Germany",
+            "address": "Georg-Schumann-Straße 134, 04155 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -1650,7 +1650,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "FRAU FISCHER/ Schleu\u00dfig",
+        "title": "FRAU FISCHER/ Schleußig",
         "link": "http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1659,7 +1659,7 @@
         "location": {
             "lat": 51.325016,
             "lon": 12.342125,
-            "address": "Industriestra\u00dfe, in der FISCHT\u00dcTE 21, 04229 Leipzig, Germany",
+            "address": "Industriestraße, in der FISCHTÜTE 21, 04229 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -1675,11 +1675,11 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Gabriele Mahler",
-        "description": "W\u00e4sche & Dessous (Gutscheinverkauf)",
+        "description": "Wäsche & Dessous (Gutscheinverkauf)",
         "location": {
             "lat": 51.34028499999999,
             "lon": 12.376521,
-            "address": "Reichsstra\u00dfe 1-9, 04109 Leipzig, Germany",
+            "address": "Reichsstraße 1-9, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1715,11 +1715,11 @@
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Glas & Bohne",
-        "description": "Optiker (Sonder\u00f6ffnungszeiten)",
+        "description": "Optiker (Sonderöffnungszeiten)",
         "location": {
             "lat": 51.3350818,
             "lon": 12.3305316,
-            "address": "Endersstra\u00dfe 6, 04177 Leipzig, Germany",
+            "address": "Endersstraße 6, 04177 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "electronics_store",
@@ -1734,7 +1734,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Graue Maus / Schleu\u00dfig",
+        "title": "Graue Maus / Schleußig",
         "link": "https://www.graue-maus.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1743,7 +1743,7 @@
         "location": {
             "lat": 51.32480990000001,
             "lon": 12.3426026,
-            "address": "Industriestra\u00dfe 19, 04229 Leipzig, Germany",
+            "address": "Industriestraße 19, 04229 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -1754,16 +1754,16 @@
     },
     {
         "image": "mode.svg",
-        "title": "Gr\u00fcnschnabel / Zentrum",
+        "title": "Grünschnabel / Zentrum",
         "link": "https://www.gruenschnabel-shop.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Gr\u00fcnschnabel",
+        "cleanTitle": "Grünschnabel",
         "description": "Kleidung (Onlineshop)",
         "location": {
             "lat": 51.3417562,
             "lon": 12.3789169,
-            "address": "Nikolaistra\u00dfe 20, 04109 Leipzig, Germany",
+            "address": "Nikolaistraße 20, 04109 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -1783,7 +1783,7 @@
         "location": {
             "lat": 51.3281426,
             "lon": 12.377361,
-            "address": "Paul-Gruner-Stra\u00dfe 24, 04107 Leipzig, Germany",
+            "address": "Paul-Gruner-Straße 24, 04107 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -1831,7 +1831,7 @@
         "location": {
             "lat": 51.34006979999999,
             "lon": 12.3260847,
-            "address": "Georg-Schwarz-Stra\u00dfe 20, 04177 Leipzig, Germany",
+            "address": "Georg-Schwarz-Straße 20, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1844,10 +1844,10 @@
         "image": "taschen-rucksaecke.svg",
         "title": "IKOSAE / Lindenau",
         "link": "https://ikosae.myshopify.com/",
-        "sub-category": "Taschen und Rucks\u00e4cke",
+        "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "IKOSAE",
-        "description": "Rucks\u00e4cke & Taschen (Onlineshop)",
+        "description": "Rucksäcke & Taschen (Onlineshop)",
         "location": {
             "lat": 51.3321774,
             "lon": 12.3734323,
@@ -1869,7 +1869,7 @@
         "location": {
             "lat": 51.3090916,
             "lon": 12.3728685,
-            "address": "Wolfgang-Heinze-Stra\u00dfe 10, 04277 Leipzig, Germany",
+            "address": "Wolfgang-Heinze-Straße 10, 04277 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -1900,7 +1900,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "KlimBim / Schleu\u00dfig",
+        "title": "KlimBim / Schleußig",
         "link": "https://www.etsy.com/de/shop/derKazimir",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1909,7 +1909,7 @@
         "location": {
             "lat": 51.322647,
             "lon": 12.3429432,
-            "address": "K\u00f6nneritzstra\u00dfe 60, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 60, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1920,16 +1920,16 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "K\u00f6nigswurzeln / Leipzig",
+        "title": "Königswurzeln / Leipzig",
         "link": "https://www.etsy.com/de/shop/Koenigswurzeln",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "K\u00f6nigswurzeln",
+        "cleanTitle": "Königswurzeln",
         "description": "Schmuck (Etsy Shop)",
         "location": {
             "lat": 51.37318,
             "lon": 12.3596298,
-            "address": "Kn\u00f6flerstra\u00dfe 13, 04157 Leipzig, Germany",
+            "address": "Knöflerstraße 13, 04157 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -1948,7 +1948,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "LELO karli123 / S\u00fcdvorstadt",
+        "title": "LELO karli123 / Südvorstadt",
         "link": "https://www.lelo.bio/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1957,7 +1957,7 @@
         "location": {
             "lat": 51.3172896,
             "lon": 12.3737515,
-            "address": "Karl-Liebknecht-Stra\u00dfe 123, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 123, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -1968,7 +1968,7 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "Luise Neugebauer / S\u00fcdvorstadt",
+        "title": "Luise Neugebauer / Südvorstadt",
         "link": "https://shop.luiseneugebauer.de/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
@@ -1977,7 +1977,7 @@
         "location": {
             "lat": 51.3233495,
             "lon": 12.373937,
-            "address": "Karl-Liebknecht-Stra\u00dfe 79, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 79, 04275 Leipzig, Germany",
             "tags": [
                 "jewelry_store",
                 "point_of_interest",
@@ -1988,7 +1988,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "luxaa / Schleu\u00dfig",
+        "title": "luxaa / Schleußig",
         "link": "https://www.luxaa.de/de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -1997,7 +1997,7 @@
         "location": {
             "lat": 51.3406757,
             "lon": 12.3770964,
-            "address": "Schuhmacherg\u00e4\u00dfchen 1-3, 04109 Leipzig, Germany",
+            "address": "Schuhmachergäßchen 1-3, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -2018,7 +2018,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Mrs. Hippie / S\u00fcdvorstadt",
+        "title": "Mrs. Hippie / Südvorstadt",
         "link": "https://www.geh-bunt.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2027,7 +2027,7 @@
         "location": {
             "lat": 51.3264331,
             "lon": 12.3734023,
-            "address": "Karl-Liebknecht-Stra\u00dfe 36, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -2038,16 +2038,16 @@
     },
     {
         "image": "optiker.svg",
-        "title": "Optikstudio Marion M\u00fcller / S\u00fcdvorstadt",
+        "title": "Optikstudio Marion Müller / Südvorstadt",
         "link": "https://www.optikstudio-mueller.de/aktuelles/news/index.html",
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Optikstudio Marion M\u00fcller",
-        "description": "Optiker (Sonder\u00f6ffnungszeiten)",
+        "cleanTitle": "Optikstudio Marion Müller",
+        "description": "Optiker (Sonderöffnungszeiten)",
         "location": {
             "lat": 51.315653,
             "lon": 12.373083,
-            "address": "Karl-Liebknecht-Stra\u00dfe 122, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 122, 04275 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -2077,7 +2077,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "pussy GALORE / S\u00fcdvorstadt",
+        "title": "pussy GALORE / Südvorstadt",
         "link": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2086,7 +2086,7 @@
         "location": {
             "lat": 51.3246698,
             "lon": 12.3732696,
-            "address": "Karl-Liebknecht-Stra\u00dfe 52, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
             "tags": [
                 "clothing_store",
                 "point_of_interest",
@@ -2097,16 +2097,16 @@
     },
     {
         "image": "taschen-rucksaecke.svg",
-        "title": "R\u00c5VARE / Eutritzsch",
+        "title": "RÅVARE / Eutritzsch",
         "link": "https://ravare.de/shop/",
-        "sub-category": "Taschen und Rucks\u00e4cke",
+        "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "R\u00c5VARE",
-        "description": "Rucks\u00e4cke & Accessoires (Onlineshop)",
+        "cleanTitle": "RÅVARE",
+        "description": "Rucksäcke & Accessoires (Onlineshop)",
         "location": {
             "lat": 51.36605350000001,
             "lon": 12.3874156,
-            "address": "G\u00f6rlitzer Str. 10, 04129 Leipzig, Germany",
+            "address": "Görlitzer Str. 10, 04129 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2124,7 +2124,7 @@
         "location": {
             "lat": 51.33030669999999,
             "lon": 12.3305132,
-            "address": "Karl-Heine-Stra\u00dfe 93, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 93, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2133,17 +2133,17 @@
     },
     {
         "image": "taschen-rucksaecke.svg",
-        "title": "Roth\u00f6ll / Alt-Lindenau",
+        "title": "Rothöll / Alt-Lindenau",
         "link": "https://www.rothoell.com/shop/",
-        "sub-category": "Taschen und Rucks\u00e4cke",
+        "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Roth\u00f6ll",
+        "cleanTitle": "Rothöll",
         "description": "Taschen & Accessoires (Onlineshop)",
         "location": null
     },
     {
         "image": "mode.svg",
-        "title": "Rotznasen / Schleu\u00dfig",
+        "title": "Rotznasen / Schleußig",
         "link": "https://www.rotznasen-leipzig.de/shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2152,7 +2152,7 @@
         "location": {
             "lat": 51.3223049,
             "lon": 12.3431162,
-            "address": "K\u00f6nneritzstra\u00dfe 63, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 63, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -2181,11 +2181,11 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "ST\u2019ATOUR / Plagwitz",
+        "title": "ST’ATOUR / Plagwitz",
         "link": "https://www.statourschmuck.de/shop/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "ST\u2019ATOUR",
+        "cleanTitle": "ST’ATOUR",
         "description": "Schmuck (Onlineshop)",
         "location": {
             "lat": 51.3243498,
@@ -2201,16 +2201,16 @@
     },
     {
         "image": "mode.svg",
-        "title": "Schleifenf\u00e4nger / Reudnitz",
+        "title": "Schleifenfänger / Reudnitz",
         "link": "https://schleifenfaenger.de/shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Schleifenf\u00e4nger",
+        "cleanTitle": "Schleifenfänger",
         "description": "Brautmode (Onlineshop)",
         "location": {
             "lat": 51.3341,
             "lon": 12.40534,
-            "address": "Kippenbergstra\u00dfe 4, 04317 Leipzig, Germany",
+            "address": "Kippenbergstraße 4, 04317 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -2230,7 +2230,7 @@
         "location": {
             "lat": 51.34229,
             "lon": 12.37365,
-            "address": "Hainstra\u00dfe 12-14, 04109 Leipzig, Germany",
+            "address": "Hainstraße 12-14, 04109 Leipzig, Germany",
             "tags": [
                 "shoe_store",
                 "point_of_interest",
@@ -2241,7 +2241,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Sonnenelch / S\u00fcdvorstadt",
+        "title": "Sonnenelch / Südvorstadt",
         "link": "https://www.etsy.com/de/shop/SonnenelchShop",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2251,7 +2251,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Stilkontor / S\u00fcdvorstadt",
+        "title": "Stilkontor / Südvorstadt",
         "link": "http://www.stilkontor.com/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2260,7 +2260,7 @@
         "location": {
             "lat": 51.3276013,
             "lon": 12.3733473,
-            "address": "Karl-Liebknecht-Stra\u00dfe 30, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 30, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -2271,7 +2271,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "Stoffpost / Zentrum-S\u00fcd",
+        "title": "Stoffpost / Zentrum-Süd",
         "link": "http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
@@ -2291,14 +2291,14 @@
         "image": "taschen-rucksaecke.svg",
         "title": "Taschenkaufhaus / Plagwitz",
         "link": "https://www.taschenkaufhaus.de/",
-        "sub-category": "Taschen und Rucks\u00e4cke",
+        "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Taschenkaufhaus",
-        "description": "Taschen & Rucks\u00e4cke (Onlineshop)",
+        "description": "Taschen & Rucksäcke (Onlineshop)",
         "location": {
             "lat": 51.3297768,
             "lon": 12.3267635,
-            "address": "Karl-Heine-Stra\u00dfe 92-94, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 92-94, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -2308,7 +2308,7 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "The Camelia Bijoux / S\u00fcdvorstadt",
+        "title": "The Camelia Bijoux / Südvorstadt",
         "link": "https://thecamelia-bijoux.com/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
@@ -2327,7 +2327,7 @@
         "location": {
             "lat": 51.3362865,
             "lon": 12.3330564,
-            "address": "Odermannstra\u00dfe 19, 04177 Leipzig, Germany",
+            "address": "Odermannstraße 19, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -2343,11 +2343,11 @@
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Wunderlichs Brillenschmiede",
-        "description": "Optiker (Sonder\u00f6ffnungszeiten + Gutscheinverkauf)",
+        "description": "Optiker (Sonderöffnungszeiten + Gutscheinverkauf)",
         "location": {
             "lat": 51.3476583,
             "lon": 12.313217,
-            "address": "R\u00fcckmarsdorfer Str. 1, 04179 Leipzig, Germany",
+            "address": "Rückmarsdorfer Str. 1, 04179 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -2384,13 +2384,13 @@
         "location": null
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "ACHT-ZWEI / Lindenau",
         "link": "https://www.acht-zwei.de/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "ACHT-ZWEI",
-        "description": "M\u00f6bel & Lampen (Onlineshop)",
+        "description": "Möbel & Lampen (Onlineshop)",
         "location": {
             "lat": 51.3363756,
             "lon": 12.3293665,
@@ -2415,7 +2415,7 @@
         "location": {
             "lat": 51.3638915,
             "lon": 12.3770042,
-            "address": "R\u00fcckertstra\u00dfe 11a, 04157 Leipzig, Germany",
+            "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2433,7 +2433,7 @@
         "location": {
             "lat": 51.3083494,
             "lon": 12.3714629,
-            "address": "Simildenstra\u00dfe 20, 04277 Leipzig, Germany",
+            "address": "Simildenstraße 20, 04277 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -2443,21 +2443,21 @@
     },
     {
         "image": "prints.svg",
-        "title": "Atelier Z\u00fcndwerk / Leipzig",
+        "title": "Atelier Zündwerk / Leipzig",
         "link": "https://www.etsy.com/de/shop/AtelierZuendwerk",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Atelier Z\u00fcndwerk",
+        "cleanTitle": "Atelier Zündwerk",
         "description": "Illustrationen & Kunstdrucke (Etsy Shop)",
         "location": null
     },
     {
         "image": "prints.svg",
-        "title": "Atelier CALUN\u00c9 / Lindenau",
+        "title": "Atelier CALUNÉ / Lindenau",
         "link": "https://www.facebook.com/ateliercalune",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Atelier CALUN\u00c9",
+        "cleanTitle": "Atelier CALUNÉ",
         "description": "Tattoo Studio (Gutscheinverkauf)",
         "location": {
             "lat": 51.3365158,
@@ -2473,7 +2473,7 @@
     },
     {
         "image": "party.svg",
-        "title": "balloonfantasy / S\u00fcdvorstadt",
+        "title": "balloonfantasy / Südvorstadt",
         "link": "https://balloon-fantasy.de/",
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
@@ -2482,7 +2482,7 @@
         "location": {
             "lat": 51.3254059,
             "lon": 12.3697348,
-            "address": "Dufourstra\u00dfe 38, 04107 Leipzig, Germany",
+            "address": "Dufourstraße 38, 04107 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -2502,7 +2502,7 @@
         "location": {
             "lat": 51.33204,
             "lon": 12.4053,
-            "address": "Oststra\u00dfe 51a, 04317 Leipzig, Germany",
+            "address": "Oststraße 51a, 04317 Leipzig, Germany",
             "tags": [
                 "food",
                 "point_of_interest",
@@ -2512,7 +2512,7 @@
     },
     {
         "image": "rad.svg",
-        "title": "Bike Department Ost / S\u00fcdvorstadt",
+        "title": "Bike Department Ost / Südvorstadt",
         "link": "http://www.bdoleipzig.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
@@ -2521,7 +2521,7 @@
         "location": {
             "lat": 51.3273544,
             "lon": 12.374479,
-            "address": "Karl-Liebknecht-Stra\u00dfe 31, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 31, 04107 Leipzig, Germany",
             "tags": [
                 "bicycle_store",
                 "point_of_interest",
@@ -2534,7 +2534,7 @@
         "image": "schreibwaren.svg",
         "title": "Blaupause / Connewitz",
         "link": "http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
-        "sub-category": "Schreibwaren, Stifte und Bl\u00f6cke",
+        "sub-category": "Schreibwaren, Stifte und Blöcke",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Blaupause",
         "description": "Schreibwaren (Onlineshop)",
@@ -2553,14 +2553,14 @@
         "image": "naehbedarf.svg",
         "title": "Buntgarn / Connewitz",
         "link": "http://local-heroes-leipzig.de/buntgarn-leipzig-connewitz/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Buntgarn",
-        "description": "Stickerei (Sonder\u00f6ffnungszeiten & Bestellungen)",
+        "description": "Stickerei (Sonderöffnungszeiten & Bestellungen)",
         "location": {
             "lat": 51.3089261,
             "lon": 12.373345,
-            "address": "Wolfgang-Heinze-Stra\u00dfe 11, 04277 Leipzig, Germany",
+            "address": "Wolfgang-Heinze-Straße 11, 04277 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2578,7 +2578,7 @@
         "location": {
             "lat": 51.3834809,
             "lon": 12.3324374,
-            "address": "\u00c4u\u00dfere Raustra\u00dfe 22 a, 04158 Leipzig, Germany",
+            "address": "Äußere Raustraße 22 a, 04158 Leipzig, Germany",
             "tags": [
                 "art_gallery",
                 "point_of_interest",
@@ -2588,17 +2588,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "Candy Company / Lindenau",
         "link": "https://www.candy-collection.de/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Candy Company",
         "description": "Interieur (Onlineshop)",
         "location": {
             "lat": 51.3340411,
             "lon": 12.3261127,
-            "address": "L\u00fctzner Str. 85, 04177 Leipzig, Germany",
+            "address": "Lützner Str. 85, 04177 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -2629,7 +2629,7 @@
         "location": {
             "lat": 51.3525101,
             "lon": 12.4557133,
-            "address": "G\u00fcnselstra\u00dfe 15, 04329 Leipzig, Germany",
+            "address": "Günselstraße 15, 04329 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2650,14 +2650,14 @@
         "image": "schreibwaren.svg",
         "title": "Eisenhauer / Zentrum",
         "link": "https://www.buero-eisenhauer.de/onlineshop/",
-        "sub-category": "Schreibwaren, Stifte und Bl\u00f6cke",
+        "sub-category": "Schreibwaren, Stifte und Blöcke",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Eisenhauer",
         "description": "Schreibwaren (Onlineshop)",
         "location": {
             "lat": 51.3333994,
             "lon": 12.3778922,
-            "address": "Gr\u00fcnewaldstra\u00dfe 19, 04103 Leipzig, Germany",
+            "address": "Grünewaldstraße 19, 04103 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -2676,7 +2676,7 @@
         "location": {
             "lat": 51.32898789999999,
             "lon": 12.4179226,
-            "address": "Oststra\u00dfe 115, 04299 Leipzig, Germany",
+            "address": "Oststraße 115, 04299 Leipzig, Germany",
             "tags": [
                 "florist",
                 "point_of_interest",
@@ -2696,7 +2696,7 @@
         "location": {
             "lat": 51.277267,
             "lon": 12.479918,
-            "address": "Gro\u00dfp\u00f6snaer Str. 71, 04288 Leipzig, Germany",
+            "address": "Großpösnaer Str. 71, 04288 Leipzig, Germany",
             "tags": [
                 "grocery_or_supermarket",
                 "park",
@@ -2719,7 +2719,7 @@
         "location": {
             "lat": 51.3321,
             "lon": 12.39676,
-            "address": "Oststra\u00dfe 6, 04317 Leipzig, Germany",
+            "address": "Oststraße 6, 04317 Leipzig, Germany",
             "tags": [
                 "art_gallery",
                 "cafe",
@@ -2732,13 +2732,13 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "Feinschliff / Gohlis",
         "link": "http://www.feinschliff-leipzig.de/home.html",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Feinschliff",
-        "description": "M\u00f6bel (Bestellungen)",
+        "description": "Möbel (Bestellungen)",
         "location": {
             "lat": 51.36243109999999,
             "lon": 12.3589777,
@@ -2756,14 +2756,14 @@
         "image": "naehbedarf.svg",
         "title": "Filzwerkstatt / Gohlis",
         "link": "https://woll-lust-leipzig.de/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Filzwerkstatt",
         "description": "Handarbeiten (Bestellungen)",
         "location": {
             "lat": 51.3654634,
             "lon": 12.3744823,
-            "address": "Daumierstra\u00dfe 5, 04157 Leipzig, Germany",
+            "address": "Daumierstraße 5, 04157 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2772,16 +2772,16 @@
     },
     {
         "image": "interior.svg",
-        "title": "Franziska M. K\u00f6llner / Leutzsch",
+        "title": "Franziska M. Köllner / Leutzsch",
         "link": "https://franziskamkoellner.wordpress.com/",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Franziska M. K\u00f6llner",
+        "cleanTitle": "Franziska M. Köllner",
         "description": "Keramik & Workshops (Website)",
         "location": {
             "lat": 51.35523,
             "lon": 12.31347,
-            "address": "Philipp-Reis-Stra\u00dfe 4, 04179 Leipzig, Germany",
+            "address": "Philipp-Reis-Straße 4, 04179 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2799,7 +2799,7 @@
         "location": {
             "lat": 51.3325766,
             "lon": 12.4132574,
-            "address": "Mierendorffstra\u00dfe 40, 04318 Leipzig, Germany",
+            "address": "Mierendorffstraße 40, 04318 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2813,11 +2813,11 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "HAFEN",
-        "description": "Interieur & Sch\u00f6nes (Onlineshop)",
+        "description": "Interieur & Schönes (Onlineshop)",
         "location": {
             "lat": 51.331045,
             "lon": 12.3330687,
-            "address": "Karl-Heine-Stra\u00dfe 75, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 75, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -2832,12 +2832,12 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Happy Pop-Up Market",
-        "description": "Interieur & Sch\u00f6nes (Facebook-Seite)",
+        "description": "Interieur & Schönes (Facebook-Seite)",
         "location": null
     },
     {
         "image": "spiel.svg",
-        "title": "HILDE BRANDT / Schleu\u00dfig",
+        "title": "HILDE BRANDT / Schleußig",
         "link": "https://www.hildes-laden.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
@@ -2846,7 +2846,7 @@
         "location": {
             "lat": 51.32821879999999,
             "lon": 12.3458503,
-            "address": "K\u00f6nneritzstra\u00dfe 18, 04229 Leipzig, Germany",
+            "address": "Könneritzstraße 18, 04229 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "home_goods_store",
@@ -2888,7 +2888,7 @@
         "location": {
             "lat": 51.3192125,
             "lon": 12.3249528,
-            "address": "Wigandstra\u00dfe 27, 04229 Leipzig, Germany",
+            "address": "Wigandstraße 27, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -2906,7 +2906,7 @@
         "location": {
             "lat": 51.34165609999999,
             "lon": 12.366367,
-            "address": "Gottschedstra\u00dfe 22, 04109 Leipzig, Germany",
+            "address": "Gottschedstraße 22, 04109 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -2917,16 +2917,16 @@
     },
     {
         "image": "party.svg",
-        "title": "H\u00fcpfburgen Verleih / Lindenau",
+        "title": "Hüpfburgen Verleih / Lindenau",
         "link": "https://huepfburgen-verleih-leipzig.de/",
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "H\u00fcpfburgen Verleih",
+        "cleanTitle": "Hüpfburgen Verleih",
         "description": "Geburtstage & Feste (Ausleihservice)",
         "location": {
             "lat": 51.329588,
             "lon": 12.327802,
-            "address": "Karl-Heine-Stra\u00dfe 99, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 99, 04229 Leipzig, Germany",
             "tags": [
                 "school",
                 "point_of_interest",
@@ -2936,7 +2936,7 @@
     },
     {
         "image": "blumenstrauss.svg",
-        "title": "Intaeger / S\u00fcdvorstadt",
+        "title": "Intaeger / Südvorstadt",
         "link": "https://blumen.intaeger.de/shop/",
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
@@ -2945,7 +2945,7 @@
         "location": {
             "lat": 51.3235755,
             "lon": 12.3667818,
-            "address": "Arndtstra\u00dfe 7, 04275 Leipzig, Germany",
+            "address": "Arndtstraße 7, 04275 Leipzig, Germany",
             "tags": [
                 "florist",
                 "point_of_interest",
@@ -2955,17 +2955,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "JANIK / Lindenau",
         "link": "https://www.janik-leipzig.de/shop.php",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "JANIK",
-        "description": "B\u00fcroausstattungen (Onlineshop)",
+        "description": "Büroausstattungen (Onlineshop)",
         "location": {
             "lat": 51.3345422,
             "lon": 12.3392427,
-            "address": "Felsenkellerstra\u00dfe 1, 04177 Leipzig, Germany",
+            "address": "Felsenkellerstraße 1, 04177 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -3005,7 +3005,7 @@
         "location": {
             "lat": 51.3453761,
             "lon": 12.4108226,
-            "address": "Eisenbahnstra\u00dfe 107, 04315 Leipzig, Germany",
+            "address": "Eisenbahnstraße 107, 04315 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "bar",
@@ -3019,16 +3019,16 @@
     },
     {
         "image": "naehbedarf.svg",
-        "title": "Jules Stoffkiste / St\u00f6tteritz",
+        "title": "Jules Stoffkiste / Stötteritz",
         "link": "https://www.julesstoffkiste.de/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Jules Stoffkiste",
-        "description": "Stoffe & N\u00e4hbedarf (Onlineshop)",
+        "description": "Stoffe & Nähbedarf (Onlineshop)",
         "location": {
             "lat": 51.3238434,
             "lon": 12.4152778,
-            "address": "Papierm\u00fchlstra\u00dfe 10a, 04299 Leipzig, Germany",
+            "address": "Papiermühlstraße 10a, 04299 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -3067,16 +3067,16 @@
     },
     {
         "image": "prints.svg",
-        "title": "Knallt\u00fcte / Schleu\u00dfig",
+        "title": "Knalltüte / Schleußig",
         "link": "http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Knallt\u00fcte",
+        "cleanTitle": "Knalltüte",
         "description": "Grafik & Design (Instagram Sale)",
         "location": {
             "lat": 51.324999,
             "lon": 12.3422047,
-            "address": "Industriestra\u00dfe 21, 04229 Leipzig, Germany",
+            "address": "Industriestraße 21, 04229 Leipzig, Germany",
             "tags": [
                 "store",
                 "point_of_interest",
@@ -3085,17 +3085,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "Kulturwarenfabrik / Lindenau",
         "link": "https://www.kulturwarenfabrik.com/laden",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Kulturwarenfabrik",
         "description": "Tischlerei (Onlineshop)",
         "location": {
             "lat": 51.33408739999999,
             "lon": 12.3260464,
-            "address": "L\u00fctzner Str. 85, 04177 Leipzig, Germany",
+            "address": "Lützner Str. 85, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3113,7 +3113,7 @@
         "location": {
             "lat": 51.32956,
             "lon": 12.32341,
-            "address": "Engertstra\u00dfe 12, 04177 Leipzig, Germany",
+            "address": "Engertstraße 12, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3122,7 +3122,7 @@
     },
     {
         "image": "rad.svg",
-        "title": "lawi sportswear / S\u00fcdvorstadt",
+        "title": "lawi sportswear / Südvorstadt",
         "link": "https://www.lawi-sport.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
@@ -3131,7 +3131,7 @@
         "location": {
             "lat": 51.3254269,
             "lon": 12.3698278,
-            "address": "Dufourstra\u00dfe 38, 04107 Leipzig, Germany",
+            "address": "Dufourstraße 38, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -3174,14 +3174,14 @@
         "image": "naehbedarf.svg",
         "title": "melonie / Zentrum",
         "link": "https://www.melonie.de/online-shop/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "melonie",
-        "description": "Stoffe & N\u00e4hbedarf (Onlineshop)",
+        "description": "Stoffe & Nähbedarf (Onlineshop)",
         "location": {
             "lat": 51.3410158,
             "lon": 12.3679399,
-            "address": "Eingang, K\u00e4the-Kollwitz-Stra\u00dfe, Gottschedstra\u00dfe 7-9, 04109 Leipzig, Germany",
+            "address": "Eingang, Käthe-Kollwitz-Straße, Gottschedstraße 7-9, 04109 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -3192,17 +3192,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
-        "title": "M\u00f6belkooperative S\u00fcd / Connewitz",
+        "image": "moebel.svg",
+        "title": "Möbelkooperative Süd / Connewitz",
         "link": "https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "M\u00f6belkooperative S\u00fcd",
-        "description": "M\u00f6bel & Interieur (Ebay Kleinanzeigen)",
+        "cleanTitle": "Möbelkooperative Süd",
+        "description": "Möbel & Interieur (Ebay Kleinanzeigen)",
         "location": {
             "lat": 51.315045,
             "lon": 12.3768214,
-            "address": "Richard-Lehmann-Stra\u00dfe 47a, 04275 Leipzig, Germany",
+            "address": "Richard-Lehmann-Straße 47a, 04275 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -3231,17 +3231,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
-        "title": "M\u00f6belwerkstatt / Kleinzschocher",
+        "image": "moebel.svg",
+        "title": "Möbelwerkstatt / Kleinzschocher",
         "link": "http://www.moebelwerkstatt.net/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "M\u00f6belwerkstatt",
-        "description": "Polsterm\u00f6bel (Terminvereinbarung)",
+        "cleanTitle": "Möbelwerkstatt",
+        "description": "Polstermöbel (Terminvereinbarung)",
         "location": {
             "lat": 51.3204171,
             "lon": 12.3285392,
-            "address": "Antonienstra\u00dfe 26, 04229 Leipzig, Germany",
+            "address": "Antonienstraße 26, 04229 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -3262,17 +3262,17 @@
         "location": null
     },
     {
-        "image": "mo\u0308bel.svg",
-        "title": "Naturnah M\u00f6bel / Volkmarsdorf",
+        "image": "moebel.svg",
+        "title": "Naturnah Möbel / Volkmarsdorf",
         "link": "https://www.naturnah-moebel.de/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Naturnah M\u00f6bel",
-        "description": "M\u00f6bel (Onlineshop)",
+        "cleanTitle": "Naturnah Möbel",
+        "description": "Möbel (Onlineshop)",
         "location": {
             "lat": 51.35371,
             "lon": 12.4102699,
-            "address": "Taubestra\u00dfe 2, 04347 Leipzig, Germany",
+            "address": "Taubestraße 2, 04347 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -3333,7 +3333,7 @@
         "location": {
             "lat": 51.339107,
             "lon": 12.3273764,
-            "address": "Erich-K\u00f6hn-Stra\u00dfe 63B, 04177 Leipzig, Germany",
+            "address": "Erich-Köhn-Straße 63B, 04177 Leipzig, Germany",
             "tags": [
                 "bicycle_store",
                 "point_of_interest",
@@ -3344,7 +3344,7 @@
     },
     {
         "image": "interior.svg",
-        "title": "Rauch / Zentrum-S\u00fcd",
+        "title": "Rauch / Zentrum-Süd",
         "link": "https://www.rauch-leipzig.de/index.html",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
@@ -3353,7 +3353,7 @@
         "location": {
             "lat": 51.3290448,
             "lon": 12.3730857,
-            "address": "Alles f\u00fcr Haus und Garten, Karl-Liebknecht-Stra\u00dfe 22, 04107 Leipzig, Germany",
+            "address": "Alles für Haus und Garten, Karl-Liebknecht-Straße 22, 04107 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -3374,7 +3374,7 @@
     },
     {
         "image": "interior.svg",
-        "title": "RUSTY CAT / S\u00fcdvorstadt",
+        "title": "RUSTY CAT / Südvorstadt",
         "link": "https://rusty-cat.de/shop",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
@@ -3383,7 +3383,7 @@
         "location": {
             "lat": 51.321307,
             "lon": 12.371921,
-            "address": "Kochstra\u00dfe 27, 04275 Leipzig, Germany",
+            "address": "Kochstraße 27, 04275 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -3403,7 +3403,7 @@
         "location": {
             "lat": 51.3480848,
             "lon": 12.2998487,
-            "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+            "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3412,16 +3412,16 @@
     },
     {
         "image": "party.svg",
-        "title": "sch\u00f6nherum / Zentrum",
+        "title": "schönherum / Zentrum",
         "link": "https://schoenherum.de/",
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "sch\u00f6nherum",
+        "cleanTitle": "schönherum",
         "description": "Papeterie & Geschenkverpackungen (Onlineshop)",
         "location": {
             "lat": 51.3352704,
             "lon": 12.3697701,
-            "address": "Karl-Tauchnitz-Stra\u00dfe 6, 04107 Leipzig, Germany",
+            "address": "Karl-Tauchnitz-Straße 6, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3440,7 +3440,7 @@
         "location": {
             "lat": 51.3293502,
             "lon": 12.3420977,
-            "address": "Wei\u00dfenfelser Str. 5, 04229 Leipzig, Germany",
+            "address": "Weißenfelser Str. 5, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "clothing_store",
@@ -3460,7 +3460,7 @@
         "location": {
             "lat": 51.342415,
             "lon": 12.378899,
-            "address": "Br\u00fchl 64-66, 04109 Leipzig, Germany",
+            "address": "Brühl 64-66, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3470,7 +3470,7 @@
     },
     {
         "image": "prints.svg",
-        "title": "Sina Villinger / St\u00f6tteritz",
+        "title": "Sina Villinger / Stötteritz",
         "link": "https://sinavillinger.com/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
@@ -3489,7 +3489,7 @@
         "location": {
             "lat": 51.3341641,
             "lon": 12.3657704,
-            "address": "Karl-Tauchnitz-Stra\u00dfe 9-11, 04107 Leipzig, Germany",
+            "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3508,7 +3508,7 @@
         "location": {
             "lat": 51.3409562,
             "lon": 12.3668841,
-            "address": "K\u00e4the-Kollwitz-Stra\u00dfe 12, 04109 Leipzig, Germany",
+            "address": "Käthe-Kollwitz-Straße 12, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3516,17 +3516,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "STIL concenptstore / Zentrum",
         "link": "https://www.stilconceptstore.de/shop/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "STIL concenptstore",
         "description": "Interieur (Onlineshop)",
         "location": {
             "lat": 51.341837,
             "lon": 12.378825,
-            "address": "Nikolaistra\u00dfe 22, 04109 Leipzig, Germany",
+            "address": "Nikolaistraße 22, 04109 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "florist",
@@ -3546,14 +3546,14 @@
         "image": "naehbedarf.svg",
         "title": "Stoff -Kreationen / Altlindenau",
         "link": "https://www.stoff-kreationen.com/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Stoff -Kreationen",
         "description": "Naturtextilien & mehr (Onlineshop)",
         "location": {
             "lat": 51.339482,
             "lon": 12.326016,
-            "address": "Calvisiusstra\u00dfe 23, 04177 Leipzig, Germany",
+            "address": "Calvisiusstraße 23, 04177 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "point_of_interest",
@@ -3566,7 +3566,7 @@
         "image": "naehbedarf.svg",
         "title": "SusaMi / Leipzig",
         "link": "http://local-heroes-leipzig.de/susami-leipzig/",
-        "sub-category": "Stoffe und N\u00e4hbedarf",
+        "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "SusaMi",
         "description": "Handgemachtes (Bestellungen)",
@@ -3574,16 +3574,16 @@
     },
     {
         "image": "rad.svg",
-        "title": "tex \u2013 lock / Alt-West",
+        "title": "tex – lock / Alt-West",
         "link": "https://www.tex-lock.com/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "tex \u2013 lock",
-        "description": "Fahrradzubeh\u00f6r (Onlineshop)",
+        "cleanTitle": "tex – lock",
+        "description": "Fahrradzubehör (Onlineshop)",
         "location": {
             "lat": 51.34822699999999,
             "lon": 12.30088,
-            "address": "Ludwig-Hupfeld-Stra\u00dfe 16, 04178 Leipzig, Germany",
+            "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3601,7 +3601,7 @@
         "location": {
             "lat": 51.32439960000001,
             "lon": 12.3432244,
-            "address": "Industriestra\u00dfe 11, 04229 Leipzig, Germany",
+            "address": "Industriestraße 11, 04229 Leipzig, Germany",
             "tags": [
                 "store",
                 "point_of_interest",
@@ -3620,7 +3620,7 @@
         "location": {
             "lat": 51.3445202,
             "lon": 12.3626752,
-            "address": "Funkenburgstra\u00dfe 12, 04105 Leipzig, Germany",
+            "address": "Funkenburgstraße 12, 04105 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3629,16 +3629,16 @@
     },
     {
         "image": "interior.svg",
-        "title": "T\u00f6pferei Tischkultur / Leipzig",
+        "title": "Töpferei Tischkultur / Leipzig",
         "link": "http://local-heroes-leipzig.de/toepferei-tischkultur-leipzig-suedvorstadt/",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "T\u00f6pferei Tischkultur",
-        "description": "T\u00f6pferei (Bestellungen & Lieferservice)",
+        "cleanTitle": "Töpferei Tischkultur",
+        "description": "Töpferei (Bestellungen & Lieferservice)",
         "location": {
             "lat": 51.3264331,
             "lon": 12.3734023,
-            "address": "Karl-Liebknecht-Stra\u00dfe 36, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3647,16 +3647,16 @@
     },
     {
         "image": "interior.svg",
-        "title": "T\u00f6pferhof Rost / Markranst\u00e4dt",
+        "title": "Töpferhof Rost / Markranstädt",
         "link": "http://local-heroes-leipzig.de/toepferhof-rost-leipzig-markranstaedt/",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "T\u00f6pferhof Rost",
-        "description": "T\u00f6pferei (Take Away & Lieferung)",
+        "cleanTitle": "Töpferhof Rost",
+        "description": "Töpferei (Take Away & Lieferung)",
         "location": {
             "lat": 51.2643503,
             "lon": 12.2098674,
-            "address": "Hunnenstra\u00dfe 36, 04420 Markranst\u00e4dt, Germany",
+            "address": "Hunnenstraße 36, 04420 Markranstädt, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3666,16 +3666,16 @@
     },
     {
         "image": "interior.svg",
-        "title": "Tschau Tsch\u00fcssi / Zentrum",
+        "title": "Tschau Tschüssi / Zentrum",
         "link": "https://tschautschuessi.bigcartel.com/",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Tschau Tsch\u00fcssi",
+        "cleanTitle": "Tschau Tschüssi",
         "description": "Papeterie & Kleinigkeiten (Onlineshop)",
         "location": {
             "lat": 51.3341641,
             "lon": 12.3657704,
-            "address": "Karl-Tauchnitz-Stra\u00dfe 9-11, 04107 Leipzig, Germany",
+            "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3694,7 +3694,7 @@
         "location": {
             "lat": 51.3371085,
             "lon": 12.3293209,
-            "address": "04177, Demmeringstra\u00dfe 54, 04177 Leipzig, Germany",
+            "address": "04177, Demmeringstraße 54, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3722,7 +3722,7 @@
         "location": {
             "lat": 51.3593416,
             "lon": 12.3844077,
-            "address": "Haferkornstra\u00dfe 15, 04129 Leipzig, Germany",
+            "address": "Haferkornstraße 15, 04129 Leipzig, Germany",
             "tags": [
                 "home_goods_store",
                 "general_contractor",
@@ -3733,17 +3733,17 @@
         }
     },
     {
-        "image": "mo\u0308bel.svg",
+        "image": "moebel.svg",
         "title": "Wohnmacher / Zentrum",
         "link": "https://www.wohnmacher.de/",
-        "sub-category": "M\u00f6bel, Sofa, Tisch, Couch",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Wohnmacher",
-        "description": "M\u00f6bel & Interieur (Onlineshop)",
+        "description": "Möbel & Interieur (Onlineshop)",
         "location": {
             "lat": 51.34238000000001,
             "lon": 12.37826,
-            "address": "Nikolaistra\u00dfe 36, 04109 Leipzig, Germany",
+            "address": "Nikolaistraße 36, 04109 Leipzig, Germany",
             "tags": [
                 "furniture_store",
                 "home_goods_store",
@@ -3755,7 +3755,7 @@
     },
     {
         "image": "spiel.svg",
-        "title": "Wonnecitz / S\u00fcdvorstadt",
+        "title": "Wonnecitz / Südvorstadt",
         "link": "http://www.wonnecitz.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
@@ -3764,7 +3764,7 @@
         "location": {
             "lat": 51.31051350000001,
             "lon": 12.3735104,
-            "address": "Karl-Liebknecht-Stra\u00dfe 165, 04277 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 165, 04277 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3783,8 +3783,29 @@
         "location": {
             "lat": 51.330457,
             "lon": 12.330956,
-            "address": "Karl-Heine-Stra\u00dfe 85 a (Westwerk/Hintergeb\u00e4ude links!), 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 85 a (Westwerk/Hintergebäude links!), 04229 Leipzig, Germany",
             "tags": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Bliss / Zentrum",
+        "link": "https://bliss-leipzig.de/",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Bliss",
+        "description": "Yoga & Self Care (Onlinekurse)",
+        "location": {
+            "lat": 51.34007,
+            "lon": 12.37687,
+            "address": "Reichsstraße 2, 04109 Leipzig, Germany",
+            "tags": [
+                "school",
                 "gym",
                 "health",
                 "point_of_interest",
@@ -3803,7 +3824,7 @@
         "location": {
             "lat": 51.31870499999999,
             "lon": 12.3398067,
-            "address": "Antonienstra\u00dfe 2, 04229 Leipzig, Germany",
+            "address": "Antonienstraße 2, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3812,7 +3833,7 @@
     },
     {
         "image": "yoga.svg",
-        "title": "Chamundi Yoga / S\u00fcdvorstadt",
+        "title": "Chamundi Yoga / Südvorstadt",
         "link": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
@@ -3821,7 +3842,7 @@
         "location": {
             "lat": 51.32106229999999,
             "lon": 12.3695348,
-            "address": "Kurt-Eisner-Stra\u00dfe 15, 04275 Leipzig, Germany",
+            "address": "Kurt-Eisner-Straße 15, 04275 Leipzig, Germany",
             "tags": [
                 "gym",
                 "health",
@@ -3841,7 +3862,7 @@
         "location": {
             "lat": 51.334576,
             "lon": 12.3789,
-            "address": "Leplaystra\u00dfe 3, 04103 Leipzig, Germany",
+            "address": "Leplaystraße 3, 04103 Leipzig, Germany",
             "tags": [
                 "gym",
                 "health",
@@ -3857,11 +3878,11 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "GESPRO",
-        "description": "Schwimmb\u00e4der (Crowdfunding)",
+        "description": "Schwimmbäder (Crowdfunding)",
         "location": {
             "lat": 51.325297,
             "lon": 12.2540549,
-            "address": "Geschwister-Scholl-Stra\u00dfe 21, 04205 Leipzig, Germany",
+            "address": "Geschwister-Scholl-Straße 21, 04205 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -3871,16 +3892,16 @@
     },
     {
         "image": "yoga.svg",
-        "title": "Gl\u00fcckskind Yoga / Zentrum",
+        "title": "Glückskind Yoga / Zentrum",
         "link": "https://glueckskind-yoga-leipzig.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
-        "cleanTitle": "Gl\u00fcckskind Yoga",
+        "cleanTitle": "Glückskind Yoga",
         "description": "Yoga (Onlinekurse)",
         "location": {
             "lat": 51.3389008,
             "lon": 12.3687994,
-            "address": "Zentralstra\u00dfe 7, 04109 Leipzig, Germany",
+            "address": "Zentralstraße 7, 04109 Leipzig, Germany",
             "tags": [
                 "gym",
                 "health",
@@ -3900,7 +3921,7 @@
         "location": {
             "lat": 51.3409471,
             "lon": 12.336101,
-            "address": "Angerstra\u00dfe 53, 04177 Leipzig, Germany",
+            "address": "Angerstraße 53, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -3910,7 +3931,7 @@
     },
     {
         "image": "sport-1.svg",
-        "title": "KAWi-KiDS / S\u00fcdvorstadt",
+        "title": "KAWi-KiDS / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/kawi-kids/",
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
@@ -3919,7 +3940,7 @@
         "location": {
             "lat": 51.32464299999999,
             "lon": 12.3699846,
-            "address": "August-Bebel-Stra\u00dfe 9, 04275 Leipzig, Germany",
+            "address": "August-Bebel-Straße 9, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3946,7 +3967,7 @@
     },
     {
         "image": "reisen.svg",
-        "title": "Madiba / Gohlis-S\u00fcd",
+        "title": "Madiba / Gohlis-Süd",
         "link": "https://www.madiba.de/",
         "sub-category": "Reisen",
         "category": "Bewegung & Entspannung",
@@ -3973,7 +3994,7 @@
         "location": {
             "lat": 51.33885679999999,
             "lon": 12.3345677,
-            "address": "Hahnemannstra\u00dfe 7, 04177 Leipzig, Germany",
+            "address": "Hahnemannstraße 7, 04177 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -3983,7 +4004,7 @@
     },
     {
         "image": "reisen.svg",
-        "title": "Meine Welt Reisen / Zentrum-S\u00fcd",
+        "title": "Meine Welt Reisen / Zentrum-Süd",
         "link": "https://www.meinewelt-reisen.de/",
         "sub-category": "Reisen",
         "category": "Bewegung & Entspannung",
@@ -4019,16 +4040,16 @@
     },
     {
         "image": "sport-1.svg",
-        "title": "R\u00fcckenoase / Leipzig",
+        "title": "Rückenoase / Leipzig",
         "link": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/",
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
-        "cleanTitle": "R\u00fcckenoase",
+        "cleanTitle": "Rückenoase",
         "description": "Massagen (Gutscheinverkauf)",
         "location": {
             "lat": 51.3427075,
             "lon": 12.3838595,
-            "address": "Wintergartenstra\u00dfe 2, 04103 Leipzig, Germany",
+            "address": "Wintergartenstraße 2, 04103 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4046,7 +4067,7 @@
         "location": {
             "lat": 51.3404756,
             "lon": 12.369097,
-            "address": "Gottschedstra\u00dfe 12, 04109 Leipzig, Germany",
+            "address": "Gottschedstraße 12, 04109 Leipzig, Germany",
             "tags": [
                 "gym",
                 "health",
@@ -4102,7 +4123,7 @@
         "location": {
             "lat": 51.3341801,
             "lon": 12.3717244,
-            "address": "Dimitroffstra\u00dfe 26, 04107 Leipzig, Germany",
+            "address": "Dimitroffstraße 26, 04107 Leipzig, Germany",
             "tags": [
                 "gym",
                 "health",
@@ -4118,7 +4139,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "tapir",
-        "description": "Outdoor-Ausr\u00fcstung (Onlineshop)",
+        "description": "Outdoor-Ausrüstung (Onlineshop)",
         "location": {
             "lat": 51.34077320000001,
             "lon": 12.3833273,
@@ -4179,7 +4200,7 @@
         "location": {
             "lat": 51.3484091,
             "lon": 12.3951695,
-            "address": "Lagerhofstra\u00dfe 4, 04103 Leipzig, Germany",
+            "address": "Lagerhofstraße 4, 04103 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -4198,7 +4219,7 @@
         "location": {
             "lat": 51.3308092,
             "lon": 12.3437688,
-            "address": "Forststra\u00dfe 9, 04229 Leipzig, Germany",
+            "address": "Forststraße 9, 04229 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -4208,11 +4229,11 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Buchhandlung Gr\u00fcmmer / Plagwitz",
+        "title": "Buchhandlung Grümmer / Plagwitz",
         "link": "https://www.buchhandlung-gruemmer.de/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
-        "cleanTitle": "Buchhandlung Gr\u00fcmmer",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Buchhandlung Grümmer",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.33195869999999,
@@ -4228,16 +4249,16 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Buchhandlung S\u00fcdvorstadt / S\u00fcdvorstadt",
+        "title": "Buchhandlung Südvorstadt / Südvorstadt",
         "link": "https://www.genialokal.de/?storeID=leipzsv",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
-        "cleanTitle": "Buchhandlung S\u00fcdvorstadt",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Buchhandlung Südvorstadt",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.315298,
             "lon": 12.373033,
-            "address": "Karl-Liebknecht-Stra\u00dfe 126, 04275 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 126, 04275 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4250,14 +4271,14 @@
         "image": "buecher-magazine-1.svg",
         "title": "Buchkinder Leipzig e.V. / Lindenau",
         "link": "https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Buchkinder Leipzig e.V.",
         "description": "Verein (Onlinelesungen)",
         "location": {
             "lat": 51.3355507,
             "lon": 12.3318747,
-            "address": "Endersstra\u00dfe 3, 04177 Leipzig, Germany",
+            "address": "Endersstraße 3, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4268,14 +4289,14 @@
         "image": "buecher-magazine-1.svg",
         "title": "Connewitzer Verlagsbuchhandlung / Leipzig",
         "link": "https://www.cvb-leipzig.de/bestellungen-shops/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Connewitzer Verlagsbuchhandlung",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.340515,
             "lon": 12.3774881,
-            "address": "Schuhmacherg\u00e4\u00dfchen 4, 04109 Leipzig, Germany",
+            "address": "Schuhmachergäßchen 4, 04109 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4286,16 +4307,16 @@
     },
     {
         "image": "musik.svg",
-        "title": "Distillery / S\u00fcdvorstadt",
+        "title": "Distillery / Südvorstadt",
         "link": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Distillery",
         "description": "Musik (Onlinestream)",
         "location": {
             "lat": 51.3209056,
             "lon": 12.3828974,
-            "address": "Kurt-Eisner-Stra\u00dfe 108a, 04275 Leipzig, Germany",
+            "address": "Kurt-Eisner-Straße 108a, 04275 Leipzig, Germany",
             "tags": [
                 "night_club",
                 "point_of_interest",
@@ -4307,14 +4328,14 @@
         "image": "buecher-magazine-1.svg",
         "title": "Drift / Plagwitz",
         "link": "https://drift-books.buchhandlung.de/shop/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Drift",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.33080529999999,
             "lon": 12.332285,
-            "address": "Karl-Heine-Stra\u00dfe 83, 04229 Leipzig, Germany",
+            "address": "Karl-Heine-Straße 83, 04229 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4327,8 +4348,8 @@
         "image": "buecher-magazine-1.svg",
         "title": "el libro / Connewitz",
         "link": "https://www.genialokal.de/?storeID=ellibro",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "el libro",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
@@ -4347,8 +4368,8 @@
         "image": "musik.svg",
         "title": "Eva Meitner/ Leipzig",
         "link": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Eva Meitner",
         "description": "Musik (Onlinestream)",
         "location": null
@@ -4357,14 +4378,14 @@
         "image": "musik.svg",
         "title": "Ilses Erika / Connewitz",
         "link": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Ilses Erika",
-        "description": "Musik (Live\u00fcbertragungen)",
+        "description": "Musik (Liveübertragungen)",
         "location": {
             "lat": 51.3110005,
             "lon": 12.3762083,
-            "address": "Bernhard-G\u00f6ring-Stra\u00dfe 152, 04277 Leipzig, Germany",
+            "address": "Bernhard-Göring-Straße 152, 04277 Leipzig, Germany",
             "tags": [
                 "bar",
                 "point_of_interest",
@@ -4376,14 +4397,14 @@
         "image": "musik.svg",
         "title": "Laura Liebeskind / Leipzig",
         "link": "https://www.youtube.com/channel/UCNZRAJLAjLDbnN_l1oAjcmw",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Laura Liebeskind",
         "description": "Musik (Online Channel)",
         "location": {
             "lat": 51.339197,
             "lon": 12.3754051,
-            "address": "M\u00e4dler-Passage, Grimmaische Str. 2, 04109 Leipzig, Germany",
+            "address": "Mädler-Passage, Grimmaische Str. 2, 04109 Leipzig, Germany",
             "tags": [
                 "store",
                 "point_of_interest",
@@ -4396,14 +4417,14 @@
         "image": "buecher-magazine-1.svg",
         "title": "MZIN / Zentrum",
         "link": "https://mzin.de/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "MZIN",
-        "description": "B\u00fccher & Magazine (Onlineshop)",
+        "description": "Bücher & Magazine (Onlineshop)",
         "location": {
             "lat": 51.338093,
             "lon": 12.3660955,
-            "address": "Kolonnadenstra\u00dfe 20, 04109 Leipzig, Germany",
+            "address": "Kolonnadenstraße 20, 04109 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4416,10 +4437,10 @@
         "image": "musik.svg",
         "title": "Noch Besser Leben / Plagwitz",
         "link": "https://www.facebook.com/events/2577127955835651/",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Noch Besser Leben",
-        "description": "Musik (Live\u00fcbertragungen)",
+        "description": "Musik (Liveübertragungen)",
         "location": {
             "lat": 51.3310317,
             "lon": 12.3331105,
@@ -4436,24 +4457,24 @@
         "image": "musik.svg",
         "title": "Ostblockschlampen / Leipzig",
         "link": "http://www.ostblockschlampen.com/",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "Ostblockschlampen",
-        "description": "Musik (Live\u00fcbertragungen)",
+        "description": "Musik (Liveübertragungen)",
         "location": null
     },
     {
         "image": "buecher-magazine-1.svg",
         "title": "ROTORBOOKS / Zentrum",
         "link": "http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "ROTORBOOKS",
         "description": "Buchhandlung (Lieferservice)",
         "location": {
             "lat": 51.337954,
             "lon": 12.367504,
-            "address": "Kolonnadenstra\u00dfe 5 - 7, 04109 Leipzig, Germany",
+            "address": "Kolonnadenstraße 5 - 7, 04109 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "cafe",
@@ -4468,14 +4489,14 @@
         "image": "buecher-magazine-1.svg",
         "title": "Seitenblick / Lindenau",
         "link": "http://277780.umbreitwebshop.de/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Seitenblick",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.3364489,
             "lon": 12.3357397,
-            "address": "Goetzstra\u00dfe 2, 04177 Leipzig, Germany",
+            "address": "Goetzstraße 2, 04177 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4486,16 +4507,16 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Serifee / S\u00fcdvorstadt",
+        "title": "Serifee / Südvorstadt",
         "link": "https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Serifee",
         "description": "Kinderbuchhandlung (Onlineshop & Lieferservice)",
         "location": {
             "lat": 51.3264331,
             "lon": 12.3734023,
-            "address": "Karl-Liebknecht-Stra\u00dfe 36, 04107 Leipzig, Germany",
+            "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
             "tags": [
                 "book_store",
                 "point_of_interest",
@@ -4506,16 +4527,16 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Spector Books / Zentrum-S\u00fcd",
+        "title": "Spector Books / Zentrum-Süd",
         "link": "http://www.spectorbooks.com/",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Spector Books",
         "description": "Buchhandlung (Onlineshop)",
         "location": {
             "lat": 51.331763,
             "lon": 12.3711205,
-            "address": "Harkortstra\u00dfe 10, 04107 Leipzig, Germany",
+            "address": "Harkortstraße 10, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4524,16 +4545,16 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Urbanite / S\u00fcdvorstadt",
+        "title": "Urbanite / Südvorstadt",
         "link": "https://www.gofundme.com/f/your-urbanite-needs-you",
-        "sub-category": "B\u00fccher und Magazine",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
         "cleanTitle": "Urbanite",
         "description": "Stadtmagazin (Spendenaktion)",
         "location": {
             "lat": 51.3206975,
             "lon": 12.367953,
-            "address": "Kurt-Eisner-Stra\u00dfe 36, 04275 Leipzig, Germany",
+            "address": "Kurt-Eisner-Straße 36, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4544,14 +4565,14 @@
         "image": "musik.svg",
         "title": "VARY / Zentrum-Ost",
         "link": "http://local-heroes-leipzig.de/vary-leipzig-zentrum-ost/",
-        "sub-category": "Musik und Live\u00fcbertragungen",
-        "category": "H\u00f6ren & Lesen",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
         "cleanTitle": "VARY",
-        "description": "Record Shop & Caf\u00e9 (Onlineshop & Gutscheinverkauf)",
+        "description": "Record Shop & Café (Onlineshop & Gutscheinverkauf)",
         "location": {
             "lat": 51.3461937,
             "lon": 12.3958762,
-            "address": "Eisenbahnstra\u00dfe 7, 04315 Leipzig, Germany",
+            "address": "Eisenbahnstraße 7, 04315 Leipzig, Germany",
             "tags": [
                 "cafe",
                 "electronics_store",
@@ -4574,7 +4595,7 @@
         "location": {
             "lat": 51.3268996,
             "lon": 12.3729336,
-            "address": "Paartherapie, Sexualberatung, Supervision Oliver Wolf Eheberatung, Partnerberatung, Paarberatung, Braustra\u00dfe 29, 04107 Leipzig, Germany",
+            "address": "Paartherapie, Sexualberatung, Supervision Oliver Wolf Eheberatung, Partnerberatung, Paarberatung, Braustraße 29, 04107 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -4612,7 +4633,7 @@
     },
     {
         "image": "coaching.svg",
-        "title": "Lena Staudigl / S\u00fcdvorstadt",
+        "title": "Lena Staudigl / Südvorstadt",
         "link": "https://www.lenastaudigl.de/onlinesession",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops & Weiterbildung",
@@ -4621,7 +4642,7 @@
         "location": {
             "lat": 51.3169927,
             "lon": 12.3691581,
-            "address": "August-Bebel-Stra\u00dfe 73, 04275 Leipzig, Germany",
+            "address": "August-Bebel-Straße 73, 04275 Leipzig, Germany",
             "tags": [
                 "health",
                 "point_of_interest",
@@ -4643,14 +4664,14 @@
         "image": "musik.svg",
         "title": "Musikzimmer / Plagwitz",
         "link": "http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/",
-        "sub-category": "Musik und Live\u00fcbertragungen",
+        "sub-category": "Musik und Liveübertragungen",
         "category": "Workshops & Weiterbildung",
         "cleanTitle": "Musikzimmer",
         "description": "Musik (Gutscheinverkauf)",
         "location": {
             "lat": 51.3275929,
             "lon": 12.3222508,
-            "address": "Engertstra\u00dfe 38, 04229 Leipzig, Germany",
+            "address": "Engertstraße 38, 04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4668,7 +4689,7 @@
         "location": {
             "lat": 51.3320695,
             "lon": 12.3974289,
-            "address": "Volckmarstra\u00dfe 6B, 04317 Leipzig, Germany",
+            "address": "Volckmarstraße 6B, 04317 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4686,7 +4707,7 @@
         "location": {
             "lat": 51.3376494,
             "lon": 12.3319232,
-            "address": "Demmeringstra\u00dfe 23, 04177 Leipzig, Germany",
+            "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
             "tags": [
                 "school",
                 "gym",
@@ -4700,14 +4721,14 @@
         "image": "musik.svg",
         "title": "Trommelschule Yngo Gutmann / Zentrum",
         "link": "https://www.trommel-kurse.de/",
-        "sub-category": "Musik und Live\u00fcbertragungen",
+        "sub-category": "Musik und Liveübertragungen",
         "category": "Workshops & Weiterbildung",
         "cleanTitle": "Trommelschule Yngo Gutmann",
         "description": "Musik (Onlinekurse)",
         "location": {
             "lat": 51.32131039999999,
             "lon": 12.4056566,
-            "address": "Kregelstra\u00dfe 6, 04317 Leipzig, Germany",
+            "address": "Kregelstraße 6, 04317 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
