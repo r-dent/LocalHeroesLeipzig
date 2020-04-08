@@ -32,6 +32,7 @@ class LocalHeroesMap {
         this.clusterLayer = undefined
         this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
         this.showLocateButton = (options.showLocateButton !== undefined)
+        this.onDataReady = options.onDataReady
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
@@ -229,7 +230,13 @@ class LocalHeroesMap {
             .addEventListener('change', (event) => this.selectCategory(event.target.value), false);
 
         this.createCategoryLayers(geoJson);
+
+        // Remove loading overlay.
         document.getElementById('loading').remove()
+
+        if (this.onDataReady !== undefined && typeof(this.onDataReady) == 'function') {
+            this.onDataReady(this.categories)
+        }
     }
 }
 

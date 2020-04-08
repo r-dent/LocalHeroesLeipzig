@@ -18,23 +18,33 @@
                 height: 100%;
                 margin: 0;
             }
-            .full-height {
-                height: 100%;
+            #button-container {
+                height: 20%; 
+                text-align: center;
+                margin-top: 2em;
             }
         </style>
 
     </head>
     <body>
-        <div id="mapid" class="full-height"></div>
+        <div id="mapid" style="height: 80%"></div>
+        <div id="button-container"></div>
         <script src="map.js"></script>
         <script>
-                var map = new LocalHeroesMap('mapid', {
-                    mapBoxKey: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg',
-                    mapBoxStyle: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
-                    clusterBelowZoom: 15,
-                    showLocateButton: true
-                })
-                console.log(map);
+            var map = new LocalHeroesMap('mapid', {
+                mapBoxKey: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg',
+                mapBoxStyle: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
+                clusterBelowZoom: 15,
+                showLocateButton: true,
+                onDataReady: function(categories) {
+                    var buttonsHTML = ''
+                    for (index in categories) {
+                        category = categories[index]
+                        buttonsHTML += '<button onclick="map.selectCategory(\''+ category +'\')">'+ category +'</button>\n'
+                    }
+                    document.getElementById('button-container').innerHTML = buttonsHTML
+                }
+            })
         </script>
     </body>
 </html>

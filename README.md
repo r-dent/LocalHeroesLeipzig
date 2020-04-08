@@ -29,11 +29,37 @@ If you want to customize the map, you can pass some options to the initializer.
 </script>
 ```
 
+### Initializer options
+
  Option | Description
  --- | ---
  `clusterBelowZoom` | You can use clustering to group multiple markers into one for a better overview. To do that just provide a zoom level below which items will get clustered.
  `showLocateButton` | If you want to show a button that let´s the user zoom to his/her own location.
+ `onDataReady` | A Handler that will be called after loading is done and the map is ready. The resutling categories will be passed as data.
  `mapBoxStyle` | If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing this parameter together with your Mapbox API key. If your Mapbox Style URL is something like `mapbox://styles/username/your_style_id`, use `username/your_style_id` for this parameter.
  `mapBoxKey` | Your API key from [Mapbox](https://www.mapbox.com/).
+
+ ### Custom category selection
+
+ Here´s an example how to create custom controls for the category selection.
+
+ ```html
+<div id="mapid" style="height: 200px"></div>
+<div id="button-container"></div>
+<script src="map.js"></script>
+<script>
+    var map = new LocalHeroesMap('mapid', {
+        showLocateButton: true,
+        onDataReady: function(categories) {
+            var buttonsHTML = ''
+            for (index in categories) {
+                category = categories[index]
+                buttonsHTML += '<button onclick="map.selectCategory(\''+ category +'\')">'+ category +'</button>\n'
+            }
+            document.getElementById('button-container').innerHTML = buttonsHTML
+        }
+    })
+</script>
+ ```
 
 Please [file an issue](https://github.com/r-dent/LocalHeroesLeipzig/issues/new) or [contact me](https://romangille.com/#contact) if you have feedback.
