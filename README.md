@@ -14,35 +14,26 @@ You can embed the map on your own website by adding the following code:
 <script src="https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/docs/map.js" onload="new LocalHeroesMap('mapid')"></script>
 ```
 
-If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing your key and style like this:
+If you want to customize the map, you can pass some options to the initializer.
 
 ```html
 <div id="mapid" style="height: 200px;"></div>
 <script src="https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/docs/map.js"></script>
 <script>
-    new LocalHeroesMap('mapid', {
+    var localsMap = new LocalHeroesMap('mapid', {
         mapBoxKey: 'your_mapbox_key',
-        mapBoxStyle: 'username/your_style_id'
+        mapBoxStyle: 'username/your_style_id',
+        clusterBelowZoom: 15,
+        showLocateButton: true
     })
 </script>
 ```
 
-You can also use clustering. To do that just provide a zoom level below which items will get clustered.
-
-```javascript
-new LocalHeroesMap('mapid', {
-    ...
-    clusterBelowZoom: 15
-})
-```
-
-If you want to show a botton that let´s the user zoom to his/her own location. Use the `showLocateButton` option.
-
-```javascript
-new LocalHeroesMap('mapid', {
-    ...
-    showLocateButton: true
-})
-```
+ Option | Description
+ --- | ---
+ `clusterBelowZoom` | You can use clustering to group multiple markers into one for a better overview. To do that just provide a zoom level below which items will get clustered.
+ `showLocateButton` | If you want to show a button that let´s the user zoom to his/her own location.
+ `mapBoxStyle` | If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing this parameter together with your Mapbox API key. If your Mapbox Style URL is something like `mapbox://styles/username/your_style_id`, use `username/your_style_id` for this parameter.
+ `mapBoxKey` | Your API key from [Mapbox](https://www.mapbox.com/).
 
 Please [file an issue](https://github.com/r-dent/LocalHeroesLeipzig/issues/new) or [contact me](https://romangille.com/#contact) if you have feedback.
