@@ -594,6 +594,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Der Teeladen / Zentrum",
+                "image": "kaffee.svg",
+                "description": "Teefachgeschäft (Onlineshop)<br><a href=\"https://www.der-teeladen-leipzig.de/\" target=\"_blank\">https://www.der-teeladen-leipzig.de/</a>",
+                "url": "https://www.der-teeladen-leipzig.de/",
+                "address": "Richard-Wagner-Straße 10, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.377145,
+                    51.3437983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Eine Welt e.V. / 3x",
                 "image": "einkaufen-1.svg",
                 "description": "Fairtrade (Sonderöffnungszeiten & Onlineshop)<br><a href=\"http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/\" target=\"_blank\">http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/</a>",
@@ -890,6 +914,33 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "JEEPNEY / Gohlis",
+                "image": "kaffee.svg",
+                "description": "Café (Take Away & Gutscheine)<br><a href=\"https://jeepney-cafe.de/shop/\" target=\"_blank\">https://jeepney-cafe.de/shop/</a>",
+                "url": "https://jeepney-cafe.de/shop/",
+                "address": "Georg-Schumann-Straße 78, 04155 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "cafe",
+                    "bakery",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.364926,
+                    51.362761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kleine Leckerei / Schleußig",
                 "image": "pizza.svg",
                 "description": "Café & Bistro (Lieferservice & Take Away)<br><a href=\"https://www.kleineleckerei.de/lieferservice/\" target=\"_blank\">https://www.kleineleckerei.de/lieferservice/</a>",
@@ -1082,6 +1133,31 @@
                 "coordinates": [
                     12.3350365,
                     51.33154159999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olea / Lindenau",
+                "image": "pizza.svg",
+                "description": "Mediterranes Restaurant (Take Away)<br><a href=\"http://olea-restaurant.de/\" target=\"_blank\">http://olea-restaurant.de/</a>",
+                "url": "http://olea-restaurant.de/",
+                "address": "Dreilindenstraße 1, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3361873,
+                    51.3365306
                 ]
             }
         },
@@ -1360,6 +1436,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Samstagsmarkt / Plagwitz",
+                "image": "einkaufen-1.svg",
+                "description": "regionaler Wochenmarkt (Sonderzeiten)<br><a href=\"https://samstagsmarkt.de/\" target=\"_blank\">https://samstagsmarkt.de/</a>",
+                "url": "https://samstagsmarkt.de/",
+                "address": "Markranstädter Str. 8, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3297043,
+                    51.3253018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "S1 Vinyl & Kaffee/ Zentrum-Süd",
                 "image": "kaffeebohne.svg",
                 "description": "Café (Crowdfunding)<br><a href=\"https://www.startnext.com/wirgemeinsam\" target=\"_blank\">https://www.startnext.com/wirgemeinsam</a>",
@@ -1437,6 +1535,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Sole Mio / Holzhausen",
+                "image": "pizza.svg",
+                "description": "Restaurant (Lieferservice & Take Away)<br><a href=\"http://www.solemio-leipzig.de/\" target=\"_blank\">http://www.solemio-leipzig.de/</a>",
+                "url": "http://www.solemio-leipzig.de/",
+                "address": "Hauptstraße 22, 04288 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4653186,
+                    51.3086876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Süßwärts / Lindenau",
                 "image": "kaffee.svg",
                 "description": "Café (Onlinebestellungen)<br><a href=\"https://suesswaerts.chayns.net/\" target=\"_blank\">https://suesswaerts.chayns.net/</a>",
@@ -1456,6 +1578,33 @@
                 "coordinates": [
                     12.3372675,
                     51.3302854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Süß + Salzig / Plagwitz",
+                "image": "kaffee.svg",
+                "description": "Café & Bar (Gutscheinaktion)<br><a href=\"https://www.paypal.me/Gutscheinsuesssalzig?fbclid=IwAR0Qs1PlxGyd1WOs8NA3jORra-gngAzJZIAJY6RzTo1lPVoGN1sgSzcneFw\" target=\"_blank\">https://www.paypal.me/Gutscheinsuesssalzig?fbclid=IwAR0Qs1PlxGyd1WOs8NA3jORra-gngAzJZIAJY6RzTo1lPVoGN1sgSzcneFw</a>",
+                "url": "https://www.paypal.me/Gutscheinsuesssalzig?fbclid=IwAR0Qs1PlxGyd1WOs8NA3jORra-gngAzJZIAJY6RzTo1lPVoGN1sgSzcneFw",
+                "address": "Merseburger Str. 44, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "cafe",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3327835,
+                    51.3322563
                 ]
             }
         },
@@ -1486,13 +1635,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Thommys Eismanufaktur / Mockau",
+                "name": "Thommys Eismanufaktur / Möckern",
                 "image": "eis.svg",
                 "description": "Eis (Take Away)<br><a href=\"http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/\" target=\"_blank\">http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/</a>",
                 "url": "http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/",
-                "address": "Leonhardtstraße 2A, 04357 Leipzig, Germany",
+                "address": "Georg-Schumann-Straße 294, 04159 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "tags": [
+                    "cafe",
                     "food",
                     "point_of_interest",
                     "store",
@@ -1502,8 +1652,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.4102929,
-                    51.37238070000001
+                    12.3276962,
+                    51.3733924
                 ]
             }
         },
@@ -2953,6 +3103,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Culinaris / Zentrum",
+                "image": "interior.svg",
+                "description": "Küchenaccessoires (Onlineshop)<br><a href=\"https://www.culinaris.eu/\" target=\"_blank\">https://www.culinaris.eu/</a>",
+                "url": "https://www.culinaris.eu/",
+                "address": "Grimmaische Str. 25, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "shopping_mall",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3789388,
+                    51.3399541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Dominique / Leipzig",
                 "image": "prints.svg",
                 "description": "Kunstdrucke (Etsy Shop)<br><a href=\"https://www.etsy.com/de/shop/PrintsByDominique\" target=\"_blank\">https://www.etsy.com/de/shop/PrintsByDominique</a>",
@@ -3051,7 +3227,7 @@
             "properties": {
                 "name": "FANG Studio / Reudnitz",
                 "image": "prints.svg",
-                "description": "Antik- & Kunstmetzgerei (Website)<br><a href=\"https://fang-studio.de/\" target=\"_blank\">https://fang-studio.de/</a>",
+                "description": "Antik- & Kunstmetzgerei (Sonderverkauf & Spenden)<br><a href=\"https://fang-studio.de/\" target=\"_blank\">https://fang-studio.de/</a>",
                 "url": "https://fang-studio.de/",
                 "address": "Oststraße 6, 04317 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
@@ -3641,9 +3817,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Möbelwerkstatt / Kleinzschocher",
+                "name": "Möbelwerkstatt / Plagwitz",
                 "image": "moebel.svg",
-                "description": "Polstermöbel (Terminvereinbarung)<br><a href=\"http://www.moebelwerkstatt.net/\" target=\"_blank\">http://www.moebelwerkstatt.net/</a>",
+                "description": "Polstermöbel-Design (Terminvereinbarung)<br><a href=\"http://www.moebelwerkstatt.net/\" target=\"_blank\">http://www.moebelwerkstatt.net/</a>",
                 "url": "http://www.moebelwerkstatt.net/",
                 "address": "Antonienstraße 26, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
@@ -5212,8 +5388,8 @@
             "properties": {
                 "name": "Lena Staudigl / Südvorstadt",
                 "image": "coaching.svg",
-                "description": "Coaching & Beratung (Online Sessions)<br><a href=\"https://www.lenastaudigl.de/onlinesession\" target=\"_blank\">https://www.lenastaudigl.de/onlinesession</a>",
-                "url": "https://www.lenastaudigl.de/onlinesession",
+                "description": "Beratung, Supervision & Therapie (Online Sessions)<br><a href=\"https://www.lenastaudigl.de/\" target=\"_blank\">https://www.lenastaudigl.de/</a>",
+                "url": "https://www.lenastaudigl.de/",
                 "address": "August-Bebel-Straße 73, 04275 Leipzig, Germany",
                 "category": "Workshops & Weiterbildung",
                 "tags": [

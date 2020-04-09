@@ -514,6 +514,26 @@
         "location": null
     },
     {
+        "image": "kaffee.svg",
+        "title": "Der Teeladen / Zentrum",
+        "link": "https://www.der-teeladen-leipzig.de/",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Der Teeladen",
+        "description": "Teefachgeschäft (Onlineshop)",
+        "location": {
+            "lat": 51.3437983,
+            "lon": 12.377145,
+            "address": "Richard-Wagner-Straße 10, 04109 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "spirituosen.svg",
         "title": "Doppelblick / Lindenau",
         "link": "https://shop.doppelblick.org/",
@@ -772,6 +792,29 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "JEEPNEY / Gohlis",
+        "link": "https://jeepney-cafe.de/shop/",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "JEEPNEY",
+        "description": "Café (Take Away & Gutscheine)",
+        "location": {
+            "lat": 51.362761,
+            "lon": 12.364926,
+            "address": "Georg-Schumann-Straße 78, 04155 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "pizza.svg",
         "title": "Kleine Leckerei / Schleußig",
         "link": "https://www.kleineleckerei.de/lieferservice/",
@@ -933,6 +976,27 @@
                 "food",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Olea / Lindenau",
+        "link": "http://olea-restaurant.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Olea",
+        "description": "Mediterranes Restaurant (Take Away)",
+        "location": {
+            "lat": 51.3365306,
+            "lon": 12.3361873,
+            "address": "Dreilindenstraße 1, 04177 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -1166,6 +1230,24 @@
         }
     },
     {
+        "image": "einkaufen-1.svg",
+        "title": "Samstagsmarkt / Plagwitz",
+        "link": "https://samstagsmarkt.de/",
+        "sub-category": "Einkaufen",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Samstagsmarkt",
+        "description": "regionaler Wochenmarkt (Sonderzeiten)",
+        "location": {
+            "lat": 51.3253018,
+            "lon": 12.3297043,
+            "address": "Markranstädter Str. 8, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffeebohne.svg",
         "title": "S1 Vinyl & Kaffee/ Zentrum-Süd",
         "link": "https://www.startnext.com/wirgemeinsam",
@@ -1231,6 +1313,26 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Sole Mio / Holzhausen",
+        "link": "http://www.solemio-leipzig.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Sole Mio",
+        "description": "Restaurant (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.3086876,
+            "lon": 12.4653186,
+            "address": "Hauptstraße 22, 04288 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
         "title": "Süßwärts / Lindenau",
         "link": "https://suesswaerts.chayns.net/",
@@ -1244,6 +1346,29 @@
             "address": "Zschochersche Str. 38, 04229 Leipzig, Germany",
             "tags": [
                 "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Süß + Salzig / Plagwitz",
+        "link": "https://www.paypal.me/Gutscheinsuesssalzig?fbclid=IwAR0Qs1PlxGyd1WOs8NA3jORra-gngAzJZIAJY6RzTo1lPVoGN1sgSzcneFw",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Süß + Salzig",
+        "description": "Café & Bar (Gutscheinaktion)",
+        "location": {
+            "lat": 51.3322563,
+            "lon": 12.3327835,
+            "address": "Merseburger Str. 44, 04177 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "bar",
+                "restaurant",
                 "food",
                 "point_of_interest",
                 "store",
@@ -1273,17 +1398,18 @@
     },
     {
         "image": "eis.svg",
-        "title": "Thommys Eismanufaktur / Mockau",
+        "title": "Thommys Eismanufaktur / Möckern",
         "link": "http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Thommys Eismanufaktur",
         "description": "Eis (Take Away)",
         "location": {
-            "lat": 51.37238070000001,
-            "lon": 12.4102929,
-            "address": "Leonhardtstraße 2A, 04357 Leipzig, Germany",
+            "lat": 51.3733924,
+            "lon": 12.3276962,
+            "address": "Georg-Schumann-Straße 294, 04159 Leipzig, Germany",
             "tags": [
+                "cafe",
                 "food",
                 "point_of_interest",
                 "store",
@@ -2609,6 +2735,28 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "Culinaris / Zentrum",
+        "link": "https://www.culinaris.eu/",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Culinaris",
+        "description": "Küchenaccessoires (Onlineshop)",
+        "location": {
+            "lat": 51.3399541,
+            "lon": 12.3789388,
+            "address": "Grimmaische Str. 25, 04109 Leipzig, Germany",
+            "tags": [
+                "shopping_mall",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "prints.svg",
         "title": "DanPop Illustrationen / Leipzig",
         "link": "https://www.etsy.com/de/shop/danpopillustration?ref=simple-shop-header-name&listing_id=670554244",
@@ -2715,7 +2863,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "FANG Studio",
-        "description": "Antik- & Kunstmetzgerei (Website)",
+        "description": "Antik- & Kunstmetzgerei (Sonderverkauf & Spenden)",
         "location": {
             "lat": 51.3321,
             "lon": 12.39676,
@@ -3232,12 +3380,12 @@
     },
     {
         "image": "moebel.svg",
-        "title": "Möbelwerkstatt / Kleinzschocher",
+        "title": "Möbelwerkstatt / Plagwitz",
         "link": "http://www.moebelwerkstatt.net/",
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Möbelwerkstatt",
-        "description": "Polstermöbel (Terminvereinbarung)",
+        "description": "Polstermöbel-Design (Terminvereinbarung)",
         "location": {
             "lat": 51.3204171,
             "lon": 12.3285392,
@@ -4634,11 +4782,11 @@
     {
         "image": "coaching.svg",
         "title": "Lena Staudigl / Südvorstadt",
-        "link": "https://www.lenastaudigl.de/onlinesession",
+        "link": "https://www.lenastaudigl.de/",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops & Weiterbildung",
         "cleanTitle": "Lena Staudigl",
-        "description": "Coaching & Beratung (Online Sessions)",
+        "description": "Beratung, Supervision & Therapie (Online Sessions)",
         "location": {
             "lat": 51.3169927,
             "lon": 12.3691581,
