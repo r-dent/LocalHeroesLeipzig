@@ -7,6 +7,8 @@ This repository consists of 2 parts:
 1. A python script that parses data from the website and adds location data to it.
 2. A JavaScript class that renders an HTML map that displays the data
 
+![Screenshot of the map](docs/screenshot.png)
+
 You can embed the map on your own website by adding the following code:
 
 ```html
@@ -24,20 +26,22 @@ If you want to customize the map, you can pass some options to the initializer.
         mapBoxKey: 'your_mapbox_key',
         mapBoxStyle: 'username/your_style_id',
         clusterBelowZoom: 15,
-        showLocateButton: true
+        showLocateButton: true,
+        showCategorySelection: true
     })
 </script>
 ```
 
 ### Initializer options
 
- Option | Description
- --- | ---
- `clusterBelowZoom` | You can use clustering to group multiple markers into one for a better overview. To do that just provide a zoom level below which items will get clustered.
- `showLocateButton` | If you want to show a button that let´s the user zoom to his/her own location.
- `onDataReady` | A Handler that will be called after loading is done and the map is ready. The resutling categories will be passed as data.
- `mapBoxStyle` | If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing this parameter together with your Mapbox API key. If your Mapbox Style URL is something like `mapbox://styles/username/your_style_id`, use `username/your_style_id` for this parameter.
- `mapBoxKey` | Your API key from [Mapbox](https://www.mapbox.com/).
+ Option | Type | Description | Default
+ --- | --- | --- | ---
+ `showLocateButton` | `boolean` | If you want to show a button that let´s the user zoom to his/her own location. | `false`
+ `showCategorySelection` | `boolean` | Show a category selection dropdown in the top right corner of the map. | `true`
+ `clusterBelowZoom` | `number` | You can use clustering to group multiple markers into one for a better overview. To do that just provide a zoom level below which items will get clustered. | `undefined`
+ `onDataReady` | `function` | A Handler that will be called after loading is done and the map is ready. The resutling categories will be passed as data. | `undefined`
+ `mapBoxStyle` | `string` | If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing this parameter together with your Mapbox API key. If your Mapbox Style URL is something like `mapbox://styles/username/your_style_id`, use `username/your_style_id` for this parameter. If you don´t have a Mapbox account, [OpenStreetMap](https://www.openstreetmap.org) will be used as fallback. | `undefined`
+ `mapBoxKey` | `string` | Your API key from [Mapbox](https://www.mapbox.com/). | `undefined`
 
  ### Custom category selection
 
@@ -49,7 +53,7 @@ If you want to customize the map, you can pass some options to the initializer.
 <script src="map.js"></script>
 <script>
     var map = new LocalHeroesMap('mapid', {
-        showLocateButton: true,
+        showCategorySelection: false,
         onDataReady: function(categories) {
             var buttonsHTML = ''
             for (index in categories) {

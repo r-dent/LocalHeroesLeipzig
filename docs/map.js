@@ -32,6 +32,7 @@ class LocalHeroesMap {
         this.clusterLayer = undefined
         this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
         this.showLocateButton = (options.showLocateButton !== undefined)
+        this.showCategorySelection = options.showCategorySelection
         this.onDataReady = options.onDataReady
 
         // Add loading layer DOM.
@@ -91,7 +92,7 @@ class LocalHeroesMap {
 
         if (this.showLocateButton) {
             LocalHeroesHelper.loadScript('https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.71.1/dist/L.Control.Locate.min.js', () => {
-                L.control.locate({position: 'bottomleft'}).addTo(map);
+                L.control.locate({position: 'bottomleft', showCompass: false}).addTo(map);
             })
         }
 
@@ -207,27 +208,28 @@ class LocalHeroesMap {
         this.categories = Array.from(distinctCategories).sort()
         console.log(this.categories);
         
-        // Create category selection control.
-        var control = L.control({position: 'topright'});
-        control.onAdd = (map) => {
-            var div = L.DomUtil.create('div', 'command');
+        if (this.showCategorySelection !== false) {
+            // Create category selection control.
+            var control = L.control({position: 'topright'});
+            control.onAdd = (map) => {
+                var div = L.DomUtil.create('div', 'command');
 
-            var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
-            categorySelection += '<option value="all">Alle</option>'
-            for (const catId in this.categories) {
-                var category = this.categories[catId]
-                categorySelection += '<option value="'+ category +'">'+ category +'</option>'
-            }
-            categorySelection += '</select></div></form>'
+                var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
+                categorySelection += '<option value="all">Alle</option>'
+                for (const catId in this.categories) {
+                    var category = this.categories[catId]
+                    categorySelection += '<option value="'+ category +'">'+ category +'</option>'
+                }
+                categorySelection += '</select></div></form>'
 
-            div.innerHTML = categorySelection; 
-            return div;
-        };
-        control.addTo(this.map);
-
-        document
-            .getElementById('category-selection')
-            .addEventListener('change', (event) => this.selectCategory(event.target.value), false);
+                div.innerHTML = categorySelection; 
+                return div;
+            };
+            control.addTo(this.map);
+            document
+                .getElementById('category-selection')
+                .addEventListener('change', (event) => this.selectCategory(event.target.value), false);
+        }
 
         this.createCategoryLayers(geoJson);
 
