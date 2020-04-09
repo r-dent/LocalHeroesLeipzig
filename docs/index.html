@@ -27,23 +27,14 @@
 
     </head>
     <body>
-        <div id="mapid" style="height: 80%"></div>
-        <div id="button-container"></div>
+        <div id="mapid" style="height: 100%"></div>
         <script src="map.js"></script>
         <script>
             var map = new LocalHeroesMap('mapid', {
                 mapBoxKey: 'pk.eyJ1Ijoicm9tYW5naWxsZSIsImEiOiJjazhmZXNleTcwMDdjM2hwMWw2a3Z6MGYxIn0.pnoK-wT1_i47xTYNvtlRbg',
                 mapBoxStyle: 'romangille/ck8ffr84j1z8p1inv9r486iyo',
                 clusterBelowZoom: 15,
-                showLocateButton: true,
-                onDataReady: function(categories) {
-                    var buttonsHTML = ''
-                    for (index in categories) {
-                        category = categories[index]
-                        buttonsHTML += '<button onclick="map.selectCategory(\''+ category +'\')">'+ category +'</button>\n'
-                    }
-                    document.getElementById('button-container').innerHTML = buttonsHTML
-                }
+                showLocateButton: true
             })
         </script>
     </body>
