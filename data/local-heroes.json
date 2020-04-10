@@ -2532,24 +2532,6 @@
     },
     {
         "image": "prints.svg",
-        "title": "Antje Braga / Gohlis",
-        "link": "https://www.etsy.com/de/shop/AntjeBraga",
-        "sub-category": "Prints und Kunstartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Antje Braga",
-        "description": "Fotografie (Etsy Shop)",
-        "location": {
-            "lat": 51.3638915,
-            "lon": 12.3770042,
-            "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "prints.svg",
         "title": "Amorph Studio / Connewitz",
         "link": "https://www.instagram.com/amorph_richardpaulmeszaros/",
         "sub-category": "Prints und Kunstartikel",
@@ -2563,6 +2545,43 @@
             "tags": [
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "blumenstrauss.svg",
+        "title": "Annalinde / Lindenau",
+        "link": "https://shop.annalinde-leipzig.de/?fbclid=IwAR0SX28W8hRJUS5GP_6Il_d7Z2BEJVXGPz_9qS6VFEyz-ofQDi9EBiy6jOY",
+        "sub-category": "Sonstiges",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Annalinde",
+        "description": "Stadtgärtnerei (online Jungpflanzenverkauf)",
+        "location": {
+            "lat": 51.33405339999999,
+            "lon": 12.3392787,
+            "address": "Zschochersche Str. 12, 04229 Leipzig, Germany",
+            "tags": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "prints.svg",
+        "title": "Antje Braga / Gohlis",
+        "link": "https://www.etsy.com/de/shop/AntjeBraga",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Antje Braga",
+        "description": "Fotografie (Etsy Shop)",
+        "location": {
+            "lat": 51.3638915,
+            "lon": 12.3770042,
+            "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -3721,6 +3740,26 @@
         "location": null
     },
     {
+        "image": "naehbedarf.svg",
+        "title": "Suse liebe Suse / Schleußig",
+        "link": "https://suse-liebe-suse.blogspot.com/p/blog-page.html",
+        "sub-category": "Stoffe und Nähbedarf",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Suse liebe Suse",
+        "description": "Stoffladen (Gutscheinverkauf)",
+        "location": {
+            "lat": 51.32584019999999,
+            "lon": 12.3408582,
+            "address": "Industriestraße 31, 04229 Leipzig, Germany",
+            "tags": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "rad.svg",
         "title": "tex – lock / Alt-West",
         "link": "https://www.tex-lock.com/",
@@ -4763,7 +4802,7 @@
     },
     {
         "image": "coaching.svg",
-        "title": "Gestalt in Leipzig/ Leipzig",
+        "title": "Gestalt in Leipzig / Leipzig",
         "link": "https://gestalt-in-leipzig.de/online-sitzungen/",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops & Weiterbildung",
@@ -4774,6 +4813,26 @@
             "lon": 12.3334043,
             "address": "Schadowstrasse 10/FSA, 04177 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "coaching.svg",
+        "title": "Human Unfoldment / Markranstädt",
+        "link": "https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/",
+        "sub-category": "Coaching und Online-Workshops",
+        "category": "Workshops & Weiterbildung",
+        "cleanTitle": "Human Unfoldment",
+        "description": "Onlinetherapie (20 Minuten gratis)",
+        "location": {
+            "lat": 51.3075335,
+            "lon": 12.2389519,
+            "address": "Kranichweg 7, 04420 Markranstädt, Germany",
+            "tags": [
+                "gym",
+                "health",
                 "point_of_interest",
                 "establishment"
             ]

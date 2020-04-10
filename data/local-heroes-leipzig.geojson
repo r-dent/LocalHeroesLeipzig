@@ -2869,28 +2869,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Antje Braga / Gohlis",
-                "image": "prints.svg",
-                "description": "Fotografie (Etsy Shop)<br><a href=\"https://www.etsy.com/de/shop/AntjeBraga\" target=\"_blank\">https://www.etsy.com/de/shop/AntjeBraga</a>",
-                "url": "https://www.etsy.com/de/shop/AntjeBraga",
-                "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
-                "category": "Produkte & Kreatives",
-                "tags": [
-                    "point_of_interest",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3770042,
-                    51.3638915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Amorph Studio / Connewitz",
                 "image": "prints.svg",
                 "description": "Tattoo (Gutscheinverkauf)<br><a href=\"https://www.instagram.com/amorph_richardpaulmeszaros/\" target=\"_blank\">https://www.instagram.com/amorph_richardpaulmeszaros/</a>",
@@ -2908,6 +2886,51 @@
                 "coordinates": [
                     12.3714629,
                     51.3083494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Annalinde / Lindenau",
+                "image": "blumenstrauss.svg",
+                "description": "Stadtgärtnerei (online Jungpflanzenverkauf)<br><a href=\"https://shop.annalinde-leipzig.de/?fbclid=IwAR0SX28W8hRJUS5GP_6Il_d7Z2BEJVXGPz_9qS6VFEyz-ofQDi9EBiy6jOY\" target=\"_blank\">https://shop.annalinde-leipzig.de/?fbclid=IwAR0SX28W8hRJUS5GP_6Il_d7Z2BEJVXGPz_9qS6VFEyz-ofQDi9EBiy6jOY</a>",
+                "url": "https://shop.annalinde-leipzig.de/?fbclid=IwAR0SX28W8hRJUS5GP_6Il_d7Z2BEJVXGPz_9qS6VFEyz-ofQDi9EBiy6jOY",
+                "address": "Zschochersche Str. 12, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "park",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3392787,
+                    51.33405339999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antje Braga / Gohlis",
+                "image": "prints.svg",
+                "description": "Fotografie (Etsy Shop)<br><a href=\"https://www.etsy.com/de/shop/AntjeBraga\" target=\"_blank\">https://www.etsy.com/de/shop/AntjeBraga</a>",
+                "url": "https://www.etsy.com/de/shop/AntjeBraga",
+                "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3770042,
+                    51.3638915
                 ]
             }
         },
@@ -4155,6 +4178,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Suse liebe Suse / Schleußig",
+                "image": "naehbedarf.svg",
+                "description": "Stoffladen (Gutscheinverkauf)<br><a href=\"https://suse-liebe-suse.blogspot.com/p/blog-page.html\" target=\"_blank\">https://suse-liebe-suse.blogspot.com/p/blog-page.html</a>",
+                "url": "https://suse-liebe-suse.blogspot.com/p/blog-page.html",
+                "address": "Industriestraße 31, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3408582,
+                    51.32584019999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "tex – lock / Alt-West",
                 "image": "rad.svg",
                 "description": "Fahrradzubehör (Onlineshop)<br><a href=\"https://www.tex-lock.com/\" target=\"_blank\">https://www.tex-lock.com/</a>",
@@ -5364,7 +5411,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gestalt in Leipzig/ Leipzig",
+                "name": "Gestalt in Leipzig / Leipzig",
                 "image": "coaching.svg",
                 "description": "Gestalttherapie (Online-Sitzungen)<br><a href=\"https://gestalt-in-leipzig.de/online-sitzungen/\" target=\"_blank\">https://gestalt-in-leipzig.de/online-sitzungen/</a>",
                 "url": "https://gestalt-in-leipzig.de/online-sitzungen/",
@@ -5380,6 +5427,30 @@
                 "coordinates": [
                     12.3334043,
                     51.3352146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Human Unfoldment / Markranstädt",
+                "image": "coaching.svg",
+                "description": "Onlinetherapie (20 Minuten gratis)<br><a href=\"https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/\" target=\"_blank\">https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/</a>",
+                "url": "https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/",
+                "address": "Kranichweg 7, 04420 Markranstädt, Germany",
+                "category": "Workshops & Weiterbildung",
+                "tags": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2389519,
+                    51.3075335
                 ]
             }
         },

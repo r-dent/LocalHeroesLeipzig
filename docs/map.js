@@ -39,9 +39,10 @@ class LocalHeroesMap {
         var mapContainer = document.getElementById(mapElementId)
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
-
-        const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson';
-        const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css'
+        
+        const resourceVersionTag = '20200410'
+        const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson?v='+ resourceVersionTag
+        const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css?v='+ resourceVersionTag
 
         LocalHeroesHelper.loadCss(cssUrl)
         LocalHeroesHelper.loadCss('https://use.fontawesome.com/releases/v5.8.1/css/all.css')
