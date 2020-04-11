@@ -2676,6 +2676,26 @@
         }
     },
     {
+        "image": "blumenstrauss.svg",
+        "title": "BLATTwerk / Lindenau",
+        "link": "https://blattwerk-leipzig.de/",
+        "sub-category": "Sonstiges",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "BLATTwerk",
+        "description": "Blumenladen (Lieferservice)",
+        "location": {
+            "lat": 51.32963119999999,
+            "lon": 12.3420023,
+            "address": "Weißenfelser Str. 8, 04229 Leipzig, Germany",
+            "tags": [
+                "florist",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "schreibwaren.svg",
         "title": "Blaupause / Connewitz",
         "link": "http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
@@ -4776,7 +4796,7 @@
         "title": "calaidoskop Institut & Praxis / Zentrum",
         "link": "https://www.calaidoskop.de",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "calaidoskop Institut & Praxis",
         "description": "systemische Beratung, Therapie & Supervision (online & Praxis)",
         "location": {
@@ -4795,7 +4815,7 @@
         "title": "GOJO Music / Zentrum-Nord",
         "link": "https://www.gojo.me/",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "GOJO Music",
         "description": "Vocalcoaching (Onlinekurse)",
         "location": null
@@ -4805,7 +4825,7 @@
         "title": "Gestalt in Leipzig / Leipzig",
         "link": "https://gestalt-in-leipzig.de/online-sitzungen/",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Gestalt in Leipzig",
         "description": "Gestalttherapie (Online-Sitzungen)",
         "location": {
@@ -4823,7 +4843,7 @@
         "title": "Human Unfoldment / Markranstädt",
         "link": "https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Human Unfoldment",
         "description": "Onlinetherapie (20 Minuten gratis)",
         "location": {
@@ -4843,7 +4863,7 @@
         "title": "Lena Staudigl / Südvorstadt",
         "link": "https://www.lenastaudigl.de/",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Lena Staudigl",
         "description": "Beratung, Supervision & Therapie (Online Sessions)",
         "location": {
@@ -4862,7 +4882,7 @@
         "title": "Lifestyle Emergency / Leipzig",
         "link": "https://lifestyle-emergency.com/",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Lifestyle Emergency",
         "description": "Stilberatung (Onlinekurse)",
         "location": null
@@ -4872,7 +4892,7 @@
         "title": "Musikzimmer / Plagwitz",
         "link": "http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/",
         "sub-category": "Musik und Liveübertragungen",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Musikzimmer",
         "description": "Musik (Gutscheinverkauf)",
         "location": {
@@ -4890,7 +4910,7 @@
         "title": "OUIIUO Studio / Reudnitz",
         "link": "https://ouiiuo.de/portfolio",
         "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "OUIIUO Studio",
         "description": "Ladenstudio (Online-Workshops)",
         "location": {
@@ -4908,7 +4928,7 @@
         "title": "Studio Migotka / Lindenau",
         "link": "http://www.migotka.de/workshops.html",
         "sub-category": "Handarbeiten",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Studio Migotka",
         "description": "Makramee (Onlinekurse)",
         "location": {
@@ -4929,7 +4949,7 @@
         "title": "Trommelschule Yngo Gutmann / Zentrum",
         "link": "https://www.trommel-kurse.de/",
         "sub-category": "Musik und Liveübertragungen",
-        "category": "Workshops & Weiterbildung",
+        "category": "Workshops",
         "cleanTitle": "Trommelschule Yngo Gutmann",
         "description": "Musik (Onlinekurse)",
         "location": {

@@ -3032,6 +3032,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "BLATTwerk / Lindenau",
+                "image": "blumenstrauss.svg",
+                "description": "Blumenladen (Lieferservice)<br><a href=\"https://blattwerk-leipzig.de/\" target=\"_blank\">https://blattwerk-leipzig.de/</a>",
+                "url": "https://blattwerk-leipzig.de/",
+                "address": "Weißenfelser Str. 8, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "florist",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3420023,
+                    51.32963119999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Blaupause / Connewitz",
                 "image": "schreibwaren.svg",
                 "description": "Schreibwaren (Onlineshop)<br><a href=\"http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8\" target=\"_blank\">http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8</a>",
@@ -5393,7 +5417,7 @@
                 "description": "systemische Beratung, Therapie & Supervision (online & Praxis)<br><a href=\"https://www.calaidoskop.de\" target=\"_blank\">https://www.calaidoskop.de</a>",
                 "url": "https://www.calaidoskop.de",
                 "address": "Paartherapie, Sexualberatung, Supervision Oliver Wolf Eheberatung, Partnerberatung, Paarberatung, Braustraße 29, 04107 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -5416,7 +5440,7 @@
                 "description": "Gestalttherapie (Online-Sitzungen)<br><a href=\"https://gestalt-in-leipzig.de/online-sitzungen/\" target=\"_blank\">https://gestalt-in-leipzig.de/online-sitzungen/</a>",
                 "url": "https://gestalt-in-leipzig.de/online-sitzungen/",
                 "address": "Schadowstrasse 10/FSA, 04177 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5438,7 +5462,7 @@
                 "description": "Onlinetherapie (20 Minuten gratis)<br><a href=\"https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/\" target=\"_blank\">https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/</a>",
                 "url": "https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/",
                 "address": "Kranichweg 7, 04420 Markranstädt, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "gym",
                     "health",
@@ -5462,7 +5486,7 @@
                 "description": "Beratung, Supervision & Therapie (Online Sessions)<br><a href=\"https://www.lenastaudigl.de/\" target=\"_blank\">https://www.lenastaudigl.de/</a>",
                 "url": "https://www.lenastaudigl.de/",
                 "address": "August-Bebel-Straße 73, 04275 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -5485,7 +5509,7 @@
                 "description": "Musik (Gutscheinverkauf)<br><a href=\"http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/\" target=\"_blank\">http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/</a>",
                 "url": "http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/",
                 "address": "Engertstraße 38, 04229 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5507,7 +5531,7 @@
                 "description": "Ladenstudio (Online-Workshops)<br><a href=\"https://ouiiuo.de/portfolio\" target=\"_blank\">https://ouiiuo.de/portfolio</a>",
                 "url": "https://ouiiuo.de/portfolio",
                 "address": "Volckmarstraße 6B, 04317 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5529,7 +5553,7 @@
                 "description": "Makramee (Onlinekurse)<br><a href=\"http://www.migotka.de/workshops.html\" target=\"_blank\">http://www.migotka.de/workshops.html</a>",
                 "url": "http://www.migotka.de/workshops.html",
                 "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "school",
                     "gym",
@@ -5554,7 +5578,7 @@
                 "description": "Musik (Onlinekurse)<br><a href=\"https://www.trommel-kurse.de/\" target=\"_blank\">https://www.trommel-kurse.de/</a>",
                 "url": "https://www.trommel-kurse.de/",
                 "address": "Kregelstraße 6, 04317 Leipzig, Germany",
-                "category": "Workshops & Weiterbildung",
+                "category": "Workshops",
                 "tags": [
                     "point_of_interest",
                     "establishment"
