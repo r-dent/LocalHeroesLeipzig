@@ -60,6 +60,27 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "AKKO Humusbar / Plagwitz",
+        "link": "https://akkohummusbar.eatbu.com/?lang=en&fbclid=IwAR1rn6OWzsrhPyyaMiAeGojP3NbjFxChvCgIWQjr_XJdbQZKbKPm-Z2503U",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "AKKO Humusbar",
+        "description": "Bar & Bistro (Bestellung & Lieferservice)",
+        "location": {
+            "lat": 51.33172099999999,
+            "lon": 12.336539,
+            "address": "Walter-Heinze-Straße 3, 04229 Leipzig, Germany",
+            "tags": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "cocktail-1.svg",
         "title": "Auwaldbar / Zentrum Nord",
         "link": "https://www.startnext.com/auwaldbar",
@@ -384,7 +405,7 @@
     {
         "image": "kaffee.svg",
         "title": "Café Pastel / Lindenau",
-        "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
+        "link": "https://www.pastel-leipzig.de/bestellung",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Pastel",
@@ -534,6 +555,29 @@
         }
     },
     {
+        "image": "feinkost.svg",
+        "title": "Dipasquale / Plagwitz",
+        "link": "http://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI",
+        "sub-category": "Feinkost",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Dipasquale",
+        "description": "Café & Feinkost (Bestellungen & Take Away)",
+        "location": {
+            "lat": 51.33136589999999,
+            "lon": 12.3344372,
+            "address": "Karl-Heine-Straße 63, 04229 Leipzig, Germany",
+            "tags": [
+                "grocery_or_supermarket",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "spirituosen.svg",
         "title": "Doppelblick / Lindenau",
         "link": "https://shop.doppelblick.org/",
@@ -579,6 +623,26 @@
                 "food",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "eis.svg",
+        "title": "Eiscafé La winzi / Alt-West",
+        "link": "http://local-heroes-leipzig.de/eiscafe-la-winzi-leipzig-alt-west/",
+        "sub-category": "Eis",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Eiscafé La winzi",
+        "description": "Eis (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.3578392,
+            "lon": 12.2927222,
+            "address": "Südstraße 31, 04178 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -807,6 +871,27 @@
                 "cafe",
                 "bakery",
                 "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Jimmy Orpheus / Schleußig",
+        "link": "https://www.facebook.com/JimmyOrpheus/",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Jimmy Orpheus",
+        "description": "Café (Take Away)",
+        "location": {
+            "lat": 51.32512,
+            "lon": 12.3428,
+            "address": "Industriestraße 18, 04229 Leipzig, Germany",
+            "tags": [
+                "cafe",
                 "food",
                 "point_of_interest",
                 "store",
@@ -1248,6 +1333,26 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Schnellbuffet Süd / Südvorstadt",
+        "link": "https://www.facebook.com/Schnellbuffet/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Schnellbuffet Süd",
+        "description": "Bistro (Take Away)",
+        "location": {
+            "lat": 51.315872,
+            "lon": 12.373646,
+            "address": "Karl-Liebknecht-Straße 139, 04275 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffeebohne.svg",
         "title": "S1 Vinyl & Kaffee/ Zentrum-Süd",
         "link": "https://www.startnext.com/wirgemeinsam",
@@ -1611,6 +1716,16 @@
     },
     {
         "image": "mode.svg",
+        "title": "Beutelshop / Alt-West",
+        "link": "https://www.beutelshop-kreativ.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Beutelshop",
+        "description": "Schneiderei (Onlineshop)",
+        "location": null
+    },
+    {
+        "image": "mode.svg",
         "title": "buntimo / Pegau",
         "link": "https://buntimo.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -1712,25 +1827,6 @@
             "address": "Kurt-Eisner-Straße 11, 04275 Leipzig, Germany",
             "tags": [
                 "jewelry_store",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "schmuck.svg",
-        "title": "Flamingocat / Südvorstadt",
-        "link": "https://flamingocat.de/",
-        "sub-category": "Schmuck, Accessoires",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "Flamingocat",
-        "description": "Handmade Design (Onlineshop + Workshops)",
-        "location": {
-            "lat": 51.3299617,
-            "lon": 12.3738421,
-            "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
-            "tags": [
                 "point_of_interest",
                 "store",
                 "establishment"
@@ -2026,6 +2122,26 @@
     },
     {
         "image": "mode.svg",
+        "title": "Kleine Hummel / Südvorstadt",
+        "link": "http://www.kleine-hummel.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Kleine Hummel",
+        "description": "Kinderaccessoires (Onlineshop)",
+        "location": {
+            "lat": 51.3204303,
+            "lon": 12.373807,
+            "address": "Karl-Liebknecht-Straße 105, 04275 Leipzig, Germany",
+            "tags": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
         "title": "KlimBim / Schleußig",
         "link": "https://www.etsy.com/de/shop/derKazimir",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2058,6 +2174,26 @@
             "address": "Knöflerstraße 13, 04157 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "Kraks / Zentrum",
+        "link": "https://www.kraks.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Kraks",
+        "description": "Kinderschuhe (Bestellungen)",
+        "location": {
+            "lat": 51.340486,
+            "lon": 12.3861534,
+            "address": "Großer Brockhaus 1, 04103 Leipzig, Germany",
+            "tags": [
+                "shoe_store",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -2266,6 +2402,26 @@
         "cleanTitle": "Rothöll",
         "description": "Taschen & Accessoires (Onlineshop)",
         "location": null
+    },
+    {
+        "image": "mode.svg",
+        "title": "RotYve / Lindenau",
+        "link": "https://www.rotyve.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "RotYve",
+        "description": "Kleidung (Onlineshop)",
+        "location": {
+            "lat": 51.3358492,
+            "lon": 12.3340381,
+            "address": "Lützner Str. 29, 04177 Leipzig, Germany",
+            "tags": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
@@ -2676,6 +2832,25 @@
         }
     },
     {
+        "image": "prints.svg",
+        "title": "Ballbird-Grafiken / Schleußig",
+        "link": "https://ballbirds.de/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Ballbird-Grafiken",
+        "description": "Individuelle Geschenke (Anfertigung & Lieferung)",
+        "location": {
+            "lat": 51.3258276,
+            "lon": 12.3450481,
+            "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "blumenstrauss.svg",
         "title": "BLATTwerk / Lindenau",
         "link": "https://blattwerk-leipzig.de/",
@@ -2958,6 +3133,26 @@
         }
     },
     {
+        "image": "prints.svg",
+        "title": "flora metaphorica / Raschwitz",
+        "link": "https://www.flora-metaphorica.com/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "flora metaphorica",
+        "description": "Blütenkunst (Bestellungen & Onlineshop)",
+        "location": {
+            "lat": 51.2860029,
+            "lon": 12.3709077,
+            "address": "Friedrich-Ebert-Straße 17, 04416 Markkleeberg, Germany",
+            "tags": [
+                "florist",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "interior.svg",
         "title": "Franziska M. Köllner / Leutzsch",
         "link": "https://franziskamkoellner.wordpress.com/",
@@ -2989,6 +3184,26 @@
             "address": "Mierendorffstraße 40, 04318 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "blumenstrauss.svg",
+        "title": "Freischwung / Plagwitz",
+        "link": "http://freischwung.com/",
+        "sub-category": "Sonstiges",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Freischwung",
+        "description": "Blumenladen (Lieferservice & Abholung)",
+        "location": {
+            "lat": 51.32586,
+            "lon": 12.3431201,
+            "address": "Brockhausstraße 22, 04229 Leipzig, Germany",
+            "tags": [
+                "florist",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -3550,6 +3765,27 @@
         }
     },
     {
+        "image": "naehbedarf.svg",
+        "title": "Räuber & Rabauken / Südvorstadt",
+        "link": "https://www.stoffladen-leipzig.de/",
+        "sub-category": "Stoffe und Nähbedarf",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Räuber & Rabauken",
+        "description": "Stoffladen (Onlineshop)",
+        "location": {
+            "lat": 51.3232784,
+            "lon": 12.3788027,
+            "address": "Arthur-Hoffmann-Straße 69, 04275 Leipzig, Germany",
+            "tags": [
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "prints.svg",
         "title": "Rotberta / Leipzig",
         "link": "https://www.etsy.com/de/shop/Rotberta?ref=search_shop_redirect",
@@ -4079,6 +4315,25 @@
         }
     },
     {
+        "image": "yoga.svg",
+        "title": "Dalaja / Südvorstadt",
+        "link": "https://www.startnext.com/dalaja-mit-eurer-hilfe-durch-d",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Dalaja",
+        "description": "Entspannung & Eltern-Kind-Kurse (Crowdfunding)",
+        "location": {
+            "lat": 51.3229041,
+            "lon": 12.3799576,
+            "address": "Arndtstraße 68, 04275 Leipzig, Germany",
+            "tags": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "sport-1.svg",
         "title": "GESPRO / Miltitz",
         "link": "https://www.ges-pro.de/",
@@ -4436,6 +4691,26 @@
     },
     {
         "image": "buecher-magazine-1.svg",
+        "title": "Antiquariat  Thieme / Zentrum",
+        "link": "http://www.fachbuchantiquariat.de/",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Antiquariat  Thieme",
+        "description": "Buchhandlung (Onlineshop)",
+        "location": {
+            "lat": 51.3402547,
+            "lon": 12.3794084,
+            "address": "Ritterstraße 8-10, 04109 Leipzig, Germany",
+            "tags": [
+                "book_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "buecher-magazine-1.svg",
         "title": "Buchhandlung Grümmer / Plagwitz",
         "link": "https://www.buchhandlung-gruemmer.de/",
         "sub-category": "Bücher und Magazine",
@@ -4621,6 +4896,27 @@
         }
     },
     {
+        "image": "musik.svg",
+        "title": "Musikhaus Syhre / Gohlis",
+        "link": "https://www.musikhaus-syhre.de/",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Musikhaus Syhre",
+        "description": "Musikladen (Bestellungen & Lieferservice)",
+        "location": {
+            "lat": 51.365838,
+            "lon": 12.358763,
+            "address": "Wiederitzscher Str. 33, 04155 Leipzig, Germany",
+            "tags": [
+                "electronics_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "buecher-magazine-1.svg",
         "title": "MZIN / Zentrum",
         "link": "https://mzin.de/",
@@ -4659,16 +4955,6 @@
                 "establishment"
             ]
         }
-    },
-    {
-        "image": "musik.svg",
-        "title": "Ostblockschlampen / Leipzig",
-        "link": "http://www.ostblockschlampen.com/",
-        "sub-category": "Musik und Liveübertragungen",
-        "category": "Hören & Lesen",
-        "cleanTitle": "Ostblockschlampen",
-        "description": "Musik (Liveübertragungen)",
-        "location": null
     },
     {
         "image": "buecher-magazine-1.svg",
@@ -4728,6 +5014,27 @@
                 "book_store",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "musik.svg",
+        "title": "Schaubühne Lindenfels / Plagwitz",
+        "link": "http://www.schaubuehne.com/programm/reihen/so-koennen-sie-uns-unterstuetzen/",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Schaubühne Lindenfels",
+        "description": "Film, Kunst, Theater (Spenden, Aktien, Gutscheine)",
+        "location": {
+            "lat": 51.33183,
+            "lon": 12.3345699,
+            "address": "50, Karl-Heine-Straße, 04229 Leipzig, Germany",
+            "tags": [
+                "movie_theater",
+                "restaurant",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -4854,6 +5161,25 @@
                 "gym",
                 "health",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "handarbeit.svg",
+        "title": "Flamingocat / Südvorstadt",
+        "link": "https://flamingocat.de/",
+        "sub-category": "Handarbeiten",
+        "category": "Workshops",
+        "cleanTitle": "Flamingocat",
+        "description": "Handmade Design (Onlineshop + Workshops)",
+        "location": {
+            "lat": 51.3299617,
+            "lon": 12.3738421,
+            "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
