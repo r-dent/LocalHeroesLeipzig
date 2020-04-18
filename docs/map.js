@@ -117,6 +117,7 @@ class LocalHeroesMap {
             shadowAnchor: [25, 22]
         });
         return L.marker(coordinatate, {icon: icon})
+            .bindTooltip(geoJsonPoint.properties.name, {offset: [0, 16]})
     }
 
     addLayersToMap(layers, map) {
