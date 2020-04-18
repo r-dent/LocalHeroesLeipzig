@@ -1487,6 +1487,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "RöstGut / Schleußig",
+                "image": "kaffeebohne.svg",
+                "description": "Kaffeerösterei (Onlineshop & Take Away)<br><a href=\"https://roestgut.de/shop.html\" target=\"_blank\">https://roestgut.de/shop.html</a>",
+                "url": "https://roestgut.de/shop.html",
+                "address": "Holbeinstraße 29, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3411394,
+                    51.3252685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "roots Pflanzencafé / Schleußig",
                 "image": "kaffee.svg",
                 "description": "Café (Gutscheinverkauf)<br><a href=\"https://www.roots-pflanzencafe.de/gutscheine\" target=\"_blank\">https://www.roots-pflanzencafe.de/gutscheine</a>",
@@ -1583,7 +1606,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "S1 Vinyl & Kaffee/ Zentrum-Süd",
+                "name": "S1 Vinyl & Kaffee / Zentrum-Süd",
                 "image": "kaffeebohne.svg",
                 "description": "Café (Crowdfunding)<br><a href=\"https://www.startnext.com/wirgemeinsam\" target=\"_blank\">https://www.startnext.com/wirgemeinsam</a>",
                 "url": "https://www.startnext.com/wirgemeinsam",
@@ -2639,6 +2662,30 @@
                 "coordinates": [
                     12.3734023,
                     51.3264331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oneshirt 24 / Möckern",
+                "image": "mode.svg",
+                "description": "T-Shirt Druck (Onlineshop)<br><a href=\"https://oneshirt24.de/\" target=\"_blank\">https://oneshirt24.de/</a>",
+                "url": "https://oneshirt24.de/",
+                "address": "Georg-Schumann-Straße 191, 04159 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3492404,
+                    51.3660504
                 ]
             }
         },
@@ -5374,8 +5421,8 @@
             "properties": {
                 "name": "Buchkinder Leipzig e.V. / Lindenau",
                 "image": "buecher-magazine-1.svg",
-                "description": "Verein (Onlinelesungen)<br><a href=\"https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg\" target=\"_blank\">https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg</a>",
-                "url": "https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg",
+                "description": "Druck- & Schreibwerkstatt (Onlinelesungen & Spendenaktion)<br><a href=\"https://www.buchkinder.de/buchkindermaezenat/\" target=\"_blank\">https://www.buchkinder.de/buchkindermaezenat/</a>",
+                "url": "https://www.buchkinder.de/buchkindermaezenat/",
                 "address": "Endersstraße 3, 04177 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "tags": [

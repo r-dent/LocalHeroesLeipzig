@@ -985,6 +985,16 @@
         }
     },
     {
+        "image": "eis.svg",
+        "title": "Manusso / Plagwitz",
+        "link": "http://local-heroes-leipzig.de/manusso-eis-leipzig-plagwitz/",
+        "sub-category": "Eis",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Manusso",
+        "description": "Eis (Lieferservice & Take Away)",
+        "location": null
+    },
+    {
         "image": "pizza.svg",
         "title": "maza pita / Schleußig",
         "link": "https://mazapita.de/",
@@ -1273,6 +1283,25 @@
         }
     },
     {
+        "image": "kaffeebohne.svg",
+        "title": "RöstGut / Schleußig",
+        "link": "https://roestgut.de/shop.html",
+        "sub-category": "Kaffeebohne und Rösterei",
+        "category": "Essen & Trinken",
+        "cleanTitle": "RöstGut",
+        "description": "Kaffeerösterei (Onlineshop & Take Away)",
+        "location": {
+            "lat": 51.3252685,
+            "lon": 12.3411394,
+            "address": "Holbeinstraße 29, 04229 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
         "title": "roots Pflanzencafé / Schleußig",
         "link": "https://www.roots-pflanzencafe.de/gutscheine",
@@ -1354,7 +1383,7 @@
     },
     {
         "image": "kaffeebohne.svg",
-        "title": "S1 Vinyl & Kaffee/ Zentrum-Süd",
+        "title": "S1 Vinyl & Kaffee / Zentrum-Süd",
         "link": "https://www.startnext.com/wirgemeinsam",
         "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
@@ -2293,6 +2322,26 @@
             "tags": [
                 "clothing_store",
                 "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "oneshirt 24 / Möckern",
+        "link": "https://oneshirt24.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "oneshirt 24",
+        "description": "T-Shirt Druck (Onlineshop)",
+        "location": {
+            "lat": 51.3660504,
+            "lon": 12.3492404,
+            "address": "Georg-Schumann-Straße 191, 04159 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
                 "store",
                 "establishment"
             ]
@@ -3664,6 +3713,16 @@
         "location": null
     },
     {
+        "image": "naehbedarf.svg",
+        "title": "Nadelliebe / Dölitz",
+        "link": "https://www.etsy.com/de/shop/NadeLiebe",
+        "sub-category": "Stoffe und Nähbedarf",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Nadelliebe",
+        "description": "Kleidung & Accessoires (Etsy Shop)",
+        "location": null
+    },
+    {
         "image": "moebel.svg",
         "title": "Naturnah Möbel / Volkmarsdorf",
         "link": "https://www.naturnah-moebel.de/",
@@ -4752,11 +4811,11 @@
     {
         "image": "buecher-magazine-1.svg",
         "title": "Buchkinder Leipzig e.V. / Lindenau",
-        "link": "https://www.youtube.com/channel/UCWlgVS5MqpcSWVSZjX9kocg",
+        "link": "https://www.buchkinder.de/buchkindermaezenat/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Buchkinder Leipzig e.V.",
-        "description": "Verein (Onlinelesungen)",
+        "description": "Druck- & Schreibwerkstatt (Onlinelesungen & Spendenaktion)",
         "location": {
             "lat": 51.3355507,
             "lon": 12.3318747,
