@@ -1192,6 +1192,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Naturparadies Leipzig / Zentrum",
+                "image": "einkaufen-1.svg",
+                "description": "Bioladen (Onlineshop)<br><a href=\"http://naturparadies-leipzig.de/\" target=\"_blank\">http://naturparadies-leipzig.de/</a>",
+                "url": "http://naturparadies-leipzig.de/",
+                "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37927,
+                    51.3409276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nepomuk / Plagwitz",
                 "image": "cocktail-1.svg",
                 "description": "Bar (Spendenaktion)<br><a href=\"https://www.paypal.com/pools/c/8ntbE0LPNc\" target=\"_blank\">https://www.paypal.com/pools/c/8ntbE0LPNc</a>",
@@ -2733,6 +2758,30 @@
                 "coordinates": [
                     12.336589,
                     51.32851700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Print 4 Kids / Thonberg",
+                "image": "mode.svg",
+                "description": "Kindermode (Onlineshop)<br><a href=\"https://print4kids.info/shop/\" target=\"_blank\">https://print4kids.info/shop/</a>",
+                "url": "https://print4kids.info/shop/",
+                "address": "Kregelstraße 6, 04317 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "tags": [
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4056233,
+                    51.3215663
                 ]
             }
         },
@@ -4844,6 +4893,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Budowelt Härtel / Plagwitz",
+                "image": "sport-1.svg",
+                "description": "Kampfsportshop (Onlineshop & Gutscheinverkauf)<br><a href=\"https://www.budowelt.com/\" target=\"_blank\">https://www.budowelt.com/</a>",
+                "url": "https://www.budowelt.com/",
+                "address": "Dieskaustraße 21, 04229 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3284646,
+                    51.3187621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Chamundi Yoga / Südvorstadt",
                 "image": "yoga.svg",
                 "description": "Yoga (Onlinekurse)<br><a href=\"https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/\" target=\"_blank\">https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/</a>",
@@ -5134,6 +5207,28 @@
                 "coordinates": [
                     12.3838595,
                     51.3427075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scheibenholz / Zentrum-West",
+                "image": "familie.svg",
+                "description": "Galopprennbahn (Spendenaktion)<br><a href=\"https://www.scheibenholz.com/aufgalopp-der-herzen.html\" target=\"_blank\">https://www.scheibenholz.com/aufgalopp-der-herzen.html</a>",
+                "url": "https://www.scheibenholz.com/aufgalopp-der-herzen.html",
+                "address": "Rennbahnweg 2 A, 04107 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3577054,
+                    51.3260544
                 ]
             }
         },
@@ -5530,6 +5625,28 @@
                 "coordinates": [
                     12.3748111,
                     51.3095833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Engelsdorfer Verlag / Engelsdorf",
+                "image": "buecher-magazine-1.svg",
+                "description": "Buchhandlung (Onlineshop)<br><a href=\"https://www.engelsdorfer-verlag.de/\" target=\"_blank\">https://www.engelsdorfer-verlag.de/</a>",
+                "url": "https://www.engelsdorfer-verlag.de/",
+                "address": "Schongauerstraße 25, 04329 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4712742,
+                    51.3483354
                 ]
             }
         },
@@ -5957,28 +6074,6 @@
                 "coordinates": [
                     12.3222508,
                     51.3275929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "OUIIUO Studio / Reudnitz",
-                "image": "coaching.svg",
-                "description": "Ladenstudio (Online-Workshops)<br><a href=\"https://ouiiuo.de/portfolio\" target=\"_blank\">https://ouiiuo.de/portfolio</a>",
-                "url": "https://ouiiuo.de/portfolio",
-                "address": "Volckmarstraße 6B, 04317 Leipzig, Germany",
-                "category": "Workshops",
-                "tags": [
-                    "point_of_interest",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3974289,
-                    51.3320695
                 ]
             }
         },

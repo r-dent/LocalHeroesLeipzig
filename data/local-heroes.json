@@ -1036,6 +1036,27 @@
         }
     },
     {
+        "image": "einkaufen-1.svg",
+        "title": "Naturparadies Leipzig / Zentrum",
+        "link": "http://naturparadies-leipzig.de/",
+        "sub-category": "Einkaufen",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Naturparadies Leipzig",
+        "description": "Bioladen (Onlineshop)",
+        "location": {
+            "lat": 51.3409276,
+            "lon": 12.37927,
+            "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
+            "tags": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "cocktail-1.svg",
         "title": "Nepomuk / Plagwitz",
         "link": "https://www.paypal.com/pools/c/8ntbE0LPNc",
@@ -2388,6 +2409,26 @@
     },
     {
         "image": "mode.svg",
+        "title": "Print 4 Kids / Thonberg",
+        "link": "https://print4kids.info/shop/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Print 4 Kids",
+        "description": "Kindermode (Onlineshop)",
+        "location": {
+            "lat": 51.3215663,
+            "lon": 12.4056233,
+            "address": "Kregelstraße 6, 04317 Leipzig, Germany",
+            "tags": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
         "title": "pussy GALORE / Südvorstadt",
         "link": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -3714,11 +3755,11 @@
     },
     {
         "image": "naehbedarf.svg",
-        "title": "Nadelliebe / Dölitz",
+        "title": "NadeLiebe / Dölitz",
         "link": "https://www.etsy.com/de/shop/NadeLiebe",
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Nadelliebe",
+        "cleanTitle": "NadeLiebe",
         "description": "Kleidung & Accessoires (Etsy Shop)",
         "location": null
     },
@@ -4334,6 +4375,26 @@
         }
     },
     {
+        "image": "sport-1.svg",
+        "title": "Budowelt Härtel / Plagwitz",
+        "link": "https://www.budowelt.com/",
+        "sub-category": "Sport",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Budowelt Härtel",
+        "description": "Kampfsportshop (Onlineshop & Gutscheinverkauf)",
+        "location": {
+            "lat": 51.3187621,
+            "lon": 12.3284646,
+            "address": "Dieskaustraße 21, 04229 Leipzig, Germany",
+            "tags": [
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "yoga.svg",
         "title": "Chamundi Yoga / Südvorstadt",
         "link": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
@@ -4571,6 +4632,24 @@
             "lat": 51.3427075,
             "lon": 12.3838595,
             "address": "Wintergartenstraße 2, 04103 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "familie.svg",
+        "title": "Scheibenholz / Zentrum-West",
+        "link": "https://www.scheibenholz.com/aufgalopp-der-herzen.html",
+        "sub-category": "Freizeit und Familie",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Scheibenholz",
+        "description": "Galopprennbahn (Spendenaktion)",
+        "location": {
+            "lat": 51.3260544,
+            "lon": 12.3577054,
+            "address": "Rennbahnweg 2 A, 04107 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -4847,6 +4926,16 @@
         }
     },
     {
+        "image": "buecher-magazine-1.svg",
+        "title": "dienacht Magazine / Lindenau",
+        "link": "http://dienacht-magazine.com/shop",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "dienacht Magazine",
+        "description": "Mentoring & Buchhandlung (Onlineshop)",
+        "location": null
+    },
+    {
         "image": "musik.svg",
         "title": "Distillery / Südvorstadt",
         "link": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster",
@@ -4901,6 +4990,24 @@
                 "book_store",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "buecher-magazine-1.svg",
+        "title": "Engelsdorfer Verlag / Engelsdorf",
+        "link": "https://www.engelsdorfer-verlag.de/",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Engelsdorfer Verlag",
+        "description": "Buchhandlung (Onlineshop)",
+        "location": {
+            "lat": 51.3483354,
+            "lon": 12.4712742,
+            "address": "Schongauerstraße 25, 04329 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -5284,24 +5391,6 @@
             "lat": 51.3275929,
             "lon": 12.3222508,
             "address": "Engertstraße 38, 04229 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "coaching.svg",
-        "title": "OUIIUO Studio / Reudnitz",
-        "link": "https://ouiiuo.de/portfolio",
-        "sub-category": "Coaching und Online-Workshops",
-        "category": "Workshops",
-        "cleanTitle": "OUIIUO Studio",
-        "description": "Ladenstudio (Online-Workshops)",
-        "location": {
-            "lat": 51.3320695,
-            "lon": 12.3974289,
-            "address": "Volckmarstraße 6B, 04317 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
