@@ -168,7 +168,7 @@
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Bazar Manufaktur",
-        "description": "Feinkost (Lieferservice)",
+        "description": "Feinkost (Lieferservice & Onlineshop)",
         "location": {
             "lat": 51.3431619,
             "lon": 12.3641471,
@@ -499,6 +499,25 @@
                 "food",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Catering mit Leidenschaft / Gohlis",
+        "link": "http://www.eddaschmidt.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Catering mit Leidenschaft",
+        "description": "Mittagessen & Buffet (Abholung & Lieferdienst)",
+        "location": {
+            "lat": 51.3685549,
+            "lon": 12.3788954,
+            "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -980,6 +999,26 @@
                 "food",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Localino / Zentrum-Süd",
+        "link": "https://restaurant-localino-leipzig.eatbu.com/?lang=de#foodOrdering",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Localino",
+        "description": "italienisches Restaurant (Lieferservice & Selbstabholung)",
+        "location": {
+            "lat": 51.3354114,
+            "lon": 12.3576828,
+            "address": "Marschnerstraße 11, 04109 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -3223,6 +3262,24 @@
         }
     },
     {
+        "image": "moebel.svg",
+        "title": "findelkind / Lindenau",
+        "link": "http://findelkind.biz/home.html",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "findelkind",
+        "description": "Möbel & Leuchten (Bestellungen)",
+        "location": {
+            "lat": 51.3398534,
+            "lon": 12.3259008,
+            "address": "Georg-Schwarz-Straße 27, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "prints.svg",
         "title": "flora metaphorica / Raschwitz",
         "link": "https://www.flora-metaphorica.com/",
@@ -3341,6 +3398,26 @@
             "address": "Könneritzstraße 18, 04229 Leipzig, Germany",
             "tags": [
                 "book_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "interior.svg",
+        "title": "HinrichSINNdreißig / Zentrum",
+        "link": "http://www.sinn-30.de/laden/",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "HinrichSINNdreißig",
+        "description": "Antikladen (Bestellungen & Verkauf)",
+        "location": {
+            "lat": 51.34196499999999,
+            "lon": 12.3745112,
+            "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
+            "tags": [
                 "home_goods_store",
                 "point_of_interest",
                 "store",
@@ -4134,6 +4211,25 @@
         }
     },
     {
+        "image": "geschenk.svg",
+        "title": "Thomasshop / Zentrum",
+        "link": "http://www.thomasshop-leipzig.de/",
+        "sub-category": "Geschenke und Geschenkartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Thomasshop",
+        "description": "Souvenirs (Onlineshop)",
+        "location": {
+            "lat": 51.3393392,
+            "lon": 12.3726667,
+            "address": "Thomaskirchhof 18, 04109 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "spiel.svg",
         "title": "TicToys / Plagwitz",
         "link": "https://www.tictoys.de/",
@@ -4454,6 +4550,26 @@
         }
     },
     {
+        "image": "yoga.svg",
+        "title": "ELEMENT OST / Neustadt",
+        "link": "https://www.element-ost.yoga/",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "ELEMENT OST",
+        "description": "Yoga (Onlinekurse)",
+        "location": {
+            "lat": 51.3484594,
+            "lon": 12.4025764,
+            "address": "Schulze-Delitzsch-Straße 19, 04315 Leipzig, Germany",
+            "tags": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "sport-1.svg",
         "title": "GESPRO / Miltitz",
         "link": "https://www.ges-pro.de/",
@@ -4510,6 +4626,16 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "auto-kfz.svg",
+        "title": "Hochzeitsbenz / Leipzig",
+        "link": "http://www.der-hochzeitsbenz.de/",
+        "sub-category": "Auto und Reparatur Werkstatt",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Hochzeitsbenz",
+        "description": "Oldtimer Vermietung (Buchungen)",
+        "location": null
     },
     {
         "image": "sport-1.svg",
@@ -4766,6 +4892,25 @@
             "lon": 12.3936111,
             "address": "Zschortauer Str. 60, 04129 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "auto-kfz.svg",
+        "title": "TRABI erleben / Leutzsch",
+        "link": "https://www.trabi-erleben.de/gutscheine/",
+        "sub-category": "Auto und Reparatur Werkstatt",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "TRABI erleben",
+        "description": "Trabifahrten (Gutscheinverkauf)",
+        "location": {
+            "lat": 51.3532453,
+            "lon": 12.3170832,
+            "address": "Kietzstraße 19 Besuche vor Ort bitte nur nach Vereinbarung | den Übergabeort für Ihren Trabi erhalten Sie in unserer Reservierungsbestätigung, 04179 Leipzig, Germany",
+            "tags": [
+                "travel_agency",
                 "point_of_interest",
                 "establishment"
             ]

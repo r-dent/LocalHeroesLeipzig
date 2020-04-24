@@ -200,7 +200,7 @@
             "properties": {
                 "name": "Bazar Manufaktur / Zentrum",
                 "image": "feinkost.svg",
-                "description": "Feinkost (Lieferservice)<br><a href=\"http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/\" target=\"_blank\">http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/</a>",
+                "description": "Feinkost (Lieferservice & Onlineshop)<br><a href=\"http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/\" target=\"_blank\">http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/</a>",
                 "url": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/",
                 "address": "Jahnallee 4, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
@@ -588,6 +588,29 @@
                 "coordinates": [
                     12.3738535,
                     51.3227392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Catering mit Leidenschaft / Gohlis",
+                "image": "pizza.svg",
+                "description": "Mittagessen & Buffet (Abholung & Lieferdienst)<br><a href=\"http://www.eddaschmidt.de/\" target=\"_blank\">http://www.eddaschmidt.de/</a>",
+                "url": "http://www.eddaschmidt.de/",
+                "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3788954,
+                    51.3685549
                 ]
             }
         },
@@ -1137,6 +1160,30 @@
                 "coordinates": [
                     12.3382197,
                     51.33119139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Localino / Zentrum-Süd",
+                "image": "pizza.svg",
+                "description": "italienisches Restaurant (Lieferservice & Selbstabholung)<br><a href=\"https://restaurant-localino-leipzig.eatbu.com/?lang=de#foodOrdering\" target=\"_blank\">https://restaurant-localino-leipzig.eatbu.com/?lang=de#foodOrdering</a>",
+                "url": "https://restaurant-localino-leipzig.eatbu.com/?lang=de#foodOrdering",
+                "address": "Marschnerstraße 11, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3576828,
+                    51.3354114
                 ]
             }
         },
@@ -3639,6 +3686,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "findelkind / Lindenau",
+                "image": "moebel.svg",
+                "description": "Möbel & Leuchten (Bestellungen)<br><a href=\"http://findelkind.biz/home.html\" target=\"_blank\">http://findelkind.biz/home.html</a>",
+                "url": "http://findelkind.biz/home.html",
+                "address": "Georg-Schwarz-Straße 27, 04177 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3259008,
+                    51.3398534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "flora metaphorica / Raschwitz",
                 "image": "prints.svg",
                 "description": "Blütenkunst (Bestellungen & Onlineshop)<br><a href=\"https://www.flora-metaphorica.com/\" target=\"_blank\">https://www.flora-metaphorica.com/</a>",
@@ -3773,6 +3842,30 @@
                 "coordinates": [
                     12.3458503,
                     51.32821879999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HinrichSINNdreißig / Zentrum",
+                "image": "interior.svg",
+                "description": "Antikladen (Bestellungen & Verkauf)<br><a href=\"http://www.sinn-30.de/laden/\" target=\"_blank\">http://www.sinn-30.de/laden/</a>",
+                "url": "http://www.sinn-30.de/laden/",
+                "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3745112,
+                    51.34196499999999
                 ]
             }
         },
@@ -4614,6 +4707,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Thomasshop / Zentrum",
+                "image": "geschenk.svg",
+                "description": "Souvenirs (Onlineshop)<br><a href=\"http://www.thomasshop-leipzig.de/\" target=\"_blank\">http://www.thomasshop-leipzig.de/</a>",
+                "url": "http://www.thomasshop-leipzig.de/",
+                "address": "Thomaskirchhof 18, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3726667,
+                    51.3393392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "TicToys / Plagwitz",
                 "image": "spiel.svg",
                 "description": "Spielzeug (Onlineshop)<br><a href=\"https://www.tictoys.de/\" target=\"_blank\">https://www.tictoys.de/</a>",
@@ -4982,6 +5098,30 @@
                 "coordinates": [
                     12.3799576,
                     51.3229041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ELEMENT OST / Neustadt",
+                "image": "yoga.svg",
+                "description": "Yoga (Onlinekurse)<br><a href=\"https://www.element-ost.yoga/\" target=\"_blank\">https://www.element-ost.yoga/</a>",
+                "url": "https://www.element-ost.yoga/",
+                "address": "Schulze-Delitzsch-Straße 19, 04315 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4025764,
+                    51.3484594
                 ]
             }
         },
@@ -5368,6 +5508,29 @@
                 "coordinates": [
                     12.3936111,
                     51.3797222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRABI erleben / Leutzsch",
+                "image": "auto-kfz.svg",
+                "description": "Trabifahrten (Gutscheinverkauf)<br><a href=\"https://www.trabi-erleben.de/gutscheine/\" target=\"_blank\">https://www.trabi-erleben.de/gutscheine/</a>",
+                "url": "https://www.trabi-erleben.de/gutscheine/",
+                "address": "Kietzstraße 19 Besuche vor Ort bitte nur nach Vereinbarung | den Übergabeort für Ihren Trabi erhalten Sie in unserer Reservierungsbestätigung, 04179 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "travel_agency",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3170832,
+                    51.3532453
                 ]
             }
         },
