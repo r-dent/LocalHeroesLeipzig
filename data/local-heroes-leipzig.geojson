@@ -198,6 +198,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Bauhütte / Schleußig",
+                "image": "pizza.svg",
+                "description": "Restaurant (Take Away)<br><a href=\"http://www.bauhuette-gastwirtschaft.de/\" target=\"_blank\">http://www.bauhuette-gastwirtschaft.de/</a>",
+                "url": "http://www.bauhuette-gastwirtschaft.de/",
+                "address": "Könneritzstraße 42, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3440919,
+                    51.32483509999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bazar Manufaktur / Zentrum",
                 "image": "feinkost.svg",
                 "description": "Feinkost (Lieferservice & Onlineshop)<br><a href=\"http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/\" target=\"_blank\">http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/</a>",
@@ -611,6 +636,30 @@
                 "coordinates": [
                     12.3788954,
                     51.3685549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chulo / Schleußig",
+                "image": "pizza.svg",
+                "description": "Nepalesisches Restaurant (Lieferservice & Take Away)<br><a href=\"http://www.chulo-leipzig.de/restaurant.html\" target=\"_blank\">http://www.chulo-leipzig.de/restaurant.html</a>",
+                "url": "http://www.chulo-leipzig.de/restaurant.html",
+                "address": "Oeserstraße 33, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3398111,
+                    51.3196083
                 ]
             }
         },
@@ -1855,6 +1904,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Thiseas / Schleußig",
+                "image": "pizza.svg",
+                "description": "Griechisches Restaurant (Take Away)<br><a href=\"https://www.thiseas.de/info/index.html\" target=\"_blank\">https://www.thiseas.de/info/index.html</a>",
+                "url": "https://www.thiseas.de/info/index.html",
+                "address": "Holbeinstraße 28A, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3397969,
+                    51.3252377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Thommys Eismanufaktur / Möckern",
                 "image": "eis.svg",
                 "description": "Eis (Take Away)<br><a href=\"http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/\" target=\"_blank\">http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/</a>",
@@ -1971,6 +2044,30 @@
                 "coordinates": [
                     12.3834425,
                     51.30254559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vergissmeinnicht / Großzschocher",
+                "image": "pizza.svg",
+                "description": "Restaurant (Bestellung & Take Away)<br><a href=\"https://www.xn--gaststtte-vergissmeinnicht-lhc.de/\" target=\"_blank\">https://www.xn--gaststtte-vergissmeinnicht-lhc.de/</a>",
+                "url": "https://www.xn--gaststtte-vergissmeinnicht-lhc.de/",
+                "address": "Dieskaustraße 122, 04249 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3242395,
+                    51.3087521
                 ]
             }
         },
@@ -2782,6 +2879,32 @@
                 "coordinates": [
                     12.373083,
                     51.315653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSZL/ Zentrum-Ost",
+                "image": "mode.svg",
+                "description": "Der Fuß- & Schuhspezialist (Sonderöffnungszeiten)<br><a href=\"https://www.oszl.de/\" target=\"_blank\">https://www.oszl.de/</a>",
+                "url": "https://www.oszl.de/",
+                "address": "Eisenbahnstraße 9, 04315 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "tags": [
+                    "shoe_store",
+                    "doctor",
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.396101,
+                    51.346194
                 ]
             }
         },
@@ -3732,6 +3855,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Fotostudio80 / Plagwitz",
+                "image": "prints.svg",
+                "description": "Fotolabor & Fotostudio (Onlineaufträge)<br><a href=\"http://www.fotostudio80.de/\" target=\"_blank\">http://www.fotostudio80.de/</a>",
+                "url": "http://www.fotostudio80.de/",
+                "address": "Walter-Heinze-Straße 2, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3362941,
+                    51.331647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Franziska M. Köllner / Leutzsch",
                 "image": "interior.svg",
                 "description": "Keramik & Workshops (Website)<br><a href=\"https://franziskamkoellner.wordpress.com/\" target=\"_blank\">https://franziskamkoellner.wordpress.com/</a>",
@@ -4172,6 +4317,30 @@
                 "coordinates": [
                     12.32341,
                     51.32956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kunst & Katze / Plagwitz",
+                "image": "interior.svg",
+                "description": "Kunsthandwerk & Bekleidung (Lieferservice)<br><a href=\"http://kunstundkatze.de/\" target=\"_blank\">http://kunstundkatze.de/</a>",
+                "url": "http://kunstundkatze.de/",
+                "address": "Merseburger Str. 7, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3343287,
+                    51.3294514
                 ]
             }
         },
@@ -5151,6 +5320,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Gesundheitssportverein Leipzig e.V. / Leipzig",
+                "image": "sport-1.svg",
+                "description": "Sportverein (Gutscheinverkauf & Spendenaktion)<br><a href=\"https://www.gesundheitssportverein.de/243\" target=\"_blank\">https://www.gesundheitssportverein.de/243</a>",
+                "url": "https://www.gesundheitssportverein.de/243",
+                "address": "Lessingstraße 1, 04109 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3678392,
+                    51.3421509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Glückskind Yoga / Zentrum",
                 "image": "yoga.svg",
                 "description": "Yoga (Onlinekurse)<br><a href=\"https://glueckskind-yoga-leipzig.de/\" target=\"_blank\">https://glueckskind-yoga-leipzig.de/</a>",
@@ -5236,6 +5429,29 @@
                 "coordinates": [
                     12.3259064,
                     51.32728729999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LebendigMACHER / Stötteritz",
+                "image": "yoga.svg",
+                "description": "Praxis für mehr Lebendigkeit (Onlinekurse)<br><a href=\"https://www.lebendigmacher.de/\" target=\"_blank\">https://www.lebendigmacher.de/</a>",
+                "url": "https://www.lebendigmacher.de/",
+                "address": "Holzhäuser Str. 74, 04299 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4193101,
+                    51.3191338
                 ]
             }
         },

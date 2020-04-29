@@ -162,6 +162,27 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Bauhütte / Schleußig",
+        "link": "http://www.bauhuette-gastwirtschaft.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Bauhütte",
+        "description": "Restaurant (Take Away)",
+        "location": {
+            "lat": 51.32483509999999,
+            "lon": 12.3440919,
+            "address": "Könneritzstraße 42, 04229 Leipzig, Germany",
+            "tags": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "feinkost.svg",
         "title": "Bazar Manufaktur / Zentrum",
         "link": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/",
@@ -516,6 +537,26 @@
             "lon": 12.3788954,
             "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
             "tags": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Chulo / Schleußig",
+        "link": "http://www.chulo-leipzig.de/restaurant.html",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Chulo",
+        "description": "Nepalesisches Restaurant (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.3196083,
+            "lon": 12.3398111,
+            "address": "Oeserstraße 33, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
                 "food",
                 "point_of_interest",
                 "establishment"
@@ -1591,6 +1632,26 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Thiseas / Schleußig",
+        "link": "https://www.thiseas.de/info/index.html",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Thiseas",
+        "description": "Griechisches Restaurant (Take Away)",
+        "location": {
+            "lat": 51.3252377,
+            "lon": 12.3397969,
+            "address": "Holbeinstraße 28A, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "eis.svg",
         "title": "Thommys Eismanufaktur / Möckern",
         "link": "http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/",
@@ -1688,6 +1749,26 @@
                 "food",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Vergissmeinnicht / Großzschocher",
+        "link": "https://www.xn--gaststtte-vergissmeinnicht-lhc.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Vergissmeinnicht",
+        "description": "Restaurant (Bestellung & Take Away)",
+        "location": {
+            "lat": 51.3087521,
+            "lon": 12.3242395,
+            "address": "Dieskaustraße 122, 04249 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -2420,6 +2501,28 @@
             "lon": 12.373083,
             "address": "Karl-Liebknecht-Straße 122, 04275 Leipzig, Germany",
             "tags": [
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "OSZL/ Zentrum-Ost",
+        "link": "https://www.oszl.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "OSZL",
+        "description": "Der Fuß- & Schuhspezialist (Sonderöffnungszeiten)",
+        "location": {
+            "lat": 51.346194,
+            "lon": 12.396101,
+            "address": "Eisenbahnstraße 9, 04315 Leipzig, Germany",
+            "tags": [
+                "shoe_store",
+                "doctor",
                 "health",
                 "point_of_interest",
                 "store",
@@ -3300,6 +3403,24 @@
         }
     },
     {
+        "image": "prints.svg",
+        "title": "Fotostudio80 / Plagwitz",
+        "link": "http://www.fotostudio80.de/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Fotostudio80",
+        "description": "Fotolabor & Fotostudio (Onlineaufträge)",
+        "location": {
+            "lat": 51.331647,
+            "lon": 12.3362941,
+            "address": "Walter-Heinze-Straße 2, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "interior.svg",
         "title": "Franziska M. Köllner / Leutzsch",
         "link": "https://franziskamkoellner.wordpress.com/",
@@ -3685,6 +3806,26 @@
             "address": "Engertstraße 12, 04177 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "interior.svg",
+        "title": "Kunst & Katze / Plagwitz",
+        "link": "http://kunstundkatze.de/",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Kunst & Katze",
+        "description": "Kunsthandwerk & Bekleidung (Lieferservice)",
+        "location": {
+            "lat": 51.3294514,
+            "lon": 12.3343287,
+            "address": "Merseburger Str. 7, 04229 Leipzig, Germany",
+            "tags": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -4589,6 +4730,26 @@
         }
     },
     {
+        "image": "sport-1.svg",
+        "title": "Gesundheitssportverein Leipzig e.V. / Leipzig",
+        "link": "https://www.gesundheitssportverein.de/243",
+        "sub-category": "Sport",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Gesundheitssportverein Leipzig e.V.",
+        "description": "Sportverein (Gutscheinverkauf & Spendenaktion)",
+        "location": {
+            "lat": 51.3421509,
+            "lon": 12.3678392,
+            "address": "Lessingstraße 1, 04109 Leipzig, Germany",
+            "tags": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "yoga.svg",
         "title": "Glückskind Yoga / Zentrum",
         "link": "https://glueckskind-yoga-leipzig.de/",
@@ -4668,6 +4829,25 @@
             "lon": 12.3259064,
             "address": "Naumburger Str. 44, 04229 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "LebendigMACHER / Stötteritz",
+        "link": "https://www.lebendigmacher.de/",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "LebendigMACHER",
+        "description": "Praxis für mehr Lebendigkeit (Onlinekurse)",
+        "location": {
+            "lat": 51.3191338,
+            "lon": 12.4193101,
+            "address": "Holzhäuser Str. 74, 04299 Leipzig, Germany",
+            "tags": [
+                "health",
                 "point_of_interest",
                 "establishment"
             ]
