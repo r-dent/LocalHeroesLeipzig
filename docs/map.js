@@ -40,7 +40,7 @@ class LocalHeroesMap {
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
         
-        const resourceVersionTag = '20200410'
+        const resourceVersionTag = '20200506'
         const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson?v='+ resourceVersionTag
         const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css?v='+ resourceVersionTag
 
@@ -111,10 +111,13 @@ class LocalHeroesMap {
     }
 
     onEachMapFeature(feature, layer) {
+        const coord = feature.geometry.coordinates
+        const address = '<a onclick="LocalHeroesHelper.navigate('+ coord[1] +','+ coord[0] +',\''+ feature.properties.address +'\')" class="directions-link"><i class="fa fa-directions"></i></a>'+ 
+            feature.properties.address.split(', ').join('<br>')
         // does this feature have a property named popupContent?
         if (feature.properties && feature.properties.name && feature.properties.description) {
             layer.bindPopup(
-                '<h3>'+ feature.properties.name +'</h3><p>'+ feature.properties.description +'</p>');
+                '<h3>'+ feature.properties.name +'</h3><p>'+ feature.properties.description +'</p><p>'+ address +'</p>');
         } 
     }
 
@@ -284,5 +287,15 @@ class LocalHeroesHelper {
                 handler(request.responseText)
             }
         }        
+    }
+
+    static navigate(lat, lon, address) {
+        // If it's an iPhone..
+        if( (navigator.platform.indexOf("iPhone") != -1) 
+            || (navigator.platform.indexOf("iPod") != -1)
+            || (navigator.platform.indexOf("iPad") != -1))
+             window.open('https://maps.apple.com/?daddr='+ address);
+        else
+             window.open('https://www.google.com/maps/dir/?api=1&destination='+ lat +','+ lon);
     }
 }

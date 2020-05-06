@@ -1,3 +1,11 @@
+/* Popup */
+
+.lh-mp-ctnr .directions-link {
+    float: right;
+    cursor: pointer;
+    font-size: large;
+}
+
 /* Select */
 
 .lh-mp-ctnr form {
