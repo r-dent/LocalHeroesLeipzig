@@ -961,6 +961,27 @@
     },
     {
         "image": "pizza.svg",
+        "title": "Kartoffelfräulein / Plagwitz",
+        "link": "http://www.kartoffelfraeulein.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Kartoffelfräulein",
+        "description": "Bistro (Lieferservice & Take Away)",
+        "location": {
+            "lat": 51.3309986,
+            "lon": 12.3316846,
+            "address": "Karl-Heine-Straße 68, 04229 Leipzig, Germany",
+            "tags": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
         "title": "Kleine Leckerei / Schleußig",
         "link": "https://www.kleineleckerei.de/lieferservice/",
         "sub-category": "Essen & Trinken",
@@ -3851,6 +3872,25 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "LIEBLINGSWERK / Zentrum",
+        "link": "https://www.lieblingswerk.de/infos",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "LIEBLINGSWERK",
+        "description": "Keramikmalstudio (Gutscheinverkauf)",
+        "location": {
+            "lat": 51.3429996,
+            "lon": 12.3661403,
+            "address": "Naundörfchen 2, 04109 Leipzig, Germany",
+            "tags": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "blumenstrauss.svg",
         "title": "Lust auf Blumen / Connewitz",
         "link": "https://www.lust-auf-blumen.de/",
@@ -4163,6 +4203,25 @@
             "lat": 51.3352704,
             "lon": 12.3697701,
             "address": "Karl-Tauchnitz-Straße 6, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "schreibwaren.svg",
+        "title": "Schreib‘ und Stil / Zentrum",
+        "link": "https://schreibundstil.de/",
+        "sub-category": "Schreibwaren, Stifte und Blöcke",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Schreib‘ und Stil",
+        "description": "Schreibwaren (Onlineshop)",
+        "location": {
+            "lat": 51.339784,
+            "lon": 12.3754794,
+            "address": "Grimmaische Str. 2-4, 04109 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "store",
@@ -4692,6 +4751,26 @@
     },
     {
         "image": "yoga.svg",
+        "title": "Die Pilatisten / Zentrum",
+        "link": "https://pilatisten.de/",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Die Pilatisten",
+        "description": "Pilates (Onlinekurse)",
+        "location": {
+            "lat": 51.3355133,
+            "lon": 12.3793818,
+            "address": "Roßpl. 12, 04103 Leipzig, Germany",
+            "tags": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
         "title": "ELEMENT OST / Neustadt",
         "link": "https://www.element-ost.yoga/",
         "sub-category": "Yoga und Bewegung",
@@ -4704,6 +4783,26 @@
             "address": "Schulze-Delitzsch-Straße 19, 04315 Leipzig, Germany",
             "tags": [
                 "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "EnergyTwister / Zentrum-West",
+        "link": "http://energytwister.de/",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "EnergyTwister",
+        "description": "Coaching, Kurse, Inspiration (Onlinekurse)",
+        "location": {
+            "lat": 51.3318237,
+            "lon": 12.3668714,
+            "address": "Beethovenstraße 19/5. OG, 04107 Leipzig, Germany",
+            "tags": [
+                "spa",
                 "health",
                 "point_of_interest",
                 "establishment"

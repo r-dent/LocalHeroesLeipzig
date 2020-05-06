@@ -1114,6 +1114,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kartoffelfräulein / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Bistro (Lieferservice & Take Away)<br><a href=\"http://www.kartoffelfraeulein.de/\" target=\"_blank\">http://www.kartoffelfraeulein.de/</a>",
+                "url": "http://www.kartoffelfraeulein.de/",
+                "address": "Karl-Heine-Straße 68, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3316846,
+                    51.3309986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kleine Leckerei / Schleußig",
                 "image": "pizza.svg",
                 "description": "Café & Bistro (Lieferservice & Take Away)<br><a href=\"https://www.kleineleckerei.de/lieferservice/\" target=\"_blank\">https://www.kleineleckerei.de/lieferservice/</a>",
@@ -4371,6 +4396,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "LIEBLINGSWERK / Zentrum",
+                "image": "interior.svg",
+                "description": "Keramikmalstudio (Gutscheinverkauf)<br><a href=\"https://www.lieblingswerk.de/infos\" target=\"_blank\">https://www.lieblingswerk.de/infos</a>",
+                "url": "https://www.lieblingswerk.de/infos",
+                "address": "Naundörfchen 2, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3661403,
+                    51.3429996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lust auf Blumen / Connewitz",
                 "image": "blumenstrauss.svg",
                 "description": "Blumenladen (Bestellungen)<br><a href=\"https://www.lust-auf-blumen.de/\" target=\"_blank\">https://www.lust-auf-blumen.de/</a>",
@@ -4677,6 +4725,29 @@
                 "coordinates": [
                     12.3697701,
                     51.3352704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schreib‘ und Stil / Zentrum",
+                "image": "schreibwaren.svg",
+                "description": "Schreibwaren (Onlineshop)<br><a href=\"https://schreibundstil.de/\" target=\"_blank\">https://schreibundstil.de/</a>",
+                "url": "https://schreibundstil.de/",
+                "address": "Grimmaische Str. 2-4, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3754794,
+                    51.339784
                 ]
             }
         },
@@ -5273,6 +5344,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Die Pilatisten / Zentrum",
+                "image": "yoga.svg",
+                "description": "Pilates (Onlinekurse)<br><a href=\"https://pilatisten.de/\" target=\"_blank\">https://pilatisten.de/</a>",
+                "url": "https://pilatisten.de/",
+                "address": "Roßpl. 12, 04103 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3793818,
+                    51.3355133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "ELEMENT OST / Neustadt",
                 "image": "yoga.svg",
                 "description": "Yoga (Onlinekurse)<br><a href=\"https://www.element-ost.yoga/\" target=\"_blank\">https://www.element-ost.yoga/</a>",
@@ -5291,6 +5386,30 @@
                 "coordinates": [
                     12.4025764,
                     51.3484594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EnergyTwister / Zentrum-West",
+                "image": "yoga.svg",
+                "description": "Coaching, Kurse, Inspiration (Onlinekurse)<br><a href=\"http://energytwister.de/\" target=\"_blank\">http://energytwister.de/</a>",
+                "url": "http://energytwister.de/",
+                "address": "Beethovenstraße 19/5. OG, 04107 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "tags": [
+                    "spa",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3668714,
+                    51.3318237
                 ]
             }
         },
