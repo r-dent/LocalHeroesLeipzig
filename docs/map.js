@@ -61,9 +61,19 @@ class LocalHeroesMap {
         }
     }
 
-    createMap(mapElementId, {mapBoxKey, mapBoxStyle}) {
-        const map = L.map(mapElementId, {zoomControl: false}).setView([51.3396955, 12.3730747], 13);
-        L.control.zoom({position: 'bottomleft'}).addTo(map)
+    createMap(mapElementId, {mapBoxKey, mapBoxStyle, isFullScreen}) {
+
+        const windowHeight = window.innerHeight
+        const mapHeight = document.getElementById(mapElementId).clientHeight
+
+        const map = L.map(mapElementId, {
+            zoomControl: false,
+            scrollWheelZoom: isFullScreen || (mapHeight / windowHeight) < 0.85,
+            dragging: isFullScreen || !L.Browser.mobile, 
+            tap: isFullScreen || !L.Browser.mobile,
+        }).setView([51.3396955, 12.3730747], 13);
+
+        L.control.zoom({ position: 'bottomleft' }).addTo(map)
 
         if (mapBoxKey !== undefined && typeof(mapBoxKey) == 'string' && mapBoxKey.length > 0) {
             // Use Mapbox if key is provided.

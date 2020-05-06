@@ -40,6 +40,7 @@ If you want to customize the map, you can pass some options to the initializer.
  `showCategorySelection` | `boolean` | Show a category selection dropdown in the top right corner of the map. | `true`
  `clusterBelowZoom` | `number` | You can use clustering to group multiple markers into one for a better overview. To do that just provide a zoom level below which items will get clustered. | `undefined`
  `onDataReady` | `function` | A Handler that will be called after loading is done and the map is ready. The resutling categories will be passed as data. | `undefined`
+ `isFullScreen` | `boolean` | Setting this to `true` enables 1 finger dragging on mobile browsers. Also zooming with mouse wheel will be enabled. | `false`
  `mapBoxStyle` | `string` | If you have customized your own map style with [Mapbox](https://www.mapbox.com/), you can use it for rendering by providing this parameter together with your Mapbox API key. If your Mapbox Style URL is something like `mapbox://styles/username/your_style_id`, use `username/your_style_id` for this parameter. If you don´t have a Mapbox account, [OpenStreetMap](https://www.openstreetmap.org) will be used as fallback. | `undefined`
  `mapBoxKey` | `string` | Your API key from [Mapbox](https://www.mapbox.com/). | `undefined`
 
