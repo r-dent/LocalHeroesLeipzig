@@ -212,7 +212,9 @@ def writeGeoJson(entries):
 
 entries = loadEntriesFromFile(cacheFileName)
 
-if 'loadApi' in sys.argv:
+dataUpdate = ('dataUpdate' in sys.argv)
+
+if dataUpdate or 'loadApi' in sys.argv:
     # Load api data to cache.
     newEntries = webscraping.loadLocalsFromWebsite(websiteUrl)
     entries = addOrUpdate(entries, newEntries)
@@ -225,7 +227,7 @@ elif 'refreshNoneLocations' in sys.argv:
     # Update location data where its missing or was not found.
     entries = addLocation(entries, updateNoneEntries = True)
 
-elif 'updateLocations' in sys.argv:
+elif dataUpdate or 'updateLocations' in sys.argv:
     # Update location data where its missing
     entries = addLocation(entries)
 
@@ -241,10 +243,10 @@ if 'debug' in sys.argv:
         if 'location' not in e or e['location'] == None:
             print(e['title'], 'https://www.google.com/maps/search/' + e['title'].replace('/','').replace(' ','+'))
 
-if 'writeGeoJson' in sys.argv:
+if dataUpdate or 'writeGeoJson' in sys.argv:
     writeGeoJson(entries)
 
-if 'writeCache' in sys.argv:
+if dataUpdate or 'writeCache' in sys.argv:
     writeJson(entries, cacheFileName)
 
 if len(sys.argv) == 1:
