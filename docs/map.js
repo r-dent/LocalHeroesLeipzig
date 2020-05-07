@@ -112,7 +112,8 @@ class LocalHeroesMap {
 
     onEachMapFeature(feature, layer) {
         const coord = feature.geometry.coordinates
-        const address = '<a onclick="LocalHeroesHelper.navigate('+ coord[1] +','+ coord[0] +',\''+ feature.properties.address +'\')" class="directions-link"><i class="fa fa-directions"></i></a>'+ 
+        const address = '<a onclick="LocalHeroesHelper.navigate('+ coord[1] +','+ coord[0] +',\''+ feature.properties.address +'\')" class="directions-link" title="Route anzeigen">'+
+            '<i class="fa fa-directions"></i></a>'+ 
             feature.properties.address.split(', ').join('<br>')
         // does this feature have a property named popupContent?
         if (feature.properties && feature.properties.name && feature.properties.description) {
