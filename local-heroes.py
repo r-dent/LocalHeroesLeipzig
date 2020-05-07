@@ -163,7 +163,14 @@ def writeGeoJson(entries):
         coordinate = [location['lon'], location['lat']]
         tags = location.get('tags', [])
         uri = urllib.parse.urlparse(entry['link'])
+        pathComponents = [comp for comp in uri.path.split('/') if comp != '']
         isLocality = False
+
+        linkPath = ''
+        if len(pathComponents) == 1 :
+            linkPath = '/' + pathComponents[0]
+        elif len(pathComponents) > 1:
+            linkPath = uri.path[:20] + '...'
 
         for locationType in tags:
             if 'locality' in locationType:
@@ -178,7 +185,7 @@ def writeGeoJson(entries):
             'properties': {
                 'name': entry['title'],
                 'image': entry['image'],
-                'description': entry['description'] + '<br>Link: <a href="' + entry['link'] + '" target="_blank">' + f'{uri.netloc}' + '</a>',
+                'description': entry['description'] + '<br>Link: <a href="' + entry['link'] + '" target="_blank">' + uri.netloc + linkPath + '</a>',
                 'url': entry['link'],
                 'address': location.get('address', ''),
                 'category': entry['category'],
