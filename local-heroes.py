@@ -48,11 +48,13 @@ def findLocationGMaps(locationName):
         radius = 5000
     )
 
-    print("Loading Location for %s." % locationName)
+    print('Loading Location for "%s"...' % locationName)
 
     with urllib.request.urlopen(geocodeUrl) as response:
         content = response.read()
-        results = json.loads(content)['results']
+        parsedJson = json.loads(content)
+        results = parsedJson['results']
+        location = None
 
         if len(results) > 0:
             firstResult = results[0]
@@ -64,11 +66,13 @@ def findLocationGMaps(locationName):
                 'tags': firstResult['types']
             }
 
-            print('Found %s.' % location)
+            print('✅ Found: %s %s.' % (location['address'], location['tags']))
+
+        elif 'error_message' in parsedJson:
+            print('🚨 Error:', parsedJson)
 
         else:
-            location = None
-            print('NOT FOUND')
+            print('🔸 NOT FOUND')
 
         return location
 
@@ -111,10 +115,22 @@ def locationDistance(coord1, coord2):
     return 2*R*math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 def addLocation(entries, updateAll = False, updateNoneEntries = False):
+
+    searchCount = 0
+    successCount = 0
+
     for entry in entries:
         if updateAll or not('location' in entry) or (updateNoneEntries and entry['location'] == None):
+            searchCount += 1
+
             entry['location'] = findLocationGMaps(entry['title'].replace('/', ''))
-            # time.sleep(1)
+
+            if entry['location'] != None:
+                successCount += 1
+
+    if searchCount > 0:            
+        print('\nFound locations for %i of %i places.\n' % (successCount, searchCount))
+        
     return entries
 
 def addOrUpdate(entries, updates):

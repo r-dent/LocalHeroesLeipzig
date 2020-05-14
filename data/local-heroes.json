@@ -1694,6 +1694,26 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Thüringer Hof / Zentrum",
+        "link": "https://shop.lokalehilfe.commerzbank.de/#/catalog/campaign/umdec6lk4hlqrogqrgvmmzi4",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Thüringer Hof",
+        "description": "Restaurant (Gutscheinaktion)",
+        "location": {
+            "lat": 51.3383019,
+            "lon": 12.373422,
+            "address": "Burgstraße 19, 04109 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "eis.svg",
         "title": "TONIS / Schleußig",
         "link": "http://local-heroes-leipzig.de/tonis-leipzig/",
@@ -1965,6 +1985,16 @@
         }
     },
     {
+        "image": "mode.svg",
+        "title": "Corona Schoner / Leipzig",
+        "link": "https://www.etsy.com/shop/CoronaSchoner/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Corona Schoner",
+        "description": "Mund- & Nasenschutz (Onlineshop)",
+        "location": null
+    },
+    {
         "image": "hut.svg",
         "title": "Der Hutladen / Zentrum",
         "link": "http://www.derhutladen.de/",
@@ -1999,6 +2029,26 @@
             "tags": [
                 "jewelry_store",
                 "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "Fanö/ Schleußig",
+        "link": "https://www.fanoe-mode.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Fanö",
+        "description": "Kleidung (Onlineshop)",
+        "location": {
+            "lat": 51.3222305,
+            "lon": 12.3431071,
+            "address": "Könneritzstraße 63, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
                 "store",
                 "establishment"
             ]
@@ -2592,6 +2642,16 @@
     },
     {
         "image": "mode.svg",
+        "title": "Prodotyp / Zentrum",
+        "link": "https://www.prodotypshop.com/shop/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Prodotyp",
+        "description": "Accessoires (Onlineshop)",
+        "location": null
+    },
+    {
+        "image": "mode.svg",
         "title": "pussy GALORE / Südvorstadt",
         "link": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
@@ -2867,6 +2927,25 @@
                 "point_of_interest",
                 "clothing_store",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "TulasiWear / Lindeanu",
+        "link": "https://www.etsy.com/shop/tulasiwear/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "TulasiWear",
+        "description": "Nachhaltige Mode (Onlineshop)",
+        "location": {
+            "lat": 51.33093,
+            "lon": 12.31752,
+            "address": "Lützner Str. 135, 04179 Leipzig, Germany",
+            "tags": [
+                "art_gallery",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -3217,6 +3296,25 @@
                 "shopping_mall",
                 "furniture_store",
                 "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "prints.svg",
+        "title": "Corpus Delicti / Leipzig",
+        "link": "https://conceptualbody.art/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Corpus Delicti",
+        "description": "Tatoostudio & Kunst (Terminvereinbarung)",
+        "location": {
+            "lat": 51.3365622,
+            "lon": 12.3960831,
+            "address": "Täubchenweg 18, 04317 Leipzig, Germany",
+            "tags": [
                 "point_of_interest",
                 "store",
                 "establishment"

@@ -40,7 +40,7 @@ class LocalHeroesMap {
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
         
-        const resourceVersionTag = '20200507'
+        const resourceVersionTag = '20200514'
         const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson?v='+ resourceVersionTag
         const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css?v='+ resourceVersionTag
 
@@ -140,7 +140,7 @@ class LocalHeroesMap {
 
             const addClusterLayer = (layers, map) => {
                 var markers = L.markerClusterGroup({
-                    disableClusteringAtZoom: 15
+                    disableClusteringAtZoom: this.clusterZoom
                 });
                 for (const id in layers) {
                     markers.addLayer(layers[id])

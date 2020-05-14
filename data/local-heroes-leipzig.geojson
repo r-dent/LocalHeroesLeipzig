@@ -1978,6 +1978,30 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Thüringer Hof / Zentrum",
+                "image": "pizza.svg",
+                "description": "Restaurant (Gutscheinaktion)<br>Link: <a href=\"https://shop.lokalehilfe.commerzbank.de/#/catalog/campaign/umdec6lk4hlqrogqrgvmmzi4\" target=\"_blank\">shop.lokalehilfe.commerzbank.de</a>",
+                "url": "https://shop.lokalehilfe.commerzbank.de/#/catalog/campaign/umdec6lk4hlqrogqrgvmmzi4",
+                "address": "Burgstraße 19, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373422,
+                    51.3383019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "TONIS / Schleußig",
                 "image": "eis.svg",
                 "description": "Eis (Lieferservice & Take Away)<br>Link: <a href=\"http://local-heroes-leipzig.de/tonis-leipzig/\" target=\"_blank\">local-heroes-leipzig.de/tonis-leipzig</a>",
@@ -2309,6 +2333,30 @@
                 "coordinates": [
                     12.3464326,
                     51.3320151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fanö/ Schleußig",
+                "image": "mode.svg",
+                "description": "Kleidung (Onlineshop)<br>Link: <a href=\"https://www.fanoe-mode.de/\" target=\"_blank\">www.fanoe-mode.de</a>",
+                "url": "https://www.fanoe-mode.de/",
+                "address": "Könneritzstraße 63, 04229 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3431071,
+                    51.3222305
                 ]
             }
         },
@@ -3264,6 +3312,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "TulasiWear / Lindeanu",
+                "image": "mode.svg",
+                "description": "Nachhaltige Mode (Onlineshop)<br>Link: <a href=\"https://www.etsy.com/shop/tulasiwear/\" target=\"_blank\">www.etsy.com/shop/tulasiwear/...</a>",
+                "url": "https://www.etsy.com/shop/tulasiwear/",
+                "address": "Lützner Str. 135, 04179 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "tags": [
+                    "art_gallery",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.31752,
+                    51.33093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Wunderlichs Brillenschmiede / Leutzsch",
                 "image": "optiker.svg",
                 "description": "Optiker (Sonderöffnungszeiten + Gutscheinverkauf)<br>Link: <a href=\"http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/\" target=\"_blank\">local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch</a>",
@@ -3658,6 +3729,29 @@
                 "coordinates": [
                     12.3789388,
                     51.3399541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corpus Delicti / Leipzig",
+                "image": "prints.svg",
+                "description": "Tatoostudio & Kunst (Terminvereinbarung)<br>Link: <a href=\"https://conceptualbody.art/\" target=\"_blank\">conceptualbody.art</a>",
+                "url": "https://conceptualbody.art/",
+                "address": "Täubchenweg 18, 04317 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3960831,
+                    51.3365622
                 ]
             }
         },
