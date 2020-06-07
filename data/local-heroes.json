@@ -466,6 +466,16 @@
     },
     {
         "image": "kaffee.svg",
+        "title": "Café Utopia / Plagwitz",
+        "link": "https://www.facebook.com/inklusiveUtopie",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Café Utopia",
+        "description": "Nachbarschaftscafé (Gutscheinverkauf)",
+        "location": null
+    },
+    {
+        "image": "kaffee.svg",
         "title": "Café Yellow / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/cafe-yellow-leipzig-suedvorstadt/",
         "sub-category": "Café",
@@ -1002,6 +1012,16 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "feinkost.svg",
+        "title": "Küchenholz Manufaktur / Schleußig",
+        "link": "https://www.kuechenholz-manufaktur.de/",
+        "sub-category": "Feinkost",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Küchenholz Manufaktur",
+        "description": "Kräuterauszüge (Onlineshop)",
+        "location": null
     },
     {
         "image": "pizza.svg",
@@ -5962,6 +5982,24 @@
             "lat": 51.32131039999999,
             "lon": 12.4056566,
             "address": "Kregelstraße 6, 04317 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "coaching.svg",
+        "title": "WEGZEHRUNG / Südvorstadt",
+        "link": "https://www.wegzehrung.com/mbsr/",
+        "sub-category": "Coaching und Online-Workshops",
+        "category": "Workshops",
+        "cleanTitle": "WEGZEHRUNG",
+        "description": "Achtsamkeitsbasierte Stressbewältigung (Onlinekurse)",
+        "location": {
+            "lat": 51.3177722,
+            "lon": 12.3673071,
+            "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"

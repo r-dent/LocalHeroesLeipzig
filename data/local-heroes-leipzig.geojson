@@ -6715,6 +6715,28 @@
                     51.32131039999999
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WEGZEHRUNG / Südvorstadt",
+                "image": "coaching.svg",
+                "description": "Achtsamkeitsbasierte Stressbewältigung (Onlinekurse)<br>Link: <a href=\"https://www.wegzehrung.com/mbsr/\" target=\"_blank\">www.wegzehrung.com/mbsr</a>",
+                "url": "https://www.wegzehrung.com/mbsr/",
+                "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
+                "category": "Workshops",
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3673071,
+                    51.3177722
+                ]
+            }
         }
     ]
 }
