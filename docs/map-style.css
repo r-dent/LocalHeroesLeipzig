@@ -61,6 +61,17 @@
     background-color: transparent;
 }
 
+.lh-mp-ctnr div.sub-categories {
+    background-color: white;
+    padding: 1em;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px 1px rgba(0,0,0,.3);
+}
+
+.lh-mp-ctnr div.sub-categories div {
+    margin: 0.3em 0;
+}
+
 /* Loading */
 
 .lh-mp-ctnr #loading {

@@ -23,10 +23,12 @@
 class LocalHeroesMap {
 
     constructor(mapElementId, options = {}) {
-        this.categories = new Array();
+        this.mainCategories = new Array();
+        this.categories = new Object();
+        this.subCategoryControl = undefined
         this.categoryLayers = [];
         this.map = undefined
-        this.isLocal = location.hostname == 'localhost'
+        this.isLocal = location.hostname == 'localhost' || location.hostname == '192.168.2.169'
         this.repositoryBaseUrl = 'https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/'
         this.clusterZoom = options.clusterBelowZoom 
         this.clusterLayer = undefined
@@ -165,8 +167,8 @@ class LocalHeroesMap {
 
     createCategoryLayers(geoJson) {
 
-        for (const catId in this.categories) {
-            const category = this.categories[catId]
+        for (const catId in this.mainCategories) {
+            const category = this.mainCategories[catId]
             const geoLayer = L.geoJSON(geoJson, {
                 onEachFeature: this.onEachMapFeature,
                 pointToLayer: (point, coord) => this.renderMapMarker(point, coord),
@@ -193,12 +195,40 @@ class LocalHeroesMap {
 
     selectCategory(selectedCategory) {
         console.log(selectedCategory)
+        const showAll = (selectedCategory == 'all')
         var shownLayers = new Array()
+
+        if (this.subCategoryControl !== undefined) {
+            this.subCategoryControl.remove()
+        } else {
+            this.subCategoryControl = L.control({position: 'topright'});
+        }
+
+        if (!showAll) {
+            this.subCategoryControl.onAdd = (map) => {
+                var div = L.DomUtil.create('div', 'sub-categories')
+
+                var checkboxCount = 0
+                var checkboxes = ''
+                for (const subCategoryKey in this.categories[selectedCategory]) {
+                    const subCategory = this.categories[selectedCategory][subCategoryKey]
+                    checkboxCount += 1
+                    checkboxes += '<div>'
+                    checkboxes += '<input type="checkbox" id="sub-category-'+ checkboxCount +'" name="sub-category-'+ checkboxCount +'" checked></input>'
+                    checkboxes += '<label for="sub-category-'+ checkboxCount +'">'+ subCategory +'</label>'
+                    checkboxes += '</div>'
+                }
+            
+                div.innerHTML = checkboxes
+                return div
+            };
+            this.subCategoryControl.addTo(this.map)
+        }
 
         for (const category in this.categoryLayers) {
             const layer = this.categoryLayers[category]
             this.map.removeLayer(layer)
-            if (category == selectedCategory || selectedCategory == 'all') {
+            if (category == selectedCategory || showAll) {
                 shownLayers.push(layer)
             }
         }
@@ -213,15 +243,25 @@ class LocalHeroesMap {
 
         const geoJson = JSON.parse(data);
         const features = geoJson['features'];
-        var distinctCategories = new Set()
 
+        // Collect categories.
         for (const feature in features) {
-            if (features[feature]['properties'].hasOwnProperty('category')) {
-                const category = features[feature]['properties']['category'];
-                distinctCategories.add(category)
+            
+            const properties = features[feature]['properties']
+            const category = properties['category']
+
+            if (!this.categories.hasOwnProperty(category)) {
+                this.categories[category] = new Array()
+            }
+
+            for (const subCategoryKey in properties['sub-categories']) {
+                const subCategory = properties['sub-categories'][subCategoryKey]
+                if (!this.categories[category].includes(subCategory)) {
+                    this.categories[category].push(subCategory)
+                }
             }
         }
-        this.categories = Array.from(distinctCategories).sort()
+        this.mainCategories = Object.keys(this.categories).sort()
         console.log(this.categories);
         
         if (this.showCategorySelection !== false) {
@@ -232,8 +272,8 @@ class LocalHeroesMap {
 
                 var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
                 categorySelection += '<option value="all">Alle</option>'
-                for (const catId in this.categories) {
-                    var category = this.categories[catId]
+                for (const catId in this.mainCategories) {
+                    var category = this.mainCategories[catId]
                     categorySelection += '<option value="'+ category +'">'+ category +'</option>'
                 }
                 categorySelection += '</select></div></form>'
@@ -253,7 +293,7 @@ class LocalHeroesMap {
         document.getElementById('loading').remove()
 
         if (this.onDataReady !== undefined && typeof(this.onDataReady) == 'function') {
-            this.onDataReady(this.categories)
+            this.onDataReady(this.mainCategories)
         }
     }
 }
