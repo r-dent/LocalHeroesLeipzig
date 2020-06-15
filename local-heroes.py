@@ -32,6 +32,8 @@ from difflib import SequenceMatcher
 
 GMapsApiKey = ''
 websiteUrl = 'http://local-heroes-leipzig.de/look-and-support/'
+# websiteUrl = 'http://local-heroes-leipzig.de/look-and-support/'
+websiteUrl = 'http://local-heroes-leipzig.de/search-and-support/'
 cacheFileName = 'data/local-heroes.json'
 cityCenter = (51.3396955, 12.3730747)
 

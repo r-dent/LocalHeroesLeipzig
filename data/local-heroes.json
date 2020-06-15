@@ -6,7 +6,7 @@
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "#Pfff #Krsch",
-        "description": "Spirituosen (Onlineshop)",
+        "description": "Spirituosen",
         "location": {
             "lat": 51.3295922,
             "lon": 12.3312243,
@@ -26,7 +26,7 @@
         "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "7 shots coffee",
-        "description": "Kaffeerösterei (Bestellung)",
+        "description": "Kaffeerösterei",
         "location": {
             "lat": 51.3297688,
             "lon": 12.3839929,
@@ -47,7 +47,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "ACHT-ZWEI",
-        "description": "Möbel & Lampen (Onlineshop)",
+        "description": "Möbel & Lampen",
         "location": {
             "lat": 51.3363756,
             "lon": 12.3293665,
@@ -62,13 +62,34 @@
         }
     },
     {
-        "image": "pizza.svg",
-        "title": "AKKO Humusbar / Plagwitz",
+        "image": "moebel.svg",
+        "title": "ACHT-ZWEI / Lindenau",
+        "link": "https://www.acht-zwei.de/",
+        "sub-category": "Möbel, Sofa, Tisch, Couch",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "ACHT-ZWEI",
+        "description": "Möbel & Lampen",
+        "location": {
+            "lat": 51.3363756,
+            "lon": 12.3293665,
+            "address": "Merseburger Str. 82, 04177 Leipzig, Germany",
+            "tags": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "cocktail-1.svg",
+        "title": "AKKO / Plagwitz",
         "link": "https://akkohummusbar.eatbu.com/?lang=en&fbclid=IwAR1rn6OWzsrhPyyaMiAeGojP3NbjFxChvCgIWQjr_XJdbQZKbKPm-Z2503U",
-        "sub-category": "Essen & Trinken",
+        "sub-category": "Cocktail",
         "category": "Essen & Trinken",
-        "cleanTitle": "AKKO Humusbar",
-        "description": "Bar & Bistro (Bestellung & Lieferservice)",
+        "cleanTitle": "AKKO",
+        "description": "Humusbar",
         "location": {
             "lat": 51.33172099999999,
             "lon": 12.336539,
@@ -84,12 +105,12 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "ALLOY / Gohlis-Süd",
+        "title": "ALLOY / Gohlis",
         "link": "http://www.alloy925.de/shop.html",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "ALLOY",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3006446,
             "lon": 12.3190432,
@@ -101,34 +122,13 @@
         }
     },
     {
-        "image": "kaffee.svg",
-        "title": "ANALOG Café / Volkmarsdorf",
-        "link": "https://www.paypal.com/pools/c/8nBB0NCGhG",
-        "sub-category": "Café",
-        "category": "Essen & Trinken",
-        "cleanTitle": "ANALOG Café",
-        "description": "Café (Crowdfunding)",
-        "location": {
-            "lat": 51.3474203,
-            "lon": 12.4034796,
-            "address": "Hedwigstraße 20, 04315 Leipzig, Germany",
-            "tags": [
-                "cafe",
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "pizza.svg",
         "title": "Achilles / Paunsdorf",
         "link": "https://restaurant-achilles.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Achilles",
-        "description": "Restaurant (Take-Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.345684,
             "lon": 12.4533062,
@@ -143,12 +143,12 @@
     },
     {
         "image": "feinkost.svg",
-        "title": "Alte Zuckerfabrik / Zentrum-Nord",
-        "link": "http://local-heroes-leipzig.de/alte-zuckerfabrik-leipzig-zentrum-nord/",
+        "title": "Alte Zuckerfabrik / Zentrum",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/",
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Alte Zuckerfabrik",
-        "description": "Weinbar & Hofladen (Lieferservice)",
+        "description": "Hofladen & Weinbar",
         "location": {
             "lat": 51.34443419999999,
             "lon": 12.3612119,
@@ -166,11 +166,11 @@
     {
         "image": "spirituosen.svg",
         "title": "Altes Papierlager / Seeburgviertel",
-        "link": "http://local-heroes-leipzig.de/altes-papierlager-leipzig-seeburgviertel/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/",
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Altes Papierlager",
-        "description": "Wein & Spirituosen (Lieferservice)",
+        "description": "Wein & Spirituosen",
         "location": {
             "lat": 51.336165,
             "lon": 12.3866006,
@@ -188,7 +188,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Amelie Schleifenheimer",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": null
     },
     {
@@ -198,7 +198,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Amorph Studio",
-        "description": "Tattoo (Gutscheinverkauf)",
+        "description": "Tattoostudio",
         "location": {
             "lat": 51.3083494,
             "lon": 12.3714629,
@@ -211,13 +211,34 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "Analog Café / Volkmarsdorf",
+        "link": "https://analogcafebar.metro.bar/?lang=de",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Analog Café",
+        "description": "Café",
+        "location": {
+            "lat": 51.3474203,
+            "lon": 12.4034796,
+            "address": "Hedwigstraße 20, 04315 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "blumenstrauss.svg",
         "title": "Annalinde / Lindenau",
-        "link": "https://shop.annalinde-leipzig.de/?fbclid=IwAR0SX28W8hRJUS5GP_6Il_d7Z2BEJVXGPz_9qS6VFEyz-ofQDi9EBiy6jOY",
+        "link": "https://annalinde-leipzig.de/de/",
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Annalinde",
-        "description": "Stadtgärtnerei (online Jungpflanzenverkauf)",
+        "description": "Stadtgärtnerei",
         "location": {
             "lat": 51.33405339999999,
             "lon": 12.3392787,
@@ -231,12 +252,12 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Antiquariat  Thieme / Zentrum",
+        "title": "Antiquariat Thieme / Zentrum",
         "link": "http://www.fachbuchantiquariat.de/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
-        "cleanTitle": "Antiquariat  Thieme",
-        "description": "Buchhandlung (Onlineshop)",
+        "cleanTitle": "Antiquariat Thieme",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.3402547,
             "lon": 12.3794084,
@@ -256,7 +277,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Antje Braga",
-        "description": "Fotografie (Etsy Shop)",
+        "description": "Fotografie",
         "location": {
             "lat": 51.3638915,
             "lon": 12.3770042,
@@ -269,12 +290,12 @@
     },
     {
         "image": "yoga.svg",
-        "title": "Ashtange Yoga Loft / Plagwitz",
+        "title": "Ashtanga Yoga Loft / Plagwitz",
         "link": "https://www.ashtangaleipzig.de/deutsch/aktuelles/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
-        "cleanTitle": "Ashtange Yoga Loft",
-        "description": "Yoga (Onlinekurse)",
+        "cleanTitle": "Ashtanga Yoga Loft",
+        "description": "Yoga",
         "location": {
             "lat": 51.330457,
             "lon": 12.330956,
@@ -290,11 +311,11 @@
     {
         "image": "mode.svg",
         "title": "Atelier 3Kleider / Lindenau",
-        "link": "http://local-heroes-leipzig.de/atelier-3kleider/",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Atelier 3Kleider",
-        "description": "Brautmode (Aufträge)",
+        "description": "Brautmode",
         "location": {
             "lat": 51.33502989999999,
             "lon": 12.3304538,
@@ -314,7 +335,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Atelier CALUNÉ",
-        "description": "Tattoo Studio (Gutscheinverkauf)",
+        "description": "Tattoostudio",
         "location": {
             "lat": 51.3365158,
             "lon": 12.3291175,
@@ -329,12 +350,12 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "Atelier Wolkengold / Mitte",
+        "title": "Atelier Wolkengold / Zentrum",
         "link": "https://www.atelier-wolkengold.de/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Atelier Wolkengold",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3254269,
             "lon": 12.3698278,
@@ -354,17 +375,17 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Atelier Zündwerk",
-        "description": "Illustrationen & Kunstdrucke (Etsy Shop)",
+        "description": "Illustrationen & Kunstdrucke",
         "location": null
     },
     {
         "image": "cocktail-1.svg",
-        "title": "Auwaldbar / Zentrum Nord",
-        "link": "https://www.startnext.com/auwaldbar",
+        "title": "Auwaldbar / Zentrum-Nord",
+        "link": "https://auwald-bar.de/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "Auwaldbar",
-        "description": "Bar (Crowdfunding)",
+        "description": "Bar",
         "location": {
             "lat": 51.33045689999999,
             "lon": 12.3309559,
@@ -381,11 +402,11 @@
     {
         "image": "kaffee.svg",
         "title": "BERT & BERGER / Lindenau",
-        "link": "http://local-heroes-leipzig.de/bert-berger-leipzig-lindenau/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/bert-berger-lindenau/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "BERT & BERGER",
-        "description": "Konditorei (Samstagsmarkt)",
+        "description": "Konditorei",
         "location": null
     },
     {
@@ -395,7 +416,7 @@
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "BLATTwerk",
-        "description": "Blumenladen (Lieferservice)",
+        "description": "Blumenladen",
         "location": {
             "lat": 51.32963119999999,
             "lon": 12.3420023,
@@ -411,11 +432,11 @@
     {
         "image": "pizza.svg",
         "title": "Backstein / Zentrum-Süd",
-        "link": "http://local-heroes-leipzig.de/backstein-leipzig-zentrum-sued/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Backstein",
-        "description": "Bäckerei (to go)",
+        "description": "Bäckerei für zeitgenössisches Brot",
         "location": {
             "lat": 51.33371,
             "lon": 12.36589,
@@ -430,32 +451,13 @@
         }
     },
     {
-        "image": "prints.svg",
-        "title": "Ballbird-Grafiken / Schleußig",
-        "link": "https://ballbirds.de/",
-        "sub-category": "Prints und Kunstartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Ballbird-Grafiken",
-        "description": "Individuelle Geschenke (Anfertigung & Lieferung)",
-        "location": {
-            "lat": 51.3258276,
-            "lon": 12.3450481,
-            "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "pizza.svg",
         "title": "Bauhütte / Schleußig",
         "link": "http://www.bauhuette-gastwirtschaft.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Bauhütte",
-        "description": "Restaurant (Take Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.32483509999999,
             "lon": 12.3440919,
@@ -472,11 +474,11 @@
     {
         "image": "feinkost.svg",
         "title": "Bazar Manufaktur / Zentrum",
-        "link": "http://local-heroes-leipzig.de/bazar-manufaktur-leipzig-zentrum/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/",
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Bazar Manufaktur",
-        "description": "Feinkost (Lieferservice & Onlineshop)",
+        "description": "Feinkostladen",
         "location": {
             "lat": 51.3431619,
             "lon": 12.3641471,
@@ -493,12 +495,12 @@
     },
     {
         "image": "blumenstrauss.svg",
-        "title": "Beetliebe / Leipzig",
+        "title": "Beetliebe / Reudnitz",
         "link": "https://www.beetliebe.de/c/saatgut-and-samen-shop",
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Beetliebe",
-        "description": "Saatgut (Onlineshop)",
+        "description": "Saatgut",
         "location": {
             "lat": 51.33204,
             "lon": 12.4053,
@@ -517,7 +519,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Beutelshop",
-        "description": "Schneiderei (Onlineshop)",
+        "description": "Schneiderei",
         "location": null
     },
     {
@@ -527,7 +529,7 @@
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Bierothek",
-        "description": "Bier (Onlineshop)",
+        "description": "Bier",
         "location": {
             "lat": 51.3420145,
             "lon": 12.3748949,
@@ -547,7 +549,7 @@
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Bike Department Ost",
-        "description": "Fahrradladen (Beratung & Lieferung)",
+        "description": "Fahrradladen",
         "location": {
             "lat": 51.3273544,
             "lon": 12.374479,
@@ -561,23 +563,18 @@
         }
     },
     {
-        "image": "einkaufen-1.svg",
-        "title": "Biomare / 3x",
-        "link": "http://local-heroes-leipzig.de/biomare-leipzig/",
-        "sub-category": "Einkaufen",
-        "category": "Essen & Trinken",
-        "cleanTitle": "Biomare",
-        "description": "Bio-Supermarkt (Sonderöffnungszeiten)",
+        "image": "prints.svg",
+        "title": "Billbird-Grafiken / Schleußig",
+        "link": "https://ballbirds.de/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Billbird-Grafiken",
+        "description": "Grafiken",
         "location": {
-            "lat": 51.3320972,
-            "lon": 12.3370508,
-            "address": "Karl-Heine-Straße 43/45, 04229 Leipzig, Germany",
+            "lat": 51.3258276,
+            "lon": 12.3450481,
+            "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
             "tags": [
-                "drugstore",
-                "grocery_or_supermarket",
-                "cafe",
-                "food",
-                "health",
                 "point_of_interest",
                 "store",
                 "establishment"
@@ -587,11 +584,11 @@
     {
         "image": "schreibwaren.svg",
         "title": "Blaupause / Connewitz",
-        "link": "http://www.blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
+        "link": "https://blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
         "sub-category": "Schreibwaren, Stifte und Blöcke",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Blaupause",
-        "description": "Schreibwaren (Onlineshop)",
+        "description": "Schreibwaren",
         "location": {
             "lat": 51.3096226,
             "lon": 12.3745884,
@@ -610,7 +607,7 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Bliss",
-        "description": "Yoga & Self Care (Onlinekurse)",
+        "description": "Yoga & Self Care",
         "location": {
             "lat": 51.34007,
             "lon": 12.37687,
@@ -627,11 +624,11 @@
     {
         "image": "kaffee.svg",
         "title": "Bohemian Kids / Zentrum",
-        "link": "http://local-heroes-leipzig.de/bohemian-kids-leipzig-zentrum/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Bohemian Kids",
-        "description": "Café (Crowdfunding)",
+        "description": "Café",
         "location": {
             "lat": 51.3377309,
             "lon": 12.3775947,
@@ -645,13 +642,13 @@
         }
     },
     {
-        "image": "sport-1.svg",
-        "title": "Bootsverleih Herold / Markkleeberg",
+        "image": "familie.svg",
+        "title": "Bootsverleih Herold / Schleußig",
         "link": "https://www.bootsbau-herold.de/",
-        "sub-category": "Sport",
+        "sub-category": "Freizeit und Familie",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Bootsverleih Herold",
-        "description": "Bootsverleih (Reservierungen + Gutscheinverkauf)",
+        "description": "Bootsverleih",
         "location": {
             "lat": 51.31870499999999,
             "lon": 12.3398067,
@@ -665,11 +662,11 @@
     {
         "image": "eis.svg",
         "title": "Brakers / Connewitz",
-        "link": "http://local-heroes-leipzig.de/brakers-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Brakers",
-        "description": "Eis (Lieferservice & Take Away)",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.3075863,
             "lon": 12.3787877,
@@ -690,7 +687,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Buchhandlung Grümmer",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.33195869999999,
             "lon": 12.3383062,
@@ -710,7 +707,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Buchhandlung Südvorstadt",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.315298,
             "lon": 12.373033,
@@ -730,7 +727,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Buchkinder Leipzig e.V.",
-        "description": "Druck- & Schreibwerkstatt (Onlinelesungen & Spendenaktion)",
+        "description": "Druck- & Schreibwerkstatt",
         "location": {
             "lat": 51.3355507,
             "lon": 12.3318747,
@@ -748,7 +745,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Budowelt Härtel",
-        "description": "Kampfsportshop (Onlineshop & Gutscheinverkauf)",
+        "description": "Kampfsportshop",
         "location": {
             "lat": 51.3187621,
             "lon": 12.3284646,
@@ -764,11 +761,11 @@
     {
         "image": "naehbedarf.svg",
         "title": "Buntgarn / Connewitz",
-        "link": "http://local-heroes-leipzig.de/buntgarn-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/buntgarn-connewitz/",
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Buntgarn",
-        "description": "Stickerei (Sonderöffnungszeiten & Bestellungen)",
+        "description": "Stickerei",
         "location": {
             "lat": 51.3089261,
             "lon": 12.373345,
@@ -780,13 +777,44 @@
         }
     },
     {
+        "image": "mode.svg",
+        "title": "Buntimo / Pegau",
+        "link": "https://buntimo.de/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Buntimo",
+        "description": "Kleidung & Accessoires",
+        "location": null
+    },
+    {
         "image": "kaffee.svg",
-        "title": "Café ELLA  / Kleinzschocher",
-        "link": "http://local-heroes-leipzig.de/cafe-ella-leipzig-kleinzschocher/",
+        "title": "Café Cloud / Zentrum-Ost",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Café Cloud",
+        "description": "Café",
+        "location": {
+            "lat": 51.3450193,
+            "lon": 12.3845451,
+            "address": "Sachsenseite 3, 04103 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Café ELLA / Kleinzschocher",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café ELLA",
-        "description": "Café (Take Away & Bestellungen)",
+        "description": "Café",
         "location": {
             "lat": 51.3187471,
             "lon": 12.323602,
@@ -803,11 +831,11 @@
     {
         "image": "kaffee.svg",
         "title": "Café Kune / Neustadt-Neuschönefeld",
-        "link": "https://www.startnext.com/wirgemeinsam",
+        "link": "https://cafekune.de/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Kune",
-        "description": "Café (Crowdfunding)",
+        "description": "Café",
         "location": {
             "lat": 51.3453761,
             "lon": 12.4108226,
@@ -826,11 +854,11 @@
     {
         "image": "kaffee.svg",
         "title": "Café Liese / Connewitz",
-        "link": "http://local-heroes-leipzig.de/cafe-liese-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Liese",
-        "description": "Café (Bestellungen & Take Away)",
+        "description": "Café",
         "location": {
             "lat": 51.3117159,
             "lon": 12.3722737,
@@ -846,12 +874,12 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Café NiMo / Zentrum-Süd",
-        "link": "https://www.startnext.com/rettet-das-cafe-nimo",
+        "title": "Café Nimo / Zentrum-Süd",
+        "link": "https://www.nimo-leipzig.de/info/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Café NiMo",
-        "description": "Café (Crowdfunding)",
+        "cleanTitle": "Café Nimo",
+        "description": "Café",
         "location": {
             "lat": 51.3253297,
             "lon": 12.3702837,
@@ -867,11 +895,11 @@
     {
         "image": "kaffee.svg",
         "title": "Café Oink / Plagwitz",
-        "link": "http://local-heroes-leipzig.de/cafe-oink-leipzig-plagwitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Oink",
-        "description": "Café (Gutschein)",
+        "description": "Café",
         "location": {
             "lat": 51.3283386,
             "lon": 12.3369004,
@@ -892,7 +920,7 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Pastel",
-        "description": "Café (Bestellungen & Take Away)",
+        "description": "Café",
         "location": {
             "lat": 51.34023450000001,
             "lon": 12.3259354,
@@ -907,12 +935,12 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Café TRAGO / Schönefeld",
-        "link": "https://www.startnext.com/wirgemeinsam",
+        "title": "Café Trago / Schönefeld",
+        "link": "http://cafetrago.de/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "Café TRAGO",
-        "description": "Café (Crowdfunding)",
+        "cleanTitle": "Café Trago",
+        "description": "Café",
         "location": {
             "lat": 51.35154319999999,
             "lon": 12.4068201,
@@ -933,17 +961,17 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Utopia",
-        "description": "Nachbarschaftscafé (Gutscheinverkauf)",
+        "description": "Nachbarschaftscafé",
         "location": null
     },
     {
         "image": "kaffee.svg",
         "title": "Café Yellow / Südvorstadt",
-        "link": "http://local-heroes-leipzig.de/cafe-yellow-leipzig-suedvorstadt/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Café Yellow",
-        "description": "Café (Gutscheinverkauf)",
+        "description": "Café",
         "location": {
             "lat": 51.3176564,
             "lon": 12.370602,
@@ -961,7 +989,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Camolita",
-        "description": "Keramik (Onlineshop)",
+        "description": "Keramik",
         "location": {
             "lat": 51.3834809,
             "lon": 12.3324374,
@@ -977,11 +1005,11 @@
     {
         "image": "kaffee.svg",
         "title": "Campus Café Salomon / Zentrum",
-        "link": "http://local-heroes-leipzig.de/campus-cafe-salomon-leipzig-zentrum/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Campus Café Salomon",
-        "description": "Café (Lieferservice & Take Away)",
+        "description": "Café",
         "location": {
             "lat": 51.3395333,
             "lon": 12.3884868,
@@ -1002,7 +1030,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Candy Company",
-        "description": "Interieur (Onlineshop)",
+        "description": "Interieur",
         "location": {
             "lat": 51.3340411,
             "lon": 12.3261127,
@@ -1019,11 +1047,11 @@
     {
         "image": "kaffee.svg",
         "title": "Carls Laden / Südvorstadt",
-        "link": "http://local-heroes-leipzig.de/carls-laden-leipzig-suedvorstadt/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Carls Laden",
-        "description": "Café (Bestellungen)",
+        "description": "Ladencafé",
         "location": {
             "lat": 51.3227392,
             "lon": 12.3738535,
@@ -1038,32 +1066,13 @@
         }
     },
     {
-        "image": "pizza.svg",
-        "title": "Catering mit Leidenschaft / Gohlis",
-        "link": "http://www.eddaschmidt.de/",
-        "sub-category": "Essen & Trinken",
-        "category": "Essen & Trinken",
-        "cleanTitle": "Catering mit Leidenschaft",
-        "description": "Mittagessen & Buffet (Abholung & Lieferdienst)",
-        "location": {
-            "lat": 51.3685549,
-            "lon": 12.3788954,
-            "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
-            "tags": [
-                "food",
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "yoga.svg",
         "title": "Chamundi Yoga / Südvorstadt",
         "link": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Chamundi Yoga",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.32106229999999,
             "lon": 12.3695348,
@@ -1083,7 +1092,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Chulo",
-        "description": "Nepalesisches Restaurant (Lieferservice & Take Away)",
+        "description": "Nepalesisches Restaurant",
         "location": {
             "lat": 51.3196083,
             "lon": 12.3398111,
@@ -1103,7 +1112,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Circuit",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3798783,
             "lon": 12.4187184,
@@ -1121,7 +1130,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "CityBootCamp",
-        "description": "Sport (Onlinetraining)",
+        "description": "Sport",
         "location": {
             "lat": 51.334576,
             "lon": 12.3789,
@@ -1135,44 +1144,23 @@
         }
     },
     {
-        "image": "kaffee.svg",
-        "title": "Coffee Cloud / Zentrum-Ost",
-        "link": "http://local-heroes-leipzig.de/coffee-cloud-leipzig-zentrum-ost/",
-        "sub-category": "Café",
-        "category": "Essen & Trinken",
-        "cleanTitle": "Coffee Cloud",
-        "description": "Café (Lieferservice)",
-        "location": {
-            "lat": 51.3450193,
-            "lon": 12.3845451,
-            "address": "Sachsenseite 3, 04103 Leipzig, Germany",
-            "tags": [
-                "cafe",
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "spirituosen.svg",
         "title": "Connewitzer Likörfabrik / Connewitz",
         "link": "https://www.likoerfabrik.com/",
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Connewitzer Likörfabrik",
-        "description": "Spirituosen (Bestellungen)",
+        "description": "Spirituosen",
         "location": null
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Connewitzer Verlagsbuchhandlung / Leipzig",
+        "title": "Connewitzer Verlagsbuchhandlung / Connewitz",
         "link": "https://www.cvb-leipzig.de/bestellungen-shops/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Connewitzer Verlagsbuchhandlung",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.340515,
             "lon": 12.3774881,
@@ -1192,7 +1180,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Coqueton",
-        "description": "Kindermode (Etsy Shop + Selbstabholung)",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3215279,
             "lon": 12.3718855,
@@ -1213,17 +1201,17 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Corona Schoner",
-        "description": "Mund- & Nasenschutz (Onlineshop)",
+        "description": "Mund- & Nasenschutz",
         "location": null
     },
     {
         "image": "prints.svg",
-        "title": "Corpus Delicti / Leipzig",
+        "title": "Corpus Delicti / Reudnitz",
         "link": "https://conceptualbody.art/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Corpus Delicti",
-        "description": "Tatoostudio & Kunst (Terminvereinbarung)",
+        "description": "Tattoostudio & Kunst",
         "location": {
             "lat": 51.3365622,
             "lon": 12.3960831,
@@ -1242,7 +1230,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Culinaris",
-        "description": "Küchenaccessoires (Onlineshop)",
+        "description": "Küchenaccessoires",
         "location": {
             "lat": 51.3399541,
             "lon": 12.3789388,
@@ -1260,11 +1248,11 @@
     {
         "image": "yoga.svg",
         "title": "Dalaja / Südvorstadt",
-        "link": "https://www.startnext.com/dalaja-mit-eurer-hilfe-durch-d",
+        "link": "https://www.dalaja.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Dalaja",
-        "description": "Entspannung & Eltern-Kind-Kurse (Crowdfunding)",
+        "description": "Entspannung & Eltern-Kind-Kurse",
         "location": {
             "lat": 51.3229041,
             "lon": 12.3799576,
@@ -1283,7 +1271,38 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "DanPop Illustrationen",
-        "description": "Illustrationen & Kunstdrucke (Etsy Shop)",
+        "description": "Illustrationen & Kunstdrucke",
+        "location": null
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Dankbar / Zentrum",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Dankbar",
+        "description": "Café",
+        "location": {
+            "lat": 51.3421672,
+            "lon": 12.3610042,
+            "address": "Jahnallee 23, 04109 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "auto-kfz.svg",
+        "title": "Der Hochzeitsbenz / Leipzig",
+        "link": "http://www.der-hochzeitsbenz.de/",
+        "sub-category": "Auto und Reparatur Werkstatt",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Der Hochzeitsbenz",
+        "description": "Oldtimer Vermietung",
         "location": null
     },
     {
@@ -1293,7 +1312,7 @@
         "sub-category": "Hut und Kopfbedeckungen",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Der Hutladen",
-        "description": "Hüte (Online Anfragen)",
+        "description": "Hüte",
         "location": {
             "lat": 51.3410447,
             "lon": 12.3785448,
@@ -1313,7 +1332,7 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Der Teeladen",
-        "description": "Teefachgeschäft (Onlineshop)",
+        "description": "Teeladen",
         "location": {
             "lat": 51.3437983,
             "lon": 12.377145,
@@ -1333,7 +1352,7 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Die Pilatisten",
-        "description": "Pilates (Onlinekurse)",
+        "description": "Pilates",
         "location": {
             "lat": 51.3355133,
             "lon": 12.3793818,
@@ -1353,7 +1372,7 @@
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Dipasquale",
-        "description": "Café & Feinkost (Bestellungen & Take Away)",
+        "description": "Café & Feinkost",
         "location": {
             "lat": 51.33136589999999,
             "lon": 12.3344372,
@@ -1372,11 +1391,11 @@
     {
         "image": "musik.svg",
         "title": "Distillery / Südvorstadt",
-        "link": "https://soundcloud.com/distillery-leipzig/tillecast-n011-jackmaster",
+        "link": "http://www.distillery.de/ex/dates",
         "sub-category": "Musik und Liveübertragungen",
         "category": "Hören & Lesen",
         "cleanTitle": "Distillery",
-        "description": "Musik (Onlinestream)",
+        "description": "Musik / Club",
         "location": {
             "lat": 51.3209056,
             "lon": 12.3828974,
@@ -1395,7 +1414,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Dominique",
-        "description": "Kunstdrucke (Etsy Shop)",
+        "description": "Kunstdrucke",
         "location": {
             "lat": 51.3525101,
             "lon": 12.4557133,
@@ -1413,7 +1432,7 @@
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "Doppelblick",
-        "description": "Spirituosen (Onlineshop)",
+        "description": "Spirituosen",
         "location": null
     },
     {
@@ -1423,7 +1442,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Drift",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.33080529999999,
             "lon": 12.332285,
@@ -1443,7 +1462,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Dörte Dietrich",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3320151,
             "lon": 12.3464326,
@@ -1463,7 +1482,7 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "ELEMENT OST",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.3484594,
             "lon": 12.4025764,
@@ -1478,12 +1497,12 @@
     },
     {
         "image": "pizza.svg",
-        "title": "ERNAS / Zentrum-Süd",
-        "link": "http://local-heroes-leipzig.de/ernas-leipzig-zentrum-sued/",
+        "title": "ERNAS Deli / Zentrum-Süd",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
-        "cleanTitle": "ERNAS",
-        "description": "Bistro (Lieferservice)",
+        "cleanTitle": "ERNAS Deli",
+        "description": "Bistro",
         "location": {
             "lat": 51.32538049999999,
             "lon": 12.367732,
@@ -1499,22 +1518,41 @@
     },
     {
         "image": "interior.svg",
-        "title": "Ed & Emilia / Leipzig",
+        "title": "Ed & Emilia / Leutzsch",
         "link": "https://edundemilia.com/ueber/",
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Ed & Emilia",
-        "description": "Keramik (Website)",
+        "description": "Keramik",
         "location": null
     },
     {
+        "image": "pizza.svg",
+        "title": "Edda Schmidt / Gohlis",
+        "link": "https://eddaschmidt.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Edda Schmidt",
+        "description": "Catering",
+        "location": {
+            "lat": 51.3685549,
+            "lon": 12.3788954,
+            "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "einkaufen-1.svg",
-        "title": "Eine Welt e.V. / 3x",
-        "link": "http://local-heroes-leipzig.de/eine-welt-e-v-leipzig/",
+        "title": "Eine Welt e.V. / Leipzig",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/",
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Eine Welt e.V.",
-        "description": "Fairtrade (Sonderöffnungszeiten & Onlineshop)",
+        "description": "Fairtrade",
         "location": {
             "lat": 51.30856190000001,
             "lon": 12.3750913,
@@ -1527,34 +1565,13 @@
         }
     },
     {
-        "image": "einkaufen-1.svg",
-        "title": "Einfach Unverpackt / 2x",
-        "link": "http://local-heroes-leipzig.de/einfach-unverpackt-leipzig-2x/",
-        "sub-category": "Einkaufen",
-        "category": "Essen & Trinken",
-        "cleanTitle": "Einfach Unverpackt",
-        "description": "Unverpacktladen (Sonderöffnungszeiten)",
-        "location": {
-            "lat": 51.32387960000001,
-            "lon": 12.3727537,
-            "address": "Kochstraße 6, 04275 Leipzig, Germany",
-            "tags": [
-                "grocery_or_supermarket",
-                "food",
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "eis.svg",
         "title": "Eiscafé La winzi / Alt-West",
-        "link": "http://local-heroes-leipzig.de/eiscafe-la-winzi-leipzig-alt-west/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Eiscafé La winzi",
-        "description": "Eis (Lieferservice & Take Away)",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.3578392,
             "lon": 12.2927222,
@@ -1574,7 +1591,7 @@
         "sub-category": "Schreibwaren, Stifte und Blöcke",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Eisenhauer",
-        "description": "Schreibwaren (Onlineshop)",
+        "description": "Schreibwaren",
         "location": {
             "lat": 51.3333994,
             "lon": 12.3778922,
@@ -1589,11 +1606,11 @@
     {
         "image": "eis.svg",
         "title": "Eisträumerei / Reudnitz",
-        "link": "http://www.eistraeumerei.de/eiscafe/",
+        "link": "https://www.eistraeumerei.de/eiscafe/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Eisträumerei",
-        "description": "Eis (Bestellungen & Take Away)",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.3287195,
             "lon": 12.403948,
@@ -1614,7 +1631,7 @@
         "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "Elstermühle",
-        "description": "Kaffeerösterei (Onlineshop)",
+        "description": "Kaffeerösterei",
         "location": {
             "lat": 51.33819339999999,
             "lon": 12.3610483,
@@ -1630,12 +1647,12 @@
     },
     {
         "image": "yoga.svg",
-        "title": "EnergyTwister / Zentrum-West",
+        "title": "EnergyTwister / Zentrum",
         "link": "http://energytwister.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "EnergyTwister",
-        "description": "Coaching, Kurse, Inspiration (Onlinekurse)",
+        "description": "Coaching, Kurse, Inspiration",
         "location": {
             "lat": 51.3318237,
             "lon": 12.3668714,
@@ -1655,7 +1672,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Engelsdorfer Verlag",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.3483354,
             "lon": 12.4712742,
@@ -1673,7 +1690,7 @@
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Erna Primulla",
-        "description": "Blumenstudio (Online Bestellung)",
+        "description": "Blumenstudio",
         "location": {
             "lat": 51.32898789999999,
             "lon": 12.4179226,
@@ -1688,12 +1705,12 @@
     },
     {
         "image": "blumenstrauss.svg",
-        "title": "Ernte mich / 3x",
+        "title": "Ernte mich / Leipzig",
         "link": "https://www.erntemich.de/",
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Ernte mich",
-        "description": "Pflanzenverkauf (Selbstabholung)",
+        "description": "Pflanzenverkauf",
         "location": {
             "lat": 51.277267,
             "lon": 12.479918,
@@ -1711,12 +1728,12 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "Espresso Zack Zack  / Neuschönefeld",
-        "link": "https://www.startnext.com/wirgemeinsam",
+        "title": "Espresso Zack Zack / Neuschönefeld",
+        "link": "http://www.espressozackzack.de/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Espresso Zack Zack",
-        "description": "Café (Crowdfunding)",
+        "description": "Café",
         "location": {
             "lat": 51.33278,
             "lon": 12.4042299,
@@ -1733,11 +1750,11 @@
     {
         "image": "musik.svg",
         "title": "Eva Meitner/ Leipzig",
-        "link": "https://www.youtube.com/channel/UCxW39fTigSwVQX_DFoK_vsA?fbclid=IwAR1mFrznCHl0O0qZ4q8iMiXLMzXEwEVWFAvJ73uMLamm8Ky4_Vg8DW8SMRc",
+        "link": "https://www.eva-meitner.de/coco",
         "sub-category": "Musik und Liveübertragungen",
         "category": "Hören & Lesen",
         "cleanTitle": "Eva Meitner",
-        "description": "Musik (Onlinestream)",
+        "description": "Musik & Konzerte",
         "location": null
     },
     {
@@ -1747,7 +1764,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "FANG Studio",
-        "description": "Antik- & Kunstmetzgerei (Sonderverkauf & Spenden)",
+        "description": "Antik- & Kunstmetzgerei",
         "location": {
             "lat": 51.3321,
             "lon": 12.39676,
@@ -1765,12 +1782,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "FRAU FISCHER/ Schleußig",
-        "link": "http://local-heroes-leipzig.de/frau-fischer-leipzig-schleussig/",
+        "title": "FRAU FISCHER / Schleußig",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "FRAU FISCHER",
-        "description": "Kleidung & Accessoires (Instagram Sale)",
+        "description": "Kleidung & Accessoires",
         "location": {
             "lat": 51.325016,
             "lon": 12.342125,
@@ -1785,12 +1802,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "Fanö/ Schleußig",
+        "title": "Fanö / Schleußig",
         "link": "https://www.fanoe-mode.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Fanö",
-        "description": "Kleidung (Onlineshop)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.3222305,
             "lon": 12.3431071,
@@ -1810,7 +1827,7 @@
         "sub-category": "Hut und Kopfbedeckungen",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Faunauge",
-        "description": "Kopfschmuck & Accessoires (Onlineshop)",
+        "description": "Kopfschmuck & Accessoires",
         "location": {
             "lat": 51.32110480000001,
             "lon": 12.3680254,
@@ -1830,7 +1847,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Feinschliff",
-        "description": "Möbel (Bestellungen)",
+        "description": "Möbel",
         "location": {
             "lat": 51.36243109999999,
             "lon": 12.3589777,
@@ -1851,7 +1868,7 @@
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Filzwerkstatt",
-        "description": "Handarbeiten (Bestellungen)",
+        "description": "Handarbeiten",
         "location": {
             "lat": 51.3654634,
             "lon": 12.3744823,
@@ -1867,9 +1884,9 @@
         "title": "Flamingocat / Südvorstadt",
         "link": "https://flamingocat.de/",
         "sub-category": "Handarbeiten",
-        "category": "Workshops",
+        "category": "Kleidung & Accessoires",
         "cleanTitle": "Flamingocat",
-        "description": "Handmade Design (Onlineshop + Workshops)",
+        "description": "Schmuck & DIY Workshops",
         "location": {
             "lat": 51.3299617,
             "lon": 12.3738421,
@@ -1882,13 +1899,32 @@
         }
     },
     {
-        "image": "party.svg",
+        "image": "handarbeit.svg",
+        "title": "Flamingocat / Südvorstadt",
+        "link": "https://flamingocat.de/",
+        "sub-category": "Handarbeiten",
+        "category": "Workshops",
+        "cleanTitle": "Flamingocat",
+        "description": "Schmuck & DIY Workshops",
+        "location": {
+            "lat": 51.3299617,
+            "lon": 12.3738421,
+            "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
         "title": "Flossbros / Connewitz",
-        "link": "http://local-heroes-leipzig.de/flossbros-leipzig-connewitz/",
-        "sub-category": "Party",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Flossbros",
-        "description": "Buttons mit Motiv (Onlineshop)",
+        "description": "Buttons",
         "location": {
             "lat": 51.3121365,
             "lon": 12.3767341,
@@ -1906,7 +1942,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Fotostudio80",
-        "description": "Fotolabor & Fotostudio (Onlineaufträge)",
+        "description": "Fotolabor & Fotostudio",
         "location": {
             "lat": 51.331647,
             "lon": 12.3362941,
@@ -1918,13 +1954,13 @@
         }
     },
     {
-        "image": "kaffeebohne.svg",
+        "image": "kaffee.svg",
         "title": "Franz Morish / Zentrum",
-        "link": "https://franzmorish.de/",
-        "sub-category": "Kaffeebohne und Rösterei",
+        "link": "https://franzmorish.de",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Franz Morish",
-        "description": "Kaffeerösterei (Onlineshop & Lieferservice)",
+        "description": "Café",
         "location": {
             "lat": 51.335276,
             "lon": 12.38892,
@@ -1946,7 +1982,7 @@
         "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Franziska Klee",
-        "description": "Taschen & Accessoires (Onlineshop)",
+        "description": "Taschen & Accessoires",
         "location": {
             "lat": 51.36479790000001,
             "lon": 12.3558991,
@@ -1965,7 +2001,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Franziska M. Köllner",
-        "description": "Keramik & Workshops (Website)",
+        "description": "Keramik & Workshops",
         "location": {
             "lat": 51.35523,
             "lon": 12.31347,
@@ -1983,7 +2019,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Fraudi",
-        "description": "Tattoos (Gutscheinverkauf)",
+        "description": "Tattoostudio",
         "location": {
             "lat": 51.3325766,
             "lon": 12.4132574,
@@ -2001,7 +2037,7 @@
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Freischwung",
-        "description": "Blumenladen (Lieferservice & Abholung)",
+        "description": "Blumenladen",
         "location": {
             "lat": 51.32586,
             "lon": 12.3431201,
@@ -2017,11 +2053,11 @@
     {
         "image": "pizza.svg",
         "title": "GASTGEBER / Neuschönefeld",
-        "link": "http://local-heroes-leipzig.de/gastgeber-leipzig-neuschoenefeld/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "GASTGEBER",
-        "description": "Restaurant (Take-Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.33952000000001,
             "lon": 12.4002902,
@@ -2041,7 +2077,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "GESPRO",
-        "description": "Schwimmbäder (Crowdfunding)",
+        "description": "Schwimmbäder",
         "location": {
             "lat": 51.325297,
             "lon": 12.2540549,
@@ -2060,7 +2096,7 @@
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "GOJO Music",
-        "description": "Vocalcoaching (Onlinekurse)",
+        "description": "Vocalcoaching",
         "location": null
     },
     {
@@ -2070,7 +2106,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Gabriele Mahler",
-        "description": "Wäsche & Dessous (Gutscheinverkauf)",
+        "description": "Dessous",
         "location": {
             "lat": 51.34028499999999,
             "lon": 12.376521,
@@ -2086,11 +2122,11 @@
     {
         "image": "mode.svg",
         "title": "GarderobeWest / Lindenau",
-        "link": "http://local-heroes-leipzig.de/315-2/",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "GarderobeWest",
-        "description": "Second Hand (Gutschein + Etsy Shop)",
+        "description": "Second Hand",
         "location": {
             "lat": 51.3317511,
             "lon": 12.3328267,
@@ -2106,11 +2142,11 @@
     {
         "image": "coaching.svg",
         "title": "Gestalt in Leipzig / Leipzig",
-        "link": "https://gestalt-in-leipzig.de/online-sitzungen/",
+        "link": "https://gestalt-in-leipzig.de/",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "Gestalt in Leipzig",
-        "description": "Gestalttherapie (Online-Sitzungen)",
+        "description": "Gestalttherapie",
         "location": {
             "lat": 51.3352146,
             "lon": 12.3334043,
@@ -2128,7 +2164,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Gesundheitssportverein Leipzig e.V.",
-        "description": "Sportverein (Gutscheinverkauf & Spendenaktion)",
+        "description": "Sportverein",
         "location": {
             "lat": 51.3421509,
             "lon": 12.3678392,
@@ -2142,13 +2178,56 @@
         }
     },
     {
+        "image": "musik.svg",
+        "title": "Gitarrenschule Leipzig / Kleinzschocher",
+        "link": "http://www.gitarrenschuleleipzig.com/",
+        "sub-category": "Musik und Liveübertragungen",
+        "category": "Workshops",
+        "cleanTitle": "Gitarrenschule Leipzig",
+        "description": "Musikschule",
+        "location": {
+            "lat": 51.3197335,
+            "lon": 12.3300742,
+            "address": "Windorfer Str. 6, 04229 Leipzig, Germany",
+            "tags": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "optiker.svg",
         "title": "Glas & Bohne / Lindenau",
-        "link": "http://local-heroes-leipzig.de/glas-bohne-leipzig-lindenau/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
+        "sub-category": "Sonstiges",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Glas & Bohne",
+        "description": "Optiker & Café",
+        "location": {
+            "lat": 51.3350818,
+            "lon": 12.3305316,
+            "address": "Endersstraße 6, 04177 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "electronics_store",
+                "home_goods_store",
+                "food",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "optiker.svg",
+        "title": "Glas & Bohne / Lindenau",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Glas & Bohne",
-        "description": "Optiker (Sonderöffnungszeiten)",
+        "description": "Optiker & Café",
         "location": {
             "lat": 51.3350818,
             "lon": 12.3305316,
@@ -2172,7 +2251,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Globus Döner",
-        "description": "Döner (Take-Away)",
+        "description": "Döner",
         "location": {
             "lat": 51.3316974,
             "lon": 12.4055788,
@@ -2193,7 +2272,7 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Glückskind Yoga",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.3389008,
             "lon": 12.3687994,
@@ -2213,7 +2292,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Graue Maus",
-        "description": "Kleidung (Online Bestellungen)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.32480990000001,
             "lon": 12.3426026,
@@ -2233,7 +2312,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Grünschnabel",
-        "description": "Kleidung (Onlineshop)",
+        "description": "Kleidung & Accessoires",
         "location": {
             "lat": 51.3417562,
             "lon": 12.3789169,
@@ -2253,7 +2332,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Guter Griff",
-        "description": "Outdoor (Onlineshop)",
+        "description": "Outdoor",
         "location": {
             "lat": 51.3409471,
             "lon": 12.336101,
@@ -2272,7 +2351,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "HAFEN",
-        "description": "Interieur & Schönes (Onlineshop)",
+        "description": "Interieur & Schönes",
         "location": {
             "lat": 51.331045,
             "lon": 12.3330687,
@@ -2286,12 +2365,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "HERRR GANZE / Zentrum",
+        "title": "HERR GANZE / Zentrum",
         "link": "https://herrganze.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "HERRR GANZE",
-        "description": "Bekleidung (Onlineshop)",
+        "cleanTitle": "HERR GANZE",
+        "description": "Kleidung",
         "location": {
             "lat": 51.337427,
             "lon": 12.3403923,
@@ -2309,7 +2388,7 @@
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "HILDE BRANDT",
-        "description": "Spielzeug (Onlineshop)",
+        "description": "Spielzeug",
         "location": {
             "lat": 51.32821879999999,
             "lon": 12.3458503,
@@ -2330,7 +2409,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Happy Pop-Up Market",
-        "description": "Interieur & Schönes (Facebook-Seite)",
+        "description": "Interieur & Schönes",
         "location": null
     },
     {
@@ -2340,7 +2419,7 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "HeLo",
-        "description": "Café (Gutscheine & Spendenaktion)",
+        "description": "Café",
         "location": {
             "lat": 51.3329105,
             "lon": 12.3358172,
@@ -2355,12 +2434,12 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Hercules / Alt-Lindenau",
+        "title": "Hercules / Altlindenau",
         "link": "https://herkules.eatbu.com/?lang=de#foodOrdering",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Hercules",
-        "description": "griechisches Restaurant (Onlinebestellung)",
+        "description": "Griechisches Restaurant",
         "location": {
             "lat": 51.340742,
             "lon": 12.3330701,
@@ -2380,7 +2459,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Hermoosa",
-        "description": "Schmuck (Etsy Shop)",
+        "description": "Schmuck",
         "location": null
     },
     {
@@ -2390,7 +2469,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Hilde tanzt",
-        "description": "Second Hand (Etsy Shop)",
+        "description": "Second Hand",
         "location": {
             "lat": 51.34006979999999,
             "lon": 12.3260847,
@@ -2410,7 +2489,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "HinrichSINNdreißig",
-        "description": "Antikladen (Bestellungen & Verkauf)",
+        "description": "Antikladen",
         "location": {
             "lat": 51.34196499999999,
             "lon": 12.3745112,
@@ -2424,23 +2503,13 @@
         }
     },
     {
-        "image": "auto-kfz.svg",
-        "title": "Hochzeitsbenz / Leipzig",
-        "link": "http://www.der-hochzeitsbenz.de/",
-        "sub-category": "Auto und Reparatur Werkstatt",
-        "category": "Bewegung & Entspannung",
-        "cleanTitle": "Hochzeitsbenz",
-        "description": "Oldtimer Vermietung (Buchungen)",
-        "location": null
-    },
-    {
         "image": "spiel.svg",
         "title": "Hocuspocus / Lindenau",
-        "link": "http://www.hocuspocus-shop.de/",
+        "link": "https://www.hocuspocus-shop.de/",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Hocuspocus",
-        "description": "Spielzeug (Onlineshop)",
+        "description": "Spielzeug",
         "location": {
             "lat": 51.334964,
             "lon": 12.330937,
@@ -2461,7 +2530,7 @@
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Hooray Today",
-        "description": "Partyshop (Onlineshop)",
+        "description": "Partyshop",
         "location": {
             "lat": 51.34165609999999,
             "lon": 12.366367,
@@ -2497,11 +2566,11 @@
     {
         "image": "party.svg",
         "title": "Hüpfburgen Verleih / Lindenau",
-        "link": "https://huepfburgen-verleih-leipzig.de/",
+        "link": "https://shop.hooraytoday.de/",
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Hüpfburgen Verleih",
-        "description": "Geburtstage & Feste (Ausleihservice)",
+        "description": "Geburtstage & Feste",
         "location": {
             "lat": 51.329588,
             "lon": 12.327802,
@@ -2520,7 +2589,7 @@
         "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "IKOSAE",
-        "description": "Rucksäcke & Taschen (Onlineshop)",
+        "description": "Rucksäcke & Taschen",
         "location": {
             "lat": 51.3321774,
             "lon": 12.3734323,
@@ -2534,11 +2603,11 @@
     {
         "image": "kaffee.svg",
         "title": "INO / Lindenau",
-        "link": "http://www.startnext.com/ino-cafe",
+        "link": "https://www.ino-cafe.de/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "INO",
-        "description": "Café (Crowdfunding)",
+        "description": "Café",
         "location": {
             "lat": 51.3335002,
             "lon": 12.3243148,
@@ -2555,11 +2624,11 @@
     {
         "image": "musik.svg",
         "title": "Ilses Erika / Connewitz",
-        "link": "https://www.facebook.com/pg/ilseserika/events/?ref=page_internal",
+        "link": "http://www.ilseserika.de/termine-63.html",
         "sub-category": "Musik und Liveübertragungen",
         "category": "Hören & Lesen",
         "cleanTitle": "Ilses Erika",
-        "description": "Musik (Liveübertragungen)",
+        "description": "Musik / Club",
         "location": {
             "lat": 51.3110005,
             "lon": 12.3762083,
@@ -2578,7 +2647,7 @@
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Intaeger",
-        "description": "Floral Design (Onlineshop & Onlineberatungen)",
+        "description": "Floral Design",
         "location": {
             "lat": 51.3235755,
             "lon": 12.3667818,
@@ -2598,7 +2667,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "JANIK",
-        "description": "Büroausstattungen (Onlineshop)",
+        "description": "Büroausstattung",
         "location": {
             "lat": 51.3345422,
             "lon": 12.3392427,
@@ -2613,13 +2682,54 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "Janina / Alt-West",
+        "link": "https://www.janinatheiss.de/shop/",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Janina",
+        "description": "Dekoration & Workshops",
+        "location": {
+            "lat": 51.3591517,
+            "lon": 12.2941324,
+            "address": "Leipziger Str. 64, 04178 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Jedermann / Altlindenau",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Jedermann",
+        "description": "Restaurant",
+        "location": {
+            "lat": 51.3408451,
+            "lon": 12.3251729,
+            "address": "Georg-Schwarz-Straße 28, 04177 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
-        "title": "JEEPNEY / Gohlis",
+        "title": "Jeepney / Gohlis",
         "link": "https://jeepney-cafe.de/shop/",
         "sub-category": "Café",
         "category": "Essen & Trinken",
-        "cleanTitle": "JEEPNEY",
-        "description": "Café (Take Away & Gutscheine)",
+        "cleanTitle": "Jeepney",
+        "description": "Café",
         "location": {
             "lat": 51.362761,
             "lon": 12.364926,
@@ -2636,32 +2746,13 @@
         }
     },
     {
-        "image": "interior.svg",
-        "title": "Janina / Alt-West",
-        "link": "https://www.janinatheiss.de/shop/",
-        "sub-category": "Interior und Dekoartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Janina",
-        "description": "Dekoration & Workshops (Onlineshop)",
-        "location": {
-            "lat": 51.3591517,
-            "lon": 12.2941324,
-            "address": "Leipziger Str. 64, 04178 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "prints.svg",
         "title": "Jenne Grassmann / Leipzig",
         "link": "https://www.etsy.com/shop/jennegrassmann",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Jenne Grassmann",
-        "description": "Druckgrafiken & Illustrationen (Etsy Shop)",
+        "description": "Druckgrafik & Illustrationen",
         "location": {
             "lat": 51.3453761,
             "lon": 12.4108226,
@@ -2684,7 +2775,7 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Jimmy Orpheus",
-        "description": "Café (Take Away)",
+        "description": "Café",
         "location": {
             "lat": 51.32512,
             "lon": 12.3428,
@@ -2705,7 +2796,7 @@
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Jules Stoffkiste",
-        "description": "Stoffe & Nähbedarf (Onlineshop)",
+        "description": "Nähbedarf",
         "location": {
             "lat": 51.3238434,
             "lon": 12.4152778,
@@ -2725,17 +2816,17 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "JustePixx",
-        "description": "Fotoprints (Etsy Shop)",
+        "description": "Fotoprints",
         "location": null
     },
     {
-        "image": "sport-1.svg",
-        "title": "KAWi-KiDS / Südvorstadt",
-        "link": "http://local-heroes-leipzig.de/kawi-kids/",
-        "sub-category": "Sport",
+        "image": "familie.svg",
+        "title": "KAWi KiDS / Südvorstadt",
+        "link": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/",
+        "sub-category": "Freizeit und Familie",
         "category": "Bewegung & Entspannung",
-        "cleanTitle": "KAWi-KiDS",
-        "description": "Indoor-Spielplatz (Ausleihe + Crowdfunding)",
+        "cleanTitle": "KAWi KiDS",
+        "description": "Indoorspielplatz",
         "location": {
             "lat": 51.32464299999999,
             "lon": 12.3699846,
@@ -2747,33 +2838,13 @@
         }
     },
     {
-        "image": "mode.svg",
-        "title": "KAZIMIR / Plagwitz",
-        "link": "https://www.etsy.com/de/shop/derKazimir",
-        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "KAZIMIR",
-        "description": "Vintage (Etsy Shop)",
-        "location": {
-            "lat": 51.3319148,
-            "lon": 12.3326973,
-            "address": "Merseburger Str. 33, 04177 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "clothing_store",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "pizza.svg",
         "title": "Kartoffelfräulein / Plagwitz",
         "link": "http://www.kartoffelfraeulein.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Kartoffelfräulein",
-        "description": "Bistro (Lieferservice & Take Away)",
+        "description": "Bistro",
         "location": {
             "lat": 51.3309986,
             "lon": 12.3316846,
@@ -2794,7 +2865,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Katja Rub",
-        "description": "Illustrationen (Etsy Shop)",
+        "description": "Illustrationen",
         "location": {
             "lat": 51.3320653,
             "lon": 12.4098269,
@@ -2806,13 +2877,33 @@
         }
     },
     {
+        "image": "mode.svg",
+        "title": "Kazimir / Plagwitz",
+        "link": "https://www.etsy.com/de/shop/derKazimir",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Kazimir",
+        "description": "Second Hand",
+        "location": {
+            "lat": 51.3319148,
+            "lon": 12.3326973,
+            "address": "Merseburger Str. 33, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "sport-1.svg",
-        "title": "Kickbox Verein Leipzig / Plagwitz",
-        "link": "http://local-heroes-leipzig.de/kickbox-verein-leipzig-plagwitz/",
+        "title": "Kickbox Verein / Plagwitz",
+        "link": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/",
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
-        "cleanTitle": "Kickbox Verein Leipzig",
-        "description": "Sport (Onlinetraining)",
+        "cleanTitle": "Kickbox Verein",
+        "description": "Sport",
         "location": {
             "lat": 51.32728729999999,
             "lon": 12.3259064,
@@ -2830,7 +2921,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Kleine Hummel",
-        "description": "Kinderaccessoires (Onlineshop)",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3204303,
             "lon": 12.373807,
@@ -2844,13 +2935,13 @@
         }
     },
     {
-        "image": "pizza.svg",
+        "image": "feinkost.svg",
         "title": "Kleine Leckerei / Schleußig",
         "link": "https://www.kleineleckerei.de/lieferservice/",
-        "sub-category": "Essen & Trinken",
+        "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Kleine Leckerei",
-        "description": "Café & Bistro (Lieferservice & Take Away)",
+        "description": "Café & Bistro",
         "location": {
             "lat": 51.3222169,
             "lon": 12.3404323,
@@ -2867,33 +2958,13 @@
         }
     },
     {
-        "image": "mode.svg",
-        "title": "KlimBim / Schleußig",
-        "link": "https://www.etsy.com/de/shop/derKazimir",
-        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "KlimBim",
-        "description": "Kindermode (Onlineshop)",
-        "location": {
-            "lat": 51.322647,
-            "lon": 12.3429432,
-            "address": "Könneritzstraße 60, 04229 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "clothing_store",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "prints.svg",
         "title": "Knalltüte / Schleußig",
-        "link": "http://local-heroes-leipzig.de/knalltuete-leipzig-schleussig/",
+        "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Knalltüte",
-        "description": "Grafik & Design (Instagram Sale)",
+        "description": "Grafik & Design",
         "location": {
             "lat": 51.324999,
             "lon": 12.3422047,
@@ -2912,7 +2983,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Kraks",
-        "description": "Kinderschuhe (Bestellungen)",
+        "description": "Kinderschuhe",
         "location": {
             "lat": 51.340486,
             "lon": 12.3861534,
@@ -2926,13 +2997,31 @@
         }
     },
     {
+        "image": "buecher-magazine-1.svg",
+        "title": "Kreuzer / Zentrum-Ost",
+        "link": "https://kreuzer-leipzig.de/",
+        "sub-category": "Bücher und Magazine",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Kreuzer",
+        "description": "Stadtmagazin",
+        "location": {
+            "lat": 51.3426792,
+            "lon": 12.3862106,
+            "address": "Büttnerstraße 10, 04103 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "moebel.svg",
-        "title": "Kulturwarenfabrik / Lindenau",
+        "title": "Kulturwarenfarbik / Lindenau",
         "link": "https://www.kulturwarenfabrik.com/laden",
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Kulturwarenfabrik",
-        "description": "Tischlerei (Onlineshop)",
+        "cleanTitle": "Kulturwarenfarbik",
+        "description": "Tischlerei",
         "location": {
             "lat": 51.33408739999999,
             "lon": 12.3260464,
@@ -2945,12 +3034,12 @@
     },
     {
         "image": "spiel.svg",
-        "title": "Kumi Mood / Lindenau",
+        "title": "Kumi Mood / Lindnau",
         "link": "https://kumi-mood.de/shop",
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Kumi Mood",
-        "description": "Spielkunst (Onlineshop)",
+        "description": "Spielkunst",
         "location": {
             "lat": 51.32956,
             "lon": 12.32341,
@@ -2968,7 +3057,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Kunst & Katze",
-        "description": "Kunsthandwerk & Bekleidung (Lieferservice)",
+        "description": "Kunsthandwerk & Bekleidung",
         "location": {
             "lat": 51.3294514,
             "lon": 12.3343287,
@@ -2982,13 +3071,51 @@
         }
     },
     {
+        "image": "familie.svg",
+        "title": "Kunstkraftwerk / Lindenau",
+        "link": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/",
+        "sub-category": "Freizeit und Familie",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Kunstkraftwerk",
+        "description": "Ausstellungs- & Kulturzentrum",
+        "location": {
+            "lat": 51.3302438,
+            "lon": 12.3204046,
+            "address": "Saalfelder Str. 8, 04179 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Kuultivo / Schleußig",
+        "link": "https://kuultivo-shop.company.site/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Kuultivo",
+        "description": "Restaurant",
+        "location": {
+            "lat": 51.3266362,
+            "lon": 12.3448509,
+            "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "schmuck.svg",
-        "title": "Königswurzeln / Leipzig",
+        "title": "Königswurzel / Leipzig",
         "link": "https://www.etsy.com/de/shop/Koenigswurzeln",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Königswurzeln",
-        "description": "Schmuck (Etsy Shop)",
+        "cleanTitle": "Königswurzel",
+        "description": "Schmuck",
         "location": {
             "lat": 51.37318,
             "lon": 12.3596298,
@@ -3006,17 +3133,17 @@
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Küchenholz Manufaktur",
-        "description": "Kräuterauszüge (Onlineshop)",
+        "description": "Kräuterauszüge",
         "location": null
     },
     {
         "image": "mode.svg",
-        "title": "LELO karli123 / Südvorstadt",
+        "title": "LEO karli123 / Südvorstadt",
         "link": "https://www.lelo.bio/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "LELO karli123",
-        "description": "Kindermode (Onlineshop)",
+        "cleanTitle": "LEO karli123",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3172896,
             "lon": 12.3737515,
@@ -3025,25 +3152,6 @@
                 "point_of_interest",
                 "clothing_store",
                 "store",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "interior.svg",
-        "title": "LIEBLINGSWERK / Zentrum",
-        "link": "https://www.lieblingswerk.de/infos",
-        "sub-category": "Interior und Dekoartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "LIEBLINGSWERK",
-        "description": "Keramikmalstudio (Gutscheinverkauf)",
-        "location": {
-            "lat": 51.3429996,
-            "lon": 12.3661403,
-            "address": "Naundörfchen 2, 04109 Leipzig, Germany",
-            "tags": [
-                "store",
-                "point_of_interest",
                 "establishment"
             ]
         }
@@ -3069,13 +3177,23 @@
         }
     },
     {
+        "image": "schmuck.svg",
+        "title": "Le Fuxs / Leipzig",
+        "link": "https://www.etsy.com/de/shop/lefuxs",
+        "sub-category": "Schmuck, Accessoires",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Le Fuxs",
+        "description": "Schmuck",
+        "location": null
+    },
+    {
         "image": "yoga.svg",
         "title": "LebendigMACHER / Stötteritz",
         "link": "https://www.lebendigmacher.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "LebendigMACHER",
-        "description": "Praxis für mehr Lebendigkeit (Onlinekurse)",
+        "description": "Praxis für mehr Lebendigkeit",
         "location": {
             "lat": 51.3191338,
             "lon": 12.4193101,
@@ -3094,7 +3212,7 @@
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "Lena Staudigl",
-        "description": "Beratung, Supervision & Therapie (Online Sessions)",
+        "description": "Beratung, Supervision & Therapie",
         "location": {
             "lat": 51.3169927,
             "lon": 12.3691581,
@@ -3107,13 +3225,13 @@
         }
     },
     {
-        "image": "cocktail-1.svg",
+        "image": "pizza.svg",
         "title": "Letterman / Zentrum",
-        "link": "http://local-heroes-leipzig.de/letterman-leipzig-zentrum/",
-        "sub-category": "Cocktail",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/",
+        "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Letterman",
-        "description": "Bar & Grill (Lieferservice & Take Away)",
+        "description": "Bar & Grill",
         "location": {
             "lat": 51.34010989999999,
             "lon": 12.3703432,
@@ -3128,13 +3246,32 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "Lieblingswerk / Zentrum",
+        "link": "https://www.lieblingswerk.de/infos",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Lieblingswerk",
+        "description": "Keramikmalstudio",
+        "location": {
+            "lat": 51.3429996,
+            "lon": 12.3661403,
+            "address": "Naundörfchen 2, 04109 Leipzig, Germany",
+            "tags": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "coaching.svg",
         "title": "Lifestyle Emergency / Leipzig",
         "link": "https://lifestyle-emergency.com/",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "Lifestyle Emergency",
-        "description": "Stilberatung (Onlinekurse)",
+        "description": "Stilberatung",
         "location": null
     },
     {
@@ -3144,7 +3281,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Localino",
-        "description": "italienisches Restaurant (Lieferservice & Selbstabholung)",
+        "description": "Italienisches Restaurant",
         "location": {
             "lat": 51.3354114,
             "lon": 12.3576828,
@@ -3164,7 +3301,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Luise Neugebauer",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3233495,
             "lon": 12.373937,
@@ -3184,7 +3321,7 @@
         "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Lust auf Blumen",
-        "description": "Blumenladen (Bestellungen)",
+        "description": "Blumenladen",
         "location": {
             "lat": 51.30782910000001,
             "lon": 12.3778716,
@@ -3204,7 +3341,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "MZIN",
-        "description": "Bücher & Magazine (Onlineshop)",
+        "description": "Bücher & Magazine",
         "location": {
             "lat": 51.338093,
             "lon": 12.3660955,
@@ -3219,12 +3356,12 @@
     },
     {
         "image": "reisen.svg",
-        "title": "Madiba / Gohlis-Süd",
+        "title": "Madiba / Gohlis",
         "link": "https://www.madiba.de/",
         "sub-category": "Reisen",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Madiba",
-        "description": "Reisen (Online- & Telefonberatung)",
+        "description": "Reisen",
         "location": {
             "lat": 51.3533039,
             "lon": 12.3741821,
@@ -3242,18 +3379,26 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "MahalyMacrame",
-        "description": "Dekoration (Etsy Shop)",
+        "description": "Makrame",
         "location": null
     },
     {
         "image": "eis.svg",
-        "title": "Manusso / Plagwitz",
-        "link": "http://local-heroes-leipzig.de/manusso-eis-leipzig-plagwitz/",
+        "title": "Manusso Eis / Plagwitz",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
-        "cleanTitle": "Manusso",
-        "description": "Eis (Lieferservice & Take Away)",
-        "location": null
+        "cleanTitle": "Manusso Eis",
+        "description": "Eisdiele",
+        "location": {
+            "lat": 51.3253018,
+            "lon": 12.3297043,
+            "address": "Markranstädter Str. 8 Ecke, Wachsmuthstraße, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "reisen.svg",
@@ -3262,7 +3407,7 @@
         "sub-category": "Reisen",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Meine Welt Reisen",
-        "description": "Reisen (Onlineberatung)",
+        "description": "Reisen",
         "location": {
             "lat": 51.332111,
             "lon": 12.3734812,
@@ -3280,7 +3425,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Merle Kids",
-        "description": "Kinderkleidung (Onlineshop)",
+        "description": "Kindermode",
         "location": null
     },
     {
@@ -3290,7 +3435,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Michaelis",
-        "description": "Hotel & Restaurant (Website)",
+        "description": "Hotel & Restaurant",
         "location": {
             "lat": 51.3284376,
             "lon": 12.3745189,
@@ -3311,11 +3456,29 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Mindt Studio",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.322284,
             "lon": 12.331596,
             "address": "Zschochersche Str. 86, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "prints.svg",
+        "title": "Modernusart Jerry Jordan / Plagwitz",
+        "link": "https://www.instagram.com/modernusart/",
+        "sub-category": "Prints und Kunstartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Modernusart Jerry Jordan",
+        "description": "Schrift- & Schildermalerei",
+        "location": {
+            "lat": 51.3240272,
+            "lon": 12.3357513,
+            "address": "04229 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
                 "establishment"
@@ -3329,7 +3492,7 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Mona Schaffer",
-        "description": "Kunst (Onlineshop)",
+        "description": "Kunst",
         "location": null
     },
     {
@@ -3339,7 +3502,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Mrs. Hippie",
-        "description": "Kleidung (Onlineshop)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.3264331,
             "lon": 12.3734023,
@@ -3376,11 +3539,11 @@
     {
         "image": "musik.svg",
         "title": "Musikzimmer / Plagwitz",
-        "link": "http://local-heroes-leipzig.de/musikzimmer-leipzig-plagwitz/",
+        "link": "http://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/",
         "sub-category": "Musik und Liveübertragungen",
-        "category": "Workshops",
+        "category": "Hören & Lesen",
         "cleanTitle": "Musikzimmer",
-        "description": "Musik (Gutscheinverkauf)",
+        "description": "Musikalische Begegnungen",
         "location": {
             "lat": 51.3275929,
             "lon": 12.3222508,
@@ -3398,7 +3561,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Möbelkooperative Süd",
-        "description": "Möbel & Interieur (Ebay Kleinanzeigen)",
+        "description": "Möbel & Interieur",
         "location": {
             "lat": 51.315045,
             "lon": 12.3768214,
@@ -3419,7 +3582,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Möbelwerkstatt",
-        "description": "Polstermöbel-Design (Terminvereinbarung)",
+        "description": "Polstermöbel-Design",
         "location": {
             "lat": 51.3204171,
             "lon": 12.3285392,
@@ -3434,23 +3597,23 @@
         }
     },
     {
-        "image": "naehbedarf.svg",
+        "image": "mode.svg",
         "title": "NadeLiebe / Dölitz",
         "link": "https://www.etsy.com/de/shop/NadeLiebe",
-        "sub-category": "Stoffe und Nähbedarf",
-        "category": "Produkte & Kreatives",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
         "cleanTitle": "NadeLiebe",
-        "description": "Kleidung & Accessoires (Etsy Shop)",
+        "description": "Kleidung & Accessoires",
         "location": null
     },
     {
         "image": "yoga.svg",
-        "title": "Natur & Psyche / Alt-Lindenau",
-        "link": "http://heilpraktiker-becher-leipzig.de/",
+        "title": "Natur & Psyche / Altlindenau",
+        "link": "https://heilpraktiker-becher-leipzig.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Natur & Psyche",
-        "description": "Heilpraktiker (Sprechstunde & Gutscheinverkauf)",
+        "description": "Heilpraktiker",
         "location": {
             "lat": 51.33885679999999,
             "lon": 12.3345677,
@@ -3469,7 +3632,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Naturnah Möbel",
-        "description": "Möbel (Onlineshop)",
+        "description": "Möbel",
         "location": {
             "lat": 51.35371,
             "lon": 12.4102699,
@@ -3490,7 +3653,28 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Naturparadies Leipzig",
-        "description": "Bioladen (Onlineshop)",
+        "description": "Bioladen",
+        "location": {
+            "lat": 51.3409276,
+            "lon": 12.37927,
+            "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
+            "tags": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "einkaufen-1.svg",
+        "title": "Naturparadies Leipzig / Zentrum",
+        "link": "http://naturparadies-leipzig.de/",
+        "sub-category": "Einkaufen",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Naturparadies Leipzig",
+        "description": "Bioladen",
         "location": {
             "lat": 51.3409276,
             "lon": 12.37927,
@@ -3507,11 +3691,11 @@
     {
         "image": "cocktail-1.svg",
         "title": "Nepomuk / Plagwitz",
-        "link": "https://www.paypal.com/pools/c/8ntbE0LPNc",
+        "link": "http://nepomuk-leipzig.de/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "Nepomuk",
-        "description": "Bar (Spendenaktion)",
+        "description": "Bar",
         "location": {
             "lat": 51.3283751,
             "lon": 12.336554,
@@ -3530,17 +3714,17 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Nikita Roytman",
-        "description": "Fotoprints (Etsy Shop)",
+        "description": "Fotoprints",
         "location": null
     },
     {
-        "image": "musik.svg",
+        "image": "cocktail-1.svg",
         "title": "Noch Besser Leben / Plagwitz",
-        "link": "https://www.facebook.com/events/2577127955835651/",
-        "sub-category": "Musik und Liveübertragungen",
-        "category": "Hören & Lesen",
+        "link": "https://www.nochbesserleben.com/",
+        "sub-category": "Cocktail",
+        "category": "Essen & Trinken",
         "cleanTitle": "Noch Besser Leben",
-        "description": "Musik (Liveübertragungen)",
+        "description": "Bar / Livekonzerte",
         "location": {
             "lat": 51.3310317,
             "lon": 12.3331105,
@@ -3555,21 +3739,19 @@
     },
     {
         "image": "cocktail-1.svg",
-        "title": "OSKAR / Südvorstadt",
-        "link": "https://oskar-leipzig.de/gutschein/",
+        "title": "Noch Besser Leben / Plagwitz",
+        "link": "https://www.nochbesserleben.com/",
         "sub-category": "Cocktail",
-        "category": "Essen & Trinken",
-        "cleanTitle": "OSKAR",
-        "description": "Bar & Restaurant (Gutscheinverkauf)",
+        "category": "Hören & Lesen",
+        "cleanTitle": "Noch Besser Leben",
+        "description": "Bar / Livekonzerte",
         "location": {
-            "lat": 51.331654,
-            "lon": 12.3718221,
-            "address": "Harkortstraße 21, 04107 Leipzig, Germany",
+            "lat": 51.3310317,
+            "lon": 12.3331105,
+            "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
             "tags": [
-                "park",
+                "lodging",
                 "bar",
-                "restaurant",
-                "food",
                 "point_of_interest",
                 "establishment"
             ]
@@ -3577,12 +3759,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "OSZL/ Zentrum-Ost",
+        "title": "OSZL / Zentrum-Ost",
         "link": "https://www.oszl.de/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "OSZL",
-        "description": "Der Fuß- & Schuhspezialist (Sonderöffnungszeiten)",
+        "description": "Fuß- & Schuhspezialist",
         "location": {
             "lat": 51.346194,
             "lon": 12.396101,
@@ -3604,7 +3786,7 @@
         "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "Oben Auf",
-        "description": "Kaffeerösterei (Onlineshop)",
+        "description": "Kaffeerösterei",
         "location": {
             "lat": 51.33154159999999,
             "lon": 12.3350365,
@@ -3625,7 +3807,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Olea",
-        "description": "Mediterranes Restaurant (Take Away)",
+        "description": "Mediterranes Restaurant",
         "location": {
             "lat": 51.3365306,
             "lon": 12.3361873,
@@ -3640,32 +3822,13 @@
         }
     },
     {
-        "image": "pizza.svg",
-        "title": "Opitz Catering / Knauthain",
-        "link": "https://catering-leipzig.de/",
-        "sub-category": "Essen & Trinken",
-        "category": "Essen & Trinken",
-        "cleanTitle": "Opitz Catering",
-        "description": "Catering (Bestellung)",
-        "location": {
-            "lat": 51.2735456,
-            "lon": 12.3133099,
-            "address": "Knuthstraße 6, 04249 Leipzig, Germany",
-            "tags": [
-                "food",
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "optiker.svg",
         "title": "Optikstudio Marion Müller / Südvorstadt",
         "link": "https://www.optikstudio-mueller.de/aktuelles/news/index.html",
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Optikstudio Marion Müller",
-        "description": "Optiker (Sonderöffnungszeiten)",
+        "description": "Optiker",
         "location": {
             "lat": 51.315653,
             "lon": 12.373083,
@@ -3679,13 +3842,35 @@
         }
     },
     {
+        "image": "cocktail-1.svg",
+        "title": "Oskar / Südvorstadt",
+        "link": "https://oskar-leipzig.de/gutschein/",
+        "sub-category": "Cocktail",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Oskar",
+        "description": "Bar & Restaurant",
+        "location": {
+            "lat": 51.331654,
+            "lon": 12.3718221,
+            "address": "Harkortstraße 21, 04107 Leipzig, Germany",
+            "tags": [
+                "park",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "pizza.svg",
         "title": "PAN / Lindenau",
-        "link": "http://local-heroes-leipzig.de/pan-leipzig-lindenau/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "PAN",
-        "description": "Mittagstisch (Lieferservice & Take Away)",
+        "description": "Mittagstisch",
         "location": {
             "lat": 51.3377971,
             "lon": 12.3333883,
@@ -3701,11 +3886,11 @@
     {
         "image": "pizza.svg",
         "title": "PEKAR / Lindenau",
-        "link": "http://local-heroes-leipzig.de/pekar-leipzig-lindenau-2/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "PEKAR",
-        "description": "Pizza (Selbstabholung)",
+        "description": "Pizzeria",
         "location": {
             "lat": 51.3369998,
             "lon": 12.3327859,
@@ -3722,11 +3907,11 @@
     {
         "image": "cocktail-1.svg",
         "title": "PIVO / Connewitz",
-        "link": "http://local-heroes-leipzig.de/pivo-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "PIVO",
-        "description": "Bar (Gutscheinverkauf)",
+        "description": "Bar",
         "location": {
             "lat": 51.3086092,
             "lon": 12.3766417,
@@ -3744,12 +3929,12 @@
     },
     {
         "image": "prints.svg",
-        "title": "Pappnoptikum / Leipzig",
+        "title": "Pappnoptikum / Lindenau",
         "link": "https://www.pappnoptikum.de/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Pappnoptikum",
-        "description": "Papeterie (Onlineshop)",
+        "description": "Papeterie",
         "location": null
     },
     {
@@ -3759,7 +3944,7 @@
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Pistrada",
-        "description": "Fahrradladen (Onlineshop & Werkstatt)",
+        "description": "Fahrradladen",
         "location": {
             "lat": 51.33739079999999,
             "lon": 12.3277711,
@@ -3775,11 +3960,11 @@
     {
         "image": "cocktail-1.svg",
         "title": "Platzhirsch / Südvorstadt",
-        "link": "https://www.startnext.com/platzhirsch-bar",
+        "link": "https://www.facebook.com/platzhirschbarleipzig/",
         "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "Platzhirsch",
-        "description": "Bar (Crowdfunding)",
+        "description": "Bar",
         "location": {
             "lat": 51.3253297,
             "lon": 12.3702837,
@@ -3800,7 +3985,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Print 4 Kids",
-        "description": "Kindermode (Onlineshop)",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3215663,
             "lon": 12.4056233,
@@ -3820,17 +4005,17 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Prodotyp",
-        "description": "Accessoires (Onlineshop)",
+        "description": "Kleidung & Accessoires",
         "location": null
     },
     {
-        "image": "buecher-magazine-1.svg",
+        "image": "buecher-magazine.svg",
         "title": "ROTORBOOKS / Zentrum",
-        "link": "http://local-heroes-leipzig.de/rotorbooks-leipzig-zentrum/",
+        "link": "http://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "ROTORBOOKS",
-        "description": "Buchhandlung (Lieferservice)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.337954,
             "lon": 12.367504,
@@ -3852,7 +4037,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "RUSTY CAT",
-        "description": "Homegoods (Onlineshop)",
+        "description": "Homegoods",
         "location": {
             "lat": 51.321307,
             "lon": 12.371921,
@@ -3866,13 +4051,13 @@
         }
     },
     {
-        "image": "interior.svg",
+        "image": "putzen.svg",
         "title": "Rauch / Zentrum-Süd",
         "link": "https://www.rauch-leipzig.de/index.html",
-        "sub-category": "Interior und Dekoartikel",
+        "sub-category": "Putzen und Haushaltswaren",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Rauch",
-        "description": "Haushaltswaren (Onlinebestellungen)",
+        "description": "Haushaltswaren",
         "location": {
             "lat": 51.3290448,
             "lon": 12.3730857,
@@ -3886,13 +4071,13 @@
         }
     },
     {
-        "image": "pizza.svg",
+        "image": "cocktail-1.svg",
         "title": "Renkli / Südvorstadt",
-        "link": "https://www.werideleipzig.com/shop",
-        "sub-category": "Essen & Trinken",
+        "link": "https://www.facebook.com/renkli.weinundangst/",
+        "sub-category": "Cocktail",
         "category": "Essen & Trinken",
         "cleanTitle": "Renkli",
-        "description": "Pizza & Wein (Lieferservice)",
+        "description": "Bar & Bistro",
         "location": {
             "lat": 51.3316723,
             "lon": 12.3735803,
@@ -3908,11 +4093,11 @@
     {
         "image": "pizza.svg",
         "title": "Rimini / Connewitz",
-        "link": "http://local-heroes-leipzig.de/rimini-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/rimini-connewitz/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Rimini",
-        "description": "Imbiss (Gutscheinverkauf & Take Away)",
+        "description": "Imbiss",
         "location": {
             "lat": 51.30857,
             "lon": 12.37694,
@@ -3926,18 +4111,20 @@
         }
     },
     {
-        "image": "mode.svg",
-        "title": "Rosentreter / Plagwitz",
-        "link": "https://rosentreter-modedesign.de/",
-        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "Rosentreter",
-        "description": "Modemanufaktur (Onlineshop)",
+        "image": "kaffee.svg",
+        "title": "Roots / Schleußig",
+        "link": "https://www.roots-pflanzencafe.de/gutscheine",
+        "sub-category": "Café",
+        "category": "Essen & Trinken",
+        "cleanTitle": "Roots",
+        "description": "Pflanzencafé",
         "location": {
-            "lat": 51.33030669999999,
-            "lon": 12.3305132,
-            "address": "Karl-Heine-Straße 93, 04229 Leipzig, Germany",
+            "lat": 51.3205171,
+            "lon": 12.3416263,
+            "address": "Könneritzstraße 88, 04229 Leipzig, Germany",
             "tags": [
+                "cafe",
+                "food",
                 "point_of_interest",
                 "establishment"
             ]
@@ -3950,7 +4137,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "RotYve",
-        "description": "Kleidung (Onlineshop)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.3358492,
             "lon": 12.3340381,
@@ -3970,17 +4157,17 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Rotberta",
-        "description": "Prints & Papeterie (Etsy Shop)",
+        "description": "Prints & Papeterie",
         "location": null
     },
     {
         "image": "taschen-rucksaecke.svg",
-        "title": "Rothöll / Alt-Lindenau",
+        "title": "Rothöll / Altlindenau",
         "link": "https://www.rothoell.com/shop/",
         "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Rothöll",
-        "description": "Taschen & Accessoires (Onlineshop)",
+        "description": "Taschen & Accessoires",
         "location": null
     },
     {
@@ -3990,7 +4177,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Rotznasen",
-        "description": "Kindermode (Onlineshop)",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3223049,
             "lon": 12.3431162,
@@ -4010,7 +4197,7 @@
         "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "RÅVARE",
-        "description": "Rucksäcke & Accessoires (Onlineshop)",
+        "description": "Rucksäcke & Accessoires",
         "location": {
             "lat": 51.36605350000001,
             "lon": 12.3874156,
@@ -4028,7 +4215,7 @@
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Räuber & Rabauken",
-        "description": "Stoffladen (Onlineshop)",
+        "description": "Stoffladen",
         "location": {
             "lat": 51.3232784,
             "lon": 12.3788027,
@@ -4044,12 +4231,12 @@
     },
     {
         "image": "kaffeebohne.svg",
-        "title": "RöstGut / Schleußig",
+        "title": "RöstGut/ Schleußig",
         "link": "https://roestgut.de/shop.html",
         "sub-category": "Kaffeebohne und Rösterei",
         "category": "Essen & Trinken",
         "cleanTitle": "RöstGut",
-        "description": "Kaffeerösterei (Onlineshop & Take Away)",
+        "description": "Kaffeerösterei",
         "location": {
             "lat": 51.3252685,
             "lon": 12.3411394,
@@ -4062,13 +4249,13 @@
         }
     },
     {
-        "image": "sport-1.svg",
-        "title": "Rückenoase / Leipzig",
+        "image": "yoga.svg",
+        "title": "Rückenoase / Zentrum",
         "link": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/",
-        "sub-category": "Sport",
+        "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Rückenoase",
-        "description": "Massagen (Gutscheinverkauf)",
+        "description": "Massagen",
         "location": {
             "lat": 51.3427075,
             "lon": 12.3838595,
@@ -4080,13 +4267,13 @@
         }
     },
     {
-        "image": "kaffeebohne.svg",
+        "image": "kaffee.svg",
         "title": "S1 Vinyl & Kaffee / Zentrum-Süd",
-        "link": "https://www.startnext.com/wirgemeinsam",
-        "sub-category": "Kaffeebohne und Rösterei",
+        "link": "https://s1vinylundkaffee.de/",
+        "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "S1 Vinyl & Kaffee",
-        "description": "Café (Crowdfunding)",
+        "description": "Café & Plattenladen",
         "location": {
             "lat": 51.3471251,
             "lon": 12.3147613,
@@ -4103,13 +4290,36 @@
         }
     },
     {
-        "image": "interior.svg",
+        "image": "kaffee.svg",
+        "title": "S1 Vinyl & Kaffee / Zentrum-Süd",
+        "link": "https://s1vinylundkaffee.de/",
+        "sub-category": "Café",
+        "category": "Hören & Lesen",
+        "cleanTitle": "S1 Vinyl & Kaffee",
+        "description": "Café & Plattenladen",
+        "location": {
+            "lat": 51.3471251,
+            "lon": 12.3147613,
+            "address": "Sattelhofstraße 1, 04179 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "electronics_store",
+                "home_goods_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "geschenk.svg",
         "title": "SIGNUU / Zentrum",
         "link": "https://www.signuu.com/gravurshop.html",
-        "sub-category": "Interior und Dekoartikel",
+        "sub-category": "Geschenke und Geschenkartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "SIGNUU",
-        "description": "Gravuren (Onlineshop)",
+        "description": "Gravuren",
         "location": {
             "lat": 51.342415,
             "lon": 12.378899,
@@ -4123,12 +4333,12 @@
     },
     {
         "image": "moebel.svg",
-        "title": "STIL concenptstore / Zentrum",
+        "title": "STIL conceptstore / Zentrum",
         "link": "https://www.stilconceptstore.de/shop/",
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "STIL concenptstore",
-        "description": "Interieur (Onlineshop)",
+        "cleanTitle": "STIL conceptstore",
+        "description": "Interieur",
         "location": {
             "lat": 51.341837,
             "lon": 12.378825,
@@ -4155,7 +4365,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "ST’ATOUR",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3243498,
             "lon": 12.3344462,
@@ -4171,11 +4381,11 @@
     {
         "image": "feinkost.svg",
         "title": "Salumeria / Gohlis",
-        "link": "http://local-heroes-leipzig.de/salumeria-leipzig-gohlis/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/",
         "sub-category": "Feinkost",
         "category": "Essen & Trinken",
         "cleanTitle": "Salumeria",
-        "description": "Feinkost (Lieferservice & Take Away)",
+        "description": "Feinkostladen",
         "location": {
             "lat": 51.360481,
             "lon": 12.362131,
@@ -4197,7 +4407,7 @@
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "Samstagsmarkt",
-        "description": "regionaler Wochenmarkt (Sonderzeiten)",
+        "description": "Markt",
         "location": {
             "lat": 51.3253018,
             "lon": 12.3297043,
@@ -4215,7 +4425,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Sankt.K",
-        "description": "Schmuck (Etsy Shop)",
+        "description": "Schmuck",
         "location": {
             "lat": 51.3396955,
             "lon": 12.3730747,
@@ -4233,7 +4443,7 @@
         "sub-category": "Putzen und Haushaltswaren",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Sauberkasten",
-        "description": "Waschen & Reinigen (Onlineshop)",
+        "description": "Waschen & Reinigen",
         "location": {
             "lat": 51.3480848,
             "lon": 12.2998487,
@@ -4245,13 +4455,13 @@
         }
     },
     {
-        "image": "musik.svg",
+        "image": "buecher-magazine-1.svg",
         "title": "Schaubühne Lindenfels / Plagwitz",
-        "link": "http://www.schaubuehne.com/programm/reihen/so-koennen-sie-uns-unterstuetzen/",
-        "sub-category": "Musik und Liveübertragungen",
+        "link": "https://www.schaubuehne.com/",
+        "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Schaubühne Lindenfels",
-        "description": "Film, Kunst, Theater (Spenden, Aktien, Gutscheine)",
+        "description": "Film, Kunst, Theater",
         "location": {
             "lat": 51.33183,
             "lon": 12.3345699,
@@ -4272,7 +4482,7 @@
         "sub-category": "Freizeit und Familie",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Scheibenholz",
-        "description": "Galopprennbahn (Spendenaktion)",
+        "description": "Galopprennbahn",
         "location": {
             "lat": 51.3260544,
             "lon": 12.3577054,
@@ -4290,7 +4500,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Schleifenfänger",
-        "description": "Brautmode (Onlineshop)",
+        "description": "Brautmode",
         "location": {
             "lat": 51.3341,
             "lon": 12.40534,
@@ -4310,7 +4520,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Schnellbuffet Süd",
-        "description": "Bistro (Take Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.315872,
             "lon": 12.373646,
@@ -4330,7 +4540,7 @@
         "sub-category": "Schreibwaren, Stifte und Blöcke",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Schreib‘ und Stil",
-        "description": "Schreibwaren (Onlineshop)",
+        "description": "Schreibwaren",
         "location": {
             "lat": 51.339784,
             "lon": 12.3754794,
@@ -4349,7 +4559,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Schuhhaus Zimmermann",
-        "description": "Schuhe (Onlineshop)",
+        "description": "Schuhe",
         "location": {
             "lat": 51.34229,
             "lon": 12.37365,
@@ -4369,7 +4579,7 @@
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Schwesterchen & Schwesterchen",
-        "description": "Spielzeug & Deko (Onlineshop)",
+        "description": "Spielzeug & Dekoration",
         "location": {
             "lat": 51.3293502,
             "lon": 12.3420977,
@@ -4385,11 +4595,11 @@
     {
         "image": "buecher-magazine-1.svg",
         "title": "Seitenblick / Lindenau",
-        "link": "http://277780.umbreitwebshop.de/",
+        "link": "https://bestsecrets.de/?page=70",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Seitenblick",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.3364489,
             "lon": 12.3357397,
@@ -4409,7 +4619,7 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Serifee",
-        "description": "Kinderbuchhandlung (Onlineshop & Lieferservice)",
+        "description": "Kinderbuchhandlung",
         "location": {
             "lat": 51.3264331,
             "lon": 12.3734023,
@@ -4425,11 +4635,11 @@
     {
         "image": "pizza.svg",
         "title": "Shady / Südvorstadt",
-        "link": "http://local-heroes-leipzig.de/shady-leipzig-suedvorstadt/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Shady",
-        "description": "Restaurant (Take Away)",
+        "description": "Café & Restaurant",
         "location": {
             "lat": 51.32532089999999,
             "lon": 12.3704379,
@@ -4450,17 +4660,17 @@
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Sina Villinger",
-        "description": "Familienfotografie (Gutscheinverkauf)",
+        "description": "Fotografie",
         "location": null
     },
     {
         "image": "prints.svg",
-        "title": "Slinga Illustration / Abtnaundorf",
+        "title": "Slinga Illustration / Schönefeld",
         "link": "https://www.slingashop.de/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Slinga Illustration",
-        "description": "Illustrationen (Onlineshop)",
+        "description": "Illustrationen",
         "location": {
             "lat": 51.3341641,
             "lon": 12.3657704,
@@ -4474,12 +4684,12 @@
     },
     {
         "image": "pizza.svg",
-        "title": "Sole Mio / Holzhausen",
+        "title": "Sole Mio / Südost",
         "link": "http://www.solemio-leipzig.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Sole Mio",
-        "description": "Restaurant (Lieferservice & Take Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.3086876,
             "lon": 12.4653186,
@@ -4499,17 +4709,17 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Sonnenelch",
-        "description": "Accessoires (Etsy Shop)",
+        "description": "Accessoires",
         "location": null
     },
     {
         "image": "prints.svg",
         "title": "Sophie Valentin Fotografie / Zentrum",
-        "link": "https://sophievalentin.com/SHOP",
+        "link": "https://sophievalentin.com/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Sophie Valentin Fotografie",
-        "description": "Illustrationen & Prints (Onlineshop)",
+        "description": "Fotografie & Illustrationen",
         "location": {
             "lat": 51.3409562,
             "lon": 12.3668841,
@@ -4523,11 +4733,31 @@
     {
         "image": "yoga.svg",
         "title": "Spannkraft / Zentrum",
-        "link": "http://local-heroes-leipzig.de/spannkraft-leipzig-zentrum/",
+        "link": "http://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Spannkraft",
-        "description": "funktionelles Training (Onlinekurse)",
+        "description": "Funktionelles Training",
+        "location": {
+            "lat": 51.3404756,
+            "lon": 12.369097,
+            "address": "Gottschedstraße 12, 04109 Leipzig, Germany",
+            "tags": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Spannkraft / Zentrum",
+        "link": "https://stadthafen-leipzig.com/index.php/gutscheine",
+        "sub-category": "Yoga und Bewegung",
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Spannkraft",
+        "description": "Funktionelles Training",
         "location": {
             "lat": 51.3404756,
             "lon": 12.369097,
@@ -4543,11 +4773,11 @@
     {
         "image": "buecher-magazine-1.svg",
         "title": "Spector Books / Zentrum-Süd",
-        "link": "http://www.spectorbooks.com/",
+        "link": "http://spectorbooks.com/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Spector Books",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.331763,
             "lon": 12.3711205,
@@ -4560,12 +4790,12 @@
     },
     {
         "image": "sport-1.svg",
-        "title": "Stadthafen Leipzig / Leipzig",
-        "link": "https://stadthafen-leipzig.com/index.php/gutscheine",
+        "title": "Stadthafen Leipzig / Zentrum",
+        "link": "https://stadthafen-leipzig.com/index.php/kontakt",
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Stadthafen Leipzig",
-        "description": "Bootsverleih (Gutscheinverkauf)",
+        "description": "Bootsverleih",
         "location": {
             "lat": 51.3387829,
             "lon": 12.3596091,
@@ -4583,7 +4813,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Stahlakademie",
-        "description": "Historisches Fechten (Onlinekurse)",
+        "description": "Historisches Fechten",
         "location": {
             "lat": 51.3196479,
             "lon": 12.3026374,
@@ -4596,12 +4826,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "Stilkontor / Südvorstadt",
-        "link": "http://www.stilkontor.com/",
+        "title": "Stilkontor / Südvordstadt",
+        "link": "https://stilkontor.com/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Stilkontor",
-        "description": "Herrenmode (Onlineshop)",
+        "description": "Herrenmode",
         "location": {
             "lat": 51.3276013,
             "lon": 12.3733473,
@@ -4615,13 +4845,13 @@
         }
     },
     {
-        "image": "naehbedarf.svg",
-        "title": "Stoff -Kreationen / Altlindenau",
+        "image": "mode.svg",
+        "title": "Stoff-Kreationen / Altlindenau",
         "link": "https://www.stoff-kreationen.com/",
-        "sub-category": "Stoffe und Nähbedarf",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Stoff -Kreationen",
-        "description": "Naturtextilien & mehr (Onlineshop)",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Stoff-Kreationen",
+        "description": "Naturtextilien",
         "location": {
             "lat": 51.339482,
             "lon": 12.326016,
@@ -4635,13 +4865,13 @@
         }
     },
     {
-        "image": "mode.svg",
-        "title": "Stoffpost / Zentrum-Süd",
-        "link": "http://local-heroes-leipzig.de/stoffpost-leipzig-zentrum/",
-        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "image": "schmuck.svg",
+        "title": "Stoffpost / Zentrum",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/",
+        "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Stoffpost",
-        "description": "Accessoires (Auf Anfrage)",
+        "description": "Accessoires",
         "location": {
             "lat": 51.3180037,
             "lon": 12.3836982,
@@ -4659,7 +4889,7 @@
         "sub-category": "Handarbeiten",
         "category": "Workshops",
         "cleanTitle": "Studio Migotka",
-        "description": "Makramee (Onlinekurse)",
+        "description": "DIY-Makramee-Kurse",
         "location": {
             "lat": 51.3376494,
             "lon": 12.3319232,
@@ -4676,11 +4906,11 @@
     {
         "image": "yoga.svg",
         "title": "Studio Veda / Zentrum",
-        "link": "http://studioveda.de/",
+        "link": "https://studioveda.de/",
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Studio Veda",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.3341801,
             "lon": 12.3717244,
@@ -4694,13 +4924,13 @@
         }
     },
     {
-        "image": "cocktail-1.svg",
+        "image": "pizza.svg",
         "title": "Superfoodz / Zentrum",
         "link": "https://superfoodz-store-leipzig.com/",
-        "sub-category": "Cocktail",
+        "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Superfoodz",
-        "description": "Smoothies & mehr (Take Away & Lieferung)",
+        "description": "Smoothies & Mehr",
         "location": {
             "lat": 51.3403072,
             "lon": 12.3697275,
@@ -4714,13 +4944,13 @@
         }
     },
     {
-        "image": "naehbedarf.svg",
+        "image": "geschenk.svg",
         "title": "SusaMi / Leipzig",
-        "link": "http://local-heroes-leipzig.de/susami-leipzig/",
-        "sub-category": "Stoffe und Nähbedarf",
+        "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/susami-leipzig/",
+        "sub-category": "Geschenke und Geschenkartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "SusaMi",
-        "description": "Handgemachtes (Bestellungen)",
+        "description": "Handgemachtes",
         "location": null
     },
     {
@@ -4730,7 +4960,7 @@
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Suse liebe Suse",
-        "description": "Stoffladen (Gutscheinverkauf)",
+        "description": "Stoffladen",
         "location": {
             "lat": 51.32584019999999,
             "lon": 12.3408582,
@@ -4744,23 +4974,13 @@
         }
     },
     {
-        "image": "musik.svg",
-        "title": "Sylvio Pretsch / Gohlis",
-        "link": "https://sylvio-pretsch.de/",
-        "sub-category": "Musik und Liveübertragungen",
-        "category": "Hören & Lesen",
-        "cleanTitle": "Sylvio Pretsch",
-        "description": "Sound Editor & Mixing Engineer (Aufträge)",
-        "location": null
-    },
-    {
-        "image": "kaffee.svg",
-        "title": "Süß + Salzig / Plagwitz",
-        "link": "https://www.paypal.me/Gutscheinsuesssalzig?fbclid=IwAR0Qs1PlxGyd1WOs8NA3jORra-gngAzJZIAJY6RzTo1lPVoGN1sgSzcneFw",
-        "sub-category": "Café",
+        "image": "pizza.svg",
+        "title": "Süß & Salzig / Plagwitz",
+        "link": "http://www.suesssalzig.de/",
+        "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
-        "cleanTitle": "Süß + Salzig",
-        "description": "Café & Bar (Gutscheinaktion)",
+        "cleanTitle": "Süß & Salzig",
+        "description": "Restaurant",
         "location": {
             "lat": 51.3322563,
             "lon": 12.3327835,
@@ -4783,7 +5003,7 @@
         "sub-category": "Café",
         "category": "Essen & Trinken",
         "cleanTitle": "Süßwärts",
-        "description": "Café (Onlinebestellungen)",
+        "description": "Café",
         "location": {
             "lat": 51.3302854,
             "lon": 12.3372675,
@@ -4799,12 +5019,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "TIPUNEN / Lindeanu",
+        "title": "TIPUNEN / Lindenau",
         "link": "https://www.tipunen.com/online-shop/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "TIPUNEN",
-        "description": "Kindermode (Onlineshop)",
+        "description": "Kindermode",
         "location": {
             "lat": 51.3362865,
             "lon": 12.3330564,
@@ -4819,12 +5039,12 @@
     },
     {
         "image": "eis.svg",
-        "title": "TONIS / Schleußig",
-        "link": "http://local-heroes-leipzig.de/tonis-leipzig/",
+        "title": "TONIS /Schleußig",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
-        "cleanTitle": "TONIS",
-        "description": "Eis (Lieferservice & Take Away)",
+        "cleanTitle": "TONIS /Schleußig",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.3274649,
             "lon": 12.3458776,
@@ -4844,7 +5064,7 @@
         "sub-category": "Auto und Reparatur Werkstatt",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "TRABI erleben",
-        "description": "Trabifahrten (Gutscheinverkauf)",
+        "description": "Trabifahrten",
         "location": {
             "lat": 51.3532453,
             "lon": 12.3170832,
@@ -4863,7 +5083,7 @@
         "sub-category": "Taschen und Rucksäcke",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Taschenkaufhaus",
-        "description": "Taschen & Rucksäcke (Onlineshop)",
+        "description": "Rucksäcke & Taschen",
         "location": {
             "lat": 51.3297768,
             "lon": 12.3267635,
@@ -4876,13 +5096,13 @@
         }
     },
     {
-        "image": "sport-1.svg",
-        "title": "Team Duell / Mockau-West",
+        "image": "familie.svg",
+        "title": "Team Duell / Mockau",
         "link": "https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge",
-        "sub-category": "Sport",
+        "sub-category": "Freizeit und Familie",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Team Duell",
-        "description": "Team-Events (Gutscheine)",
+        "description": "Team-Events",
         "location": {
             "lat": 51.3797222,
             "lon": 12.3936111,
@@ -4900,7 +5120,7 @@
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "The Camelia Bijoux",
-        "description": "Schmuck (Onlineshop)",
+        "description": "Schmuck",
         "location": null
     },
     {
@@ -4910,7 +5130,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Thiseas",
-        "description": "Griechisches Restaurant (Take Away)",
+        "description": "Griechisches Restaurant",
         "location": {
             "lat": 51.3252377,
             "lon": 12.3397969,
@@ -4926,11 +5146,11 @@
     {
         "image": "geschenk.svg",
         "title": "Thomasshop / Zentrum",
-        "link": "http://www.thomasshop-leipzig.de/",
+        "link": "https://www.thomasshop-leipzig.de/",
         "sub-category": "Geschenke und Geschenkartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Thomasshop",
-        "description": "Souvenirs (Onlineshop)",
+        "description": "Souvenirs",
         "location": {
             "lat": 51.3393392,
             "lon": 12.3726667,
@@ -4945,11 +5165,11 @@
     {
         "image": "eis.svg",
         "title": "Thommys Eismanufaktur / Möckern",
-        "link": "http://local-heroes-leipzig.de/thommys-eismanufaktur-leipzig-moeckern/",
+        "link": "https://www.thommys-eismanufaktur.de/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Thommys Eismanufaktur",
-        "description": "Eis (Take Away)",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.3733924,
             "lon": 12.3276962,
@@ -4966,11 +5186,11 @@
     {
         "image": "pizza.svg",
         "title": "Thüringer Hof / Zentrum",
-        "link": "https://shop.lokalehilfe.commerzbank.de/#/catalog/campaign/umdec6lk4hlqrogqrgvmmzi4",
+        "link": "https://www.thueringer-hof.de/de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Thüringer Hof",
-        "description": "Restaurant (Gutscheinaktion)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.3383019,
             "lon": 12.373422,
@@ -4990,7 +5210,7 @@
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "TicToys",
-        "description": "Spielzeug (Onlineshop)",
+        "description": "Spielzeug",
         "location": {
             "lat": 51.32439960000001,
             "lon": 12.3432244,
@@ -5003,13 +5223,31 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "Tischkultur / Südvorstadt",
+        "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/",
+        "sub-category": "Interior und Dekoartikel",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Tischkultur",
+        "description": "Töpferei",
+        "location": {
+            "lat": 51.3264331,
+            "lon": 12.3734023,
+            "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "prints.svg",
         "title": "Tom Thiele / Leipzig",
         "link": "https://tomthiele.com/",
         "sub-category": "Prints und Kunstartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Tom Thiele",
-        "description": "Fotograf (Gutscheinverkauf)",
+        "description": "Fotografie",
         "location": {
             "lat": 51.3445202,
             "lon": 12.3626752,
@@ -5027,7 +5265,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Trattoria Aurelia",
-        "description": "Pizza (Take Away)",
+        "description": "Italienisches Restaurant",
         "location": {
             "lat": 51.3477906,
             "lon": 12.3714589,
@@ -5048,7 +5286,7 @@
         "sub-category": "Musik und Liveübertragungen",
         "category": "Workshops",
         "cleanTitle": "Trommelschule Yngo Gutmann",
-        "description": "Musik (Onlinekurse)",
+        "description": "Trommelschule",
         "location": {
             "lat": 51.32131039999999,
             "lon": 12.4056566,
@@ -5060,13 +5298,13 @@
         }
     },
     {
-        "image": "interior.svg",
+        "image": "geschenk.svg",
         "title": "Tschau Tschüssi / Zentrum",
         "link": "https://tschautschuessi.bigcartel.com/",
-        "sub-category": "Interior und Dekoartikel",
+        "sub-category": "Geschenke und Geschenkartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Tschau Tschüssi",
-        "description": "Papeterie & Kleinigkeiten (Onlineshop)",
+        "description": "Papeterie & Kleinigkeiten",
         "location": {
             "lat": 51.3341641,
             "lon": 12.3657704,
@@ -5080,12 +5318,12 @@
     },
     {
         "image": "mode.svg",
-        "title": "TulasiWear / Lindeanu",
+        "title": "TulasiWear / Lindenau",
         "link": "https://www.etsy.com/shop/tulasiwear/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "TulasiWear",
-        "description": "Nachhaltige Mode (Onlineshop)",
+        "description": "Nachhaltige Mode",
         "location": {
             "lat": 51.33093,
             "lon": 12.31752,
@@ -5098,50 +5336,13 @@
         }
     },
     {
-        "image": "interior.svg",
-        "title": "Töpferei Tischkultur / Leipzig",
-        "link": "http://local-heroes-leipzig.de/toepferei-tischkultur-leipzig-suedvorstadt/",
-        "sub-category": "Interior und Dekoartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Töpferei Tischkultur",
-        "description": "Töpferei (Bestellungen & Lieferservice)",
-        "location": {
-            "lat": 51.3264331,
-            "lon": 12.3734023,
-            "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "interior.svg",
-        "title": "Töpferhof Rost / Markranstädt",
-        "link": "http://local-heroes-leipzig.de/toepferhof-rost-leipzig-markranstaedt/",
-        "sub-category": "Interior und Dekoartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "Töpferhof Rost",
-        "description": "Töpferei (Take Away & Lieferung)",
-        "location": {
-            "lat": 51.2643503,
-            "lon": 12.2098674,
-            "address": "Hunnenstraße 36, 04420 Markranstädt, Germany",
-            "tags": [
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "schmuck.svg",
-        "title": "Uhrmacher Hofmann/ Mockau",
+        "title": "Uhrmacher Hofmann / Mockau",
         "link": "https://www.uhrmacher-leipzig.de/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Uhrmacher Hofmann",
-        "description": "Schmuck & Uhren (Reparaturservice)",
+        "description": "Schmuck & Uhren",
         "location": {
             "lat": 51.3717327,
             "lon": 12.4089181,
@@ -5159,7 +5360,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Ulrike Sandner",
-        "description": "Interieur (Onlineshop)",
+        "description": "Interieur",
         "location": {
             "lat": 51.3371085,
             "lon": 12.3293209,
@@ -5173,11 +5374,11 @@
     {
         "image": "buecher-magazine-1.svg",
         "title": "Urbanite / Südvorstadt",
-        "link": "https://www.gofundme.com/f/your-urbanite-needs-you",
+        "link": "https://www.urbanite.net/de/leipzig/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "Urbanite",
-        "description": "Stadtmagazin (Spendenaktion)",
+        "description": "Stadtmagazin",
         "location": {
             "lat": 51.3206975,
             "lon": 12.367953,
@@ -5195,7 +5396,7 @@
         "sub-category": "Yoga und Bewegung",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Ute Stephan",
-        "description": "Yoga (Onlinekurse)",
+        "description": "Yoga",
         "location": {
             "lat": 51.3279527,
             "lon": 12.3358363,
@@ -5209,11 +5410,11 @@
     {
         "image": "musik.svg",
         "title": "VARY / Zentrum-Ost",
-        "link": "http://local-heroes-leipzig.de/vary-leipzig-zentrum-ost/",
+        "link": "http://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/",
         "sub-category": "Musik und Liveübertragungen",
         "category": "Hören & Lesen",
         "cleanTitle": "VARY",
-        "description": "Record Shop & Café (Onlineshop & Gutscheinverkauf)",
+        "description": "Recordshop & Café",
         "location": {
             "lat": 51.3461937,
             "lon": 12.3958762,
@@ -5232,11 +5433,11 @@
     {
         "image": "eis.svg",
         "title": "Vanille & Zimt / Connewitz",
-        "link": "http://local-heroes-leipzig.de/vanille-zimt-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/",
         "sub-category": "Eis",
         "category": "Essen & Trinken",
         "cleanTitle": "Vanille & Zimt",
-        "description": "Eis (Lieferservice)",
+        "description": "Eisdiele",
         "location": {
             "lat": 51.30254559999999,
             "lon": 12.3834425,
@@ -5256,7 +5457,7 @@
         "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Varadanza",
-        "description": "Flamenco Tanzstudio (Onlinekurse)",
+        "description": "Flamenco Tanzstudio",
         "location": {
             "lat": 51.3484091,
             "lon": 12.3951695,
@@ -5275,7 +5476,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Vergissmeinnicht",
-        "description": "Restaurant (Bestellung & Take Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.3087521,
             "lon": 12.3242395,
@@ -5295,7 +5496,7 @@
         "sub-category": "Interior und Dekoartikel",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Verknotet",
-        "description": "Makramee (Etsy Shop)",
+        "description": "Makramee",
         "location": null
     },
     {
@@ -5305,7 +5506,7 @@
         "sub-category": "Putzen und Haushaltswaren",
         "category": "Produkte & Kreatives",
         "cleanTitle": "WAXXi",
-        "description": "Haushaltswaren (Etsy Shop)",
+        "description": "Haushaltswaren",
         "location": {
             "lat": 51.3593416,
             "lon": 12.3844077,
@@ -5326,7 +5527,7 @@
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "WEGZEHRUNG",
-        "description": "Achtsamkeitsbasierte Stressbewältigung (Onlinekurse)",
+        "description": "Achtsamkeitsbasierte Stressbewältigung",
         "location": {
             "lat": 51.3177722,
             "lon": 12.3673071,
@@ -5338,13 +5539,31 @@
         }
     },
     {
-        "image": "yoga.svg",
+        "image": "coaching.svg",
+        "title": "WEGZEHRUNG / Südvorstadt",
+        "link": "https://www.wegzehrung.com/mbsr/",
+        "sub-category": "Coaching und Online-Workshops",
+        "category": "Workshops",
+        "cleanTitle": "WEGZEHRUNG",
+        "description": "Stressbewältigung",
+        "location": {
+            "lat": 51.3177722,
+            "lon": 12.3673071,
+            "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "sport-1.svg",
         "title": "Wohltat / Lindenau",
         "link": "https://www.wohltat-leipzig.com/",
-        "sub-category": "Yoga und Bewegung",
+        "sub-category": "Sport",
         "category": "Bewegung & Entspannung",
         "cleanTitle": "Wohltat",
-        "description": "Personal Training & Fitness (Onlinekurse)",
+        "description": "Personal Training & Fitness",
         "location": {
             "lat": 51.3308092,
             "lon": 12.3437688,
@@ -5363,7 +5582,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Wohnmacher",
-        "description": "Möbel & Interieur (Onlineshop)",
+        "description": "Möbel & Interieur",
         "location": {
             "lat": 51.34238000000001,
             "lon": 12.37826,
@@ -5384,7 +5603,7 @@
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "Wonnecitz",
-        "description": "Spielzeug (Onlineshop)",
+        "description": "Spielzeug",
         "location": {
             "lat": 51.31051350000001,
             "lon": 12.3735104,
@@ -5399,11 +5618,11 @@
     {
         "image": "optiker.svg",
         "title": "Wunderlichs Brillenschmiede / Leutzsch",
-        "link": "http://local-heroes-leipzig.de/wunderlichs-brillenschmiede-leipzig-leutzsch/",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/",
         "sub-category": "Sonstiges",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Wunderlichs Brillenschmiede",
-        "description": "Optiker (Sonderöffnungszeiten + Gutscheinverkauf)",
+        "description": "Optiker",
         "location": {
             "lat": 51.3476583,
             "lon": 12.313217,
@@ -5417,12 +5636,12 @@
     },
     {
         "image": "schmuck.svg",
-        "title": "Yours Jules / Zentrum",
+        "title": "Your Jules / Zentrum",
         "link": "https://www.yoursjules.com/",
         "sub-category": "Schmuck, Accessoires",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "Yours Jules",
-        "description": "Schmuck (Onlineshop)",
+        "cleanTitle": "Your Jules",
+        "description": "Schmuck",
         "location": null
     },
     {
@@ -5432,7 +5651,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Zest",
-        "description": "Restaurant & Bar (Take Away)",
+        "description": "Restaurant",
         "location": {
             "lat": 51.3069444,
             "lon": 12.38,
@@ -5448,11 +5667,11 @@
     {
         "image": "pizza.svg",
         "title": "Zu Spät / Reudnitz",
-        "link": "http://local-heroes-leipzig.de/zu-spaet-leipzig-reudnitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "Zu Spät",
-        "description": "Bistro (Vorbestellung & to go)",
+        "description": "Bistro",
         "location": {
             "lat": 51.33669,
             "lon": 12.40631,
@@ -5471,11 +5690,11 @@
     {
         "image": "pizza.svg",
         "title": "anja | fe / Connewitz",
-        "link": "http://local-heroes-leipzig.de/anja-fe-leipzig-connewitz/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "anja | fe",
-        "description": "Catering (to go)",
+        "description": "Catering",
         "location": {
             "lat": 51.30594,
             "lon": 12.38136,
@@ -5493,7 +5712,7 @@
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
         "cleanTitle": "balloonfantasy",
-        "description": "Partyboutique (Onlineshop)",
+        "description": "Partyboutique",
         "location": {
             "lat": 51.3254059,
             "lon": 12.3697348,
@@ -5507,23 +5726,13 @@
         }
     },
     {
-        "image": "mode.svg",
-        "title": "buntimo / Pegau",
-        "link": "https://buntimo.de/",
-        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "buntimo",
-        "description": "Kleidung & Accessoires (Onlineshop)",
-        "location": null
-    },
-    {
         "image": "coaching.svg",
         "title": "calaidoskop Institut & Praxis / Zentrum",
-        "link": "https://www.calaidoskop.de",
+        "link": "https://www.calaidoskop.de/",
         "sub-category": "Coaching und Online-Workshops",
         "category": "Workshops",
         "cleanTitle": "calaidoskop Institut & Praxis",
-        "description": "systemische Beratung, Therapie & Supervision (online & Praxis)",
+        "description": "systemische Beratung, Therapie & Supervision",
         "location": {
             "lat": 51.3268996,
             "lon": 12.3729336,
@@ -5536,13 +5745,35 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "caphe / Gohlis",
+        "link": "https://le-caphe.eatbu.com/?lang=de",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "caphe",
+        "description": "Vietnamesisches Restaurant",
+        "location": {
+            "lat": 51.364715,
+            "lon": 12.356554,
+            "address": "Georg-Schumann-Straße 130, 04155 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "spirituosen.svg",
         "title": "caámate / Alt-West",
         "link": "https://caamate.de/",
         "sub-category": "Spirituosen und Getränke",
         "category": "Essen & Trinken",
         "cleanTitle": "caámate",
-        "description": "Mate (Onlineshop)",
+        "description": "Mate",
         "location": {
             "lat": 51.3482269,
             "lon": 12.3008795,
@@ -5560,17 +5791,17 @@
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "dienacht Magazine",
-        "description": "Mentoring & Buchhandlung (Onlineshop)",
+        "description": "Mentoring & Buchhandlung",
         "location": null
     },
     {
         "image": "buecher-magazine-1.svg",
         "title": "el libro / Connewitz",
-        "link": "https://www.genialokal.de/?storeID=ellibro",
+        "link": "https://www.genialokal.de/buchhandlung/leipzig/el-libro/",
         "sub-category": "Bücher und Magazine",
         "category": "Hören & Lesen",
         "cleanTitle": "el libro",
-        "description": "Buchhandlung (Onlineshop)",
+        "description": "Buchhandlung",
         "location": {
             "lat": 51.3095833,
             "lon": 12.3748111,
@@ -5590,7 +5821,7 @@
         "sub-category": "Möbel, Sofa, Tisch, Couch",
         "category": "Produkte & Kreatives",
         "cleanTitle": "findelkind",
-        "description": "Möbel & Leuchten (Bestellungen)",
+        "description": "Möbel & Interieur",
         "location": {
             "lat": 51.3398534,
             "lon": 12.3259008,
@@ -5602,13 +5833,13 @@
         }
     },
     {
-        "image": "prints.svg",
+        "image": "blumenstrauss.svg",
         "title": "flora metaphorica / Raschwitz",
         "link": "https://www.flora-metaphorica.com/",
-        "sub-category": "Prints und Kunstartikel",
+        "sub-category": "Sonstiges",
         "category": "Produkte & Kreatives",
         "cleanTitle": "flora metaphorica",
-        "description": "Blütenkunst (Bestellungen & Onlineshop)",
+        "description": "Blütenkunst",
         "location": {
             "lat": 51.2860029,
             "lon": 12.3709077,
@@ -5622,13 +5853,33 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "genussreich / Altlindenau",
+        "link": "https://genussreich-leipzig.de/",
+        "sub-category": "Essen & Trinken",
+        "category": "Essen & Trinken",
+        "cleanTitle": "genussreich",
+        "description": "Restaurant",
+        "location": {
+            "lat": 51.3386631,
+            "lon": 12.3322174,
+            "address": "Nathanaelstraße 1, 04177 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "mode.svg",
-        "title": "hej. mom. / Zentrum",
+        "title": "hej.mom. / Zentrum",
         "link": "https://hejmom.com/",
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
-        "cleanTitle": "hej. mom.",
-        "description": "Umstandsmode (Onlineshop)",
+        "cleanTitle": "hej.mom.",
+        "description": "Umstandsmode",
         "location": {
             "lat": 51.3281426,
             "lon": 12.377361,
@@ -5648,7 +5899,7 @@
         "sub-category": "Spielwaren, Spielzeug, Spielsachen",
         "category": "Produkte & Kreatives",
         "cleanTitle": "holzART",
-        "description": "Holzspielzeug (Onlineshop)",
+        "description": "Holzspielzeug",
         "location": {
             "lat": 51.3192125,
             "lon": 12.3249528,
@@ -5666,7 +5917,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "ka:put",
-        "description": "Bekleidung (Onlineshop)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.3090916,
             "lon": 12.3728685,
@@ -5680,33 +5931,13 @@
         }
     },
     {
-        "image": "pizza.svg",
-        "title": "kuultivo / Schleußig",
-        "link": "https://kuultivo-shop.company.site/",
-        "sub-category": "Essen & Trinken",
-        "category": "Essen & Trinken",
-        "cleanTitle": "kuultivo",
-        "description": "Restaurant (Onlinebestellungen)",
-        "location": {
-            "lat": 51.3264888,
-            "lon": 12.344878,
-            "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
-            "tags": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "rad.svg",
         "title": "lawi sportswear / Südvorstadt",
         "link": "https://www.lawi-sport.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
         "cleanTitle": "lawi sportswear",
-        "description": "Radbekleidung (Onlineshop)",
+        "description": "Radbekleidung",
         "location": {
             "lat": 51.3254269,
             "lon": 12.3698278,
@@ -5720,23 +5951,13 @@
         }
     },
     {
-        "image": "schmuck.svg",
-        "title": "le.fuxs / Leipzig",
-        "link": "https://www.etsy.com/de/shop/lefuxs",
-        "sub-category": "Schmuck, Accessoires",
-        "category": "Kleidung & Accessoires",
-        "cleanTitle": "le.fuxs",
-        "description": "Schmuck (Etsy Shop)",
-        "location": null
-    },
-    {
         "image": "einkaufen-1.svg",
         "title": "lieber lose / Plagwitz",
         "link": "https://www.lieberlose.de/",
         "sub-category": "Einkaufen",
         "category": "Essen & Trinken",
         "cleanTitle": "lieber lose",
-        "description": "Unverpacktladen (Sonderöffnungszeiten)",
+        "description": "Unverpacktladen",
         "location": {
             "lat": 51.33119139999999,
             "lon": 12.3382197,
@@ -5757,7 +5978,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "luxaa",
-        "description": "Mode (Onlineshop)",
+        "description": "Kleidung",
         "location": {
             "lat": 51.3406757,
             "lon": 12.3770964,
@@ -5771,31 +5992,13 @@
         }
     },
     {
-        "image": "prints.svg",
-        "title": "mayfilm / Markkleeberg",
-        "link": "https://www.mayfilm.de/",
-        "sub-category": "Prints und Kunstartikel",
-        "category": "Produkte & Kreatives",
-        "cleanTitle": "mayfilm",
-        "description": "Fotografie & Film (Gutscheine)",
-        "location": {
-            "lat": 51.27299430000001,
-            "lon": 12.3987237,
-            "address": "Wachauer Str. 5, 04416 Markkleeberg, Germany",
-            "tags": [
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "pizza.svg",
         "title": "maza pita / Schleußig",
         "link": "https://mazapita.de/",
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "maza pita",
-        "description": "syrisches Essen (Lieferservice & Selbstabholung)",
+        "description": "Syrisches Restaurant",
         "location": {
             "lat": 51.3242169,
             "lon": 12.3441573,
@@ -5815,7 +6018,7 @@
         "sub-category": "Stoffe und Nähbedarf",
         "category": "Produkte & Kreatives",
         "cleanTitle": "melonie",
-        "description": "Stoffe & Nähbedarf (Onlineshop)",
+        "description": "Nähzubehör",
         "location": {
             "lat": 51.3410158,
             "lon": 12.3679399,
@@ -5836,7 +6039,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "oneshirt 24",
-        "description": "T-Shirt Druck (Onlineshop)",
+        "description": "T-Shirt Druck",
         "location": {
             "lat": 51.3660504,
             "lon": 12.3492404,
@@ -5856,7 +6059,26 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "panta panta",
-        "description": "Interieur & Geschenke (Etsy Shop)",
+        "description": "Kleidung & Accessoires",
+        "location": {
+            "lat": 51.32851700000001,
+            "lon": 12.336589,
+            "address": "Zschochersche Str. 55, 04229 Leipzig, Germany",
+            "tags": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "panta panta / Plagwitz",
+        "link": "https://www.etsy.com/de/shop/BelleEtBete",
+        "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "panta panta",
+        "description": "Kleidung & Accessoires",
         "location": {
             "lat": 51.32851700000001,
             "lon": 12.336589,
@@ -5875,7 +6097,7 @@
         "sub-category": "T-Shirt, Hose, Schuhe, Second Hand, Kleidung, Mode",
         "category": "Kleidung & Accessoires",
         "cleanTitle": "pussy GALORE",
-        "description": "Kleidung (Gutscheinverkauf)",
+        "description": "Kleidung & Accessoires",
         "location": {
             "lat": 51.3246698,
             "lon": 12.3732696,
@@ -5890,12 +6112,12 @@
     },
     {
         "image": "rad.svg",
-        "title": "rad3 / Alt-Lindenau",
+        "title": "rad3 / Altlindenau",
         "link": "https://rad3.de/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
         "cleanTitle": "rad3",
-        "description": "Fahrradladen (Beratung & Werkstatt)",
+        "description": "Fahrradladen",
         "location": {
             "lat": 51.339107,
             "lon": 12.3273764,
@@ -5909,33 +6131,13 @@
         }
     },
     {
-        "image": "kaffee.svg",
-        "title": "roots Pflanzencafé / Schleußig",
-        "link": "https://www.roots-pflanzencafe.de/gutscheine",
-        "sub-category": "Café",
-        "category": "Essen & Trinken",
-        "cleanTitle": "roots Pflanzencafé",
-        "description": "Café (Gutscheinverkauf)",
-        "location": {
-            "lat": 51.3205171,
-            "lon": 12.3416263,
-            "address": "Könneritzstraße 88, 04229 Leipzig, Germany",
-            "tags": [
-                "cafe",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
         "image": "party.svg",
         "title": "schönherum / Zentrum",
         "link": "https://schoenherum.de/",
         "sub-category": "Party",
         "category": "Produkte & Kreatives",
         "cleanTitle": "schönherum",
-        "description": "Papeterie & Geschenkverpackungen (Onlineshop)",
+        "description": "Papeterie & Geschenkverpackungen",
         "location": {
             "lat": 51.3352704,
             "lon": 12.3697701,
@@ -5948,13 +6150,13 @@
         }
     },
     {
-        "image": "sport-1.svg",
+        "image": "reisen.svg",
         "title": "tapir / Zentrum",
         "link": "https://www.tapir-store.de/?awc=17390_1585142226_3e093d9039a56b61efb1637ba70aeebf&utm_source=awin&utm_medium=affiliate",
-        "sub-category": "Sport",
-        "category": "Bewegung & Entspannung",
+        "sub-category": "Reisen",
+        "category": "Produkte & Kreatives",
         "cleanTitle": "tapir",
-        "description": "Outdoor-Ausrüstung (Onlineshop)",
+        "description": "Outdoorladen",
         "location": {
             "lat": 51.34077320000001,
             "lon": 12.3833273,
@@ -5970,12 +6172,12 @@
     },
     {
         "image": "rad.svg",
-        "title": "tex – lock / Alt-West",
+        "title": "tex–lock / Alt-West",
         "link": "https://www.tex-lock.com/",
         "sub-category": "Fahrrad, Rad, Werkstatt",
         "category": "Produkte & Kreatives",
-        "cleanTitle": "tex – lock",
-        "description": "Fahrradzubehör (Onlineshop)",
+        "cleanTitle": "tex–lock",
+        "description": "Fahrradzubehör",
         "location": {
             "lat": 51.34822699999999,
             "lon": 12.30088,
@@ -5993,7 +6195,7 @@
         "sub-category": "Essen & Trinken",
         "category": "Essen & Trinken",
         "cleanTitle": "umaii",
-        "description": "Ramenbar (Lieferservice & Gutscheinverkauf)",
+        "description": "Ramenbar",
         "location": {
             "lat": 51.3406564,
             "lon": 12.3729083,

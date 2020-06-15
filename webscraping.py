@@ -17,21 +17,20 @@ def loadLocalsFromWebsite(url):
         d = pq(content)
 
         entries = []
-        elements = d('.vc-parent-row.row-default .wpb_text_column.wpb_content_element.post-formatting .wpb_wrapper')
-        currentCategory = None
+        categories = d("#content > div.grid-container")
         os.makedirs(imagesFolder, exist_ok=True)
         imagesCached = [f for f in os.listdir(imagesFolder) if os.path.isfile(os.path.join(imagesFolder, f))]
 
-        print('Found', len(elements), 'businesses. Already fetched', len(imagesCached), 'images.')
+        print('Found', len(categories), 'categories.\nAlready fetched', len(imagesCached), 'images.')
         
-        for element in elements:
-            header = d('h2', element)
-            if len(header) > 0:
-                currentCategory = header.text()
-            else:
-                if currentCategory == None:
-                    print('No category found. Stop parsing.')
-                    break
+        for category in categories:
+
+            elements = d('.cat-items .post.item', category)
+            categoryTitle = d('h2:first', category).text()
+
+            print('Found', len(elements), 'elements in category', categoryTitle)
+
+            for element in elements:
 
                 image = d('img', element)
                 imagePath = image.attr('src')
@@ -58,12 +57,13 @@ def loadLocalsFromWebsite(url):
                     'title': link.text(),
                     'link': link.attr('href'),
                     'sub-category': subCategory,
-                    'category': currentCategory,
+                    'category': categoryTitle,
                     'cleanTitle': link.text().split('/ ')[0].strip(),
                     'description': html.unescape(d('p', element).text())
                 }
                 entries.append(entry)
 
+        print('Parsed', len(entries), 'entries in', len(categories), "categories overall.")
         return entries
 
 def saveImage(url, filename):
