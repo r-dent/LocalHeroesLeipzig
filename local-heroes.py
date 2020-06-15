@@ -137,8 +137,9 @@ def addOrUpdate(entries, updates):
     newEntries = []
     for update in updates:
         for entry in entries:
-            if areSimilar(entry['title'], update['title']) and 'location' in entry:
+            if areSimilar(entry['cleanTitle'], update['cleanTitle']) and 'location' in entry:
                 update['location'] = entry['location']
+                entries.remove(entry)
                 break
         
         if 'location' in update and update['location'] != None:   
@@ -221,19 +222,22 @@ def writeGeoJson(entries):
 
     writeJson(geoCollection, 'data/local-heroes-leipzig.geojson')
 
+def sortEntries(entries):
+    return sorted(entries, key = lambda element: element['title']) 
+
 
 # --------
 # Commands
 # --------
 
-entries = loadEntriesFromFile(cacheFileName)
+entries = sortEntries(loadEntriesFromFile(cacheFileName))
 
 dataUpdate = ('dataUpdate' in sys.argv)
 
 if dataUpdate or 'loadApi' in sys.argv:
     # Load api data to cache.
     newEntries = webscraping.loadLocalsFromWebsite(websiteUrl)
-    entries = addOrUpdate(entries, newEntries)
+    entries = sortEntries(addOrUpdate(entries, newEntries))
 
 if 'refreshAllLocations' in sys.argv:
     # Update all location data.
@@ -250,11 +254,11 @@ elif dataUpdate or 'updateLocations' in sys.argv:
 elif 'geocode' in sys.argv and len(sys.argv) == 3:
     findLocationGMaps(sys.argv[2])
 
-if 'stats' in sys.argv:
+if dataUpdate or 'stats' in sys.argv:
     showStats(entries)
 
 if 'debug' in sys.argv:
-    print('No location founf for:')
+    print('No location found for:')
     for e in entries:
         if 'location' not in e or e['location'] == None:
             print(e['title'], 'https://www.google.com/maps/search/' + e['title'].replace('/','').replace(' ','+'))
