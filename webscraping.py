@@ -17,7 +17,8 @@ def loadLocalsFromWebsite(url):
         d = pq(content)
 
         entries = []
-        categories = d("#content > div.grid-container")
+        categories = d('#content > div.grid-container')
+        availableDistricts = {}
         os.makedirs(imagesFolder, exist_ok=True)
         imagesCached = [f for f in os.listdir(imagesFolder) if os.path.isfile(os.path.join(imagesFolder, f))]
 
@@ -26,11 +27,26 @@ def loadLocalsFromWebsite(url):
         for category in categories:
 
             elements = d('.cat-items .post.item', category)
+            availableSubCategories = {}
             categoryTitle = d('h2:first', category).text()
 
-            print('Found', len(elements), 'elements in category', categoryTitle)
+            for subCategoryItem in d('.options a.option.category', category):
+                subCategoryItem = d(subCategoryItem)
+                availableSubCategories[subCategoryItem.attr('data-filter-value')] = subCategoryItem.text()
+
+            for tagFilterItem in d('.options a.option.tag', category):
+                tagFilterItem = d(tagFilterItem)
+                availableDistricts[tagFilterItem.attr('data-filter-value')] = tagFilterItem.text()
+
+            print('Found', len(elements), 'elements in category', categoryTitle, '\nSub.categories:\n -', '\n - '.join(availableSubCategories.values()), '\n')
 
             for element in elements:
+
+                classes = set()
+                for cssClass in d(element).attr('class').split(' '):
+                    cssClass = cssClass.strip()
+                    if cssClass != '':
+                        classes.add(cssClass)
 
                 image = d('img', element)
                 imagePath = image.attr('src')
@@ -44,26 +60,20 @@ def loadLocalsFromWebsite(url):
                     imagesCached.append(imageFilename)
 
                 link = d('a:last', element)
-                subCategory = html.unescape(image.attr('alt').split(' - ')[0].strip())
-
-                if subCategory == '':
-                    subCategory = 'Sonstiges'
-
-                if subCategory == 'Pizza':
-                    subCategory = 'Essen & Trinken'
 
                 entry = {
                     'image': imageFilename,
                     'title': link.text(),
                     'link': link.attr('href'),
-                    'sub-category': subCategory,
+                    'sub-categories': list(availableSubCategories.keys() & classes),
+                    'districts': list(availableDistricts.keys() & classes),
                     'category': categoryTitle,
                     'cleanTitle': link.text().split('/ ')[0].strip(),
                     'description': html.unescape(d('p', element).text())
                 }
                 entries.append(entry)
 
-        print('Parsed', len(entries), 'entries in', len(categories), "categories overall.")
+        print('Parsed', len(entries), 'entries in', len(categories), 'categories\nDistricts:\n -', '\n - '.join(availableDistricts.values()))
         return entries
 
 def saveImage(url, filename):
