@@ -26,16 +26,16 @@ class LocalHeroesMap {
         this.mainCategories = new Array();
         this.categories = new Object();
         this.subCategoryControl = undefined
-        this.categoryLayers = [];
         this.map = undefined
         this.isLocal = location.hostname == 'localhost' || location.hostname == '192.168.2.169'
         this.repositoryBaseUrl = 'https://cdn.jsdelivr.net/gh/r-dent/LocalHeroesLeipzig@master/'
         this.clusterZoom = options.clusterBelowZoom 
-        this.clusterLayer = undefined
+        this.markerLayer = undefined
         this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
         this.showLocateButton = (options.showLocateButton !== undefined)
         this.showCategorySelection = options.showCategorySelection
         this.onDataReady = options.onDataReady
+        this.geoJson = undefined
 
         // Add loading layer DOM.
         var mapContainer = document.getElementById(mapElementId)
@@ -136,49 +136,44 @@ class LocalHeroesMap {
             .bindTooltip(geoJsonPoint.properties.name, {offset: [0, 16]})
     }
 
-    addLayersToMap(layers, map) {
+    addLayerToMap(layer, map) {
 
         if (this.useClustering) {
 
-            const addClusterLayer = (layers, map) => {
+            const addClusterLayer = (layer, map) => {
                 var markers = L.markerClusterGroup({
                     disableClusteringAtZoom: this.clusterZoom
                 });
-                for (const id in layers) {
-                    markers.addLayer(layers[id])
-                }
-                this.clusterLayer = markers
+                markers.addLayer(layer)
+                this.markerLayer = markers
                 map.addLayer(markers)
             }
 
             if (L.markerClusterGroup === undefined) {
                 LocalHeroesHelper.loadScript('https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js', () => {
-                    addClusterLayer(layers, map)
+                    addClusterLayer(layer, map)
                 })
             } else {
-                addClusterLayer(layers, map)
+                addClusterLayer(layer, map)
             }
         } else {
-            for (const id in layers) {
-                layers[id].addTo(map)
-            }
+            layer.addTo(map)
+            this.markerLayer = layer
         }
     }
 
-    createCategoryLayers(geoJson) {
+    applyFilter(category, subCategories) {
 
-        for (const catId in this.mainCategories) {
-            const category = this.mainCategories[catId]
-            const geoLayer = L.geoJSON(geoJson, {
-                onEachFeature: this.onEachMapFeature,
-                pointToLayer: (point, coord) => this.renderMapMarker(point, coord),
-                filter: function(feature, layer) {
-                    return feature.properties.category == category
-                }
-            })
-            this.categoryLayers[category] = geoLayer
-        }
-        this.addLayersToMap(this.categoryLayers, this.map)
+        const geoLayer = L.geoJSON(this.geoJson, {
+            onEachFeature: this.onEachMapFeature,
+            pointToLayer: (point, coord) => this.renderMapMarker(point, coord),
+            filter: function(feature, layer) {
+                const matchesCategory = (feature.properties.category == category || category == 'all')
+                return matchesCategory
+            }
+        })
+        
+        this.addLayerToMap(geoLayer, this.map)
     }
 
     showLayer(id) {
@@ -196,7 +191,6 @@ class LocalHeroesMap {
     selectCategory(selectedCategory) {
         console.log(selectedCategory)
         const showAll = (selectedCategory == 'all')
-        var shownLayers = new Array()
 
         if (this.subCategoryControl !== undefined) {
             this.subCategoryControl.remove()
@@ -225,28 +219,19 @@ class LocalHeroesMap {
             this.subCategoryControl.addTo(this.map)
         }
 
-        for (const category in this.categoryLayers) {
-            const layer = this.categoryLayers[category]
-            this.map.removeLayer(layer)
-            if (category == selectedCategory || showAll) {
-                shownLayers.push(layer)
-            }
-        }
-        if (this.useClustering) {
-            this.map.removeLayer(this.clusterLayer)
-        }
-        this.addLayersToMap(shownLayers, this.map)
-        this.map.fitBounds(L.featureGroup(shownLayers).getBounds())
+        this.map.removeLayer(this.markerLayer)
+        this.applyFilter(selectedCategory)
+        this.map.fitBounds(L.featureGroup([this.markerLayer]).getBounds())
     }
 
     applyGeoData(data) {
 
-        const geoJson = JSON.parse(data);
-        const features = geoJson['features'];
+        this.geoJson = JSON.parse(data);
+        const features = this.geoJson['features'];
 
         // Collect categories.
         for (const feature in features) {
-            
+
             const properties = features[feature]['properties']
             const category = properties['category']
 
@@ -287,11 +272,12 @@ class LocalHeroesMap {
                 .addEventListener('change', (event) => this.selectCategory(event.target.value), false);
         }
 
-        this.createCategoryLayers(geoJson);
+        this.applyFilter('all');
 
         // Remove loading overlay.
         document.getElementById('loading').remove()
 
+        // Call handler.
         if (this.onDataReady !== undefined && typeof(this.onDataReady) == 'function') {
             this.onDataReady(this.mainCategories)
         }
