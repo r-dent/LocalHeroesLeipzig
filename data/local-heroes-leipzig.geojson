@@ -10,6 +10,12 @@
                 "url": "https://www.pfff-krsch.de/pfff-krsch-kaufen/",
                 "address": "Weißenfelser Str. 63, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "liquor_store",
                     "point_of_interest",
@@ -34,6 +40,12 @@
                 "url": "http://7shotscoffee.de/",
                 "address": "Philipp-Rosenthal-Straße 7, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -59,6 +71,12 @@
                 "url": "https://www.acht-zwei.de/",
                 "address": "Merseburger Str. 82, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -84,6 +102,12 @@
                 "url": "https://www.acht-zwei.de/",
                 "address": "Merseburger Str. 82, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -109,6 +133,13 @@
                 "url": "https://akkohummusbar.eatbu.com/?lang=en&fbclid=IwAR1rn6OWzsrhPyyaMiAeGojP3NbjFxChvCgIWQjr_XJdbQZKbKPm-Z2503U",
                 "address": "Walter-Heinze-Straße 3, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "bar",
                     "restaurant",
@@ -134,6 +165,12 @@
                 "url": "http://www.alloy925.de/shop.html",
                 "address": "Gerhard-Ellrodt-Straße 24, 04249 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -156,6 +193,12 @@
                 "url": "https://restaurant-achilles.de/",
                 "address": "Böttgerstraße 2, 04328 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Paunsdorf"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -180,6 +223,13 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/",
                 "address": "Tschaikowskistraße 14, 04105 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "cafe",
                     "liquor_store",
@@ -206,6 +256,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/",
                 "address": "Goldschmidtstraße 31, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Seeburgviertel"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -228,6 +284,10 @@
                 "url": "https://www.instagram.com/amorph_richardpaulmeszaros/",
                 "address": "Simildenstraße 20, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -251,6 +311,12 @@
                 "url": "https://analogcafebar.metro.bar/?lang=de",
                 "address": "Hedwigstraße 20, 04315 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Volkmarsdorf"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -276,6 +342,12 @@
                 "url": "https://annalinde-leipzig.de/de/",
                 "address": "Zschochersche Str. 12, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "park",
                     "point_of_interest",
@@ -299,6 +371,12 @@
                 "url": "http://www.fachbuchantiquariat.de/",
                 "address": "Ritterstraße 8-10, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -323,6 +401,12 @@
                 "url": "https://www.etsy.com/de/shop/AntjeBraga",
                 "address": "Rückertstraße 11a, 04157 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -345,6 +429,12 @@
                 "url": "https://www.ashtangaleipzig.de/deutsch/aktuelles/",
                 "address": "Karl-Heine-Straße 85 a (Westwerk/Hintergebäude links!), 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -369,6 +459,12 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -393,6 +489,10 @@
                 "url": "https://www.facebook.com/ateliercalune",
                 "address": "Merseburger Str. 84, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -417,6 +517,12 @@
                 "url": "https://www.atelier-wolkengold.de/",
                 "address": "38, Dufourstraße, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "jewelry_store",
                     "point_of_interest",
@@ -441,6 +547,12 @@
                 "url": "https://auwald-bar.de/",
                 "address": "Karl-Heine-Straße 87, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Zentrum-Nord"
+                ],
                 "tags": [
                     "bar",
                     "restaurant",
@@ -466,6 +578,12 @@
                 "url": "https://blattwerk-leipzig.de/",
                 "address": "Weißenfelser Str. 8, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -490,6 +608,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/",
                 "address": "Grassistraße 4, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "bakery",
                     "food",
@@ -515,6 +639,12 @@
                 "url": "http://www.bauhuette-gastwirtschaft.de/",
                 "address": "Könneritzstraße 42, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "bar",
                     "restaurant",
@@ -540,6 +670,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/",
                 "address": "Jahnallee 4, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "cafe",
@@ -566,6 +702,12 @@
                 "url": "https://www.beetliebe.de/c/saatgut-and-samen-shop",
                 "address": "Oststraße 51a, 04317 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -589,6 +731,12 @@
                 "url": "https://bierothek.de/stores/leipzig",
                 "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "liquor_store",
                     "point_of_interest",
@@ -613,6 +761,12 @@
                 "url": "http://www.bdoleipzig.de/",
                 "address": "Karl-Liebknecht-Straße 31, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Mobilität"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "bicycle_store",
                     "point_of_interest",
@@ -637,6 +791,13 @@
                 "url": "https://ballbirds.de/",
                 "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -660,6 +821,12 @@
                 "url": "https://blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
                 "address": "Bornaische Str. 3C, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -683,6 +850,12 @@
                 "url": "https://bliss-leipzig.de/",
                 "address": "Reichsstraße 2, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "school",
                     "gym",
@@ -708,6 +881,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/",
                 "address": "Universitätsstraße 18, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -732,6 +911,12 @@
                 "url": "https://www.bootsbau-herold.de/",
                 "address": "Antonienstraße 2, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -754,6 +939,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/",
                 "address": "Bornaische Str. 42, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -779,6 +970,12 @@
                 "url": "https://www.buchhandlung-gruemmer.de/",
                 "address": "Zschochersche Str. 18, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -803,6 +1000,12 @@
                 "url": "https://www.genialokal.de/?storeID=leipzsv",
                 "address": "Karl-Liebknecht-Straße 126, 04275 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -827,6 +1030,12 @@
                 "url": "https://www.buchkinder.de/buchkindermaezenat/",
                 "address": "Endersstraße 3, 04177 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -849,6 +1058,12 @@
                 "url": "https://www.budowelt.com/",
                 "address": "Dieskaustraße 21, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -873,6 +1088,12 @@
                 "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/buntgarn-connewitz/",
                 "address": "Wolfgang-Heinze-Straße 11, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -895,6 +1116,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/",
                 "address": "Sachsenseite 3, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -920,6 +1147,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/",
                 "address": "Hirzelstraße 34, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Kleinzschocher"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -945,6 +1178,12 @@
                 "url": "https://cafekune.de/",
                 "address": "Eisenbahnstraße 107, 04315 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Neustadt-Neuschönefeld"
+                ],
                 "tags": [
                     "cafe",
                     "bar",
@@ -972,6 +1211,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/",
                 "address": "Scheffelstraße 35, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -997,6 +1242,12 @@
                 "url": "https://www.nimo-leipzig.de/info/",
                 "address": "August-Bebel-Straße 1, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1021,6 +1272,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/",
                 "address": "Hinterhaus, Lauchstädter Str. 15A, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1046,6 +1303,12 @@
                 "url": "https://www.pastel-leipzig.de/bestellung",
                 "address": "Georg-Schwarz-Straße 22, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1070,6 +1333,12 @@
                 "url": "http://cafetrago.de/",
                 "address": "Paul-Heyse-Straße 1, 04347 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Schönefeld"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1095,6 +1364,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/",
                 "address": "Steinstraße 18, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -1117,6 +1392,12 @@
                 "url": "http://www.camolita.de/CAMOLITA-Shop/",
                 "address": "Äußere Raustraße 22 a, 04158 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Lindenthal"
+                ],
                 "tags": [
                     "art_gallery",
                     "point_of_interest",
@@ -1141,6 +1422,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/",
                 "address": "Salomonstraße 8, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1166,6 +1453,12 @@
                 "url": "https://www.candy-collection.de/",
                 "address": "Lützner Str. 85, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -1191,6 +1484,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/",
                 "address": "Karl-Liebknecht-Straße 83, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1216,6 +1515,12 @@
                 "url": "https://www.chamundi-yoga.de/blogg/das-studio-und-das-virus/",
                 "address": "Kurt-Eisner-Straße 15, 04275 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -1240,6 +1545,12 @@
                 "url": "http://www.chulo-leipzig.de/restaurant.html",
                 "address": "Oeserstraße 33, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -1264,6 +1575,12 @@
                 "url": "https://www.circuit-accessories.de/",
                 "address": "Otto-Heinze-Straße 28, 04357 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Mockau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -1286,6 +1603,10 @@
                 "url": "https://www.citybootcamp.de/seminare/",
                 "address": "Leplaystraße 3, 04103 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout"
+                ],
+                "districts": [],
                 "tags": [
                     "gym",
                     "health",
@@ -1310,6 +1631,12 @@
                 "url": "https://www.cvb-leipzig.de/bestellungen-shops/",
                 "address": "Schuhmachergäßchen 4, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -1334,6 +1661,12 @@
                 "url": "https://www.etsy.com/de/shop/Coqueton",
                 "address": "Kochstraße 25, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -1359,6 +1692,10 @@
                 "url": "https://conceptualbody.art/",
                 "address": "Täubchenweg 18, 04317 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -1382,6 +1719,12 @@
                 "url": "https://www.culinaris.eu/",
                 "address": "Grimmaische Str. 25, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Haushaltswaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "shopping_mall",
                     "furniture_store",
@@ -1408,6 +1751,13 @@
                 "url": "https://www.dalaja.de/",
                 "address": "Arndtstraße 68, 04275 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges",
+                    "Yoga"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -1431,6 +1781,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/",
                 "address": "Jahnallee 23, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "cafe",
                     "restaurant",
@@ -1456,6 +1812,12 @@
                 "url": "http://www.derhutladen.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -1480,6 +1842,12 @@
                 "url": "https://www.der-teeladen-leipzig.de/",
                 "address": "Richard-Wagner-Straße 10, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -1504,6 +1872,12 @@
                 "url": "https://pilatisten.de/",
                 "address": "Roßpl. 12, 04103 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -1528,6 +1902,13 @@
                 "url": "http://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI",
                 "address": "Karl-Heine-Straße 63, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "cafe",
@@ -1555,6 +1936,12 @@
                 "url": "http://www.distillery.de/ex/dates",
                 "address": "Kurt-Eisner-Straße 108a, 04275 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "night_club",
                     "point_of_interest",
@@ -1578,6 +1965,10 @@
                 "url": "https://www.etsy.com/de/shop/PrintsByDominique",
                 "address": "Günselstraße 15, 04329 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -1600,6 +1991,12 @@
                 "url": "https://drift-books.buchhandlung.de/shop/",
                 "address": "Karl-Heine-Straße 83, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -1624,6 +2021,12 @@
                 "url": "https://www.doertedietrich.de/shop/",
                 "address": "Karl-Heine-Straße 9, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "jewelry_store",
                     "point_of_interest",
@@ -1648,6 +2051,12 @@
                 "url": "https://www.element-ost.yoga/",
                 "address": "Schulze-Delitzsch-Straße 19, 04315 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Neustadt"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -1672,6 +2081,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/",
                 "address": "Mahlmannstraße 1, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "meal_takeaway",
                     "restaurant",
@@ -1697,6 +2112,12 @@
                 "url": "https://eddaschmidt.de/",
                 "address": "Gottschallstraße 11, 04157 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -1720,6 +2141,14 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/",
                 "address": "Bornaische Str. 18, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Connewitz",
+                    "Plagwitz",
+                    "Zentrum"
+                ],
                 "tags": [
                     "library",
                     "point_of_interest",
@@ -1743,6 +2172,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/",
                 "address": "Südstraße 31, 04178 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -1767,6 +2202,12 @@
                 "url": "https://www.buero-eisenhauer.de/onlineshop/",
                 "address": "Grünewaldstraße 19, 04103 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -1790,6 +2231,12 @@
                 "url": "https://www.eistraeumerei.de/eiscafe/",
                 "address": "Riebeckstraße 32, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -1815,6 +2262,13 @@
                 "url": "https://www.xn--elstermhle-geb.de/",
                 "address": "Käthe-Kollwitz-Straße 67a, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café",
+                    "Getränke"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1840,6 +2294,13 @@
                 "url": "http://energytwister.de/",
                 "address": "Beethovenstraße 19/5. OG, 04107 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges",
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "spa",
                     "health",
@@ -1864,6 +2325,12 @@
                 "url": "https://www.engelsdorfer-verlag.de/",
                 "address": "Schongauerstraße 25, 04329 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Engelsdorf"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -1886,6 +2353,12 @@
                 "url": "https://www.erna-primula.de/",
                 "address": "Oststraße 115, 04299 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -1910,6 +2383,10 @@
                 "url": "https://www.erntemich.de/",
                 "address": "Großpösnaer Str. 71, 04288 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [],
                 "tags": [
                     "grocery_or_supermarket",
                     "park",
@@ -1937,6 +2414,12 @@
                 "url": "http://www.espressozackzack.de/",
                 "address": "Albert-Schweitzer-Straße 2, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Neuschönefeld"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -1962,6 +2445,12 @@
                 "url": "https://fang-studio.de/",
                 "address": "Oststraße 6, 04317 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "art_gallery",
                     "cafe",
@@ -1989,6 +2478,13 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/",
                 "address": "Industriestraße, in der FISCHTÜTE 21, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -2013,6 +2509,12 @@
                 "url": "https://www.fanoe-mode.de/",
                 "address": "Könneritzstraße 63, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -2037,6 +2539,12 @@
                 "url": "https://faunauge.de/",
                 "address": "Kurt-Eisner-Straße 11, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "jewelry_store",
                     "point_of_interest",
@@ -2061,6 +2569,12 @@
                 "url": "http://www.feinschliff-leipzig.de/home.html",
                 "address": "Eisenacher Str. 72, 04155 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -2086,6 +2600,13 @@
                 "url": "https://woll-lust-leipzig.de/",
                 "address": "Daumierstraße 5, 04157 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2108,6 +2629,12 @@
                 "url": "https://flamingocat.de/",
                 "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -2131,6 +2658,12 @@
                 "url": "https://flamingocat.de/",
                 "address": "Karl-Liebknecht-Straße 13, 04107 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "DIY"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -2154,6 +2687,12 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/",
                 "address": "Bernhard-Göring-Straße 155, 04277 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2176,6 +2715,12 @@
                 "url": "http://www.fotostudio80.de/",
                 "address": "Walter-Heinze-Straße 2, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2198,6 +2743,12 @@
                 "url": "https://franzmorish.de",
                 "address": "Goldschmidtstraße 39, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "cafe",
                     "restaurant",
@@ -2224,6 +2775,12 @@
                 "url": "https://franziskaklee.de/",
                 "address": "Georg-Schumann-Straße 134, 04155 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -2247,6 +2804,12 @@
                 "url": "https://franziskamkoellner.wordpress.com/",
                 "address": "Philipp-Reis-Straße 4, 04179 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Leutzsch"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2269,6 +2832,8 @@
                 "url": "https://www.instagram.com/_fraudi_/",
                 "address": "Mierendorffstraße 40, 04318 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2291,6 +2856,12 @@
                 "url": "http://freischwung.com/",
                 "address": "Brockhausstraße 22, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -2315,6 +2886,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/",
                 "address": "Dresdner Str. 49, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Neuschönefeld"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -2339,6 +2916,12 @@
                 "url": "https://www.ges-pro.de/",
                 "address": "Geschwister-Scholl-Straße 21, 04205 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Miltitz"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -2362,6 +2945,12 @@
                 "url": "https://www.dessous-le.de/geschenkgutschein",
                 "address": "Reichsstraße 1-9, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -2386,6 +2975,12 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/",
                 "address": "Merseburger Str. 31, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -2410,6 +3005,12 @@
                 "url": "https://gestalt-in-leipzig.de/",
                 "address": "Schadowstrasse 10/FSA, 04177 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Coaching"
+                ],
+                "districts": [
+                    "Leipzig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2432,6 +3033,11 @@
                 "url": "https://www.gesundheitssportverein.de/243",
                 "address": "Lessingstraße 1, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges",
+                    "Workout"
+                ],
+                "districts": [],
                 "tags": [
                     "gym",
                     "health",
@@ -2456,6 +3062,12 @@
                 "url": "http://www.gitarrenschuleleipzig.com/",
                 "address": "Windorfer Str. 6, 04229 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Musik"
+                ],
+                "districts": [
+                    "Kleinzschocher"
+                ],
                 "tags": [
                     "school",
                     "point_of_interest",
@@ -2479,6 +3091,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "electronics_store",
@@ -2507,6 +3125,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Optiker"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "electronics_store",
@@ -2535,6 +3159,13 @@
                 "url": "https://www.globusdoener.de/",
                 "address": "Oststraße 56, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Reudnitz",
+                    "Zentrum"
+                ],
                 "tags": [
                     "meal_takeaway",
                     "restaurant",
@@ -2560,6 +3191,12 @@
                 "url": "https://glueckskind-yoga-leipzig.de/",
                 "address": "Zentralstraße 7, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -2584,6 +3221,12 @@
                 "url": "https://www.graue-maus.de/",
                 "address": "Industriestraße 19, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -2608,6 +3251,13 @@
                 "url": "https://www.gruenschnabel-shop.de/",
                 "address": "Nikolaistraße 20, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -2632,6 +3282,13 @@
                 "url": "https://www.gutergriff.de/",
                 "address": "Angerstraße 53, 04177 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Reisen",
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -2655,6 +3312,12 @@
                 "url": "https://www.hafen-leipzig.de/shop",
                 "address": "Karl-Heine-Straße 75, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -2678,6 +3341,12 @@
                 "url": "https://herrganze.de/",
                 "address": "Jahnallee 71, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2700,6 +3369,12 @@
                 "url": "https://www.hildes-laden.de/",
                 "address": "Könneritzstraße 18, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "book_store",
                     "home_goods_store",
@@ -2725,6 +3400,12 @@
                 "url": "http://helchslorenzo.de/aktuelles/",
                 "address": "04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -2749,6 +3430,12 @@
                 "url": "https://herkules.eatbu.com/?lang=de#foodOrdering",
                 "address": "Erich-Köhn-Straße 24, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -2773,6 +3460,13 @@
                 "url": "https://www.etsy.com/de/shop/hildetanzt?fbclid=IwAR0FerLMvKT1A95zHfQTJSx9vZBlckmp6Lbtrs8TKn0q7suNa-2KEzx39i4",
                 "address": "Georg-Schwarz-Straße 20, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -2797,6 +3491,13 @@
                 "url": "http://www.sinn-30.de/laden/",
                 "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -2821,6 +3522,12 @@
                 "url": "https://www.hocuspocus-shop.de/",
                 "address": "Merseburger Str. 68, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -2846,6 +3553,12 @@
                 "url": "https://shop.hooraytoday.de/",
                 "address": "Gottschedstraße 22, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -2870,6 +3583,13 @@
                 "url": "https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/",
                 "address": "Kranichweg 7, 04420 Markranstädt, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Coaching",
+                    "Therapie"
+                ],
+                "districts": [
+                    "Markranstädt"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -2894,6 +3614,12 @@
                 "url": "https://shop.hooraytoday.de/",
                 "address": "Karl-Heine-Straße 99, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "school",
                     "point_of_interest",
@@ -2917,6 +3643,12 @@
                 "url": "https://ikosae.myshopify.com/",
                 "address": "Peterssteinweg 14, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -2939,6 +3671,12 @@
                 "url": "https://www.ino-cafe.de/",
                 "address": "Lützner Str. 103, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -2964,6 +3702,12 @@
                 "url": "http://www.ilseserika.de/termine-63.html",
                 "address": "Bernhard-Göring-Straße 152, 04277 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "bar",
                     "point_of_interest",
@@ -2987,6 +3731,12 @@
                 "url": "https://blumen.intaeger.de/shop/",
                 "address": "Arndtstraße 7, 04275 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -3011,6 +3761,12 @@
                 "url": "https://www.janik-leipzig.de/shop.php",
                 "address": "Felsenkellerstraße 1, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -3036,6 +3792,12 @@
                 "url": "https://www.janinatheiss.de/shop/",
                 "address": "Leipziger Str. 64, 04178 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -3059,6 +3821,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/",
                 "address": "Georg-Schwarz-Straße 28, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "restaurant",
                     "cafe",
@@ -3085,6 +3853,12 @@
                 "url": "https://jeepney-cafe.de/shop/",
                 "address": "Georg-Schumann-Straße 78, 04155 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "cafe",
                     "bakery",
@@ -3112,6 +3886,10 @@
                 "url": "https://www.etsy.com/shop/jennegrassmann",
                 "address": "Eisenbahnstraße 107, 04315 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
                 "tags": [
                     "cafe",
                     "bar",
@@ -3139,6 +3917,12 @@
                 "url": "https://www.facebook.com/JimmyOrpheus/",
                 "address": "Industriestraße 18, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -3164,6 +3948,12 @@
                 "url": "https://www.julesstoffkiste.de/",
                 "address": "Papiermühlstraße 10a, 04299 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Stötteritz"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -3188,6 +3978,12 @@
                 "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/",
                 "address": "August-Bebel-Straße 9, 04275 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3210,6 +4006,12 @@
                 "url": "http://www.kartoffelfraeulein.de/",
                 "address": "Karl-Heine-Straße 68, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "meal_takeaway",
                     "restaurant",
@@ -3235,6 +4037,12 @@
                 "url": "https://katja-rub.de/shop",
                 "address": "Eilenburger Str. 47, 04317 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3257,6 +4065,13 @@
                 "url": "https://www.etsy.com/de/shop/derKazimir",
                 "address": "Merseburger Str. 33, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -3281,6 +4096,12 @@
                 "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/",
                 "address": "Naumburger Str. 44, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3303,6 +4124,12 @@
                 "url": "http://www.kleine-hummel.de/",
                 "address": "Karl-Liebknecht-Straße 105, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -3327,6 +4154,12 @@
                 "url": "https://www.kleineleckerei.de/lieferservice/",
                 "address": "Schnorrstraße 38, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "cafe",
                     "lodging",
@@ -3354,6 +4187,12 @@
                 "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/",
                 "address": "Industriestraße 21, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -3377,6 +4216,12 @@
                 "url": "https://www.kraks.de/",
                 "address": "Großer Brockhaus 1, 04103 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "shoe_store",
                     "point_of_interest",
@@ -3401,6 +4246,12 @@
                 "url": "https://kreuzer-leipzig.de/",
                 "address": "Büttnerstraße 10, 04103 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3423,6 +4274,12 @@
                 "url": "https://www.kulturwarenfabrik.com/laden",
                 "address": "Lützner Str. 85, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3445,6 +4302,12 @@
                 "url": "https://kumi-mood.de/shop",
                 "address": "Engertstraße 12, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3467,6 +4330,12 @@
                 "url": "http://kunstundkatze.de/",
                 "address": "Merseburger Str. 7, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -3491,6 +4360,12 @@
                 "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/",
                 "address": "Saalfelder Str. 8, 04179 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3513,6 +4388,12 @@
                 "url": "https://kuultivo-shop.company.site/",
                 "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -3537,6 +4418,10 @@
                 "url": "https://www.etsy.com/de/shop/Koenigswurzeln",
                 "address": "Knöflerstraße 13, 04157 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3559,6 +4444,12 @@
                 "url": "https://www.lelo.bio/",
                 "address": "Karl-Liebknecht-Straße 123, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -3583,6 +4474,12 @@
                 "url": "https://www.youtube.com/channel/UCNZRAJLAjLDbnN_l1oAjcmw",
                 "address": "Mädler-Passage, Grimmaische Str. 2, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Leipzig"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -3607,6 +4504,12 @@
                 "url": "https://www.lebendigmacher.de/",
                 "address": "Holzhäuser Str. 74, 04299 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Stötteritz"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -3630,6 +4533,12 @@
                 "url": "https://www.lenastaudigl.de/",
                 "address": "August-Bebel-Straße 73, 04275 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Coaching"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -3653,6 +4562,13 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/",
                 "address": "Gottschedstraße 4, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "restaurant",
                     "bar",
@@ -3678,6 +4594,12 @@
                 "url": "https://www.lieblingswerk.de/infos",
                 "address": "Naundörfchen 2, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -3701,6 +4623,12 @@
                 "url": "https://restaurant-localino-leipzig.eatbu.com/?lang=de#foodOrdering",
                 "address": "Marschnerstraße 11, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -3725,6 +4653,12 @@
                 "url": "https://shop.luiseneugebauer.de/",
                 "address": "Karl-Liebknecht-Straße 79, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "jewelry_store",
                     "point_of_interest",
@@ -3749,6 +4683,12 @@
                 "url": "https://www.lust-auf-blumen.de/",
                 "address": "Bornaische Str. 38, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -3773,6 +4713,12 @@
                 "url": "https://mzin.de/",
                 "address": "Kolonnadenstraße 20, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -3797,6 +4743,12 @@
                 "url": "https://www.madiba.de/",
                 "address": "Nordpl. 10, 04105 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Reisen"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3819,6 +4771,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/",
                 "address": "Markranstädter Str. 8 Ecke, Wachsmuthstraße, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3841,6 +4799,12 @@
                 "url": "https://www.meinewelt-reisen.de/",
                 "address": "Peterssteinweg 14, 04107 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Reisen"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3863,6 +4827,12 @@
                 "url": "https://www.michaelis-leipzig.de/",
                 "address": "Paul-Gruner-Straße 44, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "lodging",
                     "restaurant",
@@ -3888,6 +4858,12 @@
                 "url": "https://mindtstudio.de/vinyasa-yogakurse",
                 "address": "Zschochersche Str. 86, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3910,6 +4886,12 @@
                 "url": "https://www.instagram.com/modernusart/",
                 "address": "04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -3932,6 +4914,12 @@
                 "url": "https://www.geh-bunt.de/",
                 "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -3956,6 +4944,12 @@
                 "url": "https://www.musikhaus-syhre.de/",
                 "address": "Wiederitzscher Str. 33, 04155 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "electronics_store",
                     "home_goods_store",
@@ -3981,6 +4975,12 @@
                 "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/",
                 "address": "Engertstraße 38, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -4003,6 +5003,12 @@
                 "url": "https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=31171912&fbclid=IwAR0p2BdOhlYxZODpwazktUycleHvxEeIawLd9nWhtEXAmDXPn4QbHxhDZyI",
                 "address": "Richard-Lehmann-Straße 47a, 04275 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -4028,6 +5034,12 @@
                 "url": "http://www.moebelwerkstatt.net/",
                 "address": "Antonienstraße 26, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -4053,6 +5065,12 @@
                 "url": "https://heilpraktiker-becher-leipzig.de/",
                 "address": "Hahnemannstraße 7, 04177 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -4076,6 +5094,12 @@
                 "url": "https://www.naturnah-moebel.de/",
                 "address": "Taubestraße 2, 04347 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Volkmarsdorf"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -4101,6 +5125,12 @@
                 "url": "http://naturparadies-leipzig.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "food",
@@ -4126,6 +5156,12 @@
                 "url": "http://naturparadies-leipzig.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Haushaltswaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "food",
@@ -4151,6 +5187,12 @@
                 "url": "http://nepomuk-leipzig.de/",
                 "address": "Zschochersche Str. 57, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "bar",
                     "point_of_interest",
@@ -4174,6 +5216,12 @@
                 "url": "https://www.nochbesserleben.com/",
                 "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "lodging",
                     "bar",
@@ -4198,6 +5246,12 @@
                 "url": "https://www.nochbesserleben.com/",
                 "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "lodging",
                     "bar",
@@ -4222,6 +5276,12 @@
                 "url": "https://www.oszl.de/",
                 "address": "Eisenbahnstraße 9, 04315 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
                 "tags": [
                     "shoe_store",
                     "doctor",
@@ -4248,6 +5308,12 @@
                 "url": "https://obenauf-kaffee.de/",
                 "address": "Karl-Heine-Straße 57, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -4273,6 +5339,12 @@
                 "url": "http://olea-restaurant.de/",
                 "address": "Dreilindenstraße 1, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "restaurant",
                     "cafe",
@@ -4298,6 +5370,12 @@
                 "url": "https://www.optikstudio-mueller.de/aktuelles/news/index.html",
                 "address": "Karl-Liebknecht-Straße 122, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Optiker"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -4322,6 +5400,13 @@
                 "url": "https://oskar-leipzig.de/gutschein/",
                 "address": "Harkortstraße 21, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "park",
                     "bar",
@@ -4348,6 +5433,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/",
                 "address": "Lindenauer Markt 21, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -4372,6 +5463,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
                 "address": "Odermannstraße 11, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "bar",
                     "restaurant",
@@ -4397,6 +5494,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/",
                 "address": "Bornaische Str. 11, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "doctor",
                     "bar",
@@ -4424,6 +5527,12 @@
                 "url": "https://www.pistrada.com/",
                 "address": "Merseburger Str. 90, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Mobilität"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "bicycle_store",
                     "point_of_interest",
@@ -4448,6 +5557,12 @@
                 "url": "https://www.facebook.com/platzhirschbarleipzig/",
                 "address": "August-Bebel-Straße 1, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "bar",
                     "restaurant",
@@ -4473,6 +5588,12 @@
                 "url": "https://print4kids.info/shop/",
                 "address": "Kregelstraße 6, 04317 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Thonberg"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -4497,6 +5618,12 @@
                 "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/",
                 "address": "Kolonnadenstraße 5 - 7, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "book_store",
                     "cafe",
@@ -4523,6 +5650,12 @@
                 "url": "https://rusty-cat.de/shop",
                 "address": "Kochstraße 27, 04275 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -4547,6 +5680,12 @@
                 "url": "https://www.rauch-leipzig.de/index.html",
                 "address": "Alles für Haus und Garten, Karl-Liebknecht-Straße 22, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Haushaltswaren"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -4571,6 +5710,13 @@
                 "url": "https://www.facebook.com/renkli.weinundangst/",
                 "address": "Karl-Liebknecht-Straße 2, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "bar",
                     "food",
@@ -4595,6 +5741,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/rimini-connewitz/",
                 "address": "Bornaische Str. 13, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -4619,6 +5771,12 @@
                 "url": "https://www.roots-pflanzencafe.de/gutscheine",
                 "address": "Könneritzstraße 88, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -4643,6 +5801,12 @@
                 "url": "https://www.rotyve.de/",
                 "address": "Lützner Str. 29, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -4667,6 +5831,12 @@
                 "url": "https://www.rotznasen-leipzig.de/shop/",
                 "address": "Könneritzstraße 63, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -4691,6 +5861,12 @@
                 "url": "https://ravare.de/shop/",
                 "address": "Görlitzer Str. 10, 04129 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Eutritzsch"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -4713,6 +5889,12 @@
                 "url": "https://www.stoffladen-leipzig.de/",
                 "address": "Arthur-Hoffmann-Straße 69, 04275 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -4738,6 +5920,12 @@
                 "url": "https://roestgut.de/shop.html",
                 "address": "Holbeinstraße 29, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -4761,6 +5949,12 @@
                 "url": "https://www.rueckenoase-leipzig.de/gutscheine-online-bestellen/",
                 "address": "Wintergartenstraße 2, 04103 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -4783,6 +5977,12 @@
                 "url": "https://s1vinylundkaffee.de/",
                 "address": "Sattelhofstraße 1, 04179 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "cafe",
                     "electronics_store",
@@ -4810,6 +6010,12 @@
                 "url": "https://s1vinylundkaffee.de/",
                 "address": "Sattelhofstraße 1, 04179 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "cafe",
                     "electronics_store",
@@ -4837,6 +6043,12 @@
                 "url": "https://www.signuu.com/gravurshop.html",
                 "address": "Brühl 64-66, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -4860,6 +6072,12 @@
                 "url": "https://www.stilconceptstore.de/shop/",
                 "address": "Nikolaistraße 22, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "furniture_store",
                     "florist",
@@ -4891,6 +6109,12 @@
                 "url": "https://www.statourschmuck.de/shop/",
                 "address": "Zschochersche Str. 79B, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "jewelry_store",
                     "point_of_interest",
@@ -4915,6 +6139,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/",
                 "address": "Stockstraße 2, 04155 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "restaurant",
@@ -4941,6 +6171,12 @@
                 "url": "https://samstagsmarkt.de/",
                 "address": "Markranstädter Str. 8, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -4963,6 +6199,12 @@
                 "url": "https://sauberkasten.com/shop/",
                 "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Haushaltswaren"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -4985,6 +6227,13 @@
                 "url": "https://www.schaubuehne.com/",
                 "address": "50, Karl-Heine-Straße, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Lindenau",
+                    "Plagwitz"
+                ],
                 "tags": [
                     "movie_theater",
                     "restaurant",
@@ -5010,6 +6259,12 @@
                 "url": "https://www.scheibenholz.com/aufgalopp-der-herzen.html",
                 "address": "Rennbahnweg 2 A, 04107 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Zentrum-West"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5032,6 +6287,12 @@
                 "url": "https://schleifenfaenger.de/shop/",
                 "address": "Kippenbergstraße 4, 04317 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -5056,6 +6317,12 @@
                 "url": "https://www.facebook.com/Schnellbuffet/",
                 "address": "Karl-Liebknecht-Straße 139, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5080,6 +6347,12 @@
                 "url": "https://schreibundstil.de/",
                 "address": "Grimmaische Str. 2-4, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -5103,6 +6376,12 @@
                 "url": "https://schuhe-leipzig.de/sortiment/",
                 "address": "Hainstraße 12-14, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "shoe_store",
                     "point_of_interest",
@@ -5127,6 +6406,13 @@
                 "url": "https://www.schwesterchenundschwesterchen.de/",
                 "address": "Weißenfelser Str. 5, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -5151,6 +6437,12 @@
                 "url": "https://bestsecrets.de/?page=70",
                 "address": "Goetzstraße 2, 04177 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -5175,6 +6467,12 @@
                 "url": "https://www.genialokal.de/buchhandlung/leipzig/kinderbuchladen-serifee/",
                 "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -5199,6 +6497,13 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/",
                 "address": "Körnerstraße 2, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "restaurant",
                     "bar",
@@ -5224,6 +6529,12 @@
                 "url": "https://www.slingashop.de/",
                 "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Schönefeld"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -5247,6 +6558,12 @@
                 "url": "http://www.solemio-leipzig.de/",
                 "address": "Hauptstraße 22, 04288 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südost"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5271,6 +6588,12 @@
                 "url": "https://sophievalentin.com/",
                 "address": "Käthe-Kollwitz-Straße 12, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5293,6 +6616,13 @@
                 "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/",
                 "address": "Gottschedstraße 12, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout",
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -5317,6 +6647,13 @@
                 "url": "https://stadthafen-leipzig.com/index.php/gutscheine",
                 "address": "Gottschedstraße 12, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout",
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -5341,6 +6678,12 @@
                 "url": "http://spectorbooks.com/",
                 "address": "Harkortstraße 10, 04107 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5363,6 +6706,12 @@
                 "url": "https://stadthafen-leipzig.com/index.php/kontakt",
                 "address": "Stadthafen Leipzig, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "natural_feature",
                     "establishment"
@@ -5385,6 +6734,12 @@
                 "url": "http://www.stahlakademie.net/",
                 "address": "Str. am Park 5, 04209 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5407,6 +6762,12 @@
                 "url": "https://stilkontor.com/",
                 "address": "Karl-Liebknecht-Straße 30, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -5431,6 +6792,12 @@
                 "url": "https://www.stoff-kreationen.com/",
                 "address": "Calvisiusstraße 23, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -5455,6 +6822,12 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/",
                 "address": "Altenburger Str. 13, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5477,6 +6850,12 @@
                 "url": "http://www.migotka.de/workshops.html",
                 "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "DIY"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "school",
                     "gym",
@@ -5502,6 +6881,12 @@
                 "url": "https://studioveda.de/",
                 "address": "Dimitroffstraße 26, 04107 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "gym",
                     "health",
@@ -5526,6 +6911,12 @@
                 "url": "https://superfoodz-store-leipzig.com/",
                 "address": "Gottschedstraße 6, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5550,6 +6941,12 @@
                 "url": "https://suse-liebe-suse.blogspot.com/p/blog-page.html",
                 "address": "Industriestraße 31, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -5574,6 +6971,12 @@
                 "url": "http://www.suesssalzig.de/",
                 "address": "Merseburger Str. 44, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "cafe",
                     "bar",
@@ -5601,6 +7004,12 @@
                 "url": "https://suesswaerts.chayns.net/",
                 "address": "Zschochersche Str. 38, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -5626,6 +7035,12 @@
                 "url": "https://www.tipunen.com/online-shop/",
                 "address": "Odermannstraße 19, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kindermode"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -5650,6 +7065,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/",
                 "address": "Könneritzstraße 21, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Möckern"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -5674,6 +7095,12 @@
                 "url": "https://www.trabi-erleben.de/gutscheine/",
                 "address": "Kietzstraße 19 Besuche vor Ort bitte nur nach Vereinbarung | den Übergabeort für Ihren Trabi erhalten Sie in unserer Reservierungsbestätigung, 04179 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Leutzsch"
+                ],
                 "tags": [
                     "travel_agency",
                     "point_of_interest",
@@ -5697,6 +7124,12 @@
                 "url": "https://www.taschenkaufhaus.de/",
                 "address": "Karl-Heine-Straße 92-94, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -5720,6 +7153,12 @@
                 "url": "https://team-duell.de/buchen/#regdl=wertgutschein-fur-team-duell-oder-die-buzzer-lounge",
                 "address": "Zschortauer Str. 60, 04129 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Mockau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5742,6 +7181,12 @@
                 "url": "https://www.thiseas.de/info/index.html",
                 "address": "Holbeinstraße 28A, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5766,6 +7211,12 @@
                 "url": "https://www.thomasshop-leipzig.de/",
                 "address": "Thomaskirchhof 18, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -5789,6 +7240,12 @@
                 "url": "https://www.thommys-eismanufaktur.de/",
                 "address": "Georg-Schumann-Straße 294, 04159 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Möckern"
+                ],
                 "tags": [
                     "cafe",
                     "food",
@@ -5814,6 +7271,12 @@
                 "url": "https://www.thueringer-hof.de/de/",
                 "address": "Burgstraße 19, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5838,6 +7301,12 @@
                 "url": "https://www.tictoys.de/",
                 "address": "Industriestraße 11, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -5861,6 +7330,12 @@
                 "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/",
                 "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5883,6 +7358,10 @@
                 "url": "https://tomthiele.com/",
                 "address": "Funkenburgstraße 12, 04105 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5905,6 +7384,12 @@
                 "url": "http://www.trattoria-aurelia.de/abholung.html",
                 "address": "Pfaffendorfer Str. 26, 04105 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum-Nord"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -5930,6 +7415,12 @@
                 "url": "https://www.trommel-kurse.de/",
                 "address": "Kregelstraße 6, 04317 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Musik"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -5952,6 +7443,12 @@
                 "url": "https://tschautschuessi.bigcartel.com/",
                 "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -5975,6 +7472,12 @@
                 "url": "https://www.etsy.com/shop/tulasiwear/",
                 "address": "Lützner Str. 135, 04179 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "art_gallery",
                     "point_of_interest",
@@ -5998,6 +7501,12 @@
                 "url": "https://www.uhrmacher-leipzig.de/",
                 "address": "Mockauer Str. 95, 04357 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Mockau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6020,6 +7529,12 @@
                 "url": "https://www.ulrike-sandner.de/shop/",
                 "address": "04177, Demmeringstraße 54, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6042,6 +7557,12 @@
                 "url": "https://www.urbanite.net/de/leipzig/",
                 "address": "Kurt-Eisner-Straße 36, 04275 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6064,6 +7585,12 @@
                 "url": "https://www.ute-stephan.de/",
                 "address": "Zschochersche Str. 54-56, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6086,6 +7613,12 @@
                 "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/",
                 "address": "Eisenbahnstraße 7, 04315 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
                 "tags": [
                     "cafe",
                     "electronics_store",
@@ -6113,6 +7646,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/",
                 "address": "Bornaische Str. 102, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "food",
                     "point_of_interest",
@@ -6137,6 +7676,12 @@
                 "url": "https://www.varadanza.com/",
                 "address": "Lagerhofstraße 4, 04103 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Tanz"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -6160,6 +7705,12 @@
                 "url": "https://www.xn--gaststtte-vergissmeinnicht-lhc.de/",
                 "address": "Dieskaustraße 122, 04249 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Großzschocher"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -6184,6 +7735,10 @@
                 "url": "https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop",
                 "address": "Haferkornstraße 15, 04129 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Haushaltswaren"
+                ],
+                "districts": [],
                 "tags": [
                     "home_goods_store",
                     "general_contractor",
@@ -6209,6 +7764,12 @@
                 "url": "https://www.wegzehrung.com/mbsr/",
                 "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Therapie"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6231,6 +7792,12 @@
                 "url": "https://www.wegzehrung.com/mbsr/",
                 "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Coaching"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6253,6 +7820,12 @@
                 "url": "https://www.wohltat-leipzig.com/",
                 "address": "Forststraße 9, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Workout"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -6276,6 +7849,12 @@
                 "url": "https://www.wohnmacher.de/",
                 "address": "Nikolaistraße 36, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "furniture_store",
                     "home_goods_store",
@@ -6301,6 +7880,12 @@
                 "url": "http://www.wonnecitz.de/",
                 "address": "Karl-Liebknecht-Straße 165, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -6324,6 +7909,12 @@
                 "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/",
                 "address": "Rückmarsdorfer Str. 1, 04179 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Optiker"
+                ],
+                "districts": [
+                    "Leutzsch"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -6347,6 +7938,12 @@
                 "url": "http://www.zest-leipzig.de/",
                 "address": "Bornaische Str. 54, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -6371,6 +7968,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/",
                 "address": "Kippenbergstraße 28, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
                 "tags": [
                     "meal_takeaway",
                     "bar",
@@ -6398,6 +8001,12 @@
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/",
                 "address": "Bornaische Str. 49, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6420,6 +8029,12 @@
                 "url": "https://balloon-fantasy.de/",
                 "address": "Dufourstraße 38, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -6444,6 +8059,12 @@
                 "url": "https://www.calaidoskop.de/",
                 "address": "Paartherapie, Sexualberatung, Supervision Oliver Wolf Eheberatung, Partnerberatung, Paarberatung, Braustraße 29, 04107 Leipzig, Germany",
                 "category": "Workshops",
+                "sub-categories": [
+                    "Therapie"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "health",
                     "point_of_interest",
@@ -6467,6 +8088,12 @@
                 "url": "https://le-caphe.eatbu.com/?lang=de",
                 "address": "Georg-Schumann-Straße 130, 04155 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
                 "tags": [
                     "cafe",
                     "meal_takeaway",
@@ -6493,6 +8120,12 @@
                 "url": "https://caamate.de/",
                 "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6515,6 +8148,12 @@
                 "url": "https://www.genialokal.de/buchhandlung/leipzig/el-libro/",
                 "address": "Bornaische Str. 3D, 04277 Leipzig, Germany",
                 "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "book_store",
                     "point_of_interest",
@@ -6539,6 +8178,12 @@
                 "url": "http://findelkind.biz/home.html",
                 "address": "Georg-Schwarz-Straße 27, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6561,6 +8206,12 @@
                 "url": "https://www.flora-metaphorica.com/",
                 "address": "Friedrich-Ebert-Straße 17, 04416 Markkleeberg, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Raschwitz"
+                ],
                 "tags": [
                     "florist",
                     "point_of_interest",
@@ -6585,6 +8236,12 @@
                 "url": "https://genussreich-leipzig.de/",
                 "address": "Nathanaelstraße 1, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -6609,6 +8266,12 @@
                 "url": "https://hejmom.com/",
                 "address": "Paul-Gruner-Straße 24, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -6633,6 +8296,12 @@
                 "url": "https://www.holzart-leipzig.de/pages/holzspiele.php",
                 "address": "Wigandstraße 27, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6655,6 +8324,13 @@
                 "url": "https://www.ka-put.de/",
                 "address": "Wolfgang-Heinze-Straße 10, 04277 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -6679,6 +8355,10 @@
                 "url": "https://www.lawi-sport.de/",
                 "address": "Dufourstraße 38, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -6703,6 +8383,12 @@
                 "url": "https://www.lieberlose.de/",
                 "address": "über, Weißenfelser Str. 22 Eingang zum Ladengeschäft:, Zschochersche Str., 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "grocery_or_supermarket",
                     "food",
@@ -6728,6 +8414,12 @@
                 "url": "https://www.luxaa.de/de/",
                 "address": "Schuhmachergäßchen 1-3, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -6752,6 +8444,12 @@
                 "url": "https://mazapita.de/",
                 "address": "Könneritzstraße 49, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
                 "tags": [
                     "restaurant",
                     "food",
@@ -6776,6 +8474,12 @@
                 "url": "https://www.melonie.de/online-shop/",
                 "address": "Eingang, Käthe-Kollwitz-Straße, Gottschedstraße 7-9, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "home_goods_store",
                     "point_of_interest",
@@ -6801,6 +8505,12 @@
                 "url": "https://oneshirt24.de/",
                 "address": "Georg-Schumann-Straße 191, 04159 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Möckern"
+                ],
                 "tags": [
                     "point_of_interest",
                     "clothing_store",
@@ -6825,6 +8535,13 @@
                 "url": "https://www.etsy.com/de/shop/BelleEtBete",
                 "address": "Zschochersche Str. 55, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -6848,6 +8565,12 @@
                 "url": "https://www.etsy.com/de/shop/BelleEtBete",
                 "address": "Zschochersche Str. 55, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
                 "tags": [
                     "store",
                     "point_of_interest",
@@ -6871,6 +8594,13 @@
                 "url": "https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/",
                 "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
                 "tags": [
                     "clothing_store",
                     "point_of_interest",
@@ -6895,6 +8625,12 @@
                 "url": "https://rad3.de/",
                 "address": "Erich-Köhn-Straße 63B, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Mobilität"
+                ],
+                "districts": [
+                    "Altlindenau"
+                ],
                 "tags": [
                     "bicycle_store",
                     "point_of_interest",
@@ -6919,6 +8655,12 @@
                 "url": "https://schoenherum.de/",
                 "address": "Karl-Tauchnitz-Straße 6, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "point_of_interest",
                     "store",
@@ -6942,6 +8684,12 @@
                 "url": "https://www.tapir-store.de/?awc=17390_1585142226_3e093d9039a56b61efb1637ba70aeebf&utm_source=awin&utm_medium=affiliate",
                 "address": "Georgiring 4-7, 04103 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Mobilität"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "shoe_store",
                     "point_of_interest",
@@ -6967,6 +8715,12 @@
                 "url": "https://www.tex-lock.com/",
                 "address": "Ludwig-Hupfeld-Straße 16, 04178 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Mobilität"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
                 "tags": [
                     "point_of_interest",
                     "establishment"
@@ -6989,6 +8743,12 @@
                 "url": "https://www.umaii.de/umaii-corona-service/",
                 "address": "Klostergasse 7-9, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
                 "tags": [
                     "restaurant",
                     "food",

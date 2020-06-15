@@ -60,13 +60,21 @@ def loadLocalsFromWebsite(url):
                     imagesCached.append(imageFilename)
 
                 link = d('a:last', element)
+                
+                subCategories = []
+                for subCategoryKey in classes & availableSubCategories.keys():
+                    subCategories.append(availableSubCategories[subCategoryKey])
+                
+                districts = []
+                for districtKey in classes & availableDistricts.keys():
+                    districts.append(availableDistricts[districtKey])
 
                 entry = {
                     'image': imageFilename,
                     'title': link.text(),
                     'link': link.attr('href'),
-                    'sub-categories': sorted(list(availableSubCategories.keys() & classes)),
-                    'districts': sorted(list(availableDistricts.keys() & classes)),
+                    'sub-categories': sorted(subCategories),
+                    'districts': sorted(districts),
                     'category': categoryTitle,
                     'cleanTitle': link.text().split('/ ')[0].strip(),
                     'description': html.unescape(d('p', element).text())

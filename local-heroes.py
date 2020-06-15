@@ -208,6 +208,8 @@ def writeGeoJson(entries):
                 'url': entry['link'],
                 'address': location.get('address', ''),
                 'category': entry['category'],
+                'sub-categories': entry['sub-categories'],
+                'districts': entry['districts'],
                 'tags': tags
             },
             'geometry': {
