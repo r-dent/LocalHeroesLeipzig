@@ -65,8 +65,8 @@ def loadLocalsFromWebsite(url):
                     'image': imageFilename,
                     'title': link.text(),
                     'link': link.attr('href'),
-                    'sub-categories': list(availableSubCategories.keys() & classes),
-                    'districts': list(availableDistricts.keys() & classes),
+                    'sub-categories': sorted(list(availableSubCategories.keys() & classes)),
+                    'districts': sorted(list(availableDistricts.keys() & classes)),
                     'category': categoryTitle,
                     'cleanTitle': link.text().split('/ ')[0].strip(),
                     'description': html.unescape(d('p', element).text())
