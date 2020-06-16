@@ -43,7 +43,7 @@ class LocalHeroesMap {
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
         
-        const resourceVersionTag = '20200514'
+        const resourceVersionTag = '20200616'
         const dataUrl = (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/local-heroes-leipzig.geojson?v='+ resourceVersionTag
         const cssUrl = (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'map-style.css?v='+ resourceVersionTag
 
@@ -234,8 +234,9 @@ class LocalHeroesMap {
                     checkboxes += '<label for="sub-category-'+ checkboxCount +'">'+ subCategory +'</label>'
                     checkboxes += '</div>'
                 }
+                let toggleAllButton = '<button onclick="map.toggleSubCategories()">alle</button>'
             
-                div.innerHTML = checkboxes
+                div.innerHTML = checkboxes + toggleAllButton
                 return div
             };
             this.subCategoryControl.addTo(this.map)
@@ -247,6 +248,14 @@ class LocalHeroesMap {
 
         this.applyFilter(selectedCategory, undefined, true)
         this.currentCategory = selectedCategory
+    }
+
+    toggleSubCategories() {
+
+        let selectAll = false
+        this.forAllCheckboxElements( (checkbox) => { if (!checkbox.checked) { selectAll = true } })
+        this.forAllCheckboxElements( (checkbox) => { checkbox.checked = selectAll })
+        this.applyFilter(this.currentCategory, (selectAll ? undefined : []), selectAll)
     }
 
     updateSubCategorySelection() {
