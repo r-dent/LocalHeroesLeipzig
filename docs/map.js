@@ -25,6 +25,7 @@ class LocalHeroesMap {
     constructor(mapElementId, options = {}) {
         this.mainCategories = new Array();
         this.categories = new Object();
+        this.currentCategory = 'all'
         this.subCategoryControl = undefined
         this.map = undefined
         this.isLocal = location.hostname == 'localhost' || location.hostname == '192.168.2.169'
@@ -38,7 +39,7 @@ class LocalHeroesMap {
         this.geoJson = undefined
 
         // Add loading layer DOM.
-        var mapContainer = document.getElementById(mapElementId)
+        let mapContainer = document.getElementById(mapElementId)
         mapContainer.classList.add('lh-mp-ctnr')
         mapContainer.innerHTML = '<div id="loading"><svg height="100" width="100" class="spinner"><circle cx="50" cy="50" r="20" class="inner-circle" /></svg></div>'
         
@@ -125,7 +126,7 @@ class LocalHeroesMap {
     }
 
     renderMapMarker(geoJsonPoint, coordinatate) {
-        var icon = L.icon({
+        const icon = L.icon({
             iconUrl: (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/imagecache/'+ geoJsonPoint.properties.image,
             iconSize: [38, 38],
             shadowUrl: (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'shadow.svg',
@@ -136,12 +137,16 @@ class LocalHeroesMap {
             .bindTooltip(geoJsonPoint.properties.name, {offset: [0, 16]})
     }
 
-    addLayerToMap(layer, map) {
+    setMarkerLayer(layer, map, zoomToSelection = false) {
+
+        if (this.markerLayer !== undefined) {
+            map.removeLayer(this.markerLayer)
+        }
 
         if (this.useClustering) {
 
             const addClusterLayer = (layer, map) => {
-                var markers = L.markerClusterGroup({
+                const markers = L.markerClusterGroup({
                     disableClusteringAtZoom: this.clusterZoom
                 });
                 markers.addLayer(layer)
@@ -160,36 +165,53 @@ class LocalHeroesMap {
             layer.addTo(map)
             this.markerLayer = layer
         }
+
+        if (zoomToSelection) {
+            map.fitBounds(L.featureGroup([this.markerLayer]).getBounds())
+        }
     }
 
-    applyFilter(category, subCategories) {
+    applyFilter(filterCategory, filterSubCategories, zoomToSelection = false) {
 
         const geoLayer = L.geoJSON(this.geoJson, {
             onEachFeature: this.onEachMapFeature,
             pointToLayer: (point, coord) => this.renderMapMarker(point, coord),
             filter: function(feature, layer) {
-                const matchesCategory = (feature.properties.category == category || category == 'all')
-                return matchesCategory
+                const featureCategory = feature.properties.category
+                const featureSubCategories = feature.properties['sub-categories']
+
+                const shouldFilterSubCategory = Array.isArray(filterSubCategories)
+                const matchesCategory = (featureCategory == filterCategory || filterCategory == 'all')
+
+                let matchesSubCategory = (!shouldFilterSubCategory || featureSubCategories.length == 0)
+                if (shouldFilterSubCategory) {
+                    for (const subCategoryKey in  featureSubCategories) {
+                        if (filterSubCategories.includes(featureSubCategories[subCategoryKey])) {
+                            matchesSubCategory = true
+                            break
+                        }
+                    }
+                }
+                return matchesCategory && matchesSubCategory
             }
         })
-        
-        this.addLayerToMap(geoLayer, this.map)
+
+        this.setMarkerLayer(geoLayer, this.map, zoomToSelection)   
     }
 
-    showLayer(id) {
-        var group = this.categoryLayers[id];
-        if (!this.map.hasLayer(group)) {
-            group.addTo(this.map);   
+    forAllCheckboxElements(handler) {
+
+        if (typeof handler !== 'function') {
+            return
+        }
+        const checkboxElements = document.getElementsByClassName('sub-category-checkbox')
+        for (let i = 0; i < checkboxElements.length; i++) {
+            handler(checkboxElements[i])
         }
     }
 
-    hideLayer(id) {
-        var lg = this.categoryLayers[id];
-        this.map.removeLayer(lg);   
-    }
-
     selectCategory(selectedCategory) {
-        console.log(selectedCategory)
+        
         const showAll = (selectedCategory == 'all')
 
         if (this.subCategoryControl !== undefined) {
@@ -200,15 +222,15 @@ class LocalHeroesMap {
 
         if (!showAll) {
             this.subCategoryControl.onAdd = (map) => {
-                var div = L.DomUtil.create('div', 'sub-categories')
+                const div = L.DomUtil.create('div', 'sub-categories')
 
-                var checkboxCount = 0
-                var checkboxes = ''
+                let checkboxCount = 0
+                let checkboxes = ''
                 for (const subCategoryKey in this.categories[selectedCategory]) {
                     const subCategory = this.categories[selectedCategory][subCategoryKey]
                     checkboxCount += 1
                     checkboxes += '<div>'
-                    checkboxes += '<input type="checkbox" id="sub-category-'+ checkboxCount +'" name="sub-category-'+ checkboxCount +'" checked></input>'
+                    checkboxes += '<input type="checkbox" id="sub-category-'+ checkboxCount +'" name="'+ subCategory +'" class="sub-category-checkbox" checked></input>'
                     checkboxes += '<label for="sub-category-'+ checkboxCount +'">'+ subCategory +'</label>'
                     checkboxes += '</div>'
                 }
@@ -217,11 +239,23 @@ class LocalHeroesMap {
                 return div
             };
             this.subCategoryControl.addTo(this.map)
+
+            this.forAllCheckboxElements( 
+                (checkbox) => checkbox.addEventListener('change', (event) => this.updateSubCategorySelection(), false)
+            )
         }
 
-        this.map.removeLayer(this.markerLayer)
-        this.applyFilter(selectedCategory)
-        this.map.fitBounds(L.featureGroup([this.markerLayer]).getBounds())
+        this.applyFilter(selectedCategory, undefined, true)
+        this.currentCategory = selectedCategory
+    }
+
+    updateSubCategorySelection() {
+        
+        let selectedSubCategories = []
+        this.forAllCheckboxElements( 
+            (checkbox) => { if (checkbox.checked) { selectedSubCategories.push(checkbox.name) } }
+        )
+        this.applyFilter(this.currentCategory, selectedSubCategories, true)
     }
 
     applyGeoData(data) {
@@ -251,14 +285,14 @@ class LocalHeroesMap {
         
         if (this.showCategorySelection !== false) {
             // Create category selection control.
-            var control = L.control({position: 'topright'});
+            const control = L.control({position: 'topright'});
             control.onAdd = (map) => {
-                var div = L.DomUtil.create('div', 'command');
+                const div = L.DomUtil.create('div', 'command');
 
-                var categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
+                let categorySelection = '<form><div class="select-wrapper fa fa-angle-down"><select id="category-selection" name="category">'
                 categorySelection += '<option value="all">Alle</option>'
                 for (const catId in this.mainCategories) {
-                    var category = this.mainCategories[catId]
+                    let category = this.mainCategories[catId]
                     categorySelection += '<option value="'+ category +'">'+ category +'</option>'
                 }
                 categorySelection += '</select></div></form>'
@@ -287,7 +321,7 @@ class LocalHeroesMap {
 class LocalHeroesHelper {
 
     static loadScript(url, callback = () => {}) {
-        var scriptNode = document.createElement("script"); 
+        const scriptNode = document.createElement("script"); 
         scriptNode.type = 'text/javascript';
         scriptNode.src = url;
         scriptNode.onreadystatechange = callback
@@ -297,7 +331,7 @@ class LocalHeroesHelper {
     }
 
     static loadCss(url) {
-        var cssNode = document.createElement("link"); 
+        const cssNode = document.createElement("link"); 
         cssNode.rel = 'stylesheet';
         cssNode.href = url
     
