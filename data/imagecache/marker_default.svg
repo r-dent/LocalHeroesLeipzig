@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="60px" viewBox="0 0 30 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marker_background</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Local-Heroes-Leipzig" transform="translate(-11.000000, -25.000000)" fill="#0042FF" fill-rule="nonzero">
+            <g id="marker_background" transform="translate(11.000000, 25.000000)">
+                <path d="M27.54,0.28 L2.4,5.38 C1.86,5.49 1.41,5.83 1.16,6.32 C0.91,6.81 0.88,7.38 1.12,7.88 C12.07,30.62 15,59.76 15,59.76 C15,59.76 27.36,12.29 28.94,2.5 C29.39,-0.3 28.12,0.16 27.54,0.28 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

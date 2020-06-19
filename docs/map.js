@@ -33,9 +33,10 @@ class LocalHeroesMap {
         this.clusterZoom = options.clusterBelowZoom 
         this.markerLayer = undefined
         this.useClustering = (this.clusterZoom !== undefined && typeof(this.clusterZoom) == 'number')
-        this.showLocateButton = (options.showLocateButton !== undefined)
+        this.showLocateButton = (options.showLocateButton === true)
         this.showCategorySelection = options.showCategorySelection
         this.onDataReady = options.onDataReady
+        this.useCustomMarkers = (options.useCustomMarkers === true)
         this.geoJson = undefined
 
         // Add loading layer DOM.
@@ -126,12 +127,13 @@ class LocalHeroesMap {
     }
 
     renderMapMarker(geoJsonPoint, coordinatate) {
+        const markerFilename = (this.useCustomMarkers ? geoJsonPoint.properties.image : 'marker_default.svg')
         const icon = L.icon({
-            iconUrl: (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/imagecache/'+ geoJsonPoint.properties.image,
+            iconUrl: (this.isLocal ? '../' : this.repositoryBaseUrl) +'data/imagecache/'+ markerFilename,
             iconSize: [38, 38],
             shadowUrl: (this.isLocal ? '' : this.repositoryBaseUrl +'docs/') +'shadow.svg',
-            shadowSize: [50, 50],
-            shadowAnchor: [25, 22]
+            shadowSize: (this.useCustomMarkers ? [50, 50] : [7, 7]),
+            shadowAnchor: (this.useCustomMarkers ? [25, 22] : [3.5, -15])
         });
         return L.marker(coordinatate, {icon: icon})
             .bindTooltip(geoJsonPoint.properties.name, {offset: [0, 16]})
