@@ -6549,7 +6549,7 @@
     {
         "image": "pizza.svg",
         "title": "Thüringer Hof / Zentrum",
-        "link": "https://www.thueringer-hof.de/de/",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/",
         "sub-categories": [
             "Restaurant & Bistro"
         ],
@@ -6941,6 +6941,21 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Verknotet",
         "description": "Makramee",
+        "location": null
+    },
+    {
+        "image": "sport-1.svg",
+        "title": "WATCH MI STEP / Südvorstadt",
+        "link": "http://www.watchmistep.com/",
+        "sub-categories": [
+            "Tanz"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "WATCH MI STEP",
+        "description": "Tanzstudio",
         "location": null
     },
     {

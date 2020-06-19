@@ -7267,8 +7267,8 @@
             "properties": {
                 "name": "Thüringer Hof / Zentrum",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"https://www.thueringer-hof.de/de/\" target=\"_blank\">www.thueringer-hof.de/de</a>",
-                "url": "https://www.thueringer-hof.de/de/",
+                "description": "Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/thu...</a>",
+                "url": "http://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/",
                 "address": "Burgstraße 19, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
