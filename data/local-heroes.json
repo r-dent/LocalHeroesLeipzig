@@ -958,7 +958,7 @@
     {
         "image": "naehbedarf.svg",
         "title": "Buntgarn / Connewitz",
-        "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/buntgarn-connewitz/",
+        "link": "https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI",
         "sub-categories": [
             "Nähbedarf"
         ],
@@ -1205,7 +1205,7 @@
     {
         "image": "kaffee.svg",
         "title": "Café Utopia / Plagwitz",
-        "link": "https://www.facebook.com/inklusiveUtopie",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-utopia-plagwitz/",
         "sub-categories": [
             "Café"
         ],
@@ -5897,16 +5897,7 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Slinga Illustration",
         "description": "Illustrationen",
-        "location": {
-            "lat": 51.3341641,
-            "lon": 12.3657704,
-            "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "store",
-                "establishment"
-            ]
-        }
+        "location": null
     },
     {
         "image": "pizza.svg",

@@ -1084,8 +1084,8 @@
             "properties": {
                 "name": "Buntgarn / Connewitz",
                 "image": "naehbedarf.svg",
-                "description": "Stickerei<br>Link: <a href=\"http://local-heroes-leipzig.de/3-produkte-kreatives/buntgarn-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
-                "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/buntgarn-connewitz/",
+                "description": "Stickerei<br>Link: <a href=\"https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI\" target=\"_blank\">buntgarnstickerei.business.site</a>",
+                "url": "https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI",
                 "address": "Wolfgang-Heinze-Straße 11, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -6517,35 +6517,6 @@
                 "coordinates": [
                     12.3704379,
                     51.32532089999999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Slinga Illustration / Schönefeld",
-                "image": "prints.svg",
-                "description": "Illustrationen<br>Link: <a href=\"https://www.slingashop.de/\" target=\"_blank\">www.slingashop.de</a>",
-                "url": "https://www.slingashop.de/",
-                "address": "Karl-Tauchnitz-Straße 9-11, 04107 Leipzig, Germany",
-                "category": "Produkte & Kreatives",
-                "sub-categories": [
-                    "Kunstdrucke & Fotografie"
-                ],
-                "districts": [
-                    "Schönefeld"
-                ],
-                "tags": [
-                    "point_of_interest",
-                    "store",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3657704,
-                    51.3341641
                 ]
             }
         },
