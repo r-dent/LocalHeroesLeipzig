@@ -696,6 +696,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Beard Brothers & Sisters / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Hot Dog-Imbiss<br>Link: <a href=\"https://www.facebook.com/Beard-Brothers-Sisters-342152072532243\" target=\"_blank\">www.facebook.com/Beard-Brothers-Sisters-342152072532243</a>",
+                "url": "https://www.facebook.com/Beard-Brothers-Sisters-342152072532243",
+                "address": "Karl-Heine-Straße 69, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3338455,
+                    51.3312091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Beetliebe / Reudnitz",
                 "image": "blumenstrauss.svg",
                 "description": "Saatgut<br>Link: <a href=\"https://www.beetliebe.de/c/saatgut-and-samen-shop\" target=\"_blank\">www.beetliebe.de/c/saatgut-and-samen...</a>",
@@ -1979,6 +2009,36 @@
                 "coordinates": [
                     12.4557133,
                     51.3525101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Don Kichot / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Türkische Spezialitäten<br>Link: <a href=\"http://donkichot.de/\" target=\"_blank\">donkichot.de</a>",
+                "url": "http://donkichot.de/",
+                "address": "Karl-Heine-Straße 55, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.335243,
+                    51.3315802
                 ]
             }
         },
@@ -5270,6 +5330,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "OCKA / Lindenau",
+                "image": "kaffee.svg",
+                "description": "Café-Kollektiv<br>Link: <a href=\"https://www.cafeocka.de/\" target=\"_blank\">www.cafeocka.de</a>",
+                "url": "https://www.cafeocka.de/",
+                "address": "Merseburger Str. 88, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3281117,
+                    51.3371401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "OSZL / Zentrum-Ost",
                 "image": "mode.svg",
                 "description": "Fuß- & Schuhspezialist<br>Link: <a href=\"https://www.oszl.de/\" target=\"_blank\">www.oszl.de</a>",
@@ -7874,6 +7965,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Wullewupp / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Suppenbar<br>Link: <a href=\"https://www.wullewupp.de/\" target=\"_blank\">www.wullewupp.de</a>",
+                "url": "https://www.wullewupp.de/",
+                "address": "Karl-Heine-Straße 49, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3358617,
+                    51.3317567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Wunderlichs Brillenschmiede / Leutzsch",
                 "image": "optiker.svg",
                 "description": "Optiker<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
@@ -8553,6 +8674,37 @@
                 "coordinates": [
                     12.336589,
                     51.32851700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "phonocentrum / Zentrum-Süd",
+                "image": "musik.svg",
+                "description": "Musikgeschäft<br>Link: <a href=\"https://phonocentrum.jimdofree.com/\" target=\"_blank\">phonocentrum.jimdofree.com</a>",
+                "url": "https://phonocentrum.jimdofree.com/",
+                "address": "Peterssteinweg 13, 04107 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
+                "tags": [
+                    "electronics_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373851,
+                    51.3331992
                 ]
             }
         },

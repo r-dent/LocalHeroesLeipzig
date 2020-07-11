@@ -620,6 +620,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Beard Brothers & Sisters / Plagwitz",
+        "link": "https://www.facebook.com/Beard-Brothers-Sisters-342152072532243",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Beard Brothers & Sisters",
+        "description": "Hot Dog-Imbiss",
+        "location": {
+            "lat": 51.3312091,
+            "lon": 12.3338455,
+            "address": "Karl-Heine-Straße 69, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "blumenstrauss.svg",
         "title": "Beetliebe / Reudnitz",
         "link": "https://www.beetliebe.de/c/saatgut-and-samen-shop",
@@ -1788,6 +1813,31 @@
             "lon": 12.4557133,
             "address": "Günselstraße 15, 04329 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Don Kichot / Plagwitz",
+        "link": "http://donkichot.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Don Kichot",
+        "description": "Türkische Spezialitäten",
+        "location": {
+            "lat": 51.3315802,
+            "lon": 12.335243,
+            "address": "Karl-Heine-Straße 55, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
                 "point_of_interest",
                 "establishment"
             ]
@@ -4743,6 +4793,32 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "OCKA / Lindenau",
+        "link": "https://www.cafeocka.de/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "OCKA",
+        "description": "Café-Kollektiv",
+        "location": {
+            "lat": 51.3371401,
+            "lon": 12.3281117,
+            "address": "Merseburger Str. 88, 04177 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "mode.svg",
         "title": "OSZL / Zentrum-Ost",
         "link": "https://www.oszl.de/",
@@ -6038,6 +6114,21 @@
         }
     },
     {
+        "image": "schmuck.svg",
+        "title": "Spirit of Eden / Lindenau",
+        "link": "https://www.spiritofeden.de/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Spirit of Eden",
+        "description": "Mala Ketten",
+        "location": null
+    },
+    {
         "image": "sport-1.svg",
         "title": "Stadthafen Leipzig / Zentrum",
         "link": "https://stadthafen-leipzig.com/index.php/kontakt",
@@ -7094,6 +7185,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Wullewupp / Plagwitz",
+        "link": "https://www.wullewupp.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Wullewupp",
+        "description": "Suppenbar",
+        "location": {
+            "lat": 51.3317567,
+            "lon": 12.3358617,
+            "address": "Karl-Heine-Straße 49, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "optiker.svg",
         "title": "Wunderlichs Brillenschmiede / Leutzsch",
         "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/",
@@ -7689,6 +7805,32 @@
             "tags": [
                 "store",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "musik.svg",
+        "title": "phonocentrum / Zentrum-Süd",
+        "link": "https://phonocentrum.jimdofree.com/",
+        "sub-categories": [
+            "Musik & Livestream"
+        ],
+        "districts": [
+            "Zentrum-Süd"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "phonocentrum",
+        "description": "Musikgeschäft",
+        "location": {
+            "lat": 51.3331992,
+            "lon": 12.373851,
+            "address": "Peterssteinweg 13, 04107 Leipzig, Germany",
+            "tags": [
+                "electronics_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
