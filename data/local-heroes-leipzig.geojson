@@ -1805,6 +1805,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Danino Rybak / Gohlis",
+                "image": "sport-1.svg",
+                "description": "Health Coach & Personal Trainer<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/",
+                "address": "Kieler Str. 40, 04357 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges",
+                    "Workout"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.42008,
+                    51.3764201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Dankbar / Zentrum",
                 "image": "kaffee.svg",
                 "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/dan...</a>",
@@ -3305,6 +3335,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Grillaxed / Zentrum-West",
+                "image": "pizza.svg",
+                "description": "Lieferservice Grillkomplett-Paket<br>Link: <a href=\"https://grillaxed.com/\" target=\"_blank\">grillaxed.com</a>",
+                "url": "https://grillaxed.com/",
+                "address": "Friedrich-Ebert-Straße 102, 04105 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [],
+                "districts": [
+                    "Zentrum-West"
+                ],
+                "tags": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3570855,
+                    51.3434107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Grünschnabel / Zentrum",
                 "image": "mode.svg",
                 "description": "Kleidung & Accessoires<br>Link: <a href=\"https://www.gruenschnabel-shop.de/\" target=\"_blank\">www.gruenschnabel-shop.de</a>",
@@ -4492,6 +4551,36 @@
                 "coordinates": [
                     12.3596298,
                     51.37318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Küss mich wach / Plagwitz",
+                "image": "mode.svg",
+                "description": "Second Hand<br>Link: <a href=\"https://kuessmichwach.de/?page_id=55\" target=\"_blank\">kuessmichwach.de</a>",
+                "url": "https://kuessmichwach.de/?page_id=55",
+                "address": "Lauchstädter Str. 22, 04229 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3353213,
+                    51.3292408
                 ]
             }
         },

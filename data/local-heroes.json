@@ -1631,6 +1631,31 @@
         "location": null
     },
     {
+        "image": "sport-1.svg",
+        "title": "Danino Rybak / Gohlis",
+        "link": "http://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/",
+        "sub-categories": [
+            "Sonstiges",
+            "Workout"
+        ],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Danino Rybak",
+        "description": "Health Coach & Personal Trainer",
+        "location": {
+            "lat": 51.3764201,
+            "lon": 12.42008,
+            "address": "Kieler Str. 40, 04357 Leipzig, Germany",
+            "tags": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
         "title": "Dankbar / Zentrum",
         "link": "http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/",
@@ -2954,6 +2979,30 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Grillaxed / Zentrum-West",
+        "link": "https://grillaxed.com/",
+        "sub-categories": [],
+        "districts": [
+            "Zentrum-West"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Grillaxed",
+        "description": "Lieferservice Grillkomplett-Paket",
+        "location": {
+            "lat": 51.3434107,
+            "lon": 12.3570855,
+            "address": "Friedrich-Ebert-Straße 102, 04105 Leipzig, Germany",
+            "tags": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "mode.svg",
         "title": "Grünschnabel / Zentrum",
         "link": "https://www.gruenschnabel-shop.de/",
@@ -3999,6 +4048,31 @@
         "cleanTitle": "Küchenholz Manufaktur",
         "description": "Kräuterauszüge",
         "location": null
+    },
+    {
+        "image": "mode.svg",
+        "title": "Küss mich wach / Plagwitz",
+        "link": "https://kuessmichwach.de/?page_id=55",
+        "sub-categories": [
+            "Kleidung"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Küss mich wach",
+        "description": "Second Hand",
+        "location": {
+            "lat": 51.3292408,
+            "lon": 12.3353213,
+            "address": "Lauchstädter Str. 22, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
@@ -6551,6 +6625,36 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "The Camelia Bijoux",
         "description": "Schmuck",
+        "location": null
+    },
+    {
+        "image": "reisen.svg",
+        "title": "The Female Explorer / Reudnitz",
+        "link": "https://www.startnext.com/the-female-explorer",
+        "sub-categories": [
+            "Reisen"
+        ],
+        "districts": [
+            "Reudnitz"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "The Female Explorer",
+        "description": "Outdoor-Magazin für Frauen",
+        "location": null
+    },
+    {
+        "image": "reisen.svg",
+        "title": "The Female Explorer / Reudnitz",
+        "link": "https://www.startnext.com/the-female-explorer",
+        "sub-categories": [
+            "Bücher & Magazine"
+        ],
+        "districts": [
+            "Reudnitz"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "The Female Explorer",
+        "description": "Outdoor-Magazin für Frauen",
         "location": null
     },
     {
