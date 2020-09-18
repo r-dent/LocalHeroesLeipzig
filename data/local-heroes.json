@@ -1203,6 +1203,34 @@
     },
     {
         "image": "kaffee.svg",
+        "title": "Café Puschkin / Südvorstadt",
+        "link": "https://m.facebook.com/pages/category/Bar/Caf%C3%A9-Puschkin-327931639027/",
+        "sub-categories": [
+            "Café",
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Café Puschkin",
+        "description": "Café & Restaurant",
+        "location": {
+            "lat": 51.3219636,
+            "lon": 12.3732306,
+            "address": "Karl-Liebknecht-Straße 74, 04275 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
         "title": "Café Trago / Schönefeld",
         "link": "http://cafetrago.de/",
         "sub-categories": [
@@ -1260,6 +1288,31 @@
             "lon": 12.370602,
             "address": "Steinstraße 18, 04275 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Café feinOST / Südvorstadt",
+        "link": "https://www.instagram.com/cafe.feinost/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Café feinOST",
+        "description": "Café",
+        "location": {
+            "lat": 51.3227109,
+            "lon": 12.3732193,
+            "address": "Karl-Liebknecht-Straße 66, 04275 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
                 "point_of_interest",
                 "establishment"
             ]
@@ -1564,6 +1617,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "schmuck.svg",
+        "title": "Cosmicstarlight / Neustadt-Neuschönefeld",
+        "link": "https://www.cosmicstarlight.de/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Neustadt-Neuschönefeld"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Cosmicstarlight",
+        "description": "Design & Fashion",
+        "location": null
     },
     {
         "image": "interior.svg",
@@ -2051,6 +2119,31 @@
     },
     {
         "image": "eis.svg",
+        "title": "Eisbrennerei / Südvorstadt",
+        "link": "https://www.eisbrennerei.de/",
+        "sub-categories": [
+            "Eisdiele"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Eisbrennerei",
+        "description": "Eisdiele",
+        "location": {
+            "lat": 51.3213921,
+            "lon": 12.3738877,
+            "address": "Karl-Liebknecht-Straße 97, 04275 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "eis.svg",
         "title": "Eiscafé La winzi / Alt-West",
         "link": "http://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/",
         "sub-categories": [
@@ -2196,6 +2289,32 @@
             "address": "Schongauerstraße 25, 04329 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "eis.svg",
+        "title": "Erikas Eisdiele | Gohlis",
+        "link": "http://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/",
+        "sub-categories": [
+            "Eisdiele"
+        ],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Erikas Eisdiele | Gohlis",
+        "description": "Eisdiele",
+        "location": {
+            "lat": 51.3686613,
+            "lon": 12.3723824,
+            "address": "Adolph-Menzel-Straße 9, 04157 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -2748,6 +2867,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Gallo Negro / Plagwitz",
+        "link": "https://www.galloleipzig.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Gallo Negro",
+        "description": "Mexikanisches Restaurant",
+        "location": {
+            "lat": 51.33101,
+            "lon": 12.33145,
+            "address": "Karl-Heine-Straße 70, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "mode.svg",
         "title": "GarderobeWest / Lindenau",
         "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/",
@@ -2815,6 +2959,32 @@
                 "gym",
                 "health",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "spirituosen.svg",
+        "title": "Getränkefeinkost / Südvorstadt",
+        "link": "https://www.getraenkefeinkost.de/",
+        "sub-categories": [
+            "Einkaufen",
+            "Getränke"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Getränkefeinkost",
+        "description": "Getränke & Spirituosen",
+        "location": {
+            "lat": 51.3327103,
+            "lon": 12.3745934,
+            "address": "Härtelstraße 23, 04107 Leipzig, Germany",
+            "tags": [
+                "liquor_store",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -2949,6 +3119,32 @@
                 "gym",
                 "health",
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "feinkost.svg",
+        "title": "Gourmétage | Zentrum",
+        "link": "https://website.gourmetage.com/",
+        "sub-categories": [
+            "Einkaufen"
+        ],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Gourmétage | Zentrum",
+        "description": "Feinkost, Weine & Spirituosen",
+        "location": {
+            "lat": 51.3390531,
+            "lon": 12.3761985,
+            "address": "Grimmaische Str. 2 - 4, 04109 Leipzig, Germany",
+            "tags": [
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
                 "establishment"
             ]
         }
@@ -3127,6 +3323,29 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Handbrotzeit / Kleinzschocher",
+        "link": "https://handbrotzeit-festival.de/kontakt/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Kleinzschocher"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Handbrotzeit",
+        "description": "Foodtruck",
+        "location": {
+            "lat": 51.3170557,
+            "lon": 12.3267732,
+            "address": "Dieskaustraße 36, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "interior.svg",
         "title": "Happy Pop-Up Market / Plagwitz",
         "link": "https://www.facebook.com/HappyPopUpMarket/",
@@ -3140,6 +3359,33 @@
         "cleanTitle": "Happy Pop-Up Market",
         "description": "Interieur & Schönes",
         "location": null
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Hart & Herzlich / Gohlis",
+        "link": "https://www.hartundherzlich-patisserie.com/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Hart & Herzlich",
+        "description": "Pâtisserie",
+        "location": {
+            "lat": 51.364726,
+            "lon": 12.3563237,
+            "address": "Georg-Schumann-Straße 130, 04155 Leipzig, Germany",
+            "tags": [
+                "bakery",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "kaffee.svg",
@@ -3743,6 +3989,29 @@
             "tags": [
                 "point_of_interest",
                 "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "feinkost.svg",
+        "title": "Kern & Stein / Gohlis",
+        "link": "https://www.kern-und-stein.de/",
+        "sub-categories": [],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Kern & Stein",
+        "description": "Feinkost",
+        "location": {
+            "lat": 51.36700399999999,
+            "lon": 12.369938,
+            "address": "Coppistraße 81, 04157 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
                 "store",
                 "establishment"
             ]
@@ -4521,6 +4790,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Moini / Plagwitz",
+        "link": "https://www.moini-steinofenpizza.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Moini",
+        "description": "Steinofenpizza",
+        "location": {
+            "lat": 51.33045689999999,
+            "lon": 12.3309559,
+            "address": "Karl-Heine-Straße 85-93, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "prints.svg",
         "title": "Mona Schaffer / Leipzig",
         "link": "http://www.monaschaffer.com/portfolio/",
@@ -4655,6 +4949,34 @@
                 "home_goods_store",
                 "point_of_interest",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Mörtelwerk / Lindenau",
+        "link": "https://www.facebook.com/moertelwerk/",
+        "sub-categories": [
+            "Bar",
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Mörtelwerk",
+        "description": "Biergarten & Flammerie",
+        "location": {
+            "lat": 51.3269262,
+            "lon": 12.3143971,
+            "address": "Am Kanal 28, 04179 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -5210,6 +5532,29 @@
         "location": null
     },
     {
+        "image": "spirituosen.svg",
+        "title": "Quartiermeister / Südvorstadt",
+        "link": "https://www.quartiermeister.shop/",
+        "sub-categories": [
+            "Getränke"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Quartiermeister",
+        "description": "Soli-Bier",
+        "location": {
+            "lat": 51.320655,
+            "lon": 12.3684178,
+            "address": "Kurt-Eisner-Straße 40, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "buecher-magazine.svg",
         "title": "ROTORBOOKS / Zentrum",
         "link": "http://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/",
@@ -5484,6 +5829,31 @@
                 "home_goods_store",
                 "point_of_interest",
                 "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "feinkost.svg",
+        "title": "Röseling / Südvorstadt",
+        "link": "http://www.roeseling-leipzig.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Röseling",
+        "description": "Feinkost & Einzelhandel",
+        "location": {
+            "lat": 51.3236034,
+            "lon": 12.3732625,
+            "address": "Karl-Liebknecht-Straße 58, 04275 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
                 "store",
                 "establishment"
             ]
@@ -6033,6 +6403,31 @@
         "cleanTitle": "Sina Villinger",
         "description": "Fotografie",
         "location": null
+    },
+    {
+        "image": "mode.svg",
+        "title": "SisterActVintage / Südvorstadt",
+        "link": "https://www.etsy.com/de/shop/SisterActVintage",
+        "sub-categories": [
+            "Kleidung"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "SisterActVintage",
+        "description": "Second Hand",
+        "location": {
+            "lat": 51.3163856,
+            "lon": 12.371254,
+            "address": "Kochstraße 70, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "prints.svg",
@@ -7215,6 +7610,52 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "WestFach & Records / Plagwitz",
+        "link": "https://www.facebook.com/pages/category/Local-Service/WestFach-Records-111714677104795/",
+        "sub-categories": [],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "WestFach & Records",
+        "description": "Kunst, Vinyl & mehr",
+        "location": {
+            "lat": 51.330734,
+            "lon": 12.3319136,
+            "address": "Karl-Heine-Straße 85, 04229 Leipzig, Germany",
+            "tags": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "interior.svg",
+        "title": "WestFach & Records / Plagwitz",
+        "link": "https://www.facebook.com/pages/category/Local-Service/WestFach-Records-111714677104795/",
+        "sub-categories": [
+            "Musik & Livestream"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "WestFach & Records",
+        "description": "Kunst, Vinyl & mehr",
+        "location": {
+            "lat": 51.330734,
+            "lon": 12.3319136,
+            "address": "Karl-Heine-Straße 85, 04229 Leipzig, Germany",
+            "tags": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "sport-1.svg",
         "title": "Wohltat / Lindenau",
         "link": "https://www.wohltat-leipzig.com/",
@@ -7452,6 +7893,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "bear bowl / Zentrum-West",
+        "link": "https://bear-bowl.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Zentrum-West"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "bear bowl",
+        "description": "Foodtrailer & Catering",
+        "location": null
     },
     {
         "image": "coaching.svg",
