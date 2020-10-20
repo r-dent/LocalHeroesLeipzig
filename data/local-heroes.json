@@ -4369,6 +4369,30 @@
         }
     },
     {
+        "image": "mode.svg",
+        "title": "Lanakila / Markkleeberg",
+        "link": "https://lanakila-sports.de/",
+        "sub-categories": [
+            "Kleidung",
+            "Sportbekleidung"
+        ],
+        "districts": [
+            "Markkleeberg"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Lanakila",
+        "description": "Nachhaltige Sportbekleidung",
+        "location": {
+            "lat": 51.287415,
+            "lon": 12.363615,
+            "address": "Spinnereistraße 37, 04416 Markkleeberg, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "musik.svg",
         "title": "Laura Liebeskind / Leipzig",
         "link": "https://www.youtube.com/channel/UCNZRAJLAjLDbnN_l1oAjcmw",
