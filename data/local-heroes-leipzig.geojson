@@ -96,37 +96,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ACHT-ZWEI / Lindenau",
-                "image": "moebel.svg",
-                "description": "Möbel & Lampen<br>Link: <a href=\"https://www.acht-zwei.de/\" target=\"_blank\">www.acht-zwei.de</a>",
-                "url": "https://www.acht-zwei.de/",
-                "address": "Merseburger Str. 82, 04177 Leipzig, Germany",
-                "category": "Produkte & Kreatives",
-                "sub-categories": [
-                    "Möbel & Interieur"
-                ],
-                "districts": [
-                    "Lindenau"
-                ],
-                "tags": [
-                    "furniture_store",
-                    "home_goods_store",
-                    "point_of_interest",
-                    "store",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3293665,
-                    51.3363756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "AKKO / Plagwitz",
                 "image": "cocktail-1.svg",
                 "description": "Humusbar<br>Link: <a href=\"https://akkohummusbar.eatbu.com/?lang=en&fbclid=IwAR1rn6OWzsrhPyyaMiAeGojP3NbjFxChvCgIWQjr_XJdbQZKbKPm-Z2503U\" target=\"_blank\">akkohummusbar.eatbu.com</a>",
@@ -211,6 +180,36 @@
                 "coordinates": [
                     12.4533062,
                     51.345684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allerlei Genussmanufaktur / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Leipziger Genussmanufaktur<br>Link: <a href=\"https://www.allerei-leipzigergenussmanufaktur.de/shop/\" target=\"_blank\">www.allerei-leipzigergenussmanufaktur.de/shop</a>",
+                "url": "https://www.allerei-leipzigergenussmanufaktur.de/shop/",
+                "address": "Markranstädter Str. 8, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.329787,
+                    51.32527779999999
                 ]
             }
         },
@@ -330,6 +329,37 @@
                 "coordinates": [
                     12.4034796,
                     51.3474203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andrea Otto / Gohlis",
+                "image": "mode.svg",
+                "description": "Skandinavische Mode<br>Link: <a href=\"https://www.andrea-otto.de/\" target=\"_blank\">www.andrea-otto.de</a>",
+                "url": "https://www.andrea-otto.de/",
+                "address": "Franz-Mehring-Straße 22, 04157 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
+                "tags": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36802,
+                    51.37016999999999
                 ]
             }
         },
@@ -633,6 +663,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ballbird-Grafiken / Schleußig",
+                "image": "prints.svg",
+                "description": "Grafiken<br>Link: <a href=\"https://ballbirds.de/\" target=\"_blank\">ballbirds.de</a>",
+                "url": "https://ballbirds.de/",
+                "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3450481,
+                    51.3258276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bauhütte / Schleußig",
                 "image": "pizza.svg",
                 "description": "Restaurant<br>Link: <a href=\"http://www.bauhuette-gastwirtschaft.de/\" target=\"_blank\">www.bauhuette-gastwirtschaft.de</a>",
@@ -755,6 +815,69 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "BiBaBo / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Billard, Bar & Bistro<br>Link: <a href=\"http://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
+                "url": "http://bibabo.de/main/",
+                "address": "Engertstraße 36, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3222309,
+                    51.3273041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BiBaBo / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Billard, Bar & Bistro<br>Link: <a href=\"http://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
+                "url": "http://bibabo.de/main/",
+                "address": "Engertstraße 36, 04229 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3222309,
+                    51.3273041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bierothek / Zentrum",
                 "image": "spirituosen.svg",
                 "description": "Bier<br>Link: <a href=\"https://bierothek.de/stores/leipzig\" target=\"_blank\">bierothek.de/stores/leipzig...</a>",
@@ -809,36 +932,6 @@
                 "coordinates": [
                     12.374479,
                     51.3273544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Billbird-Grafiken / Schleußig",
-                "image": "prints.svg",
-                "description": "Grafiken<br>Link: <a href=\"https://ballbirds.de/\" target=\"_blank\">ballbirds.de</a>",
-                "url": "https://ballbirds.de/",
-                "address": "Könneritzstraße 43/Hinterhaus (Atelier im Hof), 04229 Leipzig, Germany",
-                "category": "Produkte & Kreatives",
-                "sub-categories": [
-                    "Geschenke & Dekoration",
-                    "Kunstdrucke & Fotografie"
-                ],
-                "districts": [
-                    "Schleußig"
-                ],
-                "tags": [
-                    "point_of_interest",
-                    "store",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3450481,
-                    51.3258276
                 ]
             }
         },
@@ -1571,6 +1664,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Capito / Leipzig",
+                "image": "spiel.svg",
+                "description": "Spielwaren<br>Link: <a href=\"https://capito-shop.de/\" target=\"_blank\">capito-shop.de</a>",
+                "url": "https://capito-shop.de/",
+                "address": "Industriestraße 20, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Spielwaren"
+                ],
+                "districts": [
+                    "Schleußig",
+                    "Südvorstadt",
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3422173,
+                    51.3252841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Carls Laden / Südvorstadt",
                 "image": "kaffee.svg",
                 "description": "Ladencafé<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/car...</a>",
@@ -1989,6 +2113,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Die Brillenmodelei / Lindenau",
+                "image": "optiker.svg",
+                "description": "Optiker<br>Link: <a href=\"https://www.diebrillenmodelei.de/\" target=\"_blank\">www.diebrillenmodelei.de</a>",
+                "url": "https://www.diebrillenmodelei.de/",
+                "address": "Gießerstraße 3, 04177 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Optiker"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3263255,
+                    51.3311319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Die Pilatisten / Zentrum",
                 "image": "yoga.svg",
                 "description": "Pilates<br>Link: <a href=\"https://pilatisten.de/\" target=\"_blank\">pilatisten.de</a>",
@@ -2198,6 +2353,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Düsen / Plagwitz",
+                "image": "spirituosen.svg",
+                "description": "Soli-Bier<br>Link: <a href=\"https://trink-duesen.de/\" target=\"_blank\">trink-duesen.de</a>",
+                "url": "https://trink-duesen.de/",
+                "address": "Weißenfelser Str. 84, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Wahren"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.326518,
+                    51.3286332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "ELEMENT OST / Neustadt",
                 "image": "yoga.svg",
                 "description": "Yoga<br>Link: <a href=\"https://www.element-ost.yoga/\" target=\"_blank\">www.element-ost.yoga</a>",
@@ -2313,6 +2496,38 @@
                 "coordinates": [
                     12.3750913,
                     51.30856190000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Einfach Unverpackt / Südvorstadt",
+                "image": "einkaufen-1.svg",
+                "description": "verpackungsfreier Laden<br>Link: <a href=\"https://www.einfach-unverpackt.de/\" target=\"_blank\">www.einfach-unverpackt.de</a>",
+                "url": "https://www.einfach-unverpackt.de/",
+                "address": "Kochstraße 6, 04275 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Schleußig",
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3727537,
+                    51.32387960000001
                 ]
             }
         },
@@ -2530,7 +2745,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Erikas Eisdiele | Gohlis",
+                "name": "Erikas Eisdiele / Gohlis",
                 "image": "eis.svg",
                 "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/eri...</a>",
                 "url": "http://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/",
@@ -2622,7 +2837,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Espresso Zack Zack / Neuschönefeld",
+                "name": "Espresso Zack Zack / Reudnitz",
                 "image": "kaffee.svg",
                 "description": "Café<br>Link: <a href=\"http://www.espressozackzack.de/\" target=\"_blank\">www.espressozackzack.de</a>",
                 "url": "http://www.espressozackzack.de/",
@@ -3094,6 +3309,123 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Freizeitclub Leipzig / Zentrum-Süd",
+                "image": "rad.svg",
+                "description": "Freizeitclub<br>Link: <a href=\"https://www.freizeitclub-leipzig.de/\" target=\"_blank\">www.freizeitclub-leipzig.de</a>",
+                "url": "https://www.freizeitclub-leipzig.de/",
+                "address": "Josephinenstraße 10, 04317 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3983499,
+                    51.33332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fummelei / Neustadt-Neuschönefeld",
+                "image": "mode.svg",
+                "description": "Accessoires & Workshops<br>Link: <a href=\"https://fummelei.com/\" target=\"_blank\">fummelei.com</a>",
+                "url": "https://fummelei.com/",
+                "address": "Eisenbahnstraße 120, 04315 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Neustadt-Neuschönefeld"
+                ],
+                "tags": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4114805,
+                    51.345121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fummelei / Neustadt-Neuschönefeld",
+                "image": "mode.svg",
+                "description": "Accessoires & Workshops<br>Link: <a href=\"https://fummelei.com/\" target=\"_blank\">fummelei.com</a>",
+                "url": "https://fummelei.com/",
+                "address": "Eisenbahnstraße 120, 04315 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Neustadt-Neuschönefeld"
+                ],
+                "tags": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4114805,
+                    51.345121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fummelei / Neustadt-Neuschönefeld",
+                "image": "mode.svg",
+                "description": "Accessoires & Workshops<br>Link: <a href=\"https://fummelei.com/\" target=\"_blank\">fummelei.com</a>",
+                "url": "https://fummelei.com/",
+                "address": "Eisenbahnstraße 120, 04315 Leipzig, Germany",
+                "category": "Workshops",
+                "sub-categories": [
+                    "Coaching",
+                    "DIY"
+                ],
+                "districts": [
+                    "Neustadt-Neuschönefeld"
+                ],
+                "tags": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4114805,
+                    51.345121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "GASTGEBER / Neuschönefeld",
                 "image": "pizza.svg",
                 "description": "Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gas...</a>",
@@ -3331,6 +3663,66 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Gewandhaus Shop / Zentrum",
+                "image": "musik.svg",
+                "description": "CDs, DVDs & Bücher<br>Link: <a href=\"https://gewandhausshop.de/startseite/\" target=\"_blank\">gewandhausshop.de/startseite</a>",
+                "url": "https://gewandhausshop.de/startseite/",
+                "address": "Augustusplatz 8, 04109 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine",
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "electronics_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3802419,
+                    51.3381465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gewandhaus zu Leipzig / Zentrum",
+                "image": "musik.svg",
+                "description": "Orchester<br>Link: <a href=\"https://www.gewandhausorchester.de/\" target=\"_blank\">www.gewandhausorchester.de</a>",
+                "url": "https://www.gewandhausorchester.de/",
+                "address": "Augustusplatz 8, 04109 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3804377,
+                    51.3378178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Gitarrenschule Leipzig / Kleinzschocher",
                 "image": "musik.svg",
                 "description": "Musikschule<br>Link: <a href=\"http://www.gitarrenschuleleipzig.com/\" target=\"_blank\">www.gitarrenschuleleipzig.com</a>",
@@ -3490,7 +3882,37 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gourmétage | Zentrum",
+                "name": "Golden Lotus / Thekla",
+                "image": "pizza.svg",
+                "description": "Restaurant<br>Link: <a href=\"https://restaurant-goldenlotus.eatbu.com/?lang=de\" target=\"_blank\">restaurant-goldenlotus.eatbu.com</a>",
+                "url": "https://restaurant-goldenlotus.eatbu.com/?lang=de",
+                "address": "Tauchaer Str. 83, 04349 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Thekla"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.431608,
+                    51.3798227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gourmétage / Zentrum",
                 "image": "feinkost.svg",
                 "description": "Feinkost, Weine & Spirituosen<br>Link: <a href=\"https://website.gourmetage.com/\" target=\"_blank\">website.gourmetage.com</a>",
                 "url": "https://website.gourmetage.com/",
@@ -3874,6 +4296,37 @@
                 "coordinates": [
                     12.3260847,
                     51.34006979999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hildes Bauernmarkt / Volkmarsdorf",
+                "image": "pizza.svg",
+                "description": "Lebensmittel<br>Link: <a href=\"https://marktschwaermer.de/de/assemblies/7826\" target=\"_blank\">marktschwaermer.de/de/assemblies/7826...</a>",
+                "url": "https://marktschwaermer.de/de/assemblies/7826",
+                "address": "Hildegardstraße 51, 04315 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Volkmarsdorf"
+                ],
+                "tags": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4071993,
+                    51.3459323
                 ]
             }
         },
@@ -4367,6 +4820,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Junghähnel / Paunsdorf",
+                "image": "schmuck.svg",
+                "description": "Juwelier<br>Link: <a href=\"https://www.junghaehnel.de/\" target=\"_blank\">www.junghaehnel.de</a>",
+                "url": "https://www.junghaehnel.de/",
+                "address": "Paunsdorfer Allee 1, 04329 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Paunsdorf"
+                ],
+                "tags": [
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4780104,
+                    51.34891709999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "KAWi KiDS / Südvorstadt",
                 "image": "familie.svg",
                 "description": "Indoorspielplatz<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
@@ -4604,6 +5087,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kleine Träumerei / Lindenau",
+                "image": "prints.svg",
+                "description": "Illustrationen<br>Link: <a href=\"https://www.etsy.com/de/shop/kleinetraeumerei\" target=\"_blank\">www.etsy.com/de/shop/kleinetraeu...</a>",
+                "url": "https://www.etsy.com/de/shop/kleinetraeumerei",
+                "address": "Rietschelstraße 2, 04177 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3335449,
+                    51.3382146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Knalltüte / Schleußig",
                 "image": "prints.svg",
                 "description": "Grafik & Design<br>Link: <a href=\"http://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
@@ -4627,6 +5138,35 @@
                 "coordinates": [
                     12.3422047,
                     51.324999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KosmetikARTGalerie / Zentrum",
+                "image": "yoga.svg",
+                "description": "Kosmetik<br>Link: <a href=\"https://www.kosmetikartgalerie.de/\" target=\"_blank\">www.kosmetikartgalerie.de</a>",
+                "url": "https://www.kosmetikartgalerie.de/",
+                "address": "Philipp-Rosenthal-Straße 21, 04103 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Kosmetik"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "beauty_salon",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3853375,
+                    51.3292083
                 ]
             }
         },
@@ -4663,6 +5203,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kreidezauber / Südwest",
+                "image": "schreibwaren.svg",
+                "description": "DIY<br>Link: <a href=\"https://www.kreidezauber.de/\" target=\"_blank\">www.kreidezauber.de</a>",
+                "url": "https://www.kreidezauber.de/",
+                "address": "Seumestraße 170, 04249 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Südwest"
+                ],
+                "tags": [
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3103597,
+                    51.2722989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kreuzer / Zentrum-Ost",
                 "image": "buecher-magazine-1.svg",
                 "description": "Stadtmagazin<br>Link: <a href=\"https://kreuzer-leipzig.de/\" target=\"_blank\">kreuzer-leipzig.de</a>",
@@ -4685,6 +5254,36 @@
                 "coordinates": [
                     12.3862106,
                     51.3426792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kulturhaus Eutritzsch / Eutritzsch",
+                "image": "pizza.svg",
+                "description": "Restaurant<br>Link: <a href=\"https://kulturhauseutritzsch.de/\" target=\"_blank\">kulturhauseutritzsch.de</a>",
+                "url": "https://kulturhauseutritzsch.de/",
+                "address": "Thaerstraße 39, 04129 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Eutritzsch"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3913563,
+                    51.3712148
                 ]
             }
         },
@@ -5009,6 +5608,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Leipzig Food Tours / Zentrum",
+                "image": "pizza.svg",
+                "description": "Kulinarische Stadtführung<br>Link: <a href=\"https://leipzig-foodtours.de/\" target=\"_blank\">leipzig-foodtours.de</a>",
+                "url": "https://leipzig-foodtours.de/",
+                "address": "Nikolaistraße 12-14, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3782835,
+                    51.341323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lena Staudigl / Südvorstadt",
                 "image": "coaching.svg",
                 "description": "Beratung, Supervision & Therapie<br>Link: <a href=\"https://www.lenastaudigl.de/\" target=\"_blank\">www.lenastaudigl.de</a>",
@@ -5247,6 +5874,100 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mahina / Lindenau",
+                "image": "yoga.svg",
+                "description": "Seminare & Workshops<br>Link: <a href=\"https://mahina-leipzig.de/\" target=\"_blank\">mahina-leipzig.de</a>",
+                "url": "https://mahina-leipzig.de/",
+                "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "school",
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3319232,
+                    51.3376494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mahina / Lindenau",
+                "image": "yoga.svg",
+                "description": "Seminare & Workshops<br>Link: <a href=\"https://mahina-leipzig.de/\" target=\"_blank\">mahina-leipzig.de</a>",
+                "url": "https://mahina-leipzig.de/",
+                "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "school",
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3319232,
+                    51.3376494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mahina / Lindenau",
+                "image": "yoga.svg",
+                "description": "Seminare & Workshops<br>Link: <a href=\"https://mahina-leipzig.de/\" target=\"_blank\">mahina-leipzig.de</a>",
+                "url": "https://mahina-leipzig.de/",
+                "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
+                "category": "Workshops",
+                "sub-categories": [
+                    "Coaching",
+                    "DIY"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "school",
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3319232,
+                    51.3376494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Manusso Eis / Plagwitz",
                 "image": "eis.svg",
                 "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/man...</a>",
@@ -5269,6 +5990,35 @@
                 "coordinates": [
                     12.3297043,
                     51.3253018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marktschwärmerei / Südvorstadt",
+                "image": "pizza.svg",
+                "description": "Lebensmittel<br>Link: <a href=\"https://www.facebook.com/marktschwaermerei.feinkostleipzig/\" target=\"_blank\">www.facebook.com/marktschwaermerei.feinkostleipzig</a>",
+                "url": "https://www.facebook.com/marktschwaermerei.feinkostleipzig/",
+                "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Einkaufen"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3734023,
+                    51.3264331
                 ]
             }
         },
@@ -5450,6 +6200,62 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Musikalische Komödie / Lindenau",
+                "image": "musik.svg",
+                "description": "Operetten- und Musicalhaus<br>Link: <a href=\"https://www.oper-leipzig.de/de/musikalische-komoedie\" target=\"_blank\">www.oper-leipzig.de/de/musikalische-kom...</a>",
+                "url": "https://www.oper-leipzig.de/de/musikalische-komoedie",
+                "address": "Dreilindenstraße 30, 04177 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3391815,
+                    51.3361788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Musikalische Komödie / Lindenau",
+                "image": "musik.svg",
+                "description": "Operetten- und Musicalhaus<br>Link: <a href=\"https://www.oper-leipzig.de/de/musikalische-komoedie\" target=\"_blank\">www.oper-leipzig.de/de/musikalische-kom...</a>",
+                "url": "https://www.oper-leipzig.de/de/musikalische-komoedie",
+                "address": "Dreilindenstraße 30, 04177 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3391815,
+                    51.3361788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Musikhaus Syhre / Gohlis",
                 "image": "musik.svg",
                 "description": "Musikladen (Bestellungen & Lieferservice)<br>Link: <a href=\"https://www.musikhaus-syhre.de/\" target=\"_blank\">www.musikhaus-syhre.de</a>",
@@ -5503,6 +6309,37 @@
                 "coordinates": [
                     12.3222508,
                     51.3275929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Möbel sucht Farbe / Dölitz",
+                "image": "moebel.svg",
+                "description": "Interieur<br>Link: <a href=\"http://www.moebelsuchtfarbe.de/\" target=\"_blank\">www.moebelsuchtfarbe.de</a>",
+                "url": "http://www.moebelsuchtfarbe.de/",
+                "address": "Helenenstraße 25, 04279 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Dölitz"
+                ],
+                "tags": [
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39076,
+                    51.28847
                 ]
             }
         },
@@ -5940,6 +6777,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Oper Leipzig / Zentrum",
+                "image": "musik.svg",
+                "description": "Ballett und Oper<br>Link: <a href=\"https://www.oper-leipzig.de/de/\" target=\"_blank\">www.oper-leipzig.de/de</a>",
+                "url": "https://www.oper-leipzig.de/de/",
+                "address": "Augustusplatz 12, 04109 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3813671,
+                    51.340442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Optikstudio Marion Müller / Südvorstadt",
                 "image": "optiker.svg",
                 "description": "Optiker<br>Link: <a href=\"https://www.optikstudio-mueller.de/aktuelles/news/index.html\" target=\"_blank\">www.optikstudio-mueller.de/aktuelles/news/inde...</a>",
@@ -6091,6 +6956,90 @@
                 "coordinates": [
                     12.3766417,
                     51.3086092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRETTY PLEASE / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Californian Kitchen<br>Link: <a href=\"http://eatprettyplease.com/\" target=\"_blank\">eatprettyplease.com</a>",
+                "url": "http://eatprettyplease.com/",
+                "address": "Zschochersche Str. 82b, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3324011,
+                    51.3233737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmendieb / Lindenau",
+                "image": "schmuck.svg",
+                "description": "Design & Kunsthandwerk<br>Link: <a href=\"http://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
+                "url": "http://palmendieb.design/",
+                "address": "Georg-Schwarz-Straße 39, 04177 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3248556,
+                    51.340703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmendieb / Lindenau",
+                "image": "schmuck.svg",
+                "description": "Design & Kunsthandwerk<br>Link: <a href=\"http://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
+                "url": "http://palmendieb.design/",
+                "address": "Georg-Schwarz-Straße 39, 04177 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3248556,
+                    51.340703
                 ]
             }
         },
@@ -6339,11 +7288,11 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rimini / Connewitz",
+                "name": "Reuther Catering / Connewitz",
                 "image": "pizza.svg",
-                "description": "Imbiss<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/rimini-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/rim...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/rimini-connewitz/",
-                "address": "Bornaische Str. 13, 04277 Leipzig, Germany",
+                "description": "Catering<br>Link: <a href=\"https://www.reuther-catering.de/\" target=\"_blank\">www.reuther-catering.de</a>",
+                "url": "https://www.reuther-catering.de/",
+                "address": "Engelsdorfer Str. 288, 04319 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
                     "Restaurant & Bistro"
@@ -6352,7 +7301,6 @@
                     "Connewitz"
                 ],
                 "tags": [
-                    "restaurant",
                     "food",
                     "point_of_interest",
                     "establishment"
@@ -6361,8 +7309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.37694,
-                    51.30857
+                    12.4841703,
+                    51.3347273
                 ]
             }
         },
@@ -6393,6 +7341,34 @@
                 "coordinates": [
                     12.3416263,
                     51.3205171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosentreter / Plagwitz",
+                "image": "mode.svg",
+                "description": "Modedesign<br>Link: <a href=\"https://rosentreter-modedesign.de/\" target=\"_blank\">rosentreter-modedesign.de</a>",
+                "url": "https://rosentreter-modedesign.de/",
+                "address": "Karl-Heine-Straße 93, 04229 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3305132,
+                    51.33030669999999
                 ]
             }
         },
@@ -6975,6 +7951,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Schreib und Stil / Zentrum",
+                "image": "schreibwaren.svg",
+                "description": "Schreibwaren<br>Link: <a href=\"http://www.schreibundstil.de/\" target=\"_blank\">www.schreibundstil.de</a>",
+                "url": "http://www.schreibundstil.de/",
+                "address": "Grimmaische Str. 2-4, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3754794,
+                    51.339784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Schreib‘ und Stil / Zentrum",
                 "image": "schreibwaren.svg",
                 "description": "Schreibwaren<br>Link: <a href=\"https://schreibundstil.de/\" target=\"_blank\">schreibundstil.de</a>",
@@ -7391,6 +8396,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Steinbach Keramik / Gohlis",
+                "image": "interior.svg",
+                "description": "Keramik<br>Link: <a href=\"http://www.keramik-steinbach.de/\" target=\"_blank\">www.keramik-steinbach.de</a>",
+                "url": "http://www.keramik-steinbach.de/",
+                "address": "Menckestraße 44, 04155 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3627384,
+                    51.3589031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Stilkontor / Südvordstadt",
                 "image": "mode.svg",
                 "description": "Herrenmode<br>Link: <a href=\"https://stilkontor.com/\" target=\"_blank\">stilkontor.com</a>",
@@ -7658,6 +8692,62 @@
                 "coordinates": [
                     12.3372675,
                     51.3302854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAKE A SHOT / Neustadt",
+                "image": "optiker.svg",
+                "description": "Uhren & Accessoires<br>Link: <a href=\"https://www.takeashot.de/\" target=\"_blank\">www.takeashot.de</a>",
+                "url": "https://www.takeashot.de/",
+                "address": "TAKE A SHOT GmbH, Hermann-Liebmann-Straße 89, 04315 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [],
+                "districts": [
+                    "Neustadt"
+                ],
+                "tags": [
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4059524,
+                    51.3467316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAKE A SHOT / Neustadt",
+                "image": "optiker.svg",
+                "description": "Uhren & Accessoires<br>Link: <a href=\"https://www.takeashot.de/\" target=\"_blank\">www.takeashot.de</a>",
+                "url": "https://www.takeashot.de/",
+                "address": "TAKE A SHOT GmbH, Hermann-Liebmann-Straße 89, 04315 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Neustadt"
+                ],
+                "tags": [
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4059524,
+                    51.3467316
                 ]
             }
         },
@@ -8364,6 +9454,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Vielfach / Südvorstadt",
+                "image": "geschenk.svg",
+                "description": "Interieur & Geschenke<br>Link: <a href=\"https://www.vielfach-leipzig.de/\" target=\"_blank\">www.vielfach-leipzig.de</a>",
+                "url": "https://www.vielfach-leipzig.de/",
+                "address": "Karl-Liebknecht-Straße 66, 04275 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3731681,
+                    51.3227008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "WAXXi / Leipzig",
                 "image": "putzen.svg",
                 "description": "Haushaltswaren<br>Link: <a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\" target=\"_blank\">www.etsy.com/de/shop/WaxxiShop...</a>",
@@ -8653,6 +9772,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "YEZ / Lindenau",
+                "image": "geschenk.svg",
+                "description": "Interieur<br>Link: <a href=\"https://www.facebook.com/YEZLeipzig-101096705151126/\" target=\"_blank\">www.facebook.com/YEZLeipzig-101096705151126</a>",
+                "url": "https://www.facebook.com/YEZLeipzig-101096705151126/",
+                "address": "Josephstraße 40, 04177 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3347426,
+                    51.3325804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Zest / Connewitz",
                 "image": "pizza.svg",
                 "description": "Restaurant<br>Link: <a href=\"http://www.zest-leipzig.de/\" target=\"_blank\">www.zest-leipzig.de</a>",
@@ -8710,6 +9859,151 @@
                 "coordinates": [
                     12.40631,
                     51.33669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zum Natl / Kleinzschocher",
+                "image": "pizza.svg",
+                "description": "Restaurant<br>Link: <a href=\"http://www.restaurant-zum-natl.de/speisekarte.php\" target=\"_blank\">www.restaurant-zum-natl.de/speisekarte.php</a>",
+                "url": "http://www.restaurant-zum-natl.de/speisekarte.php",
+                "address": "Kurt-Kresse-Straße 33, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Kleinzschocher"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32192,
+                    51.311425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zum Wilden Heinz / Plagwitz",
+                "image": "spirituosen.svg",
+                "description": "Biergarten<br>Link: <a href=\"https://www.facebook.com/ZumWildenHeinz\" target=\"_blank\">www.facebook.com/ZumWildenHeinz</a>",
+                "url": "https://www.facebook.com/ZumWildenHeinz",
+                "address": "Hähnelstraße 22, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "bar",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3335494,
+                    51.3324024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zwille / Connewitz",
+                "image": "spirituosen.svg",
+                "description": "Pub<br>Link: <a href=\"https://www.facebook.com/Zwille-679622925398205/\" target=\"_blank\">www.facebook.com/Zwille-679622925398205</a>",
+                "url": "https://www.facebook.com/Zwille-679622925398205/",
+                "address": "Wolfgang-Heinze-Straße 13, 04277 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Bar"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
+                "tags": [
+                    "bar",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3733529,
+                    51.308729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zwischenfisch / Lindenau",
+                "image": "kaffee.svg",
+                "description": "Werksgalerie & Caféteria<br>Link: <a href=\"https://www.tapetenwerk.de/tapetenwerker/leib-seele/zwischenfisch/\" target=\"_blank\">www.tapetenwerk.de/tapetenwerker/leib-...</a>",
+                "url": "https://www.tapetenwerk.de/tapetenwerker/leib-seele/zwischenfisch/",
+                "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3259715,
+                    51.3339039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zwischenfisch / Lindenau",
+                "image": "kaffee.svg",
+                "description": "Werksgalerie & Caféteria<br>Link: <a href=\"https://www.tapetenwerk.de/tapetenwerker/leib-seele/zwischenfisch/\" target=\"_blank\">www.tapetenwerk.de/tapetenwerker/leib-...</a>",
+                "url": "https://www.tapetenwerk.de/tapetenwerker/leib-seele/zwischenfisch/",
+                "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3259715,
+                    51.3339039
                 ]
             }
         },
@@ -8863,6 +10157,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "eenemeenemiste / Leipzig",
+                "image": "mode.svg",
+                "description": "Stirnbänder<br>Link: <a href=\"https://www.eenemeenemiste.com/\" target=\"_blank\">www.eenemeenemiste.com</a>",
+                "url": "https://www.eenemeenemiste.com/",
+                "address": "Karl-Heine-Straße 85, 04229 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3319136,
+                    51.330734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "el libro / Connewitz",
                 "image": "buecher-magazine-1.svg",
                 "description": "Buchhandlung<br>Link: <a href=\"https://www.genialokal.de/buchhandlung/leipzig/el-libro/\" target=\"_blank\">www.genialokal.de/buchhandlung/leipzi...</a>",
@@ -8887,6 +10210,65 @@
                 "coordinates": [
                     12.3748111,
                     51.3095833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "extrakt. / Reudnitz",
+                "image": "yoga.svg",
+                "description": "Premium cbd & Nahrungsergänzungsmittel<br>Link: <a href=\"https://www.extrakt.me/\" target=\"_blank\">www.extrakt.me</a>",
+                "url": "https://www.extrakt.me/",
+                "address": "Dresdner Str. 62, 04317 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [],
+                "districts": [
+                    "Reudnitz"
+                ],
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4025146,
+                    51.33877649999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "extrakt. / Reudnitz",
+                "image": "yoga.svg",
+                "description": "Premium cbd & Nahrungsergänzungsmittel<br>Link: <a href=\"https://www.extrakt.me/\" target=\"_blank\">www.extrakt.me</a>",
+                "url": "https://www.extrakt.me/",
+                "address": "Dresdner Str. 62, 04317 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges",
+                    "Yoga"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4025146,
+                    51.33877649999999
                 ]
             }
         },
@@ -9340,6 +10722,91 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "piece of pie / Zentrum-Ost",
+                "image": "prints.svg",
+                "description": "Design & Workshops<br>Link: <a href=\"https://www.pieceofpie.de/\" target=\"_blank\">www.pieceofpie.de</a>",
+                "url": "https://www.pieceofpie.de/",
+                "address": "Rosa-Luxemburg-Straße 17a, 04103 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39035,
+                    51.344885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "piece of pie / Zentrum-Ost",
+                "image": "prints.svg",
+                "description": "Design & Workshops<br>Link: <a href=\"https://www.pieceofpie.de/\" target=\"_blank\">www.pieceofpie.de</a>",
+                "url": "https://www.pieceofpie.de/",
+                "address": "Rosa-Luxemburg-Straße 17a, 04103 Leipzig, Germany",
+                "category": "Workshops",
+                "sub-categories": [
+                    "Coaching"
+                ],
+                "districts": [
+                    "Zentrum-Ost"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39035,
+                    51.344885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pk Grafik / Zentrum",
+                "image": "prints.svg",
+                "description": "Illustrationen<br>Link: <a href=\"https://www.instagram.com/pk.grafik/?hl=de\" target=\"_blank\">www.instagram.com/pk.grafik</a>",
+                "url": "https://www.instagram.com/pk.grafik/?hl=de",
+                "address": "Wächterstraße 11, 04107 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "university",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3679259,
+                    51.3333083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "pussy GALORE / Südvorstadt",
                 "image": "mode.svg",
                 "description": "Kleidung & Accessoires<br>Link: <a href=\"https://pussy-galore.biz/2020/03/19/happy-easter-und-supportyourlocals-mit-gutscheinen-zum-fest/\" target=\"_blank\">pussy-galore.biz/2020/03/19/happy-ea...</a>",
@@ -9513,6 +10980,36 @@
                 "coordinates": [
                     12.3729083,
                     51.3406564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "yogarausch / Reudnitz",
+                "image": "yoga.svg",
+                "description": "Yoga<br>Link: <a href=\"https://www.yogarausch.com/\" target=\"_blank\">www.yogarausch.com</a>",
+                "url": "https://www.yogarausch.com/",
+                "address": "Anna-Kuhnow-Straße 16, 04317 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Yoga"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
+                "tags": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.402482,
+                    51.337508
                 ]
             }
         }
