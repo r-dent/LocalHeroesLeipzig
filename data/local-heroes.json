@@ -389,6 +389,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Arepanitas / Plagwitz",
+        "link": "https://www.arepanitas.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Arepanitas",
+        "description": "Streetfood",
+        "location": {
+            "lat": 51.3310521,
+            "lon": 12.3332839,
+            "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "yoga.svg",
         "title": "Ashtanga Yoga Loft / Plagwitz",
         "link": "https://www.ashtangaleipzig.de/deutsch/aktuelles/",
@@ -498,6 +523,31 @@
         "cleanTitle": "Atelier Zündwerk",
         "description": "Illustrationen & Kunstdrucke",
         "location": null
+    },
+    {
+        "image": "optiker.svg",
+        "title": "Augenoptik Buggenhagen / Zentrum-Süd",
+        "link": "http://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/",
+        "sub-categories": [
+            "Optiker"
+        ],
+        "districts": [
+            "Zentrum-Süd"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Augenoptik Buggenhagen",
+        "description": "Optiker",
+        "location": {
+            "lat": 51.3261131,
+            "lon": 12.3740612,
+            "address": "Karl-Liebknecht-Straße 51, 04107 Leipzig, Germany",
+            "tags": [
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "cocktail-1.svg",
@@ -2450,6 +2500,29 @@
         }
     },
     {
+        "image": "musik.svg",
+        "title": "Embrassment / Lindenau",
+        "link": "http://embrassment.de/",
+        "sub-categories": [
+            "Musik & Livestream"
+        ],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "Embrassment",
+        "description": "Blechbläserensemble",
+        "location": {
+            "lat": 51.3313207,
+            "lon": 12.3368563,
+            "address": "Weißenfelser Str. 30, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "yoga.svg",
         "title": "EnergyTwister / Zentrum",
         "link": "http://energytwister.de/",
@@ -2526,7 +2599,7 @@
     },
     {
         "image": "blumenstrauss.svg",
-        "title": "Erna Primulla / Reudnitz",
+        "title": "Erna Primula / Reudnitz",
         "link": "https://www.erna-primula.de/",
         "sub-categories": [
             "Blumen & Pflanzen"
@@ -2535,7 +2608,7 @@
             "Reudnitz"
         ],
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Erna Primulla",
+        "cleanTitle": "Erna Primula",
         "description": "Blumenstudio",
         "location": {
             "lat": 51.32898789999999,
@@ -4563,6 +4636,31 @@
             "address": "Industriestraße 21, 04229 Leipzig, Germany",
             "tags": [
                 "store",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Kosmetik Kunkel / Schleussig",
+        "link": "https://kosmetik-kunkel.de/",
+        "sub-categories": [
+            "Kosmetik"
+        ],
+        "districts": [
+            "Schleußig"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Kosmetik Kunkel",
+        "description": "Kosmetik & Wellness",
+        "location": {
+            "lat": 51.32040199999999,
+            "lon": 12.344067,
+            "address": "Schnorrstraße 10, 04229 Leipzig, Germany",
+            "tags": [
+                "beauty_salon",
+                "spa",
                 "point_of_interest",
                 "establishment"
             ]
@@ -7274,6 +7372,21 @@
         }
     },
     {
+        "image": "schmuck.svg",
+        "title": "SilmaBijoux / Leipzig",
+        "link": "https://www.etsy.com/shop/silmabijoux/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Leipzig"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "SilmaBijoux",
+        "description": "Schmuck",
+        "location": null
+    },
+    {
         "image": "prints.svg",
         "title": "Sina Villinger / Stötteritz",
         "link": "https://sinavillinger.com/",
@@ -7309,6 +7422,31 @@
                 "point_of_interest",
                 "clothing_store",
                 "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "schmuck.svg",
+        "title": "Skadie. / Zentrum-West",
+        "link": "https://www.skadie.de/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Zentrum-West"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Skadie.",
+        "description": "Schmuck",
+        "location": {
+            "lat": 51.3035113,
+            "lon": 12.3790906,
+            "address": "Biedermannstraße 84, 04277 Leipzig, Germany",
+            "tags": [
+                "doctor",
+                "health",
+                "point_of_interest",
                 "establishment"
             ]
         }
@@ -8131,6 +8269,31 @@
         }
     },
     {
+        "image": "coaching.svg",
+        "title": "Tierwohlwerk / Leutzsch",
+        "link": "https://tierwohlwerk.de/",
+        "sub-categories": [
+            "Therapie"
+        ],
+        "districts": [
+            "Leutzsch"
+        ],
+        "category": "Workshops",
+        "cleanTitle": "Tierwohlwerk",
+        "description": "Tierheilpraxis",
+        "location": {
+            "lat": 51.35210379999999,
+            "lon": 12.3073261,
+            "address": "Karl-Schurz-Straße 56, 04179 Leipzig, Germany",
+            "tags": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "interior.svg",
         "title": "Tischkultur / Südvorstadt",
         "link": "http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/",
@@ -8503,6 +8666,31 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "Vitelli / Gohlis",
+        "link": "https://ristorante-vitelli.eatbu.com/?lang=de",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Vitelli",
+        "description": "Restaurant",
+        "location": {
+            "lat": 51.3611458,
+            "lon": 12.3586993,
+            "address": "Möckernsche Str. 21, 04155 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "sport-1.svg",
         "title": "WATCH MI STEP / Südvorstadt",
         "link": "http://www.watchmistep.com/",
@@ -8554,29 +8742,6 @@
         "category": "Workshops",
         "cleanTitle": "WEGZEHRUNG",
         "description": "Achtsamkeitsbasierte Stressbewältigung",
-        "location": {
-            "lat": 51.3177722,
-            "lon": 12.3673071,
-            "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
-            "tags": [
-                "point_of_interest",
-                "establishment"
-            ]
-        }
-    },
-    {
-        "image": "coaching.svg",
-        "title": "WEGZEHRUNG / Südvorstadt",
-        "link": "https://www.wegzehrung.com/mbsr/",
-        "sub-categories": [
-            "Coaching"
-        ],
-        "districts": [
-            "Südvorstadt"
-        ],
-        "category": "Workshops",
-        "cleanTitle": "WEGZEHRUNG",
-        "description": "Stressbewältigung",
         "location": {
             "lat": 51.3177722,
             "lon": 12.3673071,
@@ -9423,6 +9588,31 @@
             "address": "über, Weißenfelser Str. 22 Eingang zum Ladengeschäft:, Zschochersche Str., 04229 Leipzig, Germany",
             "tags": [
                 "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "eis.svg",
+        "title": "likken / Südvorstadt",
+        "link": "https://www.instagram.com/likken_leipzig/?hl=de",
+        "sub-categories": [
+            "Eisdiele"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "likken",
+        "description": "Eisdiele",
+        "location": {
+            "lat": 51.3204432,
+            "lon": 12.3737954,
+            "address": "Karl-Liebknecht-Straße 105, 04275 Leipzig, Germany",
+            "tags": [
                 "food",
                 "point_of_interest",
                 "store",

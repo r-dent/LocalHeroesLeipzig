@@ -453,6 +453,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Arepanitas / Plagwitz",
+                "image": "pizza.svg",
+                "description": "Streetfood<br>Link: <a href=\"https://www.arepanitas.de/\" target=\"_blank\">www.arepanitas.de</a>",
+                "url": "https://www.arepanitas.de/",
+                "address": "Merseburger Str. 25, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3332839,
+                    51.3310521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Ashtanga Yoga Loft / Plagwitz",
                 "image": "yoga.svg",
                 "description": "Yoga<br>Link: <a href=\"https://www.ashtangaleipzig.de/deutsch/aktuelles/\" target=\"_blank\">www.ashtangaleipzig.de/deutsch/aktuelles/...</a>",
@@ -565,6 +595,36 @@
                 "coordinates": [
                     12.3698278,
                     51.3254269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Augenoptik Buggenhagen / Zentrum-Süd",
+                "image": "optiker.svg",
+                "description": "Optiker<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/",
+                "address": "Karl-Liebknecht-Straße 51, 04107 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Optiker"
+                ],
+                "districts": [
+                    "Zentrum-Süd"
+                ],
+                "tags": [
+                    "health",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3740612,
+                    51.3261131
                 ]
             }
         },
@@ -2686,6 +2746,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Embrassment / Lindenau",
+                "image": "musik.svg",
+                "description": "Blechbläserensemble<br>Link: <a href=\"http://embrassment.de/\" target=\"_blank\">embrassment.de</a>",
+                "url": "http://embrassment.de/",
+                "address": "Weißenfelser Str. 30, 04229 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3368563,
+                    51.3313207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "EnergyTwister / Zentrum",
                 "image": "yoga.svg",
                 "description": "Coaching, Kurse, Inspiration<br>Link: <a href=\"http://energytwister.de/\" target=\"_blank\">energytwister.de</a>",
@@ -2776,7 +2864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Erna Primulla / Reudnitz",
+                "name": "Erna Primula / Reudnitz",
                 "image": "blumenstrauss.svg",
                 "description": "Blumenstudio<br>Link: <a href=\"https://www.erna-primula.de/\" target=\"_blank\">www.erna-primula.de</a>",
                 "url": "https://www.erna-primula.de/",
@@ -5138,6 +5226,36 @@
                 "coordinates": [
                     12.3422047,
                     51.324999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kosmetik Kunkel / Schleussig",
+                "image": "yoga.svg",
+                "description": "Kosmetik & Wellness<br>Link: <a href=\"https://kosmetik-kunkel.de/\" target=\"_blank\">kosmetik-kunkel.de</a>",
+                "url": "https://kosmetik-kunkel.de/",
+                "address": "Schnorrstraße 10, 04229 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Kosmetik"
+                ],
+                "districts": [
+                    "Schleußig"
+                ],
+                "tags": [
+                    "beauty_salon",
+                    "spa",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.344067,
+                    51.32040199999999
                 ]
             }
         },
@@ -8192,6 +8310,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Skadie. / Zentrum-West",
+                "image": "schmuck.svg",
+                "description": "Schmuck<br>Link: <a href=\"https://www.skadie.de/\" target=\"_blank\">www.skadie.de</a>",
+                "url": "https://www.skadie.de/",
+                "address": "Biedermannstraße 84, 04277 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Zentrum-West"
+                ],
+                "tags": [
+                    "doctor",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3790906,
+                    51.3035113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Sole Mio / Südost",
                 "image": "pizza.svg",
                 "description": "Restaurant<br>Link: <a href=\"http://www.solemio-leipzig.de/\" target=\"_blank\">www.solemio-leipzig.de</a>",
@@ -9049,6 +9197,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Tierwohlwerk / Leutzsch",
+                "image": "coaching.svg",
+                "description": "Tierheilpraxis<br>Link: <a href=\"https://tierwohlwerk.de/\" target=\"_blank\">tierwohlwerk.de</a>",
+                "url": "https://tierwohlwerk.de/",
+                "address": "Karl-Schurz-Straße 56, 04179 Leipzig, Germany",
+                "category": "Workshops",
+                "sub-categories": [
+                    "Therapie"
+                ],
+                "districts": [
+                    "Leutzsch"
+                ],
+                "tags": [
+                    "doctor",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3073261,
+                    51.35210379999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Tischkultur / Südvorstadt",
                 "image": "interior.svg",
                 "description": "Töpferei<br>Link: <a href=\"http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
@@ -9483,6 +9661,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Vitelli / Gohlis",
+                "image": "pizza.svg",
+                "description": "Restaurant<br>Link: <a href=\"https://ristorante-vitelli.eatbu.com/?lang=de\" target=\"_blank\">ristorante-vitelli.eatbu.com</a>",
+                "url": "https://ristorante-vitelli.eatbu.com/?lang=de",
+                "address": "Möckernsche Str. 21, 04155 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3586993,
+                    51.3611458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "WAXXi / Leipzig",
                 "image": "putzen.svg",
                 "description": "Haushaltswaren<br>Link: <a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\" target=\"_blank\">www.etsy.com/de/shop/WaxxiShop...</a>",
@@ -9520,34 +9728,6 @@
                 "category": "Workshops",
                 "sub-categories": [
                     "Therapie"
-                ],
-                "districts": [
-                    "Südvorstadt"
-                ],
-                "tags": [
-                    "point_of_interest",
-                    "establishment"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3673071,
-                    51.3177722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WEGZEHRUNG / Südvorstadt",
-                "image": "coaching.svg",
-                "description": "Stressbewältigung<br>Link: <a href=\"https://www.wegzehrung.com/mbsr/\" target=\"_blank\">www.wegzehrung.com/mbsr</a>",
-                "url": "https://www.wegzehrung.com/mbsr/",
-                "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
-                "category": "Workshops",
-                "sub-categories": [
-                    "Coaching"
                 ],
                 "districts": [
                     "Südvorstadt"
@@ -10505,6 +10685,36 @@
                 "coordinates": [
                     12.3382197,
                     51.33119139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "likken / Südvorstadt",
+                "image": "eis.svg",
+                "description": "Eisdiele<br>Link: <a href=\"https://www.instagram.com/likken_leipzig/?hl=de\" target=\"_blank\">www.instagram.com/likken_leipzig</a>",
+                "url": "https://www.instagram.com/likken_leipzig/?hl=de",
+                "address": "Karl-Liebknecht-Straße 105, 04275 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Eisdiele"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3737954,
+                    51.3204432
                 ]
             }
         },
