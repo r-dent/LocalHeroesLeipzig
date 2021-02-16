@@ -7435,6 +7435,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Rock-e-Roller | Zentrum-Nord",
+                "image": "rad.svg",
+                "description": "e-Roller<br>Link: <a href=\"https://rock-e-roller.de/\" target=\"_blank\">rock-e-roller.de</a>",
+                "url": "https://rock-e-roller.de/",
+                "address": "Georg-Schumann-Straße 2, 04105 Leipzig, Germany",
+                "category": "Bewegung & Entspannung",
+                "sub-categories": [
+                    "Sonstiges"
+                ],
+                "districts": [
+                    "Zentrum-Nord"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3767485,
+                    51.3576603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Roots / Schleußig",
                 "image": "kaffee.svg",
                 "description": "Pflanzencafé<br>Link: <a href=\"https://www.roots-pflanzencafe.de/gutscheine\" target=\"_blank\">www.roots-pflanzencafe.de/gutscheine</a>",
@@ -8932,6 +8961,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "TIZIANO / Reudnitz",
+                "image": "pizza.svg",
+                "description": "Restaurant<br>Link: <a href=\"http://www.dolci-tiziano.de/\" target=\"_blank\">www.dolci-tiziano.de</a>",
+                "url": "http://www.dolci-tiziano.de/",
+                "address": "Prager Str. 49, 04317 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Reudnitz"
+                ],
+                "tags": [
+                    "cafe",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3981794,
+                    51.33032439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "TONIS /Schleußig",
                 "image": "eis.svg",
                 "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ton...</a>",
@@ -9042,6 +9102,36 @@
                 "coordinates": [
                     12.3936111,
                     51.3797222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "That WOW Kitchen / Zentrum",
+                "image": "pizza.svg",
+                "description": "Pizza & Brot<br>Link: <a href=\"https://thatwowkitchen.com/\" target=\"_blank\">thatwowkitchen.com</a>",
+                "url": "https://thatwowkitchen.com/",
+                "address": "Martin-Luther-Ring 2, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "restaurant",
+                    "night_club",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3745405,
+                    51.3364869
                 ]
             }
         },
@@ -9742,6 +9832,65 @@
                 "coordinates": [
                     12.3673071,
                     51.3177722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weikert Studio / Südvorstadt",
+                "image": "mode.svg",
+                "description": "Manufaktur & Studio<br>Link: <a href=\"https://www.weikertstudio.com/\" target=\"_blank\">www.weikertstudio.com</a>",
+                "url": "https://www.weikertstudio.com/",
+                "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires",
+                    "Kleidung"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3732689,
+                    51.3247609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weikert Studio / Südvorstadt",
+                "image": "mode.svg",
+                "description": "Manufaktur & Studio<br>Link: <a href=\"https://www.weikertstudio.com/\" target=\"_blank\">www.weikertstudio.com</a>",
+                "url": "https://www.weikertstudio.com/",
+                "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "clothing_store",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3732689,
+                    51.3247609
                 ]
             }
         },

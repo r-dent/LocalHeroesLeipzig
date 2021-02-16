@@ -6618,6 +6618,30 @@
         }
     },
     {
+        "image": "rad.svg",
+        "title": "Rock-e-Roller | Zentrum-Nord",
+        "link": "https://rock-e-roller.de/",
+        "sub-categories": [
+            "Sonstiges"
+        ],
+        "districts": [
+            "Zentrum-Nord"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Rock-e-Roller | Zentrum-Nord",
+        "description": "e-Roller",
+        "location": {
+            "lat": 51.3576603,
+            "lon": 12.3767485,
+            "address": "Georg-Schumann-Straße 2, 04105 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
         "title": "Roots / Schleußig",
         "link": "https://www.roots-pflanzencafe.de/gutscheine",
@@ -8004,6 +8028,32 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "TIZIANO / Reudnitz",
+        "link": "http://www.dolci-tiziano.de/",
+        "sub-categories": [
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Reudnitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "TIZIANO",
+        "description": "Restaurant",
+        "location": {
+            "lat": 51.33032439999999,
+            "lon": 12.3981794,
+            "address": "Prager Str. 49, 04317 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "eis.svg",
         "title": "TONIS /Schleußig",
         "link": "http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/",
@@ -8094,6 +8144,31 @@
             "lon": 12.3936111,
             "address": "Zschortauer Str. 60, 04129 Leipzig, Germany",
             "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "That WOW Kitchen / Zentrum",
+        "link": "https://thatwowkitchen.com/",
+        "sub-categories": [],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "That WOW Kitchen",
+        "description": "Pizza & Brot",
+        "location": {
+            "lat": 51.3364869,
+            "lon": 12.3745405,
+            "address": "Martin-Luther-Ring 2, 04109 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "night_club",
+                "bar",
+                "food",
                 "point_of_interest",
                 "establishment"
             ]
@@ -8748,6 +8823,55 @@
             "address": "Brandvorwerkstraße 65, 04275 Leipzig, Germany",
             "tags": [
                 "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "Weikert Studio / Südvorstadt",
+        "link": "https://www.weikertstudio.com/",
+        "sub-categories": [
+            "Accessoires",
+            "Kleidung"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "Weikert Studio",
+        "description": "Manufaktur & Studio",
+        "location": {
+            "lat": 51.3247609,
+            "lon": 12.3732689,
+            "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "mode.svg",
+        "title": "Weikert Studio / Südvorstadt",
+        "link": "https://www.weikertstudio.com/",
+        "sub-categories": [],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Weikert Studio",
+        "description": "Manufaktur & Studio",
+        "location": {
+            "lat": 51.3247609,
+            "lon": 12.3732689,
+            "address": "Karl-Liebknecht-Straße 52, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
                 "establishment"
             ]
         }
