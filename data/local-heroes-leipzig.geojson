@@ -1293,6 +1293,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "CULTON",
+                "image": "geschenk.svg",
+                "description": "fantastische Geschenke<br>Link: <a href=\"http://cultongeschenke.de/\" target=\"_blank\">cultongeschenke.de</a>",
+                "url": "http://cultongeschenke.de/",
+                "address": "Peterssteinweg 9, 04107 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3738726,
+                    51.3335266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Café Cloud / Zentrum-Ost",
                 "image": "kaffee.svg",
                 "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
@@ -1757,8 +1786,8 @@
             "properties": {
                 "name": "Carls Laden / Südvorstadt",
                 "image": "kaffee.svg",
-                "description": "Ladencafé<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/car...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/",
+                "description": "Ladencafé<br>Link: <a href=\"https://www.carlsladen.de/\" target=\"_blank\">www.carlsladen.de</a>",
+                "url": "https://www.carlsladen.de/",
                 "address": "Karl-Liebknecht-Straße 83, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -5025,6 +5054,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Katrin’s Bastelladen",
+                "image": "party.svg",
+                "description": "Bastelbedarf<br>Link: <a href=\"https://www.katrinsbastelladen.de/\" target=\"_blank\">www.katrinsbastelladen.de</a>",
+                "url": "https://www.katrinsbastelladen.de/",
+                "address": "Georg-Schumann-Straße 117, 04155 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Gohlis"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3606056,
+                    51.3634662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kazimir / Plagwitz",
                 "image": "mode.svg",
                 "description": "Second Hand<br>Link: <a href=\"https://www.etsy.com/de/shop/derKazimir\" target=\"_blank\">www.etsy.com/de/shop/derKazimir...</a>",
@@ -5838,6 +5896,37 @@
                 "coordinates": [
                     12.3661403,
                     51.3429996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linden-Buchhandlung",
+                "image": "buecher-magazine-1.svg",
+                "description": "Buchhandlung<br>Link: <a href=\"https://linden-buch.buchkatalog.de/\" target=\"_blank\">linden-buch.buchkatalog.de</a>",
+                "url": "https://linden-buch.buchkatalog.de/",
+                "address": "Arnoldstraße 17, 04299 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Paunsdorf",
+                    "Stötteritz"
+                ],
+                "tags": [
+                    "book_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4192275,
+                    51.32054249999999
                 ]
             }
         },
@@ -10095,6 +10184,58 @@
                 "coordinates": [
                     12.313217,
                     51.3476583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wunschredner Dr. Tobias D. Höhn",
+                "image": "coaching.svg",
+                "description": "Zeremonien und Reden<br>Link: <a href=\"https://www.wunschrede.de/\" target=\"_blank\">www.wunschrede.de</a>",
+                "url": "https://www.wunschrede.de/",
+                "address": "Jägerweg 10, 04425 Taucha, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Taucha"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4687949,
+                    51.3850016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wunschredner Dr. Tobias D. Höhn",
+                "image": "coaching.svg",
+                "description": "Zeremonien und Reden<br>Link: <a href=\"https://www.wunschrede.de/\" target=\"_blank\">www.wunschrede.de</a>",
+                "url": "https://www.wunschrede.de/",
+                "address": "Jägerweg 10, 04425 Taucha, Germany",
+                "category": "Allgemein",
+                "sub-categories": [],
+                "districts": [
+                    "Taucha"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4687949,
+                    51.3850016
                 ]
             }
         },

@@ -1173,6 +1173,30 @@
         "location": null
     },
     {
+        "image": "geschenk.svg",
+        "title": "CULTON",
+        "link": "http://cultongeschenke.de/",
+        "sub-categories": [
+            "Geschenke & Dekoration"
+        ],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "CULTON",
+        "description": "fantastische Geschenke",
+        "location": {
+            "lat": 51.3335266,
+            "lon": 12.3738726,
+            "address": "Peterssteinweg 9, 04107 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffee.svg",
         "title": "Café Cloud / Zentrum-Ost",
         "link": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/",
@@ -1577,7 +1601,7 @@
     {
         "image": "kaffee.svg",
         "title": "Carls Laden / Südvorstadt",
-        "link": "http://local-heroes-leipzig.de/1-essen-trinken/carls-laden-suedvorstadt/",
+        "link": "https://www.carlsladen.de/",
         "sub-categories": [
             "Café"
         ],
@@ -4470,6 +4494,30 @@
         }
     },
     {
+        "image": "party.svg",
+        "title": "Katrin’s Bastelladen",
+        "link": "https://www.katrinsbastelladen.de/",
+        "sub-categories": [
+            "Geschenke & Dekoration"
+        ],
+        "districts": [
+            "Gohlis"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Katrin’s Bastelladen",
+        "description": "Bastelbedarf",
+        "location": {
+            "lat": 51.3634662,
+            "lon": 12.3606056,
+            "address": "Georg-Schumann-Straße 117, 04155 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "mode.svg",
         "title": "Kazimir / Plagwitz",
         "link": "https://www.etsy.com/de/shop/derKazimir",
@@ -5188,6 +5236,32 @@
         "cleanTitle": "Lifestyle Emergency",
         "description": "Stilberatung",
         "location": null
+    },
+    {
+        "image": "buecher-magazine-1.svg",
+        "title": "Linden-Buchhandlung",
+        "link": "https://linden-buch.buchkatalog.de/",
+        "sub-categories": [
+            "Bücher & Magazine"
+        ],
+        "districts": [
+            "Paunsdorf",
+            "Stötteritz"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "Linden-Buchhandlung",
+        "description": "Buchhandlung",
+        "location": {
+            "lat": 51.32054249999999,
+            "lon": 12.4192275,
+            "address": "Arnoldstraße 17, 04299 Leipzig, Germany",
+            "tags": [
+                "book_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "pizza.svg",
@@ -6489,6 +6563,36 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "prints.svg",
+        "title": "RATZEBUFFEL / Kleinzschocher",
+        "link": "https://ratzebuffel.bigcartel.com",
+        "sub-categories": [
+            "Kunstdrucke & Fotografie"
+        ],
+        "districts": [
+            "Kleinzschocher"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "RATZEBUFFEL",
+        "description": "Illustrationen & Drucke",
+        "location": null
+    },
+    {
+        "image": "prints.svg",
+        "title": "RATZEBUFFEL / Kleinzschocher",
+        "link": "https://ratzebuffel.bigcartel.com",
+        "sub-categories": [
+            "Sonstiges"
+        ],
+        "districts": [
+            "Kleinzschocher"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "RATZEBUFFEL",
+        "description": "Illustrationen & Drucke",
+        "location": null
     },
     {
         "image": "buecher-magazine.svg",
@@ -9055,6 +9159,48 @@
             "address": "Rückmarsdorfer Str. 1, 04179 Leipzig, Germany",
             "tags": [
                 "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "coaching.svg",
+        "title": "Wunschredner Dr. Tobias D. Höhn",
+        "link": "https://www.wunschrede.de/",
+        "sub-categories": [],
+        "districts": [
+            "Taucha"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Wunschredner Dr. Tobias D. Höhn",
+        "description": "Zeremonien und Reden",
+        "location": {
+            "lat": 51.3850016,
+            "lon": 12.4687949,
+            "address": "Jägerweg 10, 04425 Taucha, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "coaching.svg",
+        "title": "Wunschredner Dr. Tobias D. Höhn",
+        "link": "https://www.wunschrede.de/",
+        "sub-categories": [],
+        "districts": [
+            "Taucha"
+        ],
+        "category": "Allgemein",
+        "cleanTitle": "Wunschredner Dr. Tobias D. Höhn",
+        "description": "Zeremonien und Reden",
+        "location": {
+            "lat": 51.3850016,
+            "lon": 12.4687949,
+            "address": "Jägerweg 10, 04425 Taucha, Germany",
+            "tags": [
                 "point_of_interest",
                 "establishment"
             ]
