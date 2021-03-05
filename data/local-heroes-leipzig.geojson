@@ -36,8 +36,8 @@
             "properties": {
                 "name": "7 shots coffee / Zentrum-Süd",
                 "image": "kaffeebohne.svg",
-                "description": "Kaffeerösterei<br>Link: <a href=\"http://7shotscoffee.de/\" target=\"_blank\">7shotscoffee.de</a>",
-                "url": "http://7shotscoffee.de/",
+                "description": "Kaffeerösterei<br>Link: <a href=\"https://7shotscoffee.de/\" target=\"_blank\">7shotscoffee.de</a>",
+                "url": "https://7shotscoffee.de/",
                 "address": "Philipp-Rosenthal-Straße 7, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -130,8 +130,8 @@
             "properties": {
                 "name": "ALLOY / Gohlis",
                 "image": "schmuck.svg",
-                "description": "Schmuck<br>Link: <a href=\"http://www.alloy925.de/shop.html\" target=\"_blank\">www.alloy925.de/shop.html</a>",
-                "url": "http://www.alloy925.de/shop.html",
+                "description": "Schmuck<br>Link: <a href=\"https://www.alloy925.de/shop.html\" target=\"_blank\">www.alloy925.de/shop.html</a>",
+                "url": "https://www.alloy925.de/shop.html",
                 "address": "Gerhard-Ellrodt-Straße 24, 04249 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -218,8 +218,8 @@
             "properties": {
                 "name": "Alte Zuckerfabrik / Zentrum",
                 "image": "feinkost.svg",
-                "description": "Hofladen & Weinbar<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/alt...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/",
+                "description": "Hofladen & Weinbar<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/alt...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/alte-zuckerfabrik-zentrum/",
                 "address": "Tschaikowskistraße 14, 04105 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -251,8 +251,8 @@
             "properties": {
                 "name": "Altes Papierlager / Seeburgviertel",
                 "image": "spirituosen.svg",
-                "description": "Wein & Spirituosen<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/alt...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/",
+                "description": "Wein & Spirituosen<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/alt...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/altes-papierlager-seeburgviertel/",
                 "address": "Goldschmidtstraße 31, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -397,8 +397,8 @@
             "properties": {
                 "name": "Antiquariat Thieme / Zentrum",
                 "image": "buecher-magazine-1.svg",
-                "description": "Buchhandlung<br>Link: <a href=\"http://www.fachbuchantiquariat.de/\" target=\"_blank\">www.fachbuchantiquariat.de</a>",
-                "url": "http://www.fachbuchantiquariat.de/",
+                "description": "Buchhandlung<br>Link: <a href=\"https://www.fachbuchantiquariat.de/\" target=\"_blank\">www.fachbuchantiquariat.de</a>",
+                "url": "https://www.fachbuchantiquariat.de/",
                 "address": "Ritterstraße 8-10, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -515,8 +515,8 @@
             "properties": {
                 "name": "Atelier 3Kleider / Lindenau",
                 "image": "mode.svg",
-                "description": "Brautmode<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/",
+                "description": "Brautmode<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/atelier-3kleider-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -603,8 +603,8 @@
             "properties": {
                 "name": "Augenoptik Buggenhagen / Zentrum-Süd",
                 "image": "optiker.svg",
-                "description": "Optiker<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/",
+                "description": "Optiker<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/",
                 "address": "Karl-Liebknecht-Straße 51, 04107 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -694,8 +694,8 @@
             "properties": {
                 "name": "Backstein / Zentrum-Süd",
                 "image": "pizza.svg",
-                "description": "Bäckerei für zeitgenössisches Brot<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/bac...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/",
+                "description": "Bäckerei für zeitgenössisches Brot<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/bac...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/backstein-zentrum-sued/",
                 "address": "Grassistraße 4, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -755,8 +755,8 @@
             "properties": {
                 "name": "Bauhütte / Schleußig",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.bauhuette-gastwirtschaft.de/\" target=\"_blank\">www.bauhuette-gastwirtschaft.de</a>",
-                "url": "http://www.bauhuette-gastwirtschaft.de/",
+                "description": "Restaurant<br>Link: <a href=\"https://www.bauhuette-gastwirtschaft.de/\" target=\"_blank\">www.bauhuette-gastwirtschaft.de</a>",
+                "url": "https://www.bauhuette-gastwirtschaft.de/",
                 "address": "Könneritzstraße 42, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -786,8 +786,8 @@
             "properties": {
                 "name": "Bazar Manufaktur / Zentrum",
                 "image": "feinkost.svg",
-                "description": "Feinkostladen<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/baz...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/",
+                "description": "Feinkostladen<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/baz...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/bazar-manufaktur-zentrum/",
                 "address": "Jahnallee 4, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -877,8 +877,8 @@
             "properties": {
                 "name": "BiBaBo / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Billard, Bar & Bistro<br>Link: <a href=\"http://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
-                "url": "http://bibabo.de/main/",
+                "description": "Billard, Bar & Bistro<br>Link: <a href=\"https://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
+                "url": "https://bibabo.de/main/",
                 "address": "Engertstraße 36, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -909,8 +909,8 @@
             "properties": {
                 "name": "BiBaBo / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Billard, Bar & Bistro<br>Link: <a href=\"http://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
-                "url": "http://bibabo.de/main/",
+                "description": "Billard, Bar & Bistro<br>Link: <a href=\"https://bibabo.de/main/\" target=\"_blank\">bibabo.de/main</a>",
+                "url": "https://bibabo.de/main/",
                 "address": "Engertstraße 36, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -970,8 +970,8 @@
             "properties": {
                 "name": "Bike Department Ost / Südvorstadt",
                 "image": "rad.svg",
-                "description": "Fahrradladen<br>Link: <a href=\"http://www.bdoleipzig.de/\" target=\"_blank\">www.bdoleipzig.de</a>",
-                "url": "http://www.bdoleipzig.de/",
+                "description": "Fahrradladen<br>Link: <a href=\"https://www.bdoleipzig.de/\" target=\"_blank\">www.bdoleipzig.de</a>",
+                "url": "https://www.bdoleipzig.de/",
                 "address": "Karl-Liebknecht-Straße 31, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -1060,8 +1060,8 @@
             "properties": {
                 "name": "Bohemian Kids / Zentrum",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/boh...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/boh...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/bohemian-kids-zentrum/",
                 "address": "Universitätsstraße 18, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1118,8 +1118,8 @@
             "properties": {
                 "name": "Brakers / Connewitz",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/bra...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/bra...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/brakers-connewitz/",
                 "address": "Bornaische Str. 42, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1295,8 +1295,8 @@
             "properties": {
                 "name": "CULTON",
                 "image": "geschenk.svg",
-                "description": "fantastische Geschenke<br>Link: <a href=\"http://cultongeschenke.de/\" target=\"_blank\">cultongeschenke.de</a>",
-                "url": "http://cultongeschenke.de/",
+                "description": "fantastische Geschenke<br>Link: <a href=\"https://cultongeschenke.de/\" target=\"_blank\">cultongeschenke.de</a>",
+                "url": "https://cultongeschenke.de/",
                 "address": "Peterssteinweg 9, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -1324,8 +1324,8 @@
             "properties": {
                 "name": "Café Cloud / Zentrum-Ost",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-cloud-zentrum-ost/",
                 "address": "Sachsenseite 3, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1355,8 +1355,8 @@
             "properties": {
                 "name": "Café ELLA / Kleinzschocher",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-ella-kleinzschocher/",
                 "address": "Hirzelstraße 34, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1419,8 +1419,8 @@
             "properties": {
                 "name": "Café Liese / Connewitz",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-liese-connewitz/",
                 "address": "Scheffelstraße 35, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1480,8 +1480,8 @@
             "properties": {
                 "name": "Café Oink / Plagwitz",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-oink-plagwitz/",
                 "address": "Hinterhaus, Lauchstädter Str. 15A, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1574,8 +1574,8 @@
             "properties": {
                 "name": "Café Trago / Schönefeld",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://cafetrago.de/\" target=\"_blank\">cafetrago.de</a>",
-                "url": "http://cafetrago.de/",
+                "description": "Café<br>Link: <a href=\"https://cafetrago.de/\" target=\"_blank\">cafetrago.de</a>",
+                "url": "https://cafetrago.de/",
                 "address": "Paul-Heyse-Straße 1, 04347 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1605,8 +1605,8 @@
             "properties": {
                 "name": "Café Yellow / Südvorstadt",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/",
                 "address": "Steinstraße 18, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1663,8 +1663,8 @@
             "properties": {
                 "name": "Camolita / Lindenthal",
                 "image": "interior.svg",
-                "description": "Keramik<br>Link: <a href=\"http://www.camolita.de/CAMOLITA-Shop/\" target=\"_blank\">www.camolita.de/CAMOLITA-Shop</a>",
-                "url": "http://www.camolita.de/CAMOLITA-Shop/",
+                "description": "Keramik<br>Link: <a href=\"https://www.camolita.de/CAMOLITA-Shop/\" target=\"_blank\">www.camolita.de/CAMOLITA-Shop</a>",
+                "url": "https://www.camolita.de/CAMOLITA-Shop/",
                 "address": "Äußere Raustraße 22 a, 04158 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -1693,8 +1693,8 @@
             "properties": {
                 "name": "Campus Café Salomon / Zentrum",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/cam...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/cam...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/campus-cafe-salomon-zentrum/",
                 "address": "Salomonstraße 8, 04103 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -1847,8 +1847,8 @@
             "properties": {
                 "name": "Chulo / Schleußig",
                 "image": "pizza.svg",
-                "description": "Nepalesisches Restaurant<br>Link: <a href=\"http://www.chulo-leipzig.de/restaurant.html\" target=\"_blank\">www.chulo-leipzig.de/restaurant.html</a>",
-                "url": "http://www.chulo-leipzig.de/restaurant.html",
+                "description": "Nepalesisches Restaurant<br>Link: <a href=\"https://www.chulo-leipzig.de/restaurant.html\" target=\"_blank\">www.chulo-leipzig.de/restaurant.html</a>",
+                "url": "https://www.chulo-leipzig.de/restaurant.html",
                 "address": "Oeserstraße 33, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2083,8 +2083,8 @@
             "properties": {
                 "name": "Danino Rybak / Gohlis",
                 "image": "sport-1.svg",
-                "description": "Health Coach & Personal Trainer<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
-                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/",
+                "description": "Health Coach & Personal Trainer<br>Link: <a href=\"https://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "https://local-heroes-leipzig.de/4-bewegung-entspannung/danino-rybak-gohlis/",
                 "address": "Kieler Str. 40, 04357 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -2113,8 +2113,8 @@
             "properties": {
                 "name": "Dankbar / Zentrum",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/dan...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/",
+                "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/dan...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/dankbar-zentrum/",
                 "address": "Jahnallee 23, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2144,8 +2144,8 @@
             "properties": {
                 "name": "Der Hutladen / Zentrum",
                 "image": "hut.svg",
-                "description": "Hüte<br>Link: <a href=\"http://www.derhutladen.de/\" target=\"_blank\">www.derhutladen.de</a>",
-                "url": "http://www.derhutladen.de/",
+                "description": "Hüte<br>Link: <a href=\"https://www.derhutladen.de/\" target=\"_blank\">www.derhutladen.de</a>",
+                "url": "https://www.derhutladen.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -2265,8 +2265,8 @@
             "properties": {
                 "name": "Dipasquale / Plagwitz",
                 "image": "feinkost.svg",
-                "description": "Café & Feinkost<br>Link: <a href=\"http://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI\" target=\"_blank\">dipasquale.de</a>",
-                "url": "http://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI",
+                "description": "Café & Feinkost<br>Link: <a href=\"https://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI\" target=\"_blank\">dipasquale.de</a>",
+                "url": "https://dipasquale.de/?fbclid=IwAR3V4ZaC8GRCW529MyqXoZ0D67rotpHtGb0TMFZAtgN68AxN2HnJCcASVlI",
                 "address": "Karl-Heine-Straße 63, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2299,8 +2299,8 @@
             "properties": {
                 "name": "Distillery / Südvorstadt",
                 "image": "musik.svg",
-                "description": "Musik / Club<br>Link: <a href=\"http://www.distillery.de/ex/dates\" target=\"_blank\">www.distillery.de/ex/dates...</a>",
-                "url": "http://www.distillery.de/ex/dates",
+                "description": "Musik / Club<br>Link: <a href=\"https://www.distillery.de/ex/dates\" target=\"_blank\">www.distillery.de/ex/dates...</a>",
+                "url": "https://www.distillery.de/ex/dates",
                 "address": "Kurt-Eisner-Straße 108a, 04275 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -2354,8 +2354,8 @@
             "properties": {
                 "name": "Don Kichot / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Türkische Spezialitäten<br>Link: <a href=\"http://donkichot.de/\" target=\"_blank\">donkichot.de</a>",
-                "url": "http://donkichot.de/",
+                "description": "Türkische Spezialitäten<br>Link: <a href=\"https://donkichot.de/\" target=\"_blank\">donkichot.de</a>",
+                "url": "https://donkichot.de/",
                 "address": "Karl-Heine-Straße 55, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2502,8 +2502,8 @@
             "properties": {
                 "name": "ERNAS Deli / Zentrum-Süd",
                 "image": "pizza.svg",
-                "description": "Bistro<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ern...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/",
+                "description": "Bistro<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ern...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/ernas-deli-zentrum-sued/",
                 "address": "Mahlmannstraße 1, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2562,8 +2562,8 @@
             "properties": {
                 "name": "Eine Welt e.V. / Leipzig",
                 "image": "einkaufen-1.svg",
-                "description": "Fairtrade<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ein...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/",
+                "description": "Fairtrade<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ein...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/eine-welt-e-v-leipzig/",
                 "address": "Bornaische Str. 18, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2655,8 +2655,8 @@
             "properties": {
                 "name": "Eiscafé La winzi / Alt-West",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/eis...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/eis...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/eiscafe-la-winzi-alt-west/",
                 "address": "Südstraße 31, 04178 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2777,8 +2777,8 @@
             "properties": {
                 "name": "Embrassment / Lindenau",
                 "image": "musik.svg",
-                "description": "Blechbläserensemble<br>Link: <a href=\"http://embrassment.de/\" target=\"_blank\">embrassment.de</a>",
-                "url": "http://embrassment.de/",
+                "description": "Blechbläserensemble<br>Link: <a href=\"https://embrassment.de/\" target=\"_blank\">embrassment.de</a>",
+                "url": "https://embrassment.de/",
                 "address": "Weißenfelser Str. 30, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -2805,8 +2805,8 @@
             "properties": {
                 "name": "EnergyTwister / Zentrum",
                 "image": "yoga.svg",
-                "description": "Coaching, Kurse, Inspiration<br>Link: <a href=\"http://energytwister.de/\" target=\"_blank\">energytwister.de</a>",
-                "url": "http://energytwister.de/",
+                "description": "Coaching, Kurse, Inspiration<br>Link: <a href=\"https://energytwister.de/\" target=\"_blank\">energytwister.de</a>",
+                "url": "https://energytwister.de/",
                 "address": "Beethovenstraße 19/5. OG, 04107 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -2864,8 +2864,8 @@
             "properties": {
                 "name": "Erikas Eisdiele / Gohlis",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/eri...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/eri...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/erikas-eisdiele-gohlis/",
                 "address": "Adolph-Menzel-Straße 9, 04157 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -2956,8 +2956,8 @@
             "properties": {
                 "name": "Espresso Zack Zack / Reudnitz",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://www.espressozackzack.de/\" target=\"_blank\">www.espressozackzack.de</a>",
-                "url": "http://www.espressozackzack.de/",
+                "description": "Café<br>Link: <a href=\"https://www.espressozackzack.de/\" target=\"_blank\">www.espressozackzack.de</a>",
+                "url": "https://www.espressozackzack.de/",
                 "address": "Albert-Schweitzer-Straße 2, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -3020,8 +3020,8 @@
             "properties": {
                 "name": "FRAU FISCHER / Schleußig",
                 "image": "mode.svg",
-                "description": "Kleidung & Accessoires<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/",
+                "description": "Kleidung & Accessoires<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/frau-fischer-schleussig/",
                 "address": "Industriestraße, in der FISCHTÜTE 21, 04229 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -3111,8 +3111,8 @@
             "properties": {
                 "name": "Feinschliff / Gohlis",
                 "image": "moebel.svg",
-                "description": "Möbel<br>Link: <a href=\"http://www.feinschliff-leipzig.de/home.html\" target=\"_blank\">www.feinschliff-leipzig.de/home.html</a>",
-                "url": "http://www.feinschliff-leipzig.de/home.html",
+                "description": "Möbel<br>Link: <a href=\"https://www.feinschliff-leipzig.de/home.html\" target=\"_blank\">www.feinschliff-leipzig.de/home.html</a>",
+                "url": "https://www.feinschliff-leipzig.de/home.html",
                 "address": "Eisenacher Str. 72, 04155 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -3229,8 +3229,8 @@
             "properties": {
                 "name": "Flossbros / Connewitz",
                 "image": "mode.svg",
-                "description": "Buttons<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/",
+                "description": "Buttons<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/flossbros-connewitz/",
                 "address": "Bernhard-Göring-Straße 155, 04277 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -3257,8 +3257,8 @@
             "properties": {
                 "name": "Fotostudio80 / Plagwitz",
                 "image": "prints.svg",
-                "description": "Fotolabor & Fotostudio<br>Link: <a href=\"http://www.fotostudio80.de/\" target=\"_blank\">www.fotostudio80.de</a>",
-                "url": "http://www.fotostudio80.de/",
+                "description": "Fotolabor & Fotostudio<br>Link: <a href=\"https://www.fotostudio80.de/\" target=\"_blank\">www.fotostudio80.de</a>",
+                "url": "https://www.fotostudio80.de/",
                 "address": "Walter-Heinze-Straße 2, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -3398,8 +3398,8 @@
             "properties": {
                 "name": "Freischwung / Plagwitz",
                 "image": "blumenstrauss.svg",
-                "description": "Blumenladen<br>Link: <a href=\"http://freischwung.com/\" target=\"_blank\">freischwung.com</a>",
-                "url": "http://freischwung.com/",
+                "description": "Blumenladen<br>Link: <a href=\"https://freischwung.com/\" target=\"_blank\">freischwung.com</a>",
+                "url": "https://freischwung.com/",
                 "address": "Brockhausstraße 22, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -3545,8 +3545,8 @@
             "properties": {
                 "name": "GASTGEBER / Neuschönefeld",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gas...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/",
+                "description": "Restaurant<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gas...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/gastgeber-neuschoenefeld/",
                 "address": "Dresdner Str. 49, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -3664,8 +3664,8 @@
             "properties": {
                 "name": "GarderobeWest / Lindenau",
                 "image": "mode.svg",
-                "description": "Second Hand<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/",
+                "description": "Second Hand<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/garderobewest-lindenau/",
                 "address": "Merseburger Str. 31, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -3842,8 +3842,8 @@
             "properties": {
                 "name": "Gitarrenschule Leipzig / Kleinzschocher",
                 "image": "musik.svg",
-                "description": "Musikschule<br>Link: <a href=\"http://www.gitarrenschuleleipzig.com/\" target=\"_blank\">www.gitarrenschuleleipzig.com</a>",
-                "url": "http://www.gitarrenschuleleipzig.com/",
+                "description": "Musikschule<br>Link: <a href=\"https://www.gitarrenschuleleipzig.com/\" target=\"_blank\">www.gitarrenschuleleipzig.com</a>",
+                "url": "https://www.gitarrenschuleleipzig.com/",
                 "address": "Windorfer Str. 6, 04229 Leipzig, Germany",
                 "category": "Workshops",
                 "sub-categories": [
@@ -3871,8 +3871,8 @@
             "properties": {
                 "name": "Glas & Bohne / Lindenau",
                 "image": "optiker.svg",
-                "description": "Optiker & Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gla...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
+                "description": "Optiker & Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gla...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -3905,8 +3905,8 @@
             "properties": {
                 "name": "Glas & Bohne / Lindenau",
                 "image": "optiker.svg",
-                "description": "Optiker & Café<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gla...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
+                "description": "Optiker & Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/gla...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/glas-bohne-lindenau/",
                 "address": "Endersstraße 6, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -4330,8 +4330,8 @@
             "properties": {
                 "name": "HeLo / Plagwitz",
                 "image": "kaffee.svg",
-                "description": "Café<br>Link: <a href=\"http://helchslorenzo.de/aktuelles/\" target=\"_blank\">helchslorenzo.de/aktuelles</a>",
-                "url": "http://helchslorenzo.de/aktuelles/",
+                "description": "Café<br>Link: <a href=\"https://helchslorenzo.de/aktuelles/\" target=\"_blank\">helchslorenzo.de/aktuelles</a>",
+                "url": "https://helchslorenzo.de/aktuelles/",
                 "address": "04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -4452,8 +4452,8 @@
             "properties": {
                 "name": "HinrichSINNdreißig / Zentrum",
                 "image": "interior.svg",
-                "description": "Antikladen<br>Link: <a href=\"http://www.sinn-30.de/laden/\" target=\"_blank\">www.sinn-30.de/laden</a>",
-                "url": "http://www.sinn-30.de/laden/",
+                "description": "Antikladen<br>Link: <a href=\"https://www.sinn-30.de/laden/\" target=\"_blank\">www.sinn-30.de/laden</a>",
+                "url": "https://www.sinn-30.de/laden/",
                 "address": "Katharinenstraße 11, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -4663,8 +4663,8 @@
             "properties": {
                 "name": "Ilses Erika / Connewitz",
                 "image": "musik.svg",
-                "description": "Musik / Club<br>Link: <a href=\"http://www.ilseserika.de/termine-63.html\" target=\"_blank\">www.ilseserika.de/termine-63.html</a>",
-                "url": "http://www.ilseserika.de/termine-63.html",
+                "description": "Musik / Club<br>Link: <a href=\"https://www.ilseserika.de/termine-63.html\" target=\"_blank\">www.ilseserika.de/termine-63.html</a>",
+                "url": "https://www.ilseserika.de/termine-63.html",
                 "address": "Bernhard-Göring-Straße 152, 04277 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -4782,8 +4782,8 @@
             "properties": {
                 "name": "Jedermann / Altlindenau",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/jed...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/",
+                "description": "Restaurant<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/jed...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/jedermann-altlindenau/",
                 "address": "Georg-Schwarz-Straße 28, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -4969,8 +4969,8 @@
             "properties": {
                 "name": "KAWi KiDS / Südvorstadt",
                 "image": "familie.svg",
-                "description": "Indoorspielplatz<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
-                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/",
+                "description": "Indoorspielplatz<br>Link: <a href=\"https://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "https://local-heroes-leipzig.de/4-bewegung-entspannung/kawi-kids-suedvorstadt/",
                 "address": "August-Bebel-Straße 9, 04275 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -4997,8 +4997,8 @@
             "properties": {
                 "name": "Kartoffelfräulein / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Bistro<br>Link: <a href=\"http://www.kartoffelfraeulein.de/\" target=\"_blank\">www.kartoffelfraeulein.de</a>",
-                "url": "http://www.kartoffelfraeulein.de/",
+                "description": "Bistro<br>Link: <a href=\"https://www.kartoffelfraeulein.de/\" target=\"_blank\">www.kartoffelfraeulein.de</a>",
+                "url": "https://www.kartoffelfraeulein.de/",
                 "address": "Karl-Heine-Straße 68, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -5144,8 +5144,8 @@
             "properties": {
                 "name": "Kickbox Verein / Plagwitz",
                 "image": "sport-1.svg",
-                "description": "Sport<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
-                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/",
+                "description": "Sport<br>Link: <a href=\"https://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "https://local-heroes-leipzig.de/4-bewegung-entspannung/kickbox-verein-plagwitz/",
                 "address": "Naumburger Str. 44, 04229 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -5172,8 +5172,8 @@
             "properties": {
                 "name": "Kleine Hummel / Südvorstadt",
                 "image": "mode.svg",
-                "description": "Kindermode<br>Link: <a href=\"http://www.kleine-hummel.de/\" target=\"_blank\">www.kleine-hummel.de</a>",
-                "url": "http://www.kleine-hummel.de/",
+                "description": "Kindermode<br>Link: <a href=\"https://www.kleine-hummel.de/\" target=\"_blank\">www.kleine-hummel.de</a>",
+                "url": "https://www.kleine-hummel.de/",
                 "address": "Karl-Liebknecht-Straße 105, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -5263,8 +5263,8 @@
             "properties": {
                 "name": "Knalltüte / Schleußig",
                 "image": "prints.svg",
-                "description": "Grafik & Design<br>Link: <a href=\"http://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
-                "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/",
+                "description": "Grafik & Design<br>Link: <a href=\"https://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
+                "url": "https://local-heroes-leipzig.de/3-produkte-kreatives/knalltuete-schleussig/",
                 "address": "Industriestraße 21, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -5524,8 +5524,8 @@
             "properties": {
                 "name": "Kunst & Katze / Plagwitz",
                 "image": "interior.svg",
-                "description": "Kunsthandwerk & Bekleidung<br>Link: <a href=\"http://kunstundkatze.de/\" target=\"_blank\">kunstundkatze.de</a>",
-                "url": "http://kunstundkatze.de/",
+                "description": "Kunsthandwerk & Bekleidung<br>Link: <a href=\"https://kunstundkatze.de/\" target=\"_blank\">kunstundkatze.de</a>",
+                "url": "https://kunstundkatze.de/",
                 "address": "Merseburger Str. 7, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -5554,8 +5554,8 @@
             "properties": {
                 "name": "Kunstkraftwerk / Lindenau",
                 "image": "familie.svg",
-                "description": "Ausstellungs- & Kulturzentrum<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
-                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/",
+                "description": "Ausstellungs- & Kulturzentrum<br>Link: <a href=\"https://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "https://local-heroes-leipzig.de/4-bewegung-entspannung/kunstkraftwerk-lindenau/",
                 "address": "Saalfelder Str. 8, 04179 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -5843,8 +5843,8 @@
             "properties": {
                 "name": "Letterman / Zentrum",
                 "image": "pizza.svg",
-                "description": "Bar & Grill<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/let...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/",
+                "description": "Bar & Grill<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/let...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/letterman-zentrum/",
                 "address": "Gottschedstraße 4, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -6177,8 +6177,8 @@
             "properties": {
                 "name": "Manusso Eis / Plagwitz",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/man...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/man...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/manusso-eis-plagwitz/",
                 "address": "Markranstädter Str. 8 Ecke, Wachsmuthstraße, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -6496,8 +6496,8 @@
             "properties": {
                 "name": "Musikzimmer / Plagwitz",
                 "image": "musik.svg",
-                "description": "Musikalische Begegnungen<br>Link: <a href=\"http://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/musi...</a>",
-                "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/",
+                "description": "Musikalische Begegnungen<br>Link: <a href=\"https://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/musi...</a>",
+                "url": "https://local-heroes-leipzig.de/5-hoeren-lesen/musikzimmer-plagwitz/",
                 "address": "Engertstraße 38, 04229 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -6524,8 +6524,8 @@
             "properties": {
                 "name": "Möbel sucht Farbe / Dölitz",
                 "image": "moebel.svg",
-                "description": "Interieur<br>Link: <a href=\"http://www.moebelsuchtfarbe.de/\" target=\"_blank\">www.moebelsuchtfarbe.de</a>",
-                "url": "http://www.moebelsuchtfarbe.de/",
+                "description": "Interieur<br>Link: <a href=\"https://www.moebelsuchtfarbe.de/\" target=\"_blank\">www.moebelsuchtfarbe.de</a>",
+                "url": "https://www.moebelsuchtfarbe.de/",
                 "address": "Helenenstraße 25, 04279 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -6586,8 +6586,8 @@
             "properties": {
                 "name": "Möbelwerkstatt / Plagwitz",
                 "image": "moebel.svg",
-                "description": "Polstermöbel-Design<br>Link: <a href=\"http://www.moebelwerkstatt.net/\" target=\"_blank\">www.moebelwerkstatt.net</a>",
-                "url": "http://www.moebelwerkstatt.net/",
+                "description": "Polstermöbel-Design<br>Link: <a href=\"https://www.moebelwerkstatt.net/\" target=\"_blank\">www.moebelwerkstatt.net</a>",
+                "url": "https://www.moebelwerkstatt.net/",
                 "address": "Antonienstraße 26, 04229 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -6710,8 +6710,8 @@
             "properties": {
                 "name": "Naturparadies Leipzig / Zentrum",
                 "image": "einkaufen-1.svg",
-                "description": "Bioladen<br>Link: <a href=\"http://naturparadies-leipzig.de/\" target=\"_blank\">naturparadies-leipzig.de</a>",
-                "url": "http://naturparadies-leipzig.de/",
+                "description": "Bioladen<br>Link: <a href=\"https://naturparadies-leipzig.de/\" target=\"_blank\">naturparadies-leipzig.de</a>",
+                "url": "https://naturparadies-leipzig.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -6741,8 +6741,8 @@
             "properties": {
                 "name": "Naturparadies Leipzig / Zentrum",
                 "image": "einkaufen-1.svg",
-                "description": "Bioladen<br>Link: <a href=\"http://naturparadies-leipzig.de/\" target=\"_blank\">naturparadies-leipzig.de</a>",
-                "url": "http://naturparadies-leipzig.de/",
+                "description": "Bioladen<br>Link: <a href=\"https://naturparadies-leipzig.de/\" target=\"_blank\">naturparadies-leipzig.de</a>",
+                "url": "https://naturparadies-leipzig.de/",
                 "address": "Nikolaistraße 6-10, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -6772,8 +6772,8 @@
             "properties": {
                 "name": "Nepomuk / Plagwitz",
                 "image": "cocktail-1.svg",
-                "description": "Bar<br>Link: <a href=\"http://nepomuk-leipzig.de/\" target=\"_blank\">nepomuk-leipzig.de</a>",
-                "url": "http://nepomuk-leipzig.de/",
+                "description": "Bar<br>Link: <a href=\"https://nepomuk-leipzig.de/\" target=\"_blank\">nepomuk-leipzig.de</a>",
+                "url": "https://nepomuk-leipzig.de/",
                 "address": "Zschochersche Str. 57, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -6955,8 +6955,8 @@
             "properties": {
                 "name": "Olea / Lindenau",
                 "image": "pizza.svg",
-                "description": "Mediterranes Restaurant<br>Link: <a href=\"http://olea-restaurant.de/\" target=\"_blank\">olea-restaurant.de</a>",
-                "url": "http://olea-restaurant.de/",
+                "description": "Mediterranes Restaurant<br>Link: <a href=\"https://olea-restaurant.de/\" target=\"_blank\">olea-restaurant.de</a>",
+                "url": "https://olea-restaurant.de/",
                 "address": "Dreilindenstraße 1, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7077,8 +7077,8 @@
             "properties": {
                 "name": "PAN / Lindenau",
                 "image": "pizza.svg",
-                "description": "Mittagstisch<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/pan...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/",
+                "description": "Mittagstisch<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/pan...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/pan-lindenau/",
                 "address": "Lindenauer Markt 21, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7107,8 +7107,8 @@
             "properties": {
                 "name": "PEKAR / Lindenau",
                 "image": "pizza.svg",
-                "description": "Pizzeria<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/pek...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
+                "description": "Pizzeria<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/pek...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
                 "address": "Odermannstraße 11, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7138,8 +7138,8 @@
             "properties": {
                 "name": "PIVO / Connewitz",
                 "image": "cocktail-1.svg",
-                "description": "Bar<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/piv...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/",
+                "description": "Bar<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/piv...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/pivo-connewitz/",
                 "address": "Bornaische Str. 11, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7171,8 +7171,8 @@
             "properties": {
                 "name": "PRETTY PLEASE / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Californian Kitchen<br>Link: <a href=\"http://eatprettyplease.com/\" target=\"_blank\">eatprettyplease.com</a>",
-                "url": "http://eatprettyplease.com/",
+                "description": "Californian Kitchen<br>Link: <a href=\"https://eatprettyplease.com/\" target=\"_blank\">eatprettyplease.com</a>",
+                "url": "https://eatprettyplease.com/",
                 "address": "Zschochersche Str. 82b, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7201,8 +7201,8 @@
             "properties": {
                 "name": "Palmendieb / Lindenau",
                 "image": "schmuck.svg",
-                "description": "Design & Kunsthandwerk<br>Link: <a href=\"http://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
-                "url": "http://palmendieb.design/",
+                "description": "Design & Kunsthandwerk<br>Link: <a href=\"https://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
+                "url": "https://palmendieb.design/",
                 "address": "Georg-Schwarz-Straße 39, 04177 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -7229,8 +7229,8 @@
             "properties": {
                 "name": "Palmendieb / Lindenau",
                 "image": "schmuck.svg",
-                "description": "Design & Kunsthandwerk<br>Link: <a href=\"http://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
-                "url": "http://palmendieb.design/",
+                "description": "Design & Kunsthandwerk<br>Link: <a href=\"https://palmendieb.design/\" target=\"_blank\">palmendieb.design</a>",
+                "url": "https://palmendieb.design/",
                 "address": "Georg-Schwarz-Straße 39, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [],
@@ -7314,6 +7314,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Porzellanatelier Claudia Biehne & Stefan Passig GbR",
+                "image": "interior.svg",
+                "description": "Porzellanatelier<br>Link: <a href=\"http://www.biehne-porzellan.de/\" target=\"_blank\">www.biehne-porzellan.de</a>",
+                "url": "http://www.biehne-porzellan.de/",
+                "address": "Spinnereistraße 7/Haus 10, 04179 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration",
+                    "Möbel & Interieur"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "art_gallery",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3173779,
+                    51.32548240000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Print 4 Kids / Thonberg",
                 "image": "mode.svg",
                 "description": "Kindermode<br>Link: <a href=\"https://print4kids.info/shop/\" target=\"_blank\">print4kids.info/shop</a>",
@@ -7374,8 +7404,8 @@
             "properties": {
                 "name": "ROTORBOOKS / Zentrum",
                 "image": "buecher-magazine.svg",
-                "description": "Buchhandlung<br>Link: <a href=\"http://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/roto...</a>",
-                "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/",
+                "description": "Buchhandlung<br>Link: <a href=\"https://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/roto...</a>",
+                "url": "https://local-heroes-leipzig.de/5-hoeren-lesen/rotorbooks-zentrum/",
                 "address": "Kolonnadenstraße 5 - 7, 04109 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -7732,8 +7762,8 @@
             "properties": {
                 "name": "Röseling / Südvorstadt",
                 "image": "feinkost.svg",
-                "description": "Feinkost & Einzelhandel<br>Link: <a href=\"http://www.roeseling-leipzig.de/\" target=\"_blank\">www.roeseling-leipzig.de</a>",
-                "url": "http://www.roeseling-leipzig.de/",
+                "description": "Feinkost & Einzelhandel<br>Link: <a href=\"https://www.roeseling-leipzig.de/\" target=\"_blank\">www.roeseling-leipzig.de</a>",
+                "url": "https://www.roeseling-leipzig.de/",
                 "address": "Karl-Liebknecht-Straße 58, 04275 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7981,8 +8011,8 @@
             "properties": {
                 "name": "Salumeria / Gohlis",
                 "image": "feinkost.svg",
-                "description": "Feinkostladen<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/sal...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/",
+                "description": "Feinkostladen<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/sal...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/salumeria-gohlis/",
                 "address": "Stockstraße 2, 04155 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -8189,8 +8219,8 @@
             "properties": {
                 "name": "Schreib und Stil / Zentrum",
                 "image": "schreibwaren.svg",
-                "description": "Schreibwaren<br>Link: <a href=\"http://www.schreibundstil.de/\" target=\"_blank\">www.schreibundstil.de</a>",
-                "url": "http://www.schreibundstil.de/",
+                "description": "Schreibwaren<br>Link: <a href=\"https://www.schreibundstil.de/\" target=\"_blank\">www.schreibundstil.de</a>",
+                "url": "https://www.schreibundstil.de/",
                 "address": "Grimmaische Str. 2-4, 04109 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -8368,8 +8398,8 @@
             "properties": {
                 "name": "Shady / Südvorstadt",
                 "image": "pizza.svg",
-                "description": "Café & Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/sha...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/",
+                "description": "Café & Restaurant<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/sha...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/shady-suedvorstadt/",
                 "address": "Körnerstraße 2, 04107 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -8460,8 +8490,8 @@
             "properties": {
                 "name": "Sole Mio / Südost",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.solemio-leipzig.de/\" target=\"_blank\">www.solemio-leipzig.de</a>",
-                "url": "http://www.solemio-leipzig.de/",
+                "description": "Restaurant<br>Link: <a href=\"https://www.solemio-leipzig.de/\" target=\"_blank\">www.solemio-leipzig.de</a>",
+                "url": "https://www.solemio-leipzig.de/",
                 "address": "Hauptstraße 22, 04288 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -8518,8 +8548,8 @@
             "properties": {
                 "name": "Spannkraft / Zentrum",
                 "image": "yoga.svg",
-                "description": "Funktionelles Training<br>Link: <a href=\"http://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
-                "url": "http://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/",
+                "description": "Funktionelles Training<br>Link: <a href=\"https://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/4-bewegung-entspann...</a>",
+                "url": "https://local-heroes-leipzig.de/4-bewegung-entspannung/yoga/spannkraft-zentrum/",
                 "address": "Gottschedstraße 12, 04109 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -8580,8 +8610,8 @@
             "properties": {
                 "name": "Spector Books / Zentrum-Süd",
                 "image": "buecher-magazine-1.svg",
-                "description": "Buchhandlung<br>Link: <a href=\"http://spectorbooks.com/\" target=\"_blank\">spectorbooks.com</a>",
-                "url": "http://spectorbooks.com/",
+                "description": "Buchhandlung<br>Link: <a href=\"https://spectorbooks.com/\" target=\"_blank\">spectorbooks.com</a>",
+                "url": "https://spectorbooks.com/",
                 "address": "Harkortstraße 10, 04107 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -8636,8 +8666,8 @@
             "properties": {
                 "name": "Stahlakademie / Lindenau",
                 "image": "sport-1.svg",
-                "description": "Historisches Fechten<br>Link: <a href=\"http://www.stahlakademie.net/\" target=\"_blank\">www.stahlakademie.net</a>",
-                "url": "http://www.stahlakademie.net/",
+                "description": "Historisches Fechten<br>Link: <a href=\"https://www.stahlakademie.net/\" target=\"_blank\">www.stahlakademie.net</a>",
+                "url": "https://www.stahlakademie.net/",
                 "address": "Str. am Park 5, 04209 Leipzig, Germany",
                 "category": "Bewegung & Entspannung",
                 "sub-categories": [
@@ -8664,8 +8694,8 @@
             "properties": {
                 "name": "Steinbach Keramik / Gohlis",
                 "image": "interior.svg",
-                "description": "Keramik<br>Link: <a href=\"http://www.keramik-steinbach.de/\" target=\"_blank\">www.keramik-steinbach.de</a>",
-                "url": "http://www.keramik-steinbach.de/",
+                "description": "Keramik<br>Link: <a href=\"https://www.keramik-steinbach.de/\" target=\"_blank\">www.keramik-steinbach.de</a>",
+                "url": "https://www.keramik-steinbach.de/",
                 "address": "Menckestraße 44, 04155 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -8753,8 +8783,8 @@
             "properties": {
                 "name": "Stoffpost / Zentrum",
                 "image": "schmuck.svg",
-                "description": "Accessoires<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/",
+                "description": "Accessoires<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/stoffpost-zentrum/",
                 "address": "Altenburger Str. 13, 04275 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -8781,8 +8811,8 @@
             "properties": {
                 "name": "Studio Migotka / Lindenau",
                 "image": "handarbeit.svg",
-                "description": "DIY-Makramee-Kurse<br>Link: <a href=\"http://www.migotka.de/workshops.html\" target=\"_blank\">www.migotka.de/workshops.html</a>",
-                "url": "http://www.migotka.de/workshops.html",
+                "description": "DIY-Makramee-Kurse<br>Link: <a href=\"https://www.migotka.de/workshops.html\" target=\"_blank\">www.migotka.de/workshops.html</a>",
+                "url": "https://www.migotka.de/workshops.html",
                 "address": "Demmeringstraße 23, 04177 Leipzig, Germany",
                 "category": "Workshops",
                 "sub-categories": [
@@ -8902,8 +8932,8 @@
             "properties": {
                 "name": "Süß & Salzig / Plagwitz",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.suesssalzig.de/\" target=\"_blank\">www.suesssalzig.de</a>",
-                "url": "http://www.suesssalzig.de/",
+                "description": "Restaurant<br>Link: <a href=\"https://www.suesssalzig.de/\" target=\"_blank\">www.suesssalzig.de</a>",
+                "url": "https://www.suesssalzig.de/",
                 "address": "Merseburger Str. 44, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -9052,8 +9082,8 @@
             "properties": {
                 "name": "TIZIANO / Reudnitz",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.dolci-tiziano.de/\" target=\"_blank\">www.dolci-tiziano.de</a>",
-                "url": "http://www.dolci-tiziano.de/",
+                "description": "Restaurant<br>Link: <a href=\"https://www.beitiziano.com/\" target=\"_blank\">www.beitiziano.com</a>",
+                "url": "https://www.beitiziano.com/",
                 "address": "Prager Str. 49, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -9083,8 +9113,8 @@
             "properties": {
                 "name": "TONIS /Schleußig",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ton...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/ton...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/tonis-schleussig/",
                 "address": "Könneritzstraße 21, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -9319,8 +9349,8 @@
             "properties": {
                 "name": "Thüringer Hof / Zentrum",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/thu...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/",
+                "description": "Restaurant<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/thu...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/thueringer-hof-zentrum/",
                 "address": "Burgstraße 19, 04109 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -9408,8 +9438,8 @@
             "properties": {
                 "name": "Tischkultur / Südvorstadt",
                 "image": "interior.svg",
-                "description": "Töpferei<br>Link: <a href=\"http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
-                "url": "http://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/",
+                "description": "Töpferei<br>Link: <a href=\"https://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/3-produkte-kreative...</a>",
+                "url": "https://local-heroes-leipzig.de/3-produkte-kreatives/tischkultur-suedvorstadt/",
                 "address": "Karl-Liebknecht-Straße 36, 04107 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -9462,8 +9492,8 @@
             "properties": {
                 "name": "Trattoria Aurelia / Zentrum-Nord",
                 "image": "pizza.svg",
-                "description": "Italienisches Restaurant<br>Link: <a href=\"http://www.trattoria-aurelia.de/abholung.html\" target=\"_blank\">www.trattoria-aurelia.de/abholung.html</a>",
-                "url": "http://www.trattoria-aurelia.de/abholung.html",
+                "description": "Italienisches Restaurant<br>Link: <a href=\"https://www.trattoria-aurelia.de/abholung.html\" target=\"_blank\">www.trattoria-aurelia.de/abholung.html</a>",
+                "url": "https://www.trattoria-aurelia.de/abholung.html",
                 "address": "Pfaffendorfer Str. 26, 04105 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -9691,8 +9721,8 @@
             "properties": {
                 "name": "VARY / Zentrum-Ost",
                 "image": "musik.svg",
-                "description": "Recordshop & Café<br>Link: <a href=\"http://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/vary...</a>",
-                "url": "http://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/",
+                "description": "Recordshop & Café<br>Link: <a href=\"https://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/\" target=\"_blank\">local-heroes-leipzig.de/5-hoeren-lesen/vary...</a>",
+                "url": "https://local-heroes-leipzig.de/5-hoeren-lesen/vary-zentrum-ost/",
                 "address": "Eisenbahnstraße 7, 04315 Leipzig, Germany",
                 "category": "Hören & Lesen",
                 "sub-categories": [
@@ -9724,8 +9754,8 @@
             "properties": {
                 "name": "Vanille & Zimt / Connewitz",
                 "image": "eis.svg",
-                "description": "Eisdiele<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/van...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/",
+                "description": "Eisdiele<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/van...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/vanille-zimt-connewitz/",
                 "address": "Bornaische Str. 102, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -10104,8 +10134,8 @@
             "properties": {
                 "name": "Wonnecitz / Südvorstadt",
                 "image": "spiel.svg",
-                "description": "Spielzeug<br>Link: <a href=\"http://www.wonnecitz.de/\" target=\"_blank\">www.wonnecitz.de</a>",
-                "url": "http://www.wonnecitz.de/",
+                "description": "Spielzeug<br>Link: <a href=\"https://www.wonnecitz.de/\" target=\"_blank\">www.wonnecitz.de</a>",
+                "url": "https://www.wonnecitz.de/",
                 "address": "Karl-Liebknecht-Straße 165, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -10163,8 +10193,8 @@
             "properties": {
                 "name": "Wunderlichs Brillenschmiede / Leutzsch",
                 "image": "optiker.svg",
-                "description": "Optiker<br>Link: <a href=\"http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
-                "url": "http://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/",
+                "description": "Optiker<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
+                "url": "https://local-heroes-leipzig.de/2-kleidung-accessoires/wunderlichs-brillenschmiede-leutzsch/",
                 "address": "Rückmarsdorfer Str. 1, 04179 Leipzig, Germany",
                 "category": "Kleidung & Accessoires",
                 "sub-categories": [
@@ -10274,8 +10304,8 @@
             "properties": {
                 "name": "Zest / Connewitz",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.zest-leipzig.de/\" target=\"_blank\">www.zest-leipzig.de</a>",
-                "url": "http://www.zest-leipzig.de/",
+                "description": "Restaurant<br>Link: <a href=\"https://www.zest-leipzig.de/\" target=\"_blank\">www.zest-leipzig.de</a>",
+                "url": "https://www.zest-leipzig.de/",
                 "address": "Bornaische Str. 54, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -10304,8 +10334,8 @@
             "properties": {
                 "name": "Zu Spät / Reudnitz",
                 "image": "pizza.svg",
-                "description": "Bistro<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/zu-...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/",
+                "description": "Bistro<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/zu-...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/zu-spaet-reudnitz/",
                 "address": "Kippenbergstraße 28, 04317 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -10337,8 +10367,8 @@
             "properties": {
                 "name": "Zum Natl / Kleinzschocher",
                 "image": "pizza.svg",
-                "description": "Restaurant<br>Link: <a href=\"http://www.restaurant-zum-natl.de/speisekarte.php\" target=\"_blank\">www.restaurant-zum-natl.de/speisekarte.php</a>",
-                "url": "http://www.restaurant-zum-natl.de/speisekarte.php",
+                "description": "Restaurant<br>Link: <a href=\"https://www.restaurant-zum-natl.de/speisekarte.php\" target=\"_blank\">www.restaurant-zum-natl.de/speisekarte.php</a>",
+                "url": "https://www.restaurant-zum-natl.de/speisekarte.php",
                 "address": "Kurt-Kresse-Straße 33, 04229 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -10482,8 +10512,8 @@
             "properties": {
                 "name": "anja | fe / Connewitz",
                 "image": "pizza.svg",
-                "description": "Catering<br>Link: <a href=\"http://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/anj...</a>",
-                "url": "http://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/",
+                "description": "Catering<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/anj...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/anja-fe-connewitz/",
                 "address": "Bornaische Str. 49, 04277 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -10747,8 +10777,8 @@
             "properties": {
                 "name": "findelkind / Lindenau",
                 "image": "moebel.svg",
-                "description": "Möbel & Interieur<br>Link: <a href=\"http://findelkind.biz/home.html\" target=\"_blank\">findelkind.biz/home.html</a>",
-                "url": "http://findelkind.biz/home.html",
+                "description": "Möbel & Interieur<br>Link: <a href=\"https://findelkind.biz/home.html\" target=\"_blank\">findelkind.biz/home.html</a>",
+                "url": "https://findelkind.biz/home.html",
                 "address": "Georg-Schwarz-Straße 27, 04177 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [

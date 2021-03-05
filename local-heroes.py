@@ -118,20 +118,38 @@ def locationDistance(coord1, coord2):
 
 def addLocation(entries, updateAll = False, updateNoneEntries = False):
 
-    searchCount = 0
     successCount = 0
+    entriesToUpdate = []
 
+    # Find missing locations.
     for entry in entries:
         if updateAll or not('location' in entry) or (updateNoneEntries and entry['location'] == None):
-            searchCount += 1
+            print('Missing location for:', entry['cleanTitle'])
+            entriesToUpdate.append(entry)
 
-            entry['location'] = findLocationGMaps(entry['title'].replace('/', ''))
+    if len(entriesToUpdate) == 0:
+        return entries
 
-            if entry['location'] != None:
-                successCount += 1
+    print('Need to find locations for %i places' % len(entriesToUpdate))
+    mapsProvider = input('🗺  Which provider should be used? (g = GMaps, o = OpenStreetMaps) ')
 
-    if searchCount > 0:            
-        print('\nFound locations for %i of %i places.\n' % (successCount, searchCount))
+    if mapsProvider != 'g' and mapsProvider != 'o':
+        print('Skipping location search...')
+        return entries
+
+    # Search missing locations.
+    for entry in entriesToUpdate:
+        strippedTitle = entry['title'].replace('/', '')
+        if mapsProvider == 'g':
+            entry['location'] = findLocationGMaps(strippedTitle)
+        else:
+            entry['location'] = findLocationOSM(strippedTitle)
+
+        if entry['location'] != None:
+            successCount += 1
+
+    if len(entriesToUpdate) > 0:            
+        print('\nFound locations for %i of %i places.\n' % (successCount, len(entriesToUpdate)))
         
     return entries
 
