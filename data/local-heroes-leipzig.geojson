@@ -601,6 +601,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Atelier Zündwerk / Leipzig",
+                "image": "prints.svg",
+                "description": "Illustrationen & Kunstdrucke<br>Link: <a href=\"https://www.etsy.com/de/shop/AtelierZuendwerk\" target=\"_blank\">www.etsy.com/de/shop/AtelierZuen...</a>",
+                "url": "https://www.etsy.com/de/shop/AtelierZuendwerk",
+                "address": "Augustusplatz 8, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3804377,
+                    51.3378178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Augenoptik Buggenhagen / Zentrum-Süd",
                 "image": "optiker.svg",
                 "description": "Optiker<br>Link: <a href=\"https://local-heroes-leipzig.de/2-kleidung-accessoires/augenoptik-buggenhagen-zentrum-sued/\" target=\"_blank\">local-heroes-leipzig.de/2-kleidung-accessoi...</a>",
@@ -869,6 +895,34 @@
                 "coordinates": [
                     12.4053,
                     51.33204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beutelshop / Alt-West",
+                "image": "mode.svg",
+                "description": "Schneiderei<br>Link: <a href=\"https://www.beutelshop-kreativ.de/\" target=\"_blank\">www.beutelshop-kreativ.de</a>",
+                "url": "https://www.beutelshop-kreativ.de/",
+                "address": "Kastanienallee 82, 04178 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Alt-West"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2847021,
+                    51.35360679999999
                 ]
             }
         },
@@ -1603,6 +1657,36 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Café Utopia / Plagwitz",
+                "image": "kaffee.svg",
+                "description": "Nachbarschaftscafé<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-utopia-plagwitz/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
+                "url": "https://local-heroes-leipzig.de/1-essen-trinken/cafe-utopia-plagwitz/",
+                "address": "Weißenfelser Str. 65, 04229 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "cafe",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3310734,
+                    51.3287061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Café Yellow / Südvorstadt",
                 "image": "kaffee.svg",
                 "description": "Café<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/cafe-yellow-suedvorstadt/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/caf...</a>",
@@ -1931,6 +2015,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Connewitzer Likörfabrik / Connewitz",
+                "image": "spirituosen.svg",
+                "description": "Spirituosen<br>Link: <a href=\"https://www.likoerfabrik.com/\" target=\"_blank\">www.likoerfabrik.com</a>",
+                "url": "https://www.likoerfabrik.com/",
+                "address": "Karl-Liebknecht-Straße 114, 04275 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Getränke"
+                ],
+                "districts": [
+                    "Connewitz"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730252,
+                    51.3163503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Connewitzer Verlagsbuchhandlung / Connewitz",
                 "image": "buecher-magazine-1.svg",
                 "description": "Buchhandlung<br>Link: <a href=\"https://www.cvb-leipzig.de/bestellungen-shops/\" target=\"_blank\">www.cvb-leipzig.de/bestellungen-shops</a>",
@@ -2019,6 +2131,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Cosmicstarlight / Neustadt-Neuschönefeld",
+                "image": "schmuck.svg",
+                "description": "Design & Fashion<br>Link: <a href=\"https://www.cosmicstarlight.de/\" target=\"_blank\">www.cosmicstarlight.de</a>",
+                "url": "https://www.cosmicstarlight.de/",
+                "address": "Ludwigstraße 16, 04315 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Neustadt-Neuschönefeld"
+                ],
+                "tags": [
+                    "convenience_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3995155,
+                    51.34653059999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Culinaris / Zentrum",
                 "image": "interior.svg",
                 "description": "Küchenaccessoires<br>Link: <a href=\"https://www.culinaris.eu/\" target=\"_blank\">www.culinaris.eu</a>",
@@ -2075,6 +2218,32 @@
                 "coordinates": [
                     12.3799576,
                     51.3229041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DanPop Illustrationen / Leipzig",
+                "image": "prints.svg",
+                "description": "Illustrationen & Kunstdrucke<br>Link: <a href=\"https://www.etsy.com/de/shop/danpopillustration?ref=simple-shop-header-name&listing_id=670554244\" target=\"_blank\">www.etsy.com/de/shop/danpopillus...</a>",
+                "url": "https://www.etsy.com/de/shop/danpopillustration?ref=simple-shop-header-name&listing_id=670554244",
+                "address": "Arndtstraße 9A, 04275 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36692,
+                    51.32391
                 ]
             }
         },
@@ -2531,6 +2700,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ed & Emilia / Leutzsch",
+                "image": "interior.svg",
+                "description": "Keramik<br>Link: <a href=\"https://edundemilia.com/ueber/\" target=\"_blank\">edundemilia.com/ueber</a>",
+                "url": "https://edundemilia.com/ueber/",
+                "address": "Philipp-Reis-Straße 4, 04179 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Leutzsch"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.31347,
+                    51.35523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Edda Schmidt / Gohlis",
                 "image": "pizza.svg",
                 "description": "Catering<br>Link: <a href=\"https://eddaschmidt.de/\" target=\"_blank\">eddaschmidt.de</a>",
@@ -2979,6 +3176,34 @@
                 "coordinates": [
                     12.4042299,
                     51.33278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eva Meitner/ Leipzig",
+                "image": "musik.svg",
+                "description": "Musik & Konzerte<br>Link: <a href=\"https://www.eva-meitner.de/coco\" target=\"_blank\">www.eva-meitner.de/coco</a>",
+                "url": "https://www.eva-meitner.de/coco",
+                "address": "Deutscher Pl. 6, 04103 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Musik & Livestream"
+                ],
+                "districts": [
+                    "Leipzig"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3950214,
+                    51.3211759
                 ]
             }
         },
@@ -3596,6 +3821,35 @@
                 "coordinates": [
                     12.2540549,
                     51.325297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOJO Music / Zentrum-Nord",
+                "image": "coaching.svg",
+                "description": "Vocalcoaching<br>Link: <a href=\"https://www.gojo.me/\" target=\"_blank\">www.gojo.me</a>",
+                "url": "https://www.gojo.me/",
+                "address": "Löhrstraße 15, 04105 Leipzig, Germany",
+                "category": "Workshops",
+                "sub-categories": [
+                    "Coaching"
+                ],
+                "districts": [
+                    "Zentrum-Nord"
+                ],
+                "tags": [
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3730293,
+                    51.3462666
                 ]
             }
         },
@@ -4296,6 +4550,34 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Happy Pop-Up Market / Plagwitz",
+                "image": "interior.svg",
+                "description": "Interieur & Schönes<br>Link: <a href=\"https://www.facebook.com/HappyPopUpMarket/\" target=\"_blank\">www.facebook.com/HappyPopUpMarket</a>",
+                "url": "https://www.facebook.com/HappyPopUpMarket/",
+                "address": "Karl-Heine-Straße 32, 04229 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3385198,
+                    51.332753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Hart & Herzlich / Gohlis",
                 "image": "kaffee.svg",
                 "description": "Pâtisserie<br>Link: <a href=\"https://www.hartundherzlich-patisserie.com/\" target=\"_blank\">www.hartundherzlich-patisserie.com</a>",
@@ -4382,6 +4664,32 @@
                 "coordinates": [
                     12.3330701,
                     51.340742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermoosa / Leipzig",
+                "image": "schmuck.svg",
+                "description": "Schmuck<br>Link: <a href=\"https://www.etsy.com/de/shop/Hermoosa?ref=shop_sugg\" target=\"_blank\">www.etsy.com/de/shop/Hermoosa...</a>",
+                "url": "https://www.etsy.com/de/shop/Hermoosa?ref=shop_sugg",
+                "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3259715,
+                    51.3339039
                 ]
             }
         },
@@ -5636,6 +5944,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Küchenholz Manufaktur / Schleußig",
+                "image": "feinkost.svg",
+                "description": "Kräuterauszüge<br>Link: <a href=\"https://www.kuechenholz-manufaktur.de/\" target=\"_blank\">www.kuechenholz-manufaktur.de</a>",
+                "url": "https://www.kuechenholz-manufaktur.de/",
+                "address": "Bornaische Str. 3D, 04277 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [],
+                "districts": [
+                    "Schleußig"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37487,
+                    51.30953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Küss mich wach / Plagwitz",
                 "image": "mode.svg",
                 "description": "Second Hand<br>Link: <a href=\"https://kuessmichwach.de/?page_id=55\" target=\"_blank\">kuessmichwach.de</a>",
@@ -5749,6 +6083,34 @@
                 "coordinates": [
                     12.3754051,
                     51.339197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Fuxs / Leipzig",
+                "image": "schmuck.svg",
+                "description": "Schmuck<br>Link: <a href=\"https://www.etsy.com/de/shop/lefuxs\" target=\"_blank\">www.etsy.com/de/shop/lefuxs...</a>",
+                "url": "https://www.etsy.com/de/shop/lefuxs",
+                "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [],
+                "tags": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.344878,
+                    51.3264888
                 ]
             }
         },
@@ -7253,6 +7615,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Pappnoptikum / Lindenau",
+                "image": "prints.svg",
+                "description": "Papeterie<br>Link: <a href=\"https://www.pappnoptikum.de/\" target=\"_blank\">www.pappnoptikum.de</a>",
+                "url": "https://www.pappnoptikum.de/",
+                "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Schreibwaren"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3257403,
+                    51.3339375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Pistrada / Lindenau",
                 "image": "rad.svg",
                 "description": "Fahrradladen<br>Link: <a href=\"https://www.pistrada.com/\" target=\"_blank\">www.pistrada.com</a>",
@@ -7368,6 +7759,36 @@
                 "coordinates": [
                     12.4056233,
                     51.3215663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prodotyp / Zentrum",
+                "image": "mode.svg",
+                "description": "Kleidung & Accessoires<br>Link: <a href=\"https://www.prodotypshop.com/shop/\" target=\"_blank\">www.prodotypshop.com/shop</a>",
+                "url": "https://www.prodotypshop.com/shop/",
+                "address": "Chopinstraße 28, 04103 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Zentrum"
+                ],
+                "tags": [
+                    "hospital",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3925783,
+                    51.3433386
                 ]
             }
         },
@@ -7665,6 +8086,32 @@
                 "coordinates": [
                     12.3340381,
                     51.3358492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rotberta / Leipzig",
+                "image": "prints.svg",
+                "description": "Prints & Papeterie<br>Link: <a href=\"https://www.etsy.com/de/shop/Rotberta?ref=search_shop_redirect\" target=\"_blank\">www.etsy.com/de/shop/Rotberta...</a>",
+                "url": "https://www.etsy.com/de/shop/Rotberta?ref=search_shop_redirect",
+                "address": "Katharinenstraße 17, 04109 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Kunstdrucke & Fotografie"
+                ],
+                "districts": [],
+                "tags": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37483,
+                    51.34247
                 ]
             }
         },
@@ -8636,6 +9083,35 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Spirit of Eden / Lindenau",
+                "image": "schmuck.svg",
+                "description": "Mala Ketten<br>Link: <a href=\"https://www.spiritofeden.de/\" target=\"_blank\">www.spiritofeden.de</a>",
+                "url": "https://www.spiritofeden.de/",
+                "address": "Demmeringstraße 57, 04177 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32603,
+                    51.335776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Stadthafen Leipzig / Zentrum",
                 "image": "sport-1.svg",
                 "description": "Bootsverleih<br>Link: <a href=\"https://stadthafen-leipzig.com/index.php/kontakt\" target=\"_blank\">stadthafen-leipzig.com/index.php/kontakt...</a>",
@@ -9251,6 +9727,37 @@
                 "coordinates": [
                     12.3745405,
                     51.3364869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Camelia Bijoux / Südvorstadt",
+                "image": "schmuck.svg",
+                "description": "Schmuck<br>Link: <a href=\"https://thecamelia-bijoux.com/\" target=\"_blank\">thecamelia-bijoux.com</a>",
+                "url": "https://thecamelia-bijoux.com/",
+                "address": "Grimmaische Str, Mädler-Passage 2 - 4, 04109 Leipzig, Germany",
+                "category": "Kleidung & Accessoires",
+                "sub-categories": [
+                    "Accessoires"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": [
+                    "jewelry_store",
+                    "general_contractor",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3762451,
+                    51.3403199
                 ]
             }
         },
@@ -10568,6 +11075,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "bear bowl / Zentrum-West",
+                "image": "pizza.svg",
+                "description": "Foodtrailer & Catering<br>Link: <a href=\"https://bear-bowl.de/\" target=\"_blank\">bear-bowl.de</a>",
+                "url": "https://bear-bowl.de/",
+                "address": "Käthe-Kollwitz-Straße 99, 04109 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Zentrum-West"
+                ],
+                "tags": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3548114,
+                    51.3347663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "calaidoskop Institut & Praxis / Zentrum",
                 "image": "coaching.svg",
                 "description": "systemische Beratung, Therapie & Supervision<br>Link: <a href=\"https://www.calaidoskop.de/\" target=\"_blank\">www.calaidoskop.de</a>",
@@ -10651,6 +11189,36 @@
                 "coordinates": [
                     12.3008795,
                     51.3482269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dienacht Magazine / Lindenau",
+                "image": "buecher-magazine-1.svg",
+                "description": "Mentoring & Buchhandlung<br>Link: <a href=\"https://dienacht-magazine.com/shop\" target=\"_blank\">dienacht-magazine.com/shop</a>",
+                "url": "https://dienacht-magazine.com/shop",
+                "address": "Lindenauer Markt 2, 04177 Leipzig, Germany",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.335467,
+                    51.3369642
                 ]
             }
         },

@@ -522,7 +522,15 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Atelier Zündwerk",
         "description": "Illustrationen & Kunstdrucke",
-        "location": null
+        "location": {
+            "lat": 51.3378178,
+            "lon": 12.3804377,
+            "address": "Augustusplatz 8, 04109 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "optiker.svg",
@@ -781,7 +789,15 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Beutelshop",
         "description": "Schneiderei",
-        "location": null
+        "location": {
+            "lat": 51.35360679999999,
+            "lon": 12.2847021,
+            "address": "Kastanienallee 82, 04178 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "pizza.svg",
@@ -1445,7 +1461,17 @@
         "category": "Essen & Trinken",
         "cleanTitle": "Café Utopia",
         "description": "Nachbarschaftscafé",
-        "location": null
+        "location": {
+            "lat": 51.3287061,
+            "lon": 12.3310734,
+            "address": "Weißenfelser Str. 65, 04229 Leipzig, Germany",
+            "tags": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "kaffee.svg",
@@ -1733,7 +1759,15 @@
         "category": "Essen & Trinken",
         "cleanTitle": "Connewitzer Likörfabrik",
         "description": "Spirituosen",
-        "location": null
+        "location": {
+            "lat": 51.3163503,
+            "lon": 12.3730252,
+            "address": "Karl-Liebknecht-Straße 114, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "buecher-magazine-1.svg",
@@ -1834,7 +1868,18 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Cosmicstarlight",
         "description": "Design & Fashion",
-        "location": null
+        "location": {
+            "lat": 51.34653059999999,
+            "lon": 12.3995155,
+            "address": "Ludwigstraße 16, 04315 Leipzig, Germany",
+            "tags": [
+                "convenience_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "interior.svg",
@@ -1899,7 +1944,15 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "DanPop Illustrationen",
         "description": "Illustrationen & Kunstdrucke",
-        "location": null
+        "location": {
+            "lat": 51.32391,
+            "lon": 12.36692,
+            "address": "Arndtstraße 9A, 04275 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "sport-1.svg",
@@ -2317,7 +2370,15 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Ed & Emilia",
         "description": "Keramik",
-        "location": null
+        "location": {
+            "lat": 51.35523,
+            "lon": 12.31347,
+            "address": "Philipp-Reis-Straße 4, 04179 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "pizza.svg",
@@ -2711,7 +2772,15 @@
         "category": "Hören & Lesen",
         "cleanTitle": "Eva Meitner",
         "description": "Musik & Konzerte",
-        "location": null
+        "location": {
+            "lat": 51.3211759,
+            "lon": 12.3950214,
+            "address": "Deutscher Pl. 6, 04103 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "prints.svg",
@@ -3238,7 +3307,16 @@
         "category": "Workshops",
         "cleanTitle": "GOJO Music",
         "description": "Vocalcoaching",
-        "location": null
+        "location": {
+            "lat": 51.3462666,
+            "lon": 12.3730293,
+            "address": "Löhrstraße 15, 04105 Leipzig, Germany",
+            "tags": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
@@ -3832,7 +3910,15 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Happy Pop-Up Market",
         "description": "Interieur & Schönes",
-        "location": null
+        "location": {
+            "lat": 51.332753,
+            "lon": 12.3385198,
+            "address": "Karl-Heine-Straße 32, 04229 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "kaffee.svg",
@@ -3922,7 +4008,15 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Hermoosa",
         "description": "Schmuck",
-        "location": null
+        "location": {
+            "lat": 51.3339039,
+            "lon": 12.3259715,
+            "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
@@ -4986,7 +5080,15 @@
         "category": "Essen & Trinken",
         "cleanTitle": "Küchenholz Manufaktur",
         "description": "Kräuterauszüge",
-        "location": null
+        "location": {
+            "lat": 51.30953,
+            "lon": 12.37487,
+            "address": "Bornaische Str. 3D, 04277 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
@@ -5098,7 +5200,17 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Le Fuxs",
         "description": "Schmuck",
-        "location": null
+        "location": {
+            "lat": 51.3264888,
+            "lon": 12.344878,
+            "address": "Könneritzstraße 24, 04229 Leipzig, Germany",
+            "tags": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "yoga.svg",
@@ -6448,7 +6560,16 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Pappnoptikum",
         "description": "Papeterie",
-        "location": null
+        "location": {
+            "lat": 51.3339375,
+            "lon": 12.3257403,
+            "address": "Lützner Str. 91, 04177 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "rad.svg",
@@ -6564,7 +6685,17 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Prodotyp",
         "description": "Kleidung & Accessoires",
-        "location": null
+        "location": {
+            "lat": 51.3433386,
+            "lon": 12.3925783,
+            "address": "Chopinstraße 28, 04103 Leipzig, Germany",
+            "tags": [
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "spirituosen.svg",
@@ -6854,7 +6985,15 @@
         "category": "Produkte & Kreatives",
         "cleanTitle": "Rotberta",
         "description": "Prints & Papeterie",
-        "location": null
+        "location": {
+            "lat": 51.34247,
+            "lon": 12.37483,
+            "address": "Katharinenstraße 17, 04109 Leipzig, Germany",
+            "tags": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "taschen-rucksaecke.svg",
@@ -7770,7 +7909,16 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "Spirit of Eden",
         "description": "Mala Ketten",
-        "location": null
+        "location": {
+            "lat": 51.335776,
+            "lon": 12.32603,
+            "address": "Demmeringstraße 57, 04177 Leipzig, Germany",
+            "tags": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "sport-1.svg",
@@ -8316,7 +8464,18 @@
         "category": "Kleidung & Accessoires",
         "cleanTitle": "The Camelia Bijoux",
         "description": "Schmuck",
-        "location": null
+        "location": {
+            "lat": 51.3403199,
+            "lon": 12.3762451,
+            "address": "Grimmaische Str, Mädler-Passage 2 - 4, 04109 Leipzig, Germany",
+            "tags": [
+                "jewelry_store",
+                "general_contractor",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "reisen.svg",
@@ -9505,7 +9664,18 @@
         "category": "Essen & Trinken",
         "cleanTitle": "bear bowl",
         "description": "Foodtrailer & Catering",
-        "location": null
+        "location": {
+            "lat": 51.3347663,
+            "lon": 12.3548114,
+            "address": "Käthe-Kollwitz-Straße 99, 04109 Leipzig, Germany",
+            "tags": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "coaching.svg",
@@ -9594,7 +9764,17 @@
         "category": "Hören & Lesen",
         "cleanTitle": "dienacht Magazine",
         "description": "Mentoring & Buchhandlung",
-        "location": null
+        "location": {
+            "lat": 51.3369642,
+            "lon": 12.335467,
+            "address": "Lindenauer Markt 2, 04177 Leipzig, Germany",
+            "tags": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
     },
     {
         "image": "mode.svg",
