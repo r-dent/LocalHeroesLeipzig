@@ -34,6 +34,62 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "360° WASCHBAR",
+                "image": "kaffee.svg",
+                "description": "Café & Waschsalon<br>Link: <a href=\"https://www.360gradwaschbar.de/\" target=\"_blank\">www.360gradwaschbar.de</a>",
+                "url": "https://www.360gradwaschbar.de/",
+                "address": "Georg-Schwarz-Straße 2, 04177 Leipzig, Germany",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café"
+                ],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "laundry",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3274869,
+                    51.3376612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "360° WASCHBAR",
+                "image": "kaffee.svg",
+                "description": "Café & Waschsalon<br>Link: <a href=\"https://www.360gradwaschbar.de/\" target=\"_blank\">www.360gradwaschbar.de</a>",
+                "url": "https://www.360gradwaschbar.de/",
+                "address": "Georg-Schwarz-Straße 2, 04177 Leipzig, Germany",
+                "category": "Allgemein",
+                "sub-categories": [],
+                "districts": [
+                    "Lindenau"
+                ],
+                "tags": [
+                    "laundry",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3274869,
+                    51.3376612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "7 shots coffee / Zentrum-Süd",
                 "image": "kaffeebohne.svg",
                 "description": "Kaffeerösterei<br>Link: <a href=\"https://7shotscoffee.de/\" target=\"_blank\">7shotscoffee.de</a>",
@@ -1321,8 +1377,8 @@
             "properties": {
                 "name": "Buntgarn / Connewitz",
                 "image": "naehbedarf.svg",
-                "description": "Stickerei<br>Link: <a href=\"https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI\" target=\"_blank\">buntgarnstickerei.business.site</a>",
-                "url": "https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI",
+                "description": "Stickerei<br>Link: <a href=\"https://buntgarn.de/\" target=\"_blank\">buntgarn.de</a>",
+                "url": "https://buntgarn.de/",
                 "address": "Wolfgang-Heinze-Straße 11, 04277 Leipzig, Germany",
                 "category": "Produkte & Kreatives",
                 "sub-categories": [
@@ -4338,6 +4394,36 @@
                 "coordinates": [
                     12.3426026,
                     51.32480990000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Lounge Floristik",
+                "image": "blumenstrauss.svg",
+                "description": "Floristik<br>Link: <a href=\"https://www.green-lounge-floristik.de/\" target=\"_blank\">www.green-lounge-floristik.de</a>",
+                "url": "https://www.green-lounge-floristik.de/",
+                "address": "Waldstraße 57, 04105 Leipzig, Germany",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen"
+                ],
+                "districts": [
+                    "Zentrum-Nord"
+                ],
+                "tags": [
+                    "florist",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3560603,
+                    51.3471104
                 ]
             }
         },
@@ -7705,9 +7791,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Porzellanatelier Claudia Biehne & Stefan Passig GbR",
+                "name": "Porzellanatelier Claudia Biehne",
                 "image": "interior.svg",
-                "description": "Porzellanatelier<br>Link: <a href=\"http://www.biehne-porzellan.de/\" target=\"_blank\">www.biehne-porzellan.de</a>",
+                "description": "Porzellanunikate<br>Link: <a href=\"http://www.biehne-porzellan.de/\" target=\"_blank\">www.biehne-porzellan.de</a>",
                 "url": "http://www.biehne-porzellan.de/",
                 "address": "Spinnereistraße 7/Haus 10, 04179 Leipzig, Germany",
                 "category": "Produkte & Kreatives",

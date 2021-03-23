@@ -25,6 +25,52 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "360° WASCHBAR",
+        "link": "https://www.360gradwaschbar.de/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "360° WASCHBAR",
+        "description": "Café & Waschsalon",
+        "location": {
+            "lat": 51.3376612,
+            "lon": 12.3274869,
+            "address": "Georg-Schwarz-Straße 2, 04177 Leipzig, Germany",
+            "tags": [
+                "laundry",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "360° WASCHBAR",
+        "link": "https://www.360gradwaschbar.de/",
+        "sub-categories": [],
+        "districts": [
+            "Lindenau"
+        ],
+        "category": "Allgemein",
+        "cleanTitle": "360° WASCHBAR",
+        "description": "Café & Waschsalon",
+        "location": {
+            "lat": 51.3376612,
+            "lon": 12.3274869,
+            "address": "Georg-Schwarz-Straße 2, 04177 Leipzig, Germany",
+            "tags": [
+                "laundry",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    },
+    {
         "image": "kaffeebohne.svg",
         "title": "7 shots coffee / Zentrum-Süd",
         "link": "https://7shotscoffee.de/",
@@ -1152,7 +1198,7 @@
     {
         "image": "naehbedarf.svg",
         "title": "Buntgarn / Connewitz",
-        "link": "https://buntgarnstickerei.business.site/?utm_source=gmb&utm_medium=referral&fbclid=IwAR3jKd_xxhWu3WpyeBB10M_Z9rFF8spEookhuRFrg8jS8n38CfR8DSZKuFI",
+        "link": "https://buntgarn.de/",
         "sub-categories": [
             "Nähbedarf"
         ],
@@ -3720,6 +3766,31 @@
             "address": "Industriestraße 19, 04229 Leipzig, Germany",
             "tags": [
                 "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    },
+    {
+        "image": "blumenstrauss.svg",
+        "title": "Green Lounge Floristik",
+        "link": "https://www.green-lounge-floristik.de/",
+        "sub-categories": [
+            "Blumen & Pflanzen"
+        ],
+        "districts": [
+            "Zentrum-Nord"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Green Lounge Floristik",
+        "description": "Floristik",
+        "location": {
+            "lat": 51.3471104,
+            "lon": 12.3560603,
+            "address": "Waldstraße 57, 04105 Leipzig, Germany",
+            "tags": [
+                "florist",
                 "point_of_interest",
                 "store",
                 "establishment"
@@ -6624,7 +6695,7 @@
     },
     {
         "image": "interior.svg",
-        "title": "Porzellanatelier Claudia Biehne & Stefan Passig GbR",
+        "title": "Porzellanatelier Claudia Biehne",
         "link": "http://www.biehne-porzellan.de/",
         "sub-categories": [
             "Geschenke & Dekoration",
@@ -6634,8 +6705,8 @@
             "Plagwitz"
         ],
         "category": "Produkte & Kreatives",
-        "cleanTitle": "Porzellanatelier Claudia Biehne & Stefan Passig GbR",
-        "description": "Porzellanatelier",
+        "cleanTitle": "Porzellanatelier Claudia Biehne",
+        "description": "Porzellanunikate",
         "location": {
             "lat": 51.32548240000001,
             "lon": 12.3173779,
@@ -7267,6 +7338,22 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "mode.svg",
+        "title": "STRUBBE Schneiderei",
+        "link": "https://www.strubbe-schneiderei.de/",
+        "sub-categories": [
+            "Accessoires",
+            "Kleidung"
+        ],
+        "districts": [
+            "Sellerhausen"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "STRUBBE Schneiderei",
+        "description": "Nachhaltige Fahrtenkleidung",
+        "location": null
     },
     {
         "image": "schmuck.svg",
