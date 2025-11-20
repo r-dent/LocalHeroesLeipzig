@@ -1,9 +1,6 @@
-import urllib
-import json
+import urllib.request
 import html
-import ntpath
 import os
-from lxml import etree
 from pyquery import PyQuery as pq # https://pypi.org/project/pyquery/
 
 imagesFolder = 'data/imagecache/'
@@ -50,7 +47,7 @@ def loadLocalsFromWebsite(url):
 
                 image = d('img', element)
                 imagePath = image.attr('src')
-                imageFilename = ntpath.basename(imagePath)
+                imageFilename = os.path.basename(imagePath)
 
                 # Fix for multi-char umlaut.
                 imageFilename = imageFilename.replace('ö', 'oe')
