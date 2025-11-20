@@ -26,7 +26,7 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "360° WASCHBAR",
+        "title": "360° WASCHBAR / Lindenau",
         "link": "https://www.360gradwaschbar.de/",
         "sub-categories": [
             "Café"
@@ -50,7 +50,7 @@
     },
     {
         "image": "kaffee.svg",
-        "title": "360° WASCHBAR",
+        "title": "360° WASCHBAR / Lindenau",
         "link": "https://www.360gradwaschbar.de/",
         "sub-categories": [],
         "districts": [
@@ -949,6 +949,22 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "BlackSpot Kaffee / Plagwitz",
+        "link": "https://www.blackspotkaffee.de/",
+        "sub-categories": [
+            "Café",
+            "Einkaufen"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "BlackSpot Kaffee",
+        "description": "Kaffee",
+        "location": null
+    },
+    {
         "image": "schreibwaren.svg",
         "title": "Blaupause / Connewitz",
         "link": "https://blaupause-leipzig.de/?fbclid=IwAR2xyRhgZsTNm8oD3yaV3kq4TqPAwEjLXCF2P_SfCLDRcPHk179FKXKCxD8",
@@ -997,6 +1013,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "prints.svg",
+        "title": "Blueberry Beach / Plagwitz",
+        "link": "https://blueberrybeach.com/de/home-de/",
+        "sub-categories": [
+            "Kunstdrucke & Fotografie"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Blueberry Beach",
+        "description": "Kunst & Vintage",
+        "location": null
     },
     {
         "image": "kaffee.svg",
@@ -1235,8 +1266,23 @@
         "location": null
     },
     {
+        "image": "schmuck.svg",
+        "title": "COSMICSTARLIGHT / Neustadt-Neuschönefeld",
+        "link": "https://www.cosmicstarlight.de/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Neustadt-Neuschönefeld"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "COSMICSTARLIGHT",
+        "description": "Schmuck",
+        "location": null
+    },
+    {
         "image": "geschenk.svg",
-        "title": "CULTON",
+        "title": "CULTON / Zentrum",
         "link": "https://cultongeschenke.de/",
         "sub-categories": [
             "Geschenke & Dekoration"
@@ -1793,6 +1839,21 @@
         }
     },
     {
+        "image": "kaffee.svg",
+        "title": "Coffee Pearls / Zentrum",
+        "link": "https://coffeepearls.de/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Coffee Pearls",
+        "description": "Café",
+        "location": null
+    },
+    {
         "image": "spirituosen.svg",
         "title": "Connewitzer Likörfabrik / Connewitz",
         "link": "https://www.likoerfabrik.com/",
@@ -1926,6 +1987,22 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "prints.svg",
+        "title": "CrazyJoe & Frizzi Design / Südvorstadt",
+        "link": "http://www.crazyjoeundfrizzidesign.de/",
+        "sub-categories": [
+            "Kunstdrucke & Fotografie",
+            "Schreibwaren"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "CrazyJoe & Frizzi Design",
+        "description": "Postkarten & PosterCrazyJoe & Frizzi Design",
+        "location": null
     },
     {
         "image": "interior.svg",
@@ -2778,6 +2855,35 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Ernährungsblick / Volkmarsdorf",
+        "link": "https://ernaehrungsblick.de/",
+        "sub-categories": [],
+        "districts": [
+            "Neustadt-Neuschönefeld"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Ernährungsblick",
+        "description": "Ernährungstherapie",
+        "location": null
+    },
+    {
+        "image": "pizza.svg",
+        "title": "Ernährungsblick / Volkmarsdorf",
+        "link": "https://ernaehrungsblick.de/",
+        "sub-categories": [
+            "Coaching",
+            "Therapie"
+        ],
+        "districts": [
+            "Neustadt-Neuschönefeld"
+        ],
+        "category": "Workshops",
+        "cleanTitle": "Ernährungsblick",
+        "description": "Ernährungstherapie",
+        "location": null
     },
     {
         "image": "kaffee.svg",
@@ -3774,7 +3880,7 @@
     },
     {
         "image": "blumenstrauss.svg",
-        "title": "Green Lounge Floristik",
+        "title": "Green Lounge Floristik / Zentrum",
         "link": "https://www.green-lounge-floristik.de/",
         "sub-categories": [
             "Blumen & Pflanzen"
@@ -3990,6 +4096,22 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Hara – Deine Fastenwoche / Plagwitz",
+        "link": "https://fasten-in-leipzig.de/",
+        "sub-categories": [
+            "Coaching",
+            "Therapie"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Workshops",
+        "cleanTitle": "Hara – Deine Fastenwoche",
+        "description": "Fastencoaching & Heilpraktikerin",
+        "location": null
     },
     {
         "image": "kaffee.svg",
@@ -4216,6 +4338,25 @@
                 "store",
                 "establishment"
             ]
+        }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "Hotel Seeblick / Südvorstadt",
+        "link": "http://www.hotel-seeblick-leipzig.de/",
+        "sub-categories": [
+            "Café",
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Südvorstadt"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Hotel Seeblick",
+        "description": "Restaurant",
+        "location": {
+            "lat": "51.3171430",
+            "lon": "12.3736912"
         }
     },
     {
@@ -4660,7 +4801,7 @@
     },
     {
         "image": "party.svg",
-        "title": "Katrin’s Bastelladen",
+        "title": "Katrin’s Bastelladen / Gohlis",
         "link": "https://www.katrinsbastelladen.de/",
         "sub-categories": [
             "Geschenke & Dekoration"
@@ -5422,7 +5563,7 @@
     },
     {
         "image": "buecher-magazine-1.svg",
-        "title": "Linden-Buchhandlung",
+        "title": "Linden-Buchhandlung / Stötteritz",
         "link": "https://linden-buch.buchkatalog.de/",
         "sub-categories": [
             "Bücher & Magazine"
@@ -6083,6 +6224,21 @@
         }
     },
     {
+        "image": "schmuck.svg",
+        "title": "NF, Gold- und Silberschmiede / Miltitz",
+        "link": "https://schmuckmanufaktur-leipzig.de/",
+        "sub-categories": [
+            "Accessoires"
+        ],
+        "districts": [
+            "Miltitz"
+        ],
+        "category": "Kleidung & Accessoires",
+        "cleanTitle": "NF, Gold- und Silberschmiede",
+        "description": "Unikatschmuck",
+        "location": null
+    },
+    {
         "image": "mode.svg",
         "title": "NadeLiebe / Dölitz",
         "link": "https://www.etsy.com/de/shop/NadeLiebe",
@@ -6121,6 +6277,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Naturali CBD / Neustadt-Neuschönefeld",
+        "link": "https://www.naturalicbd.de/",
+        "sub-categories": [
+            "Sonstiges"
+        ],
+        "districts": [
+            "Neustadt-Neuschönefeld"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Naturali CBD",
+        "description": "CBD Shop",
+        "location": null
     },
     {
         "image": "moebel.svg",
@@ -6443,6 +6614,24 @@
         }
     },
     {
+        "image": "buecher-magazine-1.svg",
+        "title": "Orinoco Books / Neustadt",
+        "link": "https://www.facebook.com/Orinoco-Books-116873003308873/",
+        "sub-categories": [
+            "Bücher & Magazine"
+        ],
+        "districts": [
+            "Neustadt"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "Orinoco Books",
+        "description": "Buchhandlung",
+        "location": {
+            "lat": "51.3470990",
+            "lon": "12.4004195"
+        }
+    },
+    {
         "image": "cocktail-1.svg",
         "title": "Oskar / Südvorstadt",
         "link": "https://oskar-leipzig.de/gutschein/",
@@ -6498,7 +6687,7 @@
     {
         "image": "pizza.svg",
         "title": "PEKAR / Lindenau",
-        "link": "https://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
+        "link": "https://www.instagram.com/pekarleipzig/",
         "sub-categories": [
             "Restaurant & Bistro"
         ],
@@ -6573,6 +6762,22 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "kaffee.svg",
+        "title": "PURPLE BIKE COFFEE / Plagwitz",
+        "link": "https://purplebikecoffee.de/",
+        "sub-categories": [
+            "Café",
+            "Eisdiele"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "PURPLE BIKE COFFEE",
+        "description": "Kaffee",
+        "location": null
     },
     {
         "image": "schmuck.svg",
@@ -6694,8 +6899,38 @@
         }
     },
     {
+        "image": "buecher-magazine-1.svg",
+        "title": "Polylogue / Plagwitz",
+        "link": "https://www.polylogue-leipzig.com/",
+        "sub-categories": [
+            "Café"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "Polylogue",
+        "description": "Internationaler Buchladen & Café",
+        "location": null
+    },
+    {
+        "image": "buecher-magazine-1.svg",
+        "title": "Polylogue / Plagwitz",
+        "link": "https://www.polylogue-leipzig.com/",
+        "sub-categories": [
+            "Bücher & Magazine"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Hören & Lesen",
+        "cleanTitle": "Polylogue",
+        "description": "Internationaler Buchladen & Café",
+        "location": null
+    },
+    {
         "image": "interior.svg",
-        "title": "Porzellanatelier Claudia Biehne",
+        "title": "Porzellanatelier Claudia Biehne / Plagwitz",
         "link": "http://www.biehne-porzellan.de/",
         "sub-categories": [
             "Geschenke & Dekoration",
@@ -6794,7 +7029,7 @@
     {
         "image": "prints.svg",
         "title": "RATZEBUFFEL / Kleinzschocher",
-        "link": "https://ratzebuffel.bigcartel.com",
+        "link": "https://www.instagram.com/ratzebuffel/",
         "sub-categories": [
             "Kunstdrucke & Fotografie"
         ],
@@ -6809,7 +7044,7 @@
     {
         "image": "prints.svg",
         "title": "RATZEBUFFEL / Kleinzschocher",
-        "link": "https://ratzebuffel.bigcartel.com",
+        "link": "https://www.instagram.com/ratzebuffel/",
         "sub-categories": [
             "Sonstiges"
         ],
@@ -6896,6 +7131,25 @@
                 "store",
                 "establishment"
             ]
+        }
+    },
+    {
+        "image": "blumenstrauss.svg",
+        "title": "Raumzauber-Sinnwelt / Engelsdorf",
+        "link": "https://www.raumzauber-sinnwelt.de/",
+        "sub-categories": [
+            "Blumen & Pflanzen",
+            "Geschenke & Dekoration"
+        ],
+        "districts": [
+            "Engelsdorf"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Raumzauber-Sinnwelt",
+        "description": "Floristik & Dekoration",
+        "location": {
+            "lat": "51.3425016",
+            "lon": "12.4851171"
         }
     },
     {
@@ -7341,7 +7595,7 @@
     },
     {
         "image": "mode.svg",
-        "title": "STRUBBE Schneiderei",
+        "title": "STRUBBE Schneiderei / Sellerhausen",
         "link": "https://www.strubbe-schneiderei.de/",
         "sub-categories": [
             "Accessoires",
@@ -7429,6 +7683,34 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Sanaleo / Zentrum",
+        "link": "https://sanaleo-cbd.de/",
+        "sub-categories": [],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Sanaleo",
+        "description": "Premium CBD-Produkte",
+        "location": null
+    },
+    {
+        "image": "yoga.svg",
+        "title": "Sanaleo / Zentrum",
+        "link": "https://sanaleo-cbd.de/",
+        "sub-categories": [
+            "Sonstiges"
+        ],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Sanaleo",
+        "description": "Premium CBD-Produkte",
+        "location": null
     },
     {
         "image": "schmuck.svg",
@@ -7672,6 +7954,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "familie.svg",
+        "title": "Schärdschher / Miltitz",
+        "link": "https://schaerdschher.jimdosite.com/",
+        "sub-categories": [
+            "Sonstiges"
+        ],
+        "districts": [
+            "Miltitz"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Schärdschher",
+        "description": "Veranstaltungsraum",
+        "location": null
     },
     {
         "image": "buecher-magazine-1.svg",
@@ -8267,6 +8564,36 @@
         }
     },
     {
+        "image": "prints.svg",
+        "title": "Susen Mairif Fotografie / Meusdorf",
+        "link": "https://susen-mairif.de/",
+        "sub-categories": [
+            "Kunstdrucke & Fotografie"
+        ],
+        "districts": [
+            "Meusdorf"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Susen Mairif Fotografie",
+        "description": "Fotografie",
+        "location": null
+    },
+    {
+        "image": "sport-1.svg",
+        "title": "Swingin’Le / Reudnitz",
+        "link": "https://www.swinginle.de/",
+        "sub-categories": [
+            "Tanz"
+        ],
+        "districts": [
+            "Reudnitz"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "Swingin’Le",
+        "description": "Jazz Dance Tanzkurse",
+        "location": null
+    },
+    {
         "image": "pizza.svg",
         "title": "Süß & Salzig / Plagwitz",
         "link": "https://www.suesssalzig.de/",
@@ -8567,7 +8894,7 @@
     {
         "image": "reisen.svg",
         "title": "The Female Explorer / Reudnitz",
-        "link": "https://www.startnext.com/the-female-explorer",
+        "link": "https://thefemaleexplorer.de/",
         "sub-categories": [
             "Reisen"
         ],
@@ -8582,7 +8909,7 @@
     {
         "image": "reisen.svg",
         "title": "The Female Explorer / Reudnitz",
-        "link": "https://www.startnext.com/the-female-explorer",
+        "link": "https://thefemaleexplorer.de/",
         "sub-categories": [
             "Bücher & Magazine"
         ],
@@ -8885,6 +9212,21 @@
         }
     },
     {
+        "image": "interior.svg",
+        "title": "Töpferhof Leipzig / Markranstädt",
+        "link": "https://www.geschenkideen-leipzig.de/",
+        "sub-categories": [
+            "Möbel & Interieur"
+        ],
+        "districts": [
+            "Markranstädt"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Töpferhof Leipzig",
+        "description": "Töpferhof",
+        "location": null
+    },
+    {
         "image": "schmuck.svg",
         "title": "Uhrmacher Hofmann / Mockau",
         "link": "https://www.uhrmacher-leipzig.de/",
@@ -9138,6 +9480,22 @@
                 "point_of_interest",
                 "establishment"
             ]
+        }
+    },
+    {
+        "image": "einkaufen-1.svg",
+        "title": "Voegelei / Neuschönefeld",
+        "link": "https://voegelei.de/shop/",
+        "sub-categories": [],
+        "districts": [
+            "Neuschönefeld"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "Voegelei",
+        "description": "alternativer Sexladen",
+        "location": {
+            "lat": "51.3394498",
+            "lon": "12.4075439"
         }
     },
     {
@@ -9437,7 +9795,7 @@
     },
     {
         "image": "coaching.svg",
-        "title": "Wunschredner Dr. Tobias D. Höhn",
+        "title": "Wunschredner Dr. Tobias D. Höhn / Taucha",
         "link": "https://www.wunschrede.de/",
         "sub-categories": [],
         "districts": [
@@ -9458,7 +9816,7 @@
     },
     {
         "image": "coaching.svg",
-        "title": "Wunschredner Dr. Tobias D. Höhn",
+        "title": "Wunschredner Dr. Tobias D. Höhn / Taucha",
         "link": "https://www.wunschrede.de/",
         "sub-categories": [],
         "districts": [
@@ -9501,6 +9859,21 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "yoga.svg",
+        "title": "YOGA MACHT STARK / Zentrum",
+        "link": "https://yogamachtstark.de/",
+        "sub-categories": [
+            "Yoga"
+        ],
+        "districts": [
+            "Zentrum"
+        ],
+        "category": "Bewegung & Entspannung",
+        "cleanTitle": "YOGA MACHT STARK",
+        "description": "Yogastudio",
+        "location": null
     },
     {
         "image": "schmuck.svg",
@@ -10035,6 +10408,22 @@
         }
     },
     {
+        "image": "pizza.svg",
+        "title": "hayai / Plagwitz",
+        "link": "https://plagwitzer-markthalle.de/hayai/",
+        "sub-categories": [
+            "Café",
+            "Restaurant & Bistro"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Essen & Trinken",
+        "cleanTitle": "hayai",
+        "description": "Mittagstisch & Café",
+        "location": null
+    },
+    {
         "image": "mode.svg",
         "title": "hej.mom. / Zentrum",
         "link": "https://hejmom.com/",
@@ -10206,6 +10595,20 @@
                 "establishment"
             ]
         }
+    },
+    {
+        "image": "interior.svg",
+        "title": "maki pottery / Leipzig",
+        "link": "https://www.etsy.com/de/shop/makipotteryshop",
+        "sub-categories": [
+            "Geschenke & Dekoration",
+            "Möbel & Interieur"
+        ],
+        "districts": [],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "maki pottery",
+        "description": "Keramik",
+        "location": null
     },
     {
         "image": "pizza.svg",
@@ -10501,6 +10904,24 @@
                 "store",
                 "establishment"
             ]
+        }
+    },
+    {
+        "image": "naehbedarf.svg",
+        "title": "sw-handmade / Plagwitz",
+        "link": "https://www.sw-handmade.de/taschen.php",
+        "sub-categories": [
+            "Nähbedarf"
+        ],
+        "districts": [
+            "Plagwitz"
+        ],
+        "category": "Produkte & Kreatives",
+        "cleanTitle": "sw-handmade",
+        "description": "Stoff- & Nähbedarf",
+        "location": {
+            "lat": "51.3320042",
+            "lon": "12.3480855"
         }
     },
     {

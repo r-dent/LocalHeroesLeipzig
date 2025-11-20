@@ -34,7 +34,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "360° WASCHBAR",
+                "name": "360° WASCHBAR / Lindenau",
                 "image": "kaffee.svg",
                 "description": "Café & Waschsalon<br>Link: <a href=\"https://www.360gradwaschbar.de/\" target=\"_blank\">www.360gradwaschbar.de</a>",
                 "url": "https://www.360gradwaschbar.de/",
@@ -63,7 +63,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "360° WASCHBAR",
+                "name": "360° WASCHBAR / Lindenau",
                 "image": "kaffee.svg",
                 "description": "Café & Waschsalon<br>Link: <a href=\"https://www.360gradwaschbar.de/\" target=\"_blank\">www.360gradwaschbar.de</a>",
                 "url": "https://www.360gradwaschbar.de/",
@@ -1403,7 +1403,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "CULTON",
+                "name": "CULTON / Zentrum",
                 "image": "geschenk.svg",
                 "description": "fantastische Geschenke<br>Link: <a href=\"https://cultongeschenke.de/\" target=\"_blank\">cultongeschenke.de</a>",
                 "url": "https://cultongeschenke.de/",
@@ -4400,7 +4400,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Green Lounge Floristik",
+                "name": "Green Lounge Floristik / Zentrum",
                 "image": "blumenstrauss.svg",
                 "description": "Floristik<br>Link: <a href=\"https://www.green-lounge-floristik.de/\" target=\"_blank\">www.green-lounge-floristik.de</a>",
                 "url": "https://www.green-lounge-floristik.de/",
@@ -4936,6 +4936,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hotel Seeblick / Südvorstadt",
+                "image": "kaffee.svg",
+                "description": "Restaurant<br>Link: <a href=\"http://www.hotel-seeblick-leipzig.de/\" target=\"_blank\">www.hotel-seeblick-leipzig.de</a>",
+                "url": "http://www.hotel-seeblick-leipzig.de/",
+                "address": "",
+                "category": "Essen & Trinken",
+                "sub-categories": [
+                    "Café",
+                    "Restaurant & Bistro"
+                ],
+                "districts": [
+                    "Südvorstadt"
+                ],
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.3736912",
+                    "51.3171430"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Human Unfoldment / Markranstädt",
                 "image": "coaching.svg",
                 "description": "Onlinetherapie (20 Minuten gratis)<br>Link: <a href=\"https://human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln/\" target=\"_blank\">human-unfoldment.de/coronakrise-20-minuten-herz-ausschuetteln</a>",
@@ -5448,7 +5474,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Katrin’s Bastelladen",
+                "name": "Katrin’s Bastelladen / Gohlis",
                 "image": "party.svg",
                 "description": "Bastelbedarf<br>Link: <a href=\"https://www.katrinsbastelladen.de/\" target=\"_blank\">www.katrinsbastelladen.de</a>",
                 "url": "https://www.katrinsbastelladen.de/",
@@ -6350,7 +6376,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Linden-Buchhandlung",
+                "name": "Linden-Buchhandlung / Stötteritz",
                 "image": "buecher-magazine-1.svg",
                 "description": "Buchhandlung<br>Link: <a href=\"https://linden-buch.buchkatalog.de/\" target=\"_blank\">linden-buch.buchkatalog.de</a>",
                 "url": "https://linden-buch.buchkatalog.de/",
@@ -7490,6 +7516,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Orinoco Books / Neustadt",
+                "image": "buecher-magazine-1.svg",
+                "description": "Buchhandlung<br>Link: <a href=\"https://www.facebook.com/Orinoco-Books-116873003308873/\" target=\"_blank\">www.facebook.com/Orinoco-Books-116873003308873</a>",
+                "url": "https://www.facebook.com/Orinoco-Books-116873003308873/",
+                "address": "",
+                "category": "Hören & Lesen",
+                "sub-categories": [
+                    "Bücher & Magazine"
+                ],
+                "districts": [
+                    "Neustadt"
+                ],
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.4004195",
+                    "51.3470990"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Oskar / Südvorstadt",
                 "image": "cocktail-1.svg",
                 "description": "Bar & Restaurant<br>Link: <a href=\"https://oskar-leipzig.de/gutschein/\" target=\"_blank\">oskar-leipzig.de/gutschein</a>",
@@ -7555,8 +7606,8 @@
             "properties": {
                 "name": "PEKAR / Lindenau",
                 "image": "pizza.svg",
-                "description": "Pizzeria<br>Link: <a href=\"https://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/\" target=\"_blank\">local-heroes-leipzig.de/1-essen-trinken/pek...</a>",
-                "url": "https://local-heroes-leipzig.de/1-essen-trinken/pekar-lindenau/",
+                "description": "Pizzeria<br>Link: <a href=\"https://www.instagram.com/pekarleipzig/\" target=\"_blank\">www.instagram.com/pekarleipzig</a>",
+                "url": "https://www.instagram.com/pekarleipzig/",
                 "address": "Odermannstraße 11, 04177 Leipzig, Germany",
                 "category": "Essen & Trinken",
                 "sub-categories": [
@@ -7791,7 +7842,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Porzellanatelier Claudia Biehne",
+                "name": "Porzellanatelier Claudia Biehne / Plagwitz",
                 "image": "interior.svg",
                 "description": "Porzellanunikate<br>Link: <a href=\"http://www.biehne-porzellan.de/\" target=\"_blank\">www.biehne-porzellan.de</a>",
                 "url": "http://www.biehne-porzellan.de/",
@@ -7995,6 +8046,32 @@
                 "coordinates": [
                     12.3730857,
                     51.3290448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raumzauber-Sinnwelt / Engelsdorf",
+                "image": "blumenstrauss.svg",
+                "description": "Floristik & Dekoration<br>Link: <a href=\"https://www.raumzauber-sinnwelt.de/\" target=\"_blank\">www.raumzauber-sinnwelt.de</a>",
+                "url": "https://www.raumzauber-sinnwelt.de/",
+                "address": "",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Blumen & Pflanzen",
+                    "Geschenke & Dekoration"
+                ],
+                "districts": [
+                    "Engelsdorf"
+                ],
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.4851171",
+                    "51.3425016"
                 ]
             }
         },
@@ -10493,6 +10570,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Voegelei / Neuschönefeld",
+                "image": "einkaufen-1.svg",
+                "description": "alternativer Sexladen<br>Link: <a href=\"https://voegelei.de/shop/\" target=\"_blank\">voegelei.de/shop</a>",
+                "url": "https://voegelei.de/shop/",
+                "address": "",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [],
+                "districts": [
+                    "Neuschönefeld"
+                ],
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.4075439",
+                    "51.3394498"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "WAXXi / Leipzig",
                 "image": "putzen.svg",
                 "description": "Haushaltswaren<br>Link: <a href=\"https://www.etsy.com/de/shop/WaxxiShop?ref=hdr_user_menu-shop\" target=\"_blank\">www.etsy.com/de/shop/WaxxiShop...</a>",
@@ -10813,7 +10913,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wunschredner Dr. Tobias D. Höhn",
+                "name": "Wunschredner Dr. Tobias D. Höhn / Taucha",
                 "image": "coaching.svg",
                 "description": "Zeremonien und Reden<br>Link: <a href=\"https://www.wunschrede.de/\" target=\"_blank\">www.wunschrede.de</a>",
                 "url": "https://www.wunschrede.de/",
@@ -10839,7 +10939,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wunschredner Dr. Tobias D. Höhn",
+                "name": "Wunschredner Dr. Tobias D. Höhn / Taucha",
                 "image": "coaching.svg",
                 "description": "Zeremonien und Reden<br>Link: <a href=\"https://www.wunschrede.de/\" target=\"_blank\">www.wunschrede.de</a>",
                 "url": "https://www.wunschrede.de/",
@@ -12075,6 +12175,31 @@
                 "coordinates": [
                     12.3697701,
                     51.3352704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sw-handmade / Plagwitz",
+                "image": "naehbedarf.svg",
+                "description": "Stoff- & Nähbedarf<br>Link: <a href=\"https://www.sw-handmade.de/taschen.php\" target=\"_blank\">www.sw-handmade.de/taschen.php</a>",
+                "url": "https://www.sw-handmade.de/taschen.php",
+                "address": "",
+                "category": "Produkte & Kreatives",
+                "sub-categories": [
+                    "Nähbedarf"
+                ],
+                "districts": [
+                    "Plagwitz"
+                ],
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.3480855",
+                    "51.3320042"
                 ]
             }
         },
